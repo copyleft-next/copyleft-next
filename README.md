@@ -24,9 +24,8 @@ existing versions of the GNU GPL.
 The meta-license from the FSF stated in its FAQ shall be the license
 of all versions of the GPL.next license text (to the extent that such
 versions retain any copyrightable material from versions of the GNU
-GPL in which the FSF has asserted copyright), and all patches merged
-in the GPL.next license text. Restated here by me, that meta-license
-is as follows:
+GPL in which the FSF has asserted copyright). Restated here by me,
+that meta-license is as follows:
 
 * Everyone has permission to use terms from any version of the GNU GPL
   (with or without modifications) in creating a new license text,
