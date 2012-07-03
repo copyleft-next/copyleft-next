@@ -6,9 +6,6 @@
 
   "This License" refers to this document.
 
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
-
   "The Program" refers to any copyrightable work licensed under this
 License.  Each licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
@@ -383,16 +380,6 @@ covered work, you indicate your acceptance of this License to do so.
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.  You are not responsible
 for enforcing compliance by third parties with this License.
-
-  An "entity transaction" is a transaction transferring control of an
-organization, or substantially all assets of one, or subdividing an
-organization, or merging organizations.  If propagation of a covered
-work results from an entity transaction, each party to that
-transaction who receives a copy of the work also receives whatever
-licenses to the work the party's predecessor in interest had or could
-give under the previous paragraph, plus a right to possession of the
-Corresponding Source of the work from the predecessor in interest, if
-the predecessor has it or can get it with reasonable efforts.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License.  For example, you may
