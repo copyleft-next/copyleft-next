@@ -182,3 +182,83 @@ The minimum change made here is to remove the explicit authorization
 of additional requirements to preserve author attributions in
 Appropriate Legal Notices.
 
+
+Changes in commit ec7c0b1700bc7a9a6438bcb5921d3983dcb6e377
+----------------------------------------------------------
+
+This commit makes two small changes. First, the explicit definition of
+"License" is deleted as *probably* unnecessary. In GPLv2 the general
+understanding has been that "License" obviously means GPLv2. Now I
+recall that adding an explicit definition of "License" in GPLv3 (which
+I believe was my idea) did serve some purpose other than
+hyperlegalism. I believe it may have been thought desirable to clarify
+that in *any* version of the GNU GPL "this License" cannot mean "some
+or all versions of the GNU GPL" except in the special case of the
+"revised versions" provision. (As a concrete example, consider the
+meaning of GPLv2 section 2 for a "GPLv2 only" program: if "this
+License" could mean "any version of the GPL", it would frustrate the
+expectations of the licensors of the GPLv2-only program that modified
+versions be licensed only under GPLv2 and not GPLv3 or some other
+version.) Perhaps this should be revisited, but there is essentially
+no basis in real-world experience that justifies the specific fear
+that would motivate this clarification. 
+
+Admittedly, the GNU GPL family is unusual as a copyleft license that
+does not have a built-in "or later" clause, and perhaps this feature
+or non-feature (clearly important to many GPL licensors of existing
+projects, such as the Linux kernel) justifies the clarification about
+what "this License" means. Nevertheless in five years of experience of
+GPLv2 no one has attempted to argue that because "License" is
+undefined in GPLv2 one can license out a modified version of a
+GPLv2-only program under GPLv3. (The counterargument to that may be
+that GPLv3 retroactively provides that clarification for GPLv2.) 
+
+The second change in this commit is deletion of the following
+paragraph from the definition of Corresponding Source:
+
+  The Corresponding Source need not include anything that users can
+  regenerate automatically from other parts of the Corresponding
+  Source.
+
+This must have been added for a reason, but I do not believe there is
+any record of it. I do not believe I was involved in discussing or
+drafting it (it seems likely that it was triggered by a stet
+comment). I'm sure there is some technical circumstance in which this
+sentence will provide some marginally desirable clarification of the
+limits of the Corresponding Source requirement but it is not obvious
+to me what such a circumstance would be. The definition of
+Corresponding Source is already complex enough. GPLv2 has gotten by
+without this clarification. In my post-2007 experience of GPLv3 I have
+never been aware of any issue triggering this clause. In the interest
+of brevity and simplification I have decided to delete it. If someone
+would like to explain what it is aimed at and why explicit inclusion
+of the clause is more helpful than hurtful (in making the
+Corresponding Source definition more complex) I'm all ears.
+
+
+Changes in commit 8040c4c8ae013a9b5e24dc8666dd8e6be651ee27
+----------------------------------------------------------
+
+This commit deletes from section 6 the following paragraph:
+
+  A separable portion of the object code, whose source code is
+  excluded from the Corresponding Source as a System Library, need not
+  be included in conveying the object code work.
+
+I do not recall the reason for inclusion of this clause, though it may
+have been a response to a stet comment. It is a bit strange in that
+(the first half of) section 6 is concerned with the requirement to
+convey Corresponding Source triggered by the action of conveying an
+object code version of a work, yet this clause reads like a
+clarification of a requirement to convey the object code. Of course
+there is no requirement to convey object code.
+
+What I suppose this clause must be saying is that where the
+distributor ordinarily would not be conveying the System Library with
+its object code work, the fact that one is required to convey
+Corresponding Source (modulo System Libraries) does not somehow then
+imply a requirement to convey the object code System Library. I can't
+see how anyone would reasonbly think this could possibly be a
+requirement in a provision that says nothing otherwise about a
+requirement to provide object code. 
+
