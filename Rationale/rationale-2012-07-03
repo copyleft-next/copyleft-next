@@ -133,3 +133,52 @@ vehicle is something that should be revisited, but for now it is a
 placeholder that replaces the stewardship role given to the FSF in the
 GNU GPL.
 
+
+Changes in commit 74d0aebe4a19ef7e55e755248b5a5d988d175389
+----------------------------------------------------------
+
+This is a small but significant change and may deserve more expanded
+explanation, but here's a quick one. 
+
+The GPL has a "UI legal notice" provision (often ignored by licensors
+and licensees, the subject of some past controversy in some quarters,
+and the basis of Bradley Kuhn's hack for the original AGPL to boot).
+
+One of the late changes made to GPLv3 was a modification of section 7
+to make GPL-compatible additional terms requiring preservation of
+author attributions not just in source code but in the UI legal notice
+displayed by the running program. This change was the result of
+lobbying by Larry Augustin and John Roberts (the SugarCRM founder, not
+the person who later became Chief Justice of the United States). Those
+familiar with free software legal history will recall that around this
+time there was considerable controversy over the so-called
+"attribution licenses" in use by companies like SugarCRM and
+Socialtext. These licenses, labeled "badgeware licenses" by their
+critics, typically required the licensee to preserve a prominent
+display of the logo of the original commercial licensor even where the
+licensee had made modifications (and even in contexts where compliance
+with such a requirement would not be possible). 
+
+The late change made to GPLv3, accompanied by a factored-out
+definition of "Appropriate Legal Notices", was not intended to allow
+badgeware as then practiced, but rather a lesser form of badgeware:
+for example, preservation of a "powered by" logo (with a requirement
+to link back to the original licensor's website), to the extent it was
+a reasonable author attribution requirement, could be a
+GPLv3-compatible condition, though the FSF never intended to authorize
+licensors to limit discretion over how the licensee might opt to
+comply with the Appropriate Legal Notices requirement, including any
+permitted lesser badgeware requirement. 
+
+A number of companies took advantage of this feature of GPLv3 (and
+AGPLv3). It is now clear that it was a policy error to authorize
+limited badgeware. It is my impression that companies have tended to
+abuse this feature, imposing requirements more restrictive than I
+believe the FSF ever intended, and it is not even entirely clear that
+the logo preservation requirements are truly reasonable author
+attribution requirements.
+
+The minimum change made here is to remove the explicit authorization
+of additional requirements to preserve author attributions in
+Appropriate Legal Notices.
+
