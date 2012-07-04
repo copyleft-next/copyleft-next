@@ -75,14 +75,14 @@ concern as not being a real-world problem, and perhaps unnecessary
 given the automatic licensing feature of the GPL but at any rate I
 consider a simple conventional assignability provision preferable to
 the existing entity transactions provision, which seems more complex
-than necessary. It is not clear how the "right to posssession of the
+than necessary. It is not clear how the "right to possession of the
 Corresponding Source" is to be enforced (it might be simpler to say
 that an entity transaction is a form of conveying, and in fact I seem
-to recall some interim draft language taking such an approach). In any
-case, this is yet another provision that finds no counterpart in other
-major free software licenses. In the interest of greater brevity it
-should be deleted, but the issue of assignment in the M&A context
-should perhaps be revisited at a later time.
+to recall some interim GPLv3 draft language taking such an
+approach). In any case, this is yet another provision that finds no
+counterpart in other major free software licenses. In the interest of
+greater brevity it should be deleted, but the issue of assignment in
+the M&A context should perhaps be revisited at a later time.
 
 
 Changes in commit 8f26ef9c5cb83bab1d6212fe728e388dab207caf
@@ -93,11 +93,11 @@ bore the heading "Liberty or Death for the Program" in the initial
 public draft of GPLv3. The heading was, I believe, devised by
 RMS. This wonderful title was, I think, thought to be too
 radical-sounding or something (perhaps a vendor or commercial user
-raised such a concern during the GPLv3 drafting process), and so the
-drafters changed it to "No Surrender of Others' Freedom". The original
-heading is clearly superior. I have myself taken to calling this
-provision the "liberty-or-death clause" and such terminology has to
-some degree caught on with others.
+raised such a concern early on during the GPLv3 drafting process), and
+so the drafters changed it to "No Surrender of Others' Freedom". The
+original heading is clearly superior. I have myself taken to calling
+this provision the "liberty-or-death clause" and such terminology has
+to some degree caught on with others.
 
 In fairness, I recall that RMS also made the point that under this
 provision the Program does not actually "die"; rather, particular
@@ -108,6 +108,28 @@ lamentable primness.
 I have therefore restored the original heading.
 
 
+Changes in commit 6de49161ab740efd2d7fe58786a1c2ec8bd7c76c
+----------------------------------------------------------
+
+This commit deletes the sentence, originating in some interim GPLv3
+draft at the request of one (or possibly more than one) commercial
+entity, clarifying that licensees can be individuals or
+organizations. No other mainstream free software license, to my
+knowledge, has seen the need to make this obvious point. Of course a
+licensee can be organizational. Moreover, I have never encountered any
+misconception in the real world to the effect that somehow GPL
+licensees can only be natural persons. Indeed, any license that
+prohibited organizations from being licensees would not be a free
+software (or open source) license. 
 
 
+Changes in commit 837a2f1c5a0e0f89d28b36dc60dc077ccb83b432
+----------------------------------------------------------
+
+This commit explicitly leaves "License Steward" undefined rather than
+making it refer, with seeming and unintended egomaniacism, to Richard
+Fontana.  Whether it is even necessary to use the "License Steward"
+vehicle is something that should be revisited, but for now it is a
+placeholder that replaces the stewardship role given to the FSF in the
+GNU GPL.
 
