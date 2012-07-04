@@ -1,0 +1,113 @@
+Initial changes (commit 19b049eeb84adb371c59861db5dbfc5879e3453a)
+-----------------------------------------------------------------
+
+I deleted the Preamble of the GNU GPLv3. This was necessary because
+the FSF has stated this as a requirement for permission to create
+derivatives of the GNU GPL. I could write an alternative Preamble, but
+for the moment I am inclined to think that GPL.next does not need
+one. 
+
+The GNU GPL Preamble (in its various versions) is an inspiring and
+important political statement and also functions a bit similarly to
+the so-called "human-readable code" counterparts to Creative Commons
+licenses in providing a basic summary description of the license (or
+at any rate that is one intention behind the GNU GPL
+Preamble). However, even if one thinks a license summary is valuable,
+it may be better as a separate document (the Creative Commons
+approach).
+
+As for the political aspect of the Preamble, there is something
+problematic about this in that it expresses the viewpoint of the FSF
+and its sympathizers, but most likely does not quite speak for a
+substantial number (perhaps the majority) of GPL licensors (and
+licensees). Developers who disagree with the FSF on certain policy
+issues (but who favor or potentially favor, strong copyleft) may find
+a Preamble-less GPL less alienating.
+
+The FSF also requires GNU GPL derivatives to reword the "How to Apply"
+appendix and remove references to GNU, if the appendix is preserved at
+all. I decided simply to delete it, particularly in view of the length
+of the license document. Instructions on how to apply the license may
+be useful but they need not be a part of the license document. Certain
+interim public drafts of the GNU GPLv3 removed the appendix for this
+reason, though it was later restored.
+
+Section 13 of the GNU GPLv3 and a corresponding paragraph in section
+13 of the GNU AGPLv3 provide for cross-compatibility of these two
+licenses. I have replaced this section with a quickly-drafted sentence
+that says that GPL.next can be relicensed under any version of the GNU
+GPL or GNU AGPL (thus making it GNU GPL-compatible, which addresses
+one of the FSF's stated concerns regarding GPL derivatives). 
+
+I substituted "License Steward" for the references to the FSF in
+section 14, and (awkwardly, I later decided) declared myself to be the
+License Steward "for the time being". 
+
+
+Changes in commit 7a7e05a55e867ed37cc7a0b94e2132bad150d050
+----------------------------------------------------------
+
+The README.md originally stated that the FSF's "meta-license" for the
+GNU GPL text would also be the license for patches to GPL.next. I
+later realized that this won't make sense for the typical patch. 
+
+
+Changes in commit a25b56f365123f52c3158bca040c990264556e6b
+----------------------------------------------------------
+
+In 2006 lawyers for Sun Microsystems suggested adding an explicit
+definition of "copyright" that would encompass not just conventional
+copyright law but also laws like the US Semiconductor Chip Protection
+Act (which is something of a hybrid of copyright and patent law). The
+application of the GNU GPLv3 to semiconductor integrated circuit
+layouts proved to be an unimportant use case. No other
+widely-encountered free software license attempts explicitly to apply
+its provisions beyond copyright to such "copyright-like laws". In the
+interest of brevity I have therefore deleted this definition.
+
+I have deleted the middle paragraph of section 10, the "entity
+transactions" provision. This originated in a provision drafted by
+Eben Moglen as an alternative to a suggestion by Mark Radcliffe that
+GPLv3 have an explicit assignability provision to address a concern
+believed by some lawyers to arise in corporate acquisitions involving
+GPL-licensed software assets. I am currently inclined to regard Mark's
+concern as not being a real-world problem, and perhaps unnecessary
+given the automatic licensing feature of the GPL but at any rate I
+consider a simple conventional assignability provision preferable to
+the existing entity transactions provision, which seems more complex
+than necessary. It is not clear how the "right to posssession of the
+Corresponding Source" is to be enforced (it might be simpler to say
+that an entity transaction is a form of conveying, and in fact I seem
+to recall some interim draft language taking such an approach). In any
+case, this is yet another provision that finds no counterpart in other
+major free software licenses. In the interest of greater brevity it
+should be deleted, but the issue of assignment in the M&A context
+should perhaps be revisited at a later time.
+
+
+Changes in commit 8f26ef9c5cb83bab1d6212fe728e388dab207caf
+----------------------------------------------------------
+
+What is now section 12 of GPLv3 (the successor to GPLv2 section 7)
+bore the heading "Liberty or Death for the Program" in the initial
+public draft of GPLv3. The heading was, I believe, devised by
+RMS. This wonderful title was, I think, thought to be too
+radical-sounding or something (perhaps a vendor or commercial user
+raised such a concern during the GPLv3 drafting process), and so the
+drafters changed it to "No Surrender of Others' Freedom". The original
+heading is clearly superior. I have myself taken to calling this
+provision the "liberty-or-death clause" and such terminology has to
+some degree caught on with others.
+
+In fairness, I recall that RMS also made the point that under this
+provision the Program does not actually "die"; rather, particular
+copies of it may become nondistributable. Thus the heading was never
+truly accurate.  But the principal reason for this change was
+lamentable primness.  
+
+I have therefore restored the original heading.
+
+
+
+
+
