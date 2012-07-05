@@ -345,12 +345,7 @@ this License.  If your rights have been terminated and not permanently
 reinstated, you do not qualify to receive new licenses for the same
 material under section 10.
 
-  9. Acceptance.
-
-  By modifying or propagating a covered work, you indicate your
-acceptance of this License to do so.
-
-  10. Automatic Licensing of Downstream Recipients.
+  9. Automatic Licensing of Downstream Recipients.
 
   Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
@@ -365,7 +360,7 @@ rights granted under this License, and you may not initiate litigation
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
 
-  11. Patents.
+  10. Patents.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -426,7 +421,7 @@ or that patent license was granted, prior to 28 March 2007.
 any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.
 
-  12. Liberty or Death for the Program.
+  11. Liberty or Death for the Program.
 
   If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
@@ -438,7 +433,7 @@ to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
-  13. Compatibility with GNU GPL and GNU AGPL.
+  12. Compatibility with GNU GPL and GNU AGPL.
 
   Notwithstanding any other provision of this License, you have
 permission to relicense any covered work under the terms of any
@@ -446,7 +441,7 @@ version of the GNU General Public License and any version of the GNU
 Affero General Public License published by the Free Software
 Foundation.
 
-  14. Revised Versions of this License.
+  13. Revised Versions of this License.
 
   The License Steward may publish revised and/or new versions of
 GPL.next from time to time.  Such new versions will be similar in
@@ -471,7 +466,7 @@ permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow a
 later version.
 
-  15. Disclaimer of Warranty.
+  14. Disclaimer of Warranty.
 
   THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
@@ -482,7 +477,7 @@ PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
-  16. Limitation of Liability.
+  15. Limitation of Liability.
 
   IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
