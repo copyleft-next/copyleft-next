@@ -1,5 +1,6 @@
-Initial changes (commit 19b049eeb84adb371c59861db5dbfc5879e3453a)
------------------------------------------------------------------
+
+19b049eeb84adb371c59861db5dbfc5879e3453a)
+-----------------------------------------
 
 I deleted the Preamble of the GNU GPLv3. This was necessary because
 the FSF has stated this as a requirement for permission to create
@@ -44,16 +45,16 @@ section 14, and (awkwardly, I later decided) declared myself to be the
 License Steward "for the time being". 
 
 
-Changes in commit 7a7e05a55e867ed37cc7a0b94e2132bad150d050
-----------------------------------------------------------
+7a7e05a55e867ed37cc7a0b94e2132bad150d050
+----------------------------------------
 
 The README.md originally stated that the FSF's "meta-license" for the
 GNU GPL text would also be the license for patches to GPL.next. I
 later realized that this won't make sense for the typical patch. 
 
 
-Changes in commit a25b56f365123f52c3158bca040c990264556e6b
-----------------------------------------------------------
+a25b56f365123f52c3158bca040c990264556e6b
+----------------------------------------
 
 In 2006 lawyers for Sun Microsystems suggested adding an explicit
 definition of "copyright" that would encompass not just conventional
@@ -85,8 +86,8 @@ greater brevity it should be deleted, but the issue of assignment in
 the M&A context should perhaps be revisited at a later time.
 
 
-Changes in commit 8f26ef9c5cb83bab1d6212fe728e388dab207caf
-----------------------------------------------------------
+8f26ef9c5cb83bab1d6212fe728e388dab207caf
+----------------------------------------
 
 What is now section 12 of GPLv3 (the successor to GPLv2 section 7)
 bore the heading "Liberty or Death for the Program" in the initial
@@ -108,8 +109,8 @@ lamentable primness.
 I have therefore restored the original heading.
 
 
-Changes in commit 6de49161ab740efd2d7fe58786a1c2ec8bd7c76c
-----------------------------------------------------------
+6de49161ab740efd2d7fe58786a1c2ec8bd7c76c
+----------------------------------------
 
 This commit deletes the sentence, originating in some interim GPLv3
 draft at the request of one (or possibly more than one) commercial
@@ -123,8 +124,8 @@ prohibited organizations from being licensees would not be a free
 software (or open source) license. 
 
 
-Changes in commit 837a2f1c5a0e0f89d28b36dc60dc077ccb83b432
-----------------------------------------------------------
+837a2f1c5a0e0f89d28b36dc60dc077ccb83b432
+----------------------------------------
 
 This commit explicitly leaves "License Steward" undefined rather than
 making it refer, with seeming and unintended egomaniacism, to Richard
@@ -134,8 +135,8 @@ placeholder that replaces the stewardship role given to the FSF in the
 GNU GPL.
 
 
-Changes in commit 74d0aebe4a19ef7e55e755248b5a5d988d175389
-----------------------------------------------------------
+74d0aebe4a19ef7e55e755248b5a5d988d175389
+----------------------------------------
 
 This is a small but significant change and may deserve more expanded
 explanation, but here's a quick one. 
@@ -183,8 +184,8 @@ of additional requirements to preserve author attributions in
 Appropriate Legal Notices.
 
 
-Changes in commit ec7c0b1700bc7a9a6438bcb5921d3983dcb6e377
-----------------------------------------------------------
+ec7c0b1700bc7a9a6438bcb5921d3983dcb6e377
+----------------------------------------
 
 This commit makes two small changes. First, the explicit definition of
 "License" is deleted as *probably* unnecessary. In GPLv2 the general
@@ -236,8 +237,8 @@ of the clause is more helpful than hurtful (in making the
 Corresponding Source definition more complex) I'm all ears.
 
 
-Changes in commit 8040c4c8ae013a9b5e24dc8666dd8e6be651ee27
-----------------------------------------------------------
+8040c4c8ae013a9b5e24dc8666dd8e6be651ee27
+----------------------------------------
 
 This commit deletes from section 6 the following paragraph:
 
@@ -261,4 +262,129 @@ imply a requirement to convey the object code System Library. I can't
 see how anyone would reasonbly think this could possibly be a
 requirement in a provision that says nothing otherwise about a
 requirement to provide object code. 
+
+
+d373d2cde22f0d6bd1c935bf016bbc0ca6b42484
+----------------------------------------
+
+This commit deletes a sentence/paragraph in the definition of
+"Corresponding Source" that was only needed because of the entity
+transactions provision, which itself is now deleted. 
+
+
+1817465d1b1c187f7a6249dcfef835b4ee7fac2e
+----------------------------------------
+
+This commit simplifies the heading of section 3 to reduce it from
+political chargedness to descriptiveness (without affecting the
+content of the provision).
+
+Historically, section 3 of GPLv3 was called "Digital Restrictions
+Management", the FSF's reexpansion of DRM. Over time the provision,
+once quite broad in scope, came to focus entirely on
+anti-circumvention law.
+
+
+4b11ed2eaf01d57b2aa6149b881ec7276a79ff58
+----------------------------------------
+
+This commit simplifies the way the automatic termination clause is
+worded in GPLv3 (and GPLv2). The use of "attempt" and "void" was never
+necessary and arguably makes the clause less clear. 
+
+
+690d1ebbf8260cdd979692b81295e91ccea152e5
+----------------------------------------
+
+Section 9 of GPLv3 originated as a provision titled "Not a
+Contract". The mere title resulted in some objections by some European
+lawyers and at least bemusement on the part of some American
+lawyers. Curiously, though, the GPLv3 provision and its GPLv2
+predecessor deal with acceptance, which is a contract law concept.
+
+I believe the ancient "license vs. contract" debates concerning the
+GPL were characterized by great confusion on all sides. There are some
+interesting legal issues related to this which may be worth further
+exploration. At this time, however, I accept the idea that the GPL
+should have some sort of acceptance clause (as indeed many proprietary
+software licenses and some free software licenses do), if only for
+reasons of tradition, and that the FSF may intend for it to serve some
+legal purpose that has nothing to do with acceptance in the contract
+sense (or perhaps really does wish it to have some contract law
+effect, traditional insistence that the GPL is "not a contract"
+notwithstanding). What I have done here is simplified the title to
+"Acceptance" and reduced the content of the provision to simply state
+that modification or propagation are deemed to signify acceptance by
+the licensee. I have kept the policy but trimmed the language to the
+bare essentials.
+
+
+313152a74c3ff36d9be56967c3f73a450f8021ce
+----------------------------------------
+
+This commit deletes the paragraph in section 11 which was intended, as
+a hack on a feature of the Microsoft/Novell deal of 2006, to cause
+Microsoft patent licenses/covenants granted to Novell customers to be
+"automatically extended" to all downstream recipients of the software
+associated with the SLES certificates distributed by Microsoft
+pursuant to the deal. 
+
+Historical evidence shows that this provision was taken somewhat
+seriously, and its cleverness and creativity are to be
+appreciated. However, it must be admitted that it has served no valid
+purpose in the past five years. To my knowledge no one has ever
+attempted to invoke the provision (or had need to invoke it) to argue
+for the existence of a patent license or covenant, and it would be
+exceedingly strange for anyone to have done so. The provision is
+worded generally, but it is tied to one deal between two specific
+companies and is intended to punish one particular company. Whatever
+its political value was in early 2007, the provision today is either a
+no-op or serves to intensify anti-GPLv3 FUD. It needs to go.
+
+One can view this provision as a sort of odd exception to the
+historical narrowing of the general patent license grant now contained
+in paragraphs 1-3 of section 11. Early public drafts of GPLv3 had
+featured a "pure distribution" approach to patent licensing. Whether
+that narrowing of the patent license grant was good policy or not is
+an open question, but it is worth noting that this anti-Microsoft
+provision would have been pointless had a pure-distribution patent
+licensing policy been retained.
+
+
+22e5f995489f979b0ffef5ad7dc122e842f03480
+----------------------------------------
+
+This commit simplifies and clarifies the final sentence/paragraph of
+section 7. The concern here was uncertainty over the extent to which
+the section 7 "allowed additional requirements" went beyond the
+limited setting of compatibility with discrete free software
+licenses. For example, section 7 notes that it is not a violation of
+section 10 to supplement GPLv3 with a differently-worded warranty
+disclaimer. The final sentence makes clear that this not only ratifies
+the compatibility of differently-worded warranty disclaimers in
+licenses traditionally treated as GPL-compatible, but also authorizes
+an informal supplementation of the GPLv3 warranty disclaimer. 
+
+I changed "or stated as exceptions" to "or stated as exceptions to or
+qualifications of", because the term "exception" in GPL contexts has
+generally referred only to additional permissions, and application of
+the term "exception" to an additional restriction seems confusing, at
+least in light of this terminology tradition. (Cf. the original
+license of Liberation Fonts.)
+
+
+5958df40ec2bad3649a4897d814a3ee22abbb529
+----------------------------------------
+
+This commit deletes a late change to GPLv3, the final section, which
+had been drafted in response to arguments made by Axel Metzger
+concerning the effects of the US-style warranty and liability
+disclaimers under German law. While I like this provision, I must
+wonder why it is necessary given that GPLv2 and other widely-used free
+software licenses have gotten along fine without anything like it
+(similar issues must arise with proprietary software licenses). It
+should also be noted that Metzger's concerns may have resonance in US
+law. Perhaps the better approach is to attempt improvement of the
+disclaimers themselves, and/or to reconsider the idea, rejected early
+on in the drafting of GPLv3, of a general severability clause.
 
