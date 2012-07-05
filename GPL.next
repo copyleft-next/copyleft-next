@@ -37,8 +37,11 @@ menu, a prominent item in the list meets this criterion.
 
   1. Source Code.
 
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
+  "Build files" are any files or scripts processed by a compile, make
+or build tool used to operate on the work in the normal course of
+preparing the work for use or propagation.  The "source code" for a
+work means the preferred form of the work for making modifications to
+it as well as all build files.  "Object code" means any non-source
 form of a work.
 
   A "Standard Interface" means an interface that either is an official
