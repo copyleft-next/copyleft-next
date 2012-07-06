@@ -4,7 +4,7 @@
 
   "You" means a person exercising rights under this License.
 
-  "The Program" means a particular copyrightable work licensed under
+  "The Work" means a particular copyrightable work licensed under
 this License and received by You.
 
   To "modify" a work means to copy from or adapt all or part of the work
@@ -12,19 +12,20 @@ in a fashion requiring copyright permission, other than the making of an
 exact copy.  The resulting work is called a "modified version" of the
 earlier work or a work "based on" the earlier work.
 
-  A "Covered Work" means either the Program or a work based on the
-Program.
+  A "Covered Work" means either the Work or a work based on it.
 
   To "propagate" a work means to do anything with it that, without
 permission, would make You directly or secondarily liable for
 infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
+computer or modifying a private copy.
 
   To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
+parties to make or receive copies.  With the exception of a performance
+available to the public of a non-software work (such as streaming a concert
+over a computer network), mere interaction with a user through a computer 
+network, with no transfer of a copy, is not conveying. Any other public
+performance of a non-software work (such as a live public music performance)
+is not conveying.
 
   An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
@@ -37,10 +38,10 @@ menu, a prominent item in the list meets this criterion.
 
   "License Steward" is left undefined for the time being. 
 
-  1. Source Code.
+  1. Transparent Form.
 
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
+  The "transparent form" for a work means the preferred form of the work
+for making modifications to it.  "Object form" means any non-transparent
 form of a work.
 
   A "Standard Interface" means an interface that either is an official
@@ -53,15 +54,18 @@ than the work as a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part of that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
-implementation is available to the public in source code form.  A
+implementation is available to the public in transparent form.  A
 "Major Component", in this context, means a major essential component
 (kernel, window system, and so on) of the specific operating system
 (if any) on which the executable work runs, or a compiler used to
-produce the work, or an object code interpreter used to run it.
+produce the work, or an opaque form interpreter (such as an object code
+interpreter) used to run it.
 
-  The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
+  The "Corresponding Transparent Form" for a work in opaque form means all
+the transparent form documentation or media (such as sheet music, editable
+text documents, editable image files, and so on, or if the work is software,
+all the source code) needed to generate, install, and (for an executable
+work) run the opaque form and to modify the work, including scripts to
 control those activities.  However, it does not include the work's
 System Libraries, or general-purpose tools or generally available free
 programs which are used unmodified in performing those activities but
@@ -80,7 +84,8 @@ conditions are met.  This License explicitly affirms Your unlimited
 permission to run the unmodified Program.  The output from running a
 Covered Work is covered by this License only if the output, given its
 content, constitutes a Covered Work.  This License acknowledges Your
-rights of fair use or other equivalent, as provided by copyright law.
+rights of fair use, fair dealing or other equivalent, as provided by 
+copyright law.
 
   You may make, run and propagate Covered Works that You do not
 convey, without conditions so long as Your license otherwise remains
@@ -92,6 +97,12 @@ not control copyright.  Those thus making or running the Covered Works
 for You must do so exclusively on Your behalf, under Your direction
 and control, on terms that prohibit them from making any copies of
 Your copyrighted material outside their relationship with You.
+
+  To the maximum extent possible under the law, the Licensor waives
+all moral rights under copyright law in the Work. If this is not
+possible, to the maximum extent possible under the law, the Licensor
+waives all legal rights to assert the Licensor's moral rights under
+copyright law in the Work.
 
   Conveying under any other circumstances is permitted solely under
 the conditions stated below.  Sublicensing is not allowed; section 9
@@ -115,22 +126,21 @@ technological measures.
 
   4. Conveying Verbatim Copies.
 
-  You may convey verbatim copies of the Program's source code as You
+  You may convey verbatim copies of the Work's transparent form as You
 receive it, in any medium, provided that You conspicuously and
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
 non-permissive terms added in accord with section 7 apply to the code;
 keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
+recipients a copy of this License along with the Work.
 
   You may charge any price or no price for each copy that You convey,
 and You may offer support or warranty protection for a fee.
 
-  5. Conveying Modified Source Versions.
+  5. Conveying Modified Transparent Form Versions.
 
-  You may convey a work based on the Program in the form of source
-code under the terms of section 4, provided that You also meet all of
-these conditions:
+  You may convey a work based on the Work in transparent form under the 
+terms of section 4, provided that You also meet all of these conditions:
 
     a) The work must carry prominent notices stating that You modified
     it, and giving a relevant date.
@@ -163,53 +173,52 @@ beyond what the individual works permit.  Inclusion of a Covered Work
 in an aggregate does not cause this License to apply to the other
 parts of the aggregate.
 
-  6. Conveying Non-Source Forms.
+  6. Conveying Opaque Forms.
 
   You may convey a Covered Work in object code form under the terms
-of sections 4 and 5, provided that You also convey the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:
+of sections 4 and 5, provided that You also convey the Corresponding
+Transparent Form under the terms of this License, in one of these ways:
 
-    a) Convey the object code in, or embodied in, a physical product
+    a) Convey the opaque form in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
-    Corresponding Source fixed on a durable physical medium
-    customarily used for software interchange.
+    Corresponding Transparent Form fixed on a durable physical medium
+    customarily used for software or digital media interchange.
 
-    b) Convey the object code in, or embodied in, a physical product
+    b) Convey the opaque form in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by a
     written offer, valid for at least three years and valid for as
     long as You offer spare parts or customer support for that product
-    model, to give anyone who possesses the object code either (1) a
-    copy of the Corresponding Source for all the software in the
-    product that is covered by this License, on a durable physical
-    medium customarily used for software interchange, for a price no
-    more than Your reasonable cost of physically performing this
-    conveying of source, or (2) access to copy the
-    Corresponding Source from a network server at no charge.
+    model (if any), to give anyone who possesses the opaque form either 
+    (1) a copy of the Corresponding Transparent Form for all the works 
+    in the product that are covered by this License, on a durable 
+    physical medium customarily used for software or digital media 
+    interchange, for a price no more than Your reasonable cost of 
+    physically performing this conveying of source, or (2) access to copy 
+    the Corresponding Transparent Form from a network server at no charge.
 
-    c) Convey individual copies of the object code with a copy of the
-    written offer to provide the Corresponding Source.  This
+    c) Convey individual copies of the opaque form with a copy of the
+    written offer to provide the Corresponding Transparent Form.  This
     alternative is allowed only occasionally and noncommercially, and
-    only if You received the object code with such an offer, in accord
+    only if You received the opaque form with such an offer, in accord
     with subsection 6b.
 
-    d) Convey the object code by offering access from a designated
+    d) Convey the opaque form by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
-    Corresponding Source in the same way through the same place at no
-    further charge.  You need not require recipients to copy the
-    Corresponding Source along with the object code.  If the place to
-    copy the object code is a network server, the Corresponding Source
-    may be on a different server (operated by You or a third party)
-    that supports equivalent copying facilities, provided You maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, You remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
+    Corresponding Transparent Form in the same way through the same place 
+    at no further charge.  You need not require recipients to copy the
+    Corresponding Transparent Form along with the opaque form.  If the place to
+    copy the opaque form is a network server, the Corresponding 
+    Transparent Form may be on a different server (operated by You or a 
+    third party) that supports equivalent copying facilities, provided 
+    You maintain clear directions next to the opaque form indicating where to 
+    find the Corresponding Transparent Form.  Regardless of what server hosts 
+    the Corresponding Transparent Form, You remain obligated to ensure that it 
+    is available for as long as needed to satisfy these requirements.
 
-    e) Convey the object code using peer-to-peer transmission, provided
-    You inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
+    e) Convey the opaque form using peer-to-peer transmission, provided
+    You inform other peers where the opaque form and Corresponding
+    Transparent Form of the work are being offered to the general public at 
+    no charge under subsection 6d.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
@@ -227,20 +236,20 @@ the only significant mode of use of the product.
   "Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a Covered Work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
+a modified version of its Corresponding Transparent Form.  The information 
+must suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.
 
-  If You convey an object code work under this section in, or with, or
+  If You convey an opaque form work under this section in, or with, or
 specifically for use in, a User Product, and the conveying occurs as
 part of a transaction in which the right of possession and use of the
 User Product is transferred to the recipient in perpetuity or for a
 fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
-by the Installation Information.  But this requirement does not apply
-if neither You nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
+Corresponding Transparent Form conveyed under this section must be 
+accompanied by the Installation Information.  But this requirement does not 
+apply if neither You nor any third party retains the ability to install
+modified opaque form works on the User Product (for example, the work has
 been installed in ROM).
 
   The requirement to provide Installation Information does not include a
@@ -251,21 +260,38 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
+  Corresponding Transparent Form conveyed, and Installation Information 
+provided, in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
+transparent form), and must require no special password or key for
 unpacking, reading or copying.
 
-  7. Additional Terms.
+  7. Public Performance of Non-Software Works
+
+  You may publicly perform a non-software work (a song, a film, and so on)
+in opaque form, provided that you conspicuously and appropriately inform
+the audience that the Work is under this License (for example, in a pamphlet
+distributed to the audience), provided that you also do one or more of the
+following:
+     
+     a) Convey copies of the Corresponding Transparent Form on an
+     appropriate physical medium customarily used for making modifications
+     (such as sheet music).
+
+     b) Offer access to the Corresponding Transparent Form gratis from a 
+     designated place, valid for at least three years. You remain obligated to ensure that 
+     the Corresponding Transparent Form is available for as long as needed to satisfy 
+     this requirement.
+
+  8. Additional Terms.
 
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
 be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
+apply only to part of the Work, that part may be used separately
+under those permissions, but the entire Work remains governed by
 this License without regard to the additional permissions.
 
   When You convey a copy of a Covered Work, You may at Your option
@@ -314,13 +340,13 @@ not survive such relicensing or conveying.
   Additional terms may be stated in the form of a separately written
 license or stated as exceptions to or qualifications of this License.
 
-  8. Termination.
+  9. Termination.
 
   You may not propagate or modify a Covered Work except as expressly
-provided under this License.  Any unauthorized act of propagation or
-modification automatically terminates Your rights under this License
-(including any patent licenses granted under the third paragraph of
-section 10).
+provided under this License.  Any unauthorized act of propagation,
+modification, or public performance automatically terminates Your rights 
+under this License (including any patent licenses granted under the third 
+paragraph of section 10).
 
   However, if You cease all violation of this License, then Your
 license from a particular copyright holder is reinstated (a)
@@ -342,7 +368,7 @@ this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
 material under section 9.
 
-  9. Automatic Licensing of Downstream Recipients.
+  10. Automatic Licensing of Downstream Recipients.
 
   Each time You convey a Covered Work, the recipient automatically
 receives a license from the original licensors, to run, modify and
@@ -354,9 +380,9 @@ not impose a license fee, royalty, or other charge for exercise of
 rights granted under this License, and You may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
-sale, or importing the Program or any portion of it.
+sale, or importing the Work or any portion of it.
 
-  10. Patents.
+  11. Patents.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -385,10 +411,10 @@ party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
   If You convey a Covered Work, knowingly relying on a patent license,
-and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
+and the Corresponding Transparent Form of the work is not available for 
+anyone to copy, free of charge and under the terms of this License, through a
 publicly available network server or other readily accessible means,
-then You must either (1) cause the Corresponding Source to be so
+then You must either (1) cause the Corresponding Transparent Form to be so
 available, or (2) arrange, in a manner consistent with the
 requirements of this License, to extend the patent license to
 downstream recipients.  "Knowingly relying" means You have actual
@@ -416,7 +442,7 @@ or that patent license was granted, prior to 28 March 2007.
 any implied license or other defenses to infringement that may
 otherwise be available to You under applicable patent law.
 
-  11. Liberty or Death.
+  12. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
@@ -425,18 +451,20 @@ Covered Work so as to satisfy simultaneously Your obligations under this
 License and any other pertinent obligations, then as a consequence You may
 not convey it at all.  For example, if You agree to terms that obligate You
 to collect a royalty for further conveying from those to whom You convey
-the Program, the only way You could satisfy both those terms and this
+the Work, the only way You could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
-  12. Compatibility with GNU GPL and GNU AGPL.
+  13. Compatibility with GNU GPL, GNU AGPL, and CC-BY-SA.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
 version of the GNU General Public License and any version of the GNU
 Affero General Public License published by the Free Software
-Foundation.
+Foundation, or, if the Covered Work is a non-software work, any 
+version of the Creative Commons Attribution-ShareAlike License 
+published by the Creative Commons Corporation.
 
-  13. Revised Versions of this License.
+  14. Revised Versions of this License.
 
   The License Steward may publish revised and/or new versions of
 GPL.next from time to time.  Such new versions will be similar in
@@ -451,36 +479,36 @@ version published by the License Steward.  If the Program does not
 specify a version number of GPL.next, You may choose any version ever
 published by the License Steward.
 
-  If the Program specifies that a proxy can decide which future
+  If the Work specifies that a proxy can decide which future
 versions of GPL.next can be used, that proxy's public statement of
 acceptance of a version permanently authorizes You to choose that
-version for the Program.
+version for the Work.
 
   Later license versions may give You additional or different
 permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of Your choosing to follow a
 later version.
 
-  14. Disclaimer of Warranty.
+  15. Disclaimer of Warranty.
 
-  To the extent permitted by applicable law, the Program is provided
+  To the extent permitted by applicable law, the Work is provided
 under this License on an "as is" basis, without warranty of any kind,
 either express, implied, or statutory, including, without limitation,
-warranties that the Program is free of defects, merchantable, fit for
+warranties that the Work is free of defects, merchantable, fit for
 a particular purpose or non-infringing.  The entire risk as to the
 quality and performance of the Program is with You.  Should the
-Program prove defective in any respect, You assume the cost of all
+Work prove defective in any respect, You assume the cost of all
 necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
-Program is authorized under this License except under this disclaimer.
+Work is authorized under this License except under this disclaimer.
 
-  15. Limitation of Liability.
+  16. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
-and/or conveys the Program as permitted above, be liable to You for
+and/or conveys the Work as permitted above, be liable to You for
 damages, including any general, special, incidental or consequential
-damages arising out of the use or inability to use the Program
+damages arising out of the use or inability to use the Work
 (including but not limited to loss of data or data being rendered
 inaccurate or losses sustained by You or third parties or a failure of
 the Program to operate with any other programs), even if such holder
