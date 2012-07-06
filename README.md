@@ -7,9 +7,9 @@ criticism are welcome. Forks in the GitHub sense are encouraged. The
 goal of this effort is to develop an improved strong copyleft free
 software license.
 
-This is *not* an effort endorsed by the Free Software Foundation or
+**This is *not* an effort endorsed by the Free Software Foundation or
 the GNU project. This is also *not* an effort associated in any way
-with Red Hat (Richard Fontana's employer).
+with Red Hat** (Richard Fontana's employer).
 
 The FSF has asserted copyright in the text of the GNU GPLv3. However,
 the FSF has expressly authorized (though discouraged) modified
