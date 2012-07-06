@@ -47,7 +47,7 @@ historical failure to parse "GPL" correctly.
 All copyrightable materials included in this project, other than any
 copied or adapted portions of GNU license texts and except where
 otherwise indicated, are dedicated to the public domain to the maximum
-extent permissible under applicable law, pursuant to the Creative
-Commons CC0 Universal Public Domain Dedication 1.0 (see the file CC0
-for details).
+extent permitted by applicable law, pursuant to the Creative Commons
+CC0 Universal Public Domain Dedication 1.0 (see the file CC0 for
+details).
 
