@@ -204,6 +204,13 @@ in one of these ways:
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
 
+  Corresponding Source distributed in accord with this section must be
+in a format that is publicly documented (and with an implementation
+available to the public in source code form), and must require no
+special password or key for unpacking, reading or copying.
+
+  7. Anti-Lockdown.
+
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
@@ -225,16 +232,16 @@ suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.
 
-  If You distribute an object code work under this section in, or with, or
-specifically for use in, a User Product, and the distributing occurs as
-part of a transaction in which the right of possession and use of the
-User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
-Corresponding Source distributed under this section must be accompanied
-by the Installation Information.  But this requirement does not apply
-if neither You nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
-been installed in ROM).
+  If You distribute an object code work under section 6 in, or with,
+or specifically for use in, a User Product, and the distributing
+occurs as part of a transaction in which the right of possession and
+use of the User Product is transferred to the recipient in perpetuity
+or for a fixed term (regardless of how the transaction is
+characterized), the Corresponding Source distributed under this
+section must be accompanied by the Installation Information.  But this
+requirement does not apply if neither You nor any third party retains
+the ability to install modified object code on the User Product (for
+example, the work has been installed in ROM).
 
   The requirement to provide Installation Information does not include a
 requirement to continue to provide support service, warranty, or updates
@@ -244,13 +251,7 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  Corresponding Source distributed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
-documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
-unpacking, reading or copying.
-
-  7. Additional Terms.
+  8. Additional Terms.
 
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
@@ -273,7 +274,7 @@ add to a Covered Work, You may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 14 and 15 of this License; or
+    terms of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material; or
@@ -295,25 +296,25 @@ that material) supplement the terms of this License with terms:
     those licensors and authors.
 
   All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 9.  If the Program as You
+restrictions" within the meaning of section 10.  If the Program as You
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
 restriction, You may remove that term.  If a license document contains
-a further restriction but permits relicensing or distributing under this
-License, You may add to a Covered Work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or distributing.
+a further restriction but permits relicensing or distributing under
+this License, You may add to a Covered Work material governed by the
+terms of that license document, provided that the further restriction
+does not survive such relicensing or distributing.
 
   Additional terms may be stated in the form of a separately written
 license or stated as exceptions to or qualifications of this License.
 
-  8. Termination.
+  9. Termination.
 
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
 copying, distribution or modification automatically terminates Your
 rights under this License (including any patent licenses granted under
-the third paragraph of section 10).
+the third paragraph of section 11).
 
   However, if You cease all violation of this License, then Your
 license from a particular copyright holder is reinstated (a)
@@ -333,9 +334,9 @@ Your receipt of the notice.
 licenses of parties who have received copies or rights from You under
 this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
-material under section 9.
+material under section 10.
 
-  9. Automatic Licensing of Downstream Recipients.
+  10. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
 receives a license from the original licensors, to run, copy, modify
@@ -349,7 +350,7 @@ rights granted under this License, and You may not initiate litigation
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
 
-  10. Patents.
+  11. Patents.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -409,7 +410,7 @@ or that patent license was granted, prior to 28 March 2007.
 any implied license or other defenses to infringement that may
 otherwise be available to You under applicable patent law.
 
-  11. Liberty or Death.
+  12. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
@@ -422,7 +423,7 @@ collect a royalty for further distributing from those to whom You distribute
 the Program, the only way You could satisfy both those terms and this
 License would be to refrain entirely from distributing the Program.
 
-  12. Compatibility with GNU GPL and GNU AGPL.
+  13. Compatibility with GNU GPL and GNU AGPL.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -430,7 +431,7 @@ version of the GNU General Public License and any version of the GNU
 Affero General Public License published by the Free Software
 Foundation.
 
-  13. New Versions of this License.
+  14. New Versions of this License.
 
   The License Steward may publish new versions of GPL.next.  Each
 version will be given a distinguishing version number. You may
@@ -438,7 +439,7 @@ distribute a Covered Work under the terms of the version of GPL.next
 under which the Program is licensed, or under the terms of any
 subsequent version published by the License Steward.
 
-  14. Disclaimer of Warranty.
+  15. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -451,7 +452,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  15. Limitation of Liability.
+  16. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
