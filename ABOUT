@@ -1,12 +1,12 @@
-GPL.next
-========
+Copyleft.next
+=============
 
-GPL.next is an experimental fork of the GNU General Public License,
-version 3. Contributions of patches, ideas, and criticism are
-welcome. Forks in the GitHub sense are encouraged. The goal of this
-effort is to develop an improved strong copyleft free software
-license. Needless to say, no one should actually *use* a development
-version of GPL.next as an actual license. 
+Copyleft.next is an experimental fork of the GNU General Public
+License, version 3. Contributions of patches, ideas, and criticism are
+welcome. Forks/clones are encouraged. The goal of this effort is to
+develop an improved strong copyleft free software license. Needless to
+say, no one should actually *use* a development version of
+Copyleft.next as an actual license.
 
 **This is *not* an effort endorsed by the Free Software Foundation or
 the GNU Project. This is also *not* an effort associated in any way
@@ -37,21 +37,6 @@ that meta-license may be stated as follows:
   instructions-for-use at the end of the GNU GPL are copied or
   adapted, they must be modified "enough to make it clearly different
   in wording and not mention GNU".
-
-The name "GPL.next" is considered to be "another name" in the sense
-meant in this meta-license. (It would be a violation of the
-meta-license to use the "GNU" name, of course.) The "G" in "GPL" does
-not stand for "GNU", but "General"; "GPL" means "license to (or for)
-the general public", and is justifiably regarded as the earliest
-generic term for a FLOSS license.
-
-A couple of people have nevertheless questioned use of the name
-"GPL.next" on the apparent assumption that the FSF holds a proprietary
-interest in the initialism "GPL". If this represents general sentiment
-and/or the view of RMS, the name of the project, and the name of the
-associated draft license, will certainly be changed with all
-speed. ("Copyleft.next" has been suggested as an alternative name by
-one of the committers, but other suggestions are welcome.)
 
 All copyrightable materials included in this project, other than any
 copied or adapted portions of GNU license texts and except where
