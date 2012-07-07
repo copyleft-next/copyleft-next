@@ -274,7 +274,7 @@ add to a Covered Work, You may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
+    terms of sections 16 and 17 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material; or
@@ -349,7 +349,7 @@ License 2.0, as published by the Apache Software Foundation, shall not
 be deemed to give rise to imposition of a further restriction under
 this section.
 
-  11. Patents.
+  11. Upstream Patent Licenses.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -370,46 +370,49 @@ patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import and otherwise run, copy,
 modify and distribute the contents of its contributor version.
 
-  In the following two paragraphs, a "patent license" is any express
-agreement or commitment, however denominated, not to enforce a patent
-(such as an express permission to practice a patent or covenant not to
-sue for patent infringement).  To "grant" such a patent license to a
-party means to make such an agreement or commitment not to enforce a
-patent against the party.
-
-  If You distribute a Covered Work, knowingly relying on a patent license,
-and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
-publicly available network server or other readily accessible means,
-then You must either (1) cause the Corresponding Source to be so
-available, or (2) arrange, in a manner consistent with the
-requirements of this License, to extend the patent license to
-downstream recipients.  "Knowingly relying" means You have actual
-knowledge that, but for the patent license, Your distributing the Covered
-Work in a country, or Your recipient's use of the Covered Work in a
-country, would infringe one or more identifiable patents in that
-country that You have reason to believe are valid.
-
-  A patent license is "discriminatory" if it does not include within
-the scope of its coverage, prohibits the exercise of, or is
-conditioned on the non-exercise of one or more of the rights that are
-specifically granted under this License.  You may not distribute a covered
-work if You are a party to an arrangement with a third party that is
-in the business of distributing software, under which You make payment
-to the third party based on the extent of Your activity of distributing
-the work, and under which the third party grants, to any of the
-parties who would receive the Covered Work from You, a discriminatory
-patent license (a) in connection with copies of the Covered Work
-distributed by You (or copies made from those copies), or (b) primarily
-for and in connection with specific products or compilations that
-contain the Covered Work, unless You entered into that arrangement,
-or that patent license was granted, prior to 28 March 2007.
-
   Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
 otherwise be available to You under applicable patent law.
 
-  12. Liberty or Death.
+  12. Third-Party Patent Licenses.
+
+  For purposes of this section only, a "Patent License" is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To "grant" such a Patent License 
+party means to make such an agreement or commitment not to enforce a
+patent against the party.
+
+  If You distribute a Covered Work, knowingly relying on a Patent
+License, and the Corresponding Source of the work is not available for
+anyone to copy, free of charge and under the terms of this License,
+through a publicly available network server or other readily
+accessible means, then You must either (1) cause the Corresponding
+Source to be so available, or (2) arrange, in a manner consistent with
+the requirements of this License, to extend the patent license to
+downstream recipients.  "Knowingly relying" means You have actual
+knowledge that, but for the Patent License, Your distributing the
+Covered Work in a country, or Your recipient's use of the Covered Work
+in a country, would infringe one or more identifiable patents in that
+country that You have reason to believe are valid.
+
+  A Patent License is "discriminatory" if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.  You may not distribute a
+covered work if You are a party to an arrangement with a third party
+that is in the business of distributing software, under which You make
+payment to the third party based on the extent of Your activity of
+distributing the work, and under which the third party grants, to any
+of the parties who would receive the Covered Work from You, a
+discriminatory Patent License (a) in connection with copies of the
+Covered Work distributed by You (or copies made from those copies), or
+(b) primarily for and in connection with specific products or
+compilations that contain the Covered Work, unless You entered into
+that arrangement, or that Patent License was granted, prior to 28
+March 2007.
+
+  13. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
@@ -422,7 +425,7 @@ collect a royalty for further distributing from those to whom You distribute
 the Program, the only way You could satisfy both those terms and this
 License would be to refrain entirely from distributing the Program.
 
-  13. Compatibility with GNU GPL and GNU AGPL.
+  14. Compatibility with GNU GPL and GNU AGPL.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -430,7 +433,7 @@ version of the GNU General Public License and any version of the GNU
 Affero General Public License published by the Free Software
 Foundation.
 
-  14. New Versions of this License.
+  15. New Versions of this License.
 
   The License Steward may publish new versions of GPL.next.  Each
 version will be given a distinguishing version number. You may
@@ -438,7 +441,7 @@ distribute a Covered Work under the terms of the version of GPL.next
 under which the Program is licensed, or under the terms of any
 subsequent version published by the License Steward.
 
-  15. Disclaimer of Warranty.
+  16. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -451,7 +454,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  16. Limitation of Liability.
+  17. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
