@@ -209,7 +209,7 @@ in a format that is publicly documented (and with an implementation
 available to the public in source code form), and must require no
 special password or key for unpacking, reading or copying.
 
-  7. Anti-Lockdown.
+  7. User Product Lockdown.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
