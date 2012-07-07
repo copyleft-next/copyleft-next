@@ -1,10 +1,12 @@
 GPL.next
 ========
 
-GPL.next is a fork of the GNU General Public License, version
-3. Contributions of patches, ideas, and criticism are welcome. Forks
-in the GitHub sense are encouraged. The goal of this effort is to
-develop an improved strong copyleft free software license.
+GPL.next is an experimental fork of the GNU General Public License,
+version 3. Contributions of patches, ideas, and criticism are
+welcome. Forks in the GitHub sense are encouraged. The goal of this
+effort is to develop an improved strong copyleft free software
+license. Needless to say, no one should actually *use* a development
+version of GPL.next as an actual license. 
 
 **This is *not* an effort endorsed by the Free Software Foundation or
 the GNU Project. This is also *not* an effort associated in any way
