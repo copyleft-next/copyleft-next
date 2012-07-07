@@ -7,30 +7,23 @@
   "The Program" means a particular copyrightable work licensed under
 this License and received by You.
 
-  To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
+  To "modify" a work means to copy from or adapt all or part of the
+work in a fashion requiring copyright permission, other than the
+making of an exact copy.  The resulting work is called a "modified
+version" of the earlier work or a work "based on" the earlier work.
 
   A "Covered Work" means either the Program or a work based on the
 Program.
 
-  To "propagate" a work means to do anything with it that, without
-permission, would make You directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
-
-  To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
+  For the avoidance of doubt, "distribution" of a work does not
+include mere interaction with a user through a computer network, with
+no transfer of a copy.
 
   An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
 feature that (1) displays an appropriate copyright notice, and (2)
 tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
+extent that warranties are provided), that licensees may distribute the
 work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
@@ -78,18 +71,19 @@ Covered Work is covered by this License only if the output, given its
 content, constitutes a Covered Work.  This License acknowledges Your
 rights of fair use or other equivalent, as provided by copyright law.
 
-  You may make, run and propagate Covered Works that You do not
-convey, without conditions so long as Your license otherwise remains
-in force.  You may convey Covered Works to others for the sole purpose
-of having them make modifications exclusively for You, or provide You
+  You may make, run and copy Covered Works that You do not distribute,
+without conditions so long as Your license otherwise remains in force.
+You may distribute Covered Works to others for the sole purpose of
+having them make modifications exclusively for You, or provide You
 with facilities for running those works, provided that You comply with
-the terms of this License in conveying all material for which You do
-not control copyright.  Those thus making or running the Covered Works
-for You must do so exclusively on Your behalf, under Your direction
-and control, on terms that prohibit them from making any copies of
-Your copyrighted material outside their relationship with You.
+the terms of this License in distributing all material for which You
+do not control copyright.  Those thus making or running the Covered
+Works for You must do so exclusively on Your behalf, under Your
+direction and control, on terms that prohibit them from making any
+copies of Your copyrighted material outside their relationship with
+You.
 
-  Conveying under any other circumstances is permitted solely under
+  Distributing under any other circumstances is permitted solely under
 the conditions stated below.  Sublicensing is not allowed; section 9
 makes it unnecessary.
 
@@ -101,7 +95,7 @@ measure under any applicable law fulfilling obligations under article
 similar laws prohibiting or restricting circumvention of such
 measures.
 
-  When You convey a Covered Work, You waive any legal power to forbid
+  When You distribute a Covered Work, You waive any legal power to forbid
 circumvention of technological measures to the extent such circumvention
 is effected by exercising rights under this License with respect to
 the Covered Work, and You disclaim any intention to limit operation or
@@ -109,9 +103,9 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  4. Conveying Verbatim Copies.
+  4. Distributing Verbatim Copies.
 
-  You may convey verbatim copies of the Program's source code as You
+  You may distribute verbatim copies of the Program's source code as You
 receive it, in any medium, provided that You conspicuously and
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
@@ -119,12 +113,12 @@ non-permissive terms added in accord with section 7 apply to the code;
 keep intact all notices of the absence of any warranty; and give all
 recipients a copy of this License along with the Program.
 
-  You may charge any price or no price for each copy that You convey,
+  You may charge any price or no price for each copy that You distribute,
 and You may offer support or warranty protection for a fee.
 
-  5. Conveying Modified Source Versions.
+  5. Distributing Modified Source Versions.
 
-  You may convey a work based on the Program in the form of source
+  You may distribute a work based on the Program in the form of source
 code under the terms of section 4, provided that You also meet all of
 these conditions:
 
@@ -159,19 +153,19 @@ beyond what the individual works permit.  Inclusion of a Covered Work
 in an aggregate does not cause this License to apply to the other
 parts of the aggregate.
 
-  6. Conveying Non-Source Forms.
+  6. Distributing Non-Source Forms.
 
-  You may convey a Covered Work in object code form under the terms
-of sections 4 and 5, provided that You also convey the
+  You may distribute a Covered Work in object code form under the terms
+of sections 4 and 5, provided that You also distribute the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-    a) Convey the object code in, or embodied in, a physical product
+    a) Distribute the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
     Corresponding Source fixed on a durable physical medium
     customarily used for software interchange.
 
-    b) Convey the object code in, or embodied in, a physical product
+    b) Distribute the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by a
     written offer, valid for at least three years and valid for as
     long as You offer spare parts or customer support for that product
@@ -180,16 +174,16 @@ in one of these ways:
     product that is covered by this License, on a durable physical
     medium customarily used for software interchange, for a price no
     more than Your reasonable cost of physically performing this
-    conveying of source, or (2) access to copy the
+    distributing of source, or (2) access to copy the
     Corresponding Source from a network server at no charge.
 
-    c) Convey individual copies of the object code with a copy of the
+    c) Distribute individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
     only if You received the object code with such an offer, in accord
     with subsection 6b.
 
-    d) Convey the object code by offering access from a designated
+    d) Distribute the object code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
     Corresponding Source in the same way through the same place at no
     further charge.  You need not require recipients to copy the
@@ -202,7 +196,7 @@ in one of these ways:
     Corresponding Source, You remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
-    e) Convey the object code using peer-to-peer transmission, provided
+    e) Distribute the object code using peer-to-peer transmission, provided
     You inform other peers where the object code and Corresponding
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
@@ -228,12 +222,12 @@ suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.
 
-  If You convey an object code work under this section in, or with, or
-specifically for use in, a User Product, and the conveying occurs as
+  If You distribute an object code work under this section in, or with, or
+specifically for use in, a User Product, and the distributing occurs as
 part of a transaction in which the right of possession and use of the
 User Product is transferred to the recipient in perpetuity or for a
 fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
+Corresponding Source distributeed under this section must be accompanied
 by the Installation Information.  But this requirement does not apply
 if neither You nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
@@ -247,7 +241,7 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  Corresponding Source conveyed, and Installation Information provided,
+  Corresponding Source distributeed, and Installation Information provided,
 in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
@@ -264,7 +258,7 @@ apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
 this License without regard to the additional permissions.
 
-  When You convey a copy of a Covered Work, You may at Your option
+  When You distribute a copy of a Covered Work, You may at Your option
 remove any additional permissions from that copy, or from any part of
 it.  (Additional permissions may be written to require their own
 removal in certain cases when You modify the work.)  You may place
@@ -292,7 +286,7 @@ that material) supplement the terms of this License with terms:
     trade names, trademarks, or service marks; or
 
     f) Requiring indemnification of licensors and authors of that
-    material by anyone who conveys the material (or modified versions of
+    material by anyone who distributes the material (or modified versions of
     it) with contractual assumptions of liability to the recipient, for
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
@@ -302,21 +296,21 @@ restrictions" within the meaning of section 9.  If the Program as You
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
 restriction, You may remove that term.  If a license document contains
-a further restriction but permits relicensing or conveying under this
+a further restriction but permits relicensing or distributing under this
 License, You may add to a Covered Work material governed by the terms
 of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
+not survive such relicensing or distributing.
 
   Additional terms may be stated in the form of a separately written
 license or stated as exceptions to or qualifications of this License.
 
   8. Termination.
 
-  You may not propagate or modify a Covered Work except as expressly
-provided under this License.  Any unauthorized act of propagation or
-modification automatically terminates Your rights under this License
-(including any patent licenses granted under the third paragraph of
-section 10).
+  You may not copy, distribute or modify a Covered Work except as
+expressly provided under this License.  Any unauthorized act of
+copying, distribution or modification automatically terminates Your
+rights under this License (including any patent licenses granted under
+the third paragraph of section 10).
 
   However, if You cease all violation of this License, then Your
 license from a particular copyright holder is reinstated (a)
@@ -340,9 +334,9 @@ material under section 9.
 
   9. Automatic Licensing of Downstream Recipients.
 
-  Each time You convey a Covered Work, the recipient automatically
-receives a license from the original licensors, to run, modify and
-propagate that work, subject to this License.  
+  Each time You distribute a Covered Work, the recipient automatically
+receives a license from the original licensors, to run, copy, modify
+and distribute that work, subject to this License.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License.  For example, You may
@@ -370,8 +364,8 @@ this License.
 
   Each contributor grants You a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, modify and
-propagate the contents of its contributor version.
+make, use, sell, offer for sale, import and otherwise run, copy,
+modify and distribute the contents of its contributor version.
 
   In the following two paragraphs, a "patent license" is any express
 agreement or commitment, however denominated, not to enforce a patent
@@ -380,7 +374,7 @@ sue for patent infringement).  To "grant" such a patent license to a
 party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
-  If You convey a Covered Work, knowingly relying on a patent license,
+  If You distribute a Covered Work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
 to copy, free of charge and under the terms of this License, through a
 publicly available network server or other readily accessible means,
@@ -388,7 +382,7 @@ then You must either (1) cause the Corresponding Source to be so
 available, or (2) arrange, in a manner consistent with the
 requirements of this License, to extend the patent license to
 downstream recipients.  "Knowingly relying" means You have actual
-knowledge that, but for the patent license, Your conveying the Covered
+knowledge that, but for the patent license, Your distributing the Covered
 Work in a country, or Your recipient's use of the Covered Work in a
 country, would infringe one or more identifiable patents in that
 country that You have reason to believe are valid.
@@ -396,14 +390,14 @@ country that You have reason to believe are valid.
   A patent license is "discriminatory" if it does not include within
 the scope of its coverage, prohibits the exercise of, or is
 conditioned on the non-exercise of one or more of the rights that are
-specifically granted under this License.  You may not convey a covered
+specifically granted under this License.  You may not distribute a covered
 work if You are a party to an arrangement with a third party that is
 in the business of distributing software, under which You make payment
-to the third party based on the extent of Your activity of conveying
+to the third party based on the extent of Your activity of distributing
 the work, and under which the third party grants, to any of the
 parties who would receive the Covered Work from You, a discriminatory
 patent license (a) in connection with copies of the Covered Work
-conveyed by You (or copies made from those copies), or (b) primarily
+distributeed by You (or copies made from those copies), or (b) primarily
 for and in connection with specific products or compilations that
 contain the Covered Work, unless You entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.
@@ -417,13 +411,13 @@ otherwise be available to You under applicable patent law.
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
 not excuse You from the conditions of this License.  If You cannot
-convey a Covered Work in a way that would satisfy simultaneously Your
+distribute a Covered Work in a way that would satisfy simultaneously Your
 requirements under this License and any pertinent obligations
-extrinsic to this License, then as a consequence You may not convey it
+extrinsic to this License, then as a consequence You may not distribute it
 at all.  For example, if You agree to terms that obligate You to
-collect a royalty for further conveying from those to whom You convey
+collect a royalty for further distributing from those to whom You distribute
 the Program, the only way You could satisfy both those terms and this
-License would be to refrain entirely from conveying the Program.
+License would be to refrain entirely from distributing the Program.
 
   12. Compatibility with GNU GPL and GNU AGPL.
 
@@ -475,11 +469,12 @@ Program is authorized under this License except under this disclaimer.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
-and/or conveys the Program as permitted above, be liable to You for
-damages, including any general, special, incidental or consequential
-damages arising out of the use or inability to use the Program
-(including but not limited to loss of data or data being rendered
-inaccurate or losses sustained by You or third parties or a failure of
-the Program to operate with any other programs), even if such holder
-or other party has been advised of the possibility of such damages.
+and/or distributes the Program as permitted above, be liable to You
+for damages, including any general, special, incidental or
+consequential damages arising out of the use or inability to use the
+Program (including but not limited to loss of data or data being
+rendered inaccurate or losses sustained by You or third parties or a
+failure of the Program to operate with any other programs), even if
+such holder or other party has been advised of the possibility of such
+damages.
 
