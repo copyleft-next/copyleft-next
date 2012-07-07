@@ -1,15 +1,16 @@
 GPL.next
 ========
 
-GPL.next is a fork of the GNU General Public License, version 3,
-initiated by Richard Fontana. Contributions of patches, ideas, and
-criticism are welcome. Forks in the GitHub sense are encouraged. The
-goal of this effort is to develop an improved strong copyleft free
-software license.
+GPL.next is a fork of the GNU General Public License, version
+3. Contributions of patches, ideas, and criticism are welcome. Forks
+in the GitHub sense are encouraged. The goal of this effort is to
+develop an improved strong copyleft free software license.
 
 **This is *not* an effort endorsed by the Free Software Foundation or
-the GNU project. This is also *not* an effort associated in any way
-with Red Hat** (Richard Fontana's employer).
+the GNU Project. This is also *not* an effort associated in any way
+with Red Hat (the employer of one of the current participants) or any
+other company.** Contributors are expected to participate in their
+individual capacity.
 
 The FSF has asserted copyright in the text of the GNU GPLv3. However,
 the FSF has expressly authorized (though discouraged) modified
