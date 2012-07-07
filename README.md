@@ -47,6 +47,14 @@ generic. Indeed, the common use of "public license" in free software
 license names without the word "general" probably represents a
 historical failure to parse "GPL" correctly.
 
+A couple of people have nevertheless questioned use of the name
+"GPL.next" on the assumption that the FSF holds a proprietary interest
+in the initialism "GPL". If this represents general sentiment and/or
+the view of RMS, the name of the project will certainly be changed
+with all speed. ("Copyleft.next" has been suggested as an alternative
+name by one critic and potential participant, but other suggestions
+are welcome.)
+
 All copyrightable materials included in this project, other than any
 copied or adapted portions of GNU license texts and except where
 otherwise indicated, are dedicated to the public domain to the maximum
