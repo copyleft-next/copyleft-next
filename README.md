@@ -38,22 +38,20 @@ that meta-license may be stated as follows:
   adapted, they must be modified "enough to make it clearly different
   in wording and not mention GNU".
 
-The name "GPL.next" is "another name" in the sense meant in this
-meta-license. (It would be a violation of the meta-license to use the
-"GNU" name, of course.) Contrary to what some believe, the "G" in
-"GPL" does not stand for "GNU", but "General"; "GPL" means "license to
-(or for) the general public". As such, the name "GPL" seems
-generic. Indeed, the common use of "public license" in free software
-license names without the word "general" probably represents a
-historical failure to parse "GPL" correctly.
+The name "GPL.next" is considered to be "another name" in the sense
+meant in this meta-license. (It would be a violation of the
+meta-license to use the "GNU" name, of course.) The "G" in "GPL" does
+not stand for "GNU", but "General"; "GPL" means "license to (or for)
+the general public", and is justifiably regarded as the earliest
+generic term for a FLOSS license.
 
 A couple of people have nevertheless questioned use of the name
-"GPL.next" on the assumption that the FSF holds a proprietary interest
-in the initialism "GPL". If this represents general sentiment and/or
-the view of RMS, the name of the project will certainly be changed
-with all speed. ("Copyleft.next" has been suggested as an alternative
-name by one critic and potential participant, but other suggestions
-are welcome.)
+"GPL.next" on the apparent assumption that the FSF holds a proprietary
+interest in the initialism "GPL". If this represents general sentiment
+and/or the view of RMS, the name of the project will certainly be
+changed with all speed. ("Copyleft.next" has been suggested as an
+alternative name by one critic and potential participant, but other
+suggestions are welcome.)
 
 All copyrightable materials included in this project, other than any
 copied or adapted portions of GNU license texts and except where
