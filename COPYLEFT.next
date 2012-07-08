@@ -208,7 +208,7 @@ characterized), the Corresponding Source distributed under this
 section must be accompanied by the Installation Information.  But this
 requirement does not apply if neither You nor any third party retains
 the ability to install modified Object Code on the User Product (for
-example, the work has been installed in ROM).
+example, the work has been installed in non-field-modifiable ROM).
 
   The requirement to provide Installation Information does not include a
 requirement to continue to provide support service, warranty, or updates
