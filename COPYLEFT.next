@@ -19,15 +19,6 @@ Program.
 include mere interaction with a user through a computer network, with
 no transfer of a copy.
 
-  An interactive user interface displays "Appropriate Legal Notices"
-to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may distribute the
-work under this License, and how to view a copy of this License.  If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
-
   "License Steward" is [to be defined]. 
 
   1. Source Code.
@@ -142,9 +133,12 @@ conditions:
     way, but it does not invalidate such permission if You have
     separately received it.
 
-    d) If the Program has interactive user interfaces that display
-    Appropriate Legal Notices, then any interactive user interfaces of
-    Your Modified Version must also display Appropriate Legal Notices.
+    d) If the Program's interactive user interfaces display copyright
+    notices, license notices, warranty disclaimers, and/or textual
+    author attributions (collectively, "Legal Notices"), such Legal
+    Notices must be preserved by Your Modified Version, solely to the
+    extent it has corresponding interfaces. This clause shall be
+    interpreted liberally in favor of Your right of modification.
 
   A compilation of a Covered Work with other separate and independent
 works, which are not by their nature extensions of the Covered Work,
