@@ -109,7 +109,7 @@ conditions:
 
     b) The Modified Version must carry prominent notices stating that
     it is released under this License and any conditions added under
-    section 7.  This requirement modifies the requirement in section 4
+    section 7.  This requirement modifies the requirement in section 3
     to "keep intact all notices".
 
     c) You must license the entire Modified Version, as a whole, under
@@ -141,7 +141,7 @@ parts of the Aggregate.
   5. Distributing Object Code.
 
   You may distribute a Covered Work in object code form under the terms
-of sections 4 and 5, provided that You also distribute the
+of sections 3 and 4, provided that You also distribute the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
@@ -166,7 +166,7 @@ in one of these ways:
     the written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
     only if You received the Object Code with such an offer, in accord
-    with subsection 6b.
+    with subsection 5b.
 
     d) Distribute the Object Code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
@@ -235,7 +235,7 @@ add to a Covered Work, You may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 16 and 17 of this License; or
+    terms of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material; or
@@ -251,7 +251,7 @@ that material) supplement the terms of this License with terms:
     trade names, trademarks, or service marks.
 
   All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 10.  If the Program as You
+restrictions" within the meaning of section 9.  If the Program as You
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
 restriction, You may remove that term.  If a license document contains
@@ -289,7 +289,7 @@ Your receipt of the notice.
 licenses of parties who have received copies or rights from You under
 this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
-material under section 10.
+material under section 9.
 
   9. Automatic Licensing of Downstream Recipients.
 
