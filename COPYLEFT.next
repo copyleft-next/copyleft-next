@@ -2,57 +2,46 @@
 
   0. Definitions.
 
-  "You" means a person exercising rights under this License.
-
   "The Program" means a particular copyrightable work licensed under
 this License and received by You.
 
-  To "modify" a work means to copy from or adapt all or part of the
-work in a fashion requiring copyright permission, other than the
-making of an exact copy.  The resulting work is called a "Modified
-Version" of the earlier work.
+  "You" means a person exercising rights under this License.
 
-  A "Covered Work" means either the Program or a work based on the
-Program.
+  "Modify" means to copy from or adapt all or part of a work such that
+copyright permission is required, but does not include the making of a
+verbatim copy of the entire work.  When you modify the Program, the
+resulting work is a "Modified Version".
+
+  "Covered Work" means either the Program or a Modified Version.
+
+  "Source Code" for a work means the preferred form of the work
+for making modifications to it.  
+
+  "Object Code" means any form of a work other than Source Code.
+
+  "Corresponding Source" for an Object Code work means all the Source
+Code needed to generate, install, and (for an executable work) run the
+object code and to modify the work, including scripts to control those
+activities.  However, it does not include the work's System Libraries
+(as defined below), or general-purpose tools or generally available
+free programs which are used unmodified in performing those activities
+but which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the Source Code of shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.  "System Libraries" of an
+executable work means any part of the work that is normally
+distributed with (i) the major components (kernel, window system, and
+so on) of the operating system on which the executable runs or (ii) a
+compiler used to produce the executable or (iii) an object code
+interpreter used to run the executable.
 
   For the avoidance of doubt, "distribution" of a work does not
 include mere interaction with a user through a computer network, with
 no transfer of a copy.
 
-  "License Steward" is [to be defined]. 
-
-  1. Source Code.
-
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
-form of a work.
-
-  A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
-
-  "System Libraries" of an executable work means any part of the work
-that is normally distributed (in either source code or object code
-form) with (i) the major components (kernel, window system, and so on)
-of the operating system on which the executable runs or (ii) a
-compiler used to produce the executable or (iii) an object code
-interpreter used to run the executable.
-
-  The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
-control those activities.  However, it does not include the work's
-System Libraries, or general-purpose tools or generally available free
-programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
-
-  2. Basic Permissions.
+  1. Basic Permissions.
 
   All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
@@ -81,7 +70,7 @@ You.
 the conditions stated below.  Sublicensing is not allowed; section 9
 makes it unnecessary.
 
-  3. Anti-Circumvention Law.
+  2. Anti-Circumvention Law.
 
   No Covered Work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -97,10 +86,10 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  4. Distributing Verbatim Copies.
+  3. Distributing Verbatim Copies.
 
-  You may distribute verbatim copies of the Program's source code as You
-receive it, in any medium, provided that You conspicuously and
+  You may distribute verbatim copies of the Program's Source Code as
+You receive it, in any medium, provided that You conspicuously and
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
 non-permissive terms added in accord with section 7 apply to the code;
@@ -110,10 +99,10 @@ recipients a copy of this License along with the Program.
   You may charge any price or no price for each copy that You distribute,
 and You may offer support or warranty protection for a fee.
 
-  5. Distributing Modified Versions.
+  4. Distributing Modified Versions.
 
-  You may distribute a Modified Version in source code form under the
-terms of section 4, provided that You also meet all of these
+  You may distribute a Modified Version in Source Code form under the
+terms of section 3, provided that You also meet all of these
 conditions:
 
     a) The Modified Version must carry prominent notices stating that
@@ -150,42 +139,42 @@ beyond what the individual works permit.  Inclusion of a Covered Work
 in an Aggregate does not cause this License to apply to the other
 parts of the Aggregate.
 
-  6. Distributing Non-Source Forms.
+  5. Distributing Object Code.
 
   You may distribute a Covered Work in object code form under the terms
 of sections 4 and 5, provided that You also distribute the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-    a) Distribute the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by the
-    Corresponding Source fixed on a durable physical medium
+    a) Distribute the Object Code in, or embodied in, a physical
+    product (including a physical distribution medium), accompanied by
+    the Corresponding Source fixed on a durable physical medium
     customarily used for software interchange.
 
-    b) Distribute the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by a
-    written offer, valid for at least three years and valid for as
+    b) Distribute the Object Code in, or embodied in, a physical
+    product (including a physical distribution medium), accompanied by
+    a written offer, valid for at least three years and valid for as
     long as You offer spare parts or customer support for that product
-    model, to give anyone who possesses the object code either (1) a
+    model, to give anyone who possesses the Object Code either (1) a
     copy of the Corresponding Source for all the software in the
     product that is covered by this License, on a durable physical
     medium customarily used for software interchange, for a price no
     more than Your reasonable cost of physically performing this
-    distributing of source, or (2) access to copy the
-    Corresponding Source from a network server at no charge.
+    distributing of source, or (2) access to copy the Corresponding
+    Source from a network server at no charge.
 
-    c) Distribute individual copies of the object code with a copy of the
-    written offer to provide the Corresponding Source.  This
+    c) Distribute individual copies of the Object Code with a copy of
+    the written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
-    only if You received the object code with such an offer, in accord
+    only if You received the Object Code with such an offer, in accord
     with subsection 6b.
 
-    d) Distribute the object code by offering access from a designated
+    d) Distribute the Object Code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
     Corresponding Source in the same way through the same place at no
     further charge.  You need not require recipients to copy the
-    Corresponding Source along with the object code.  If the place to
-    copy the object code is a network server, the Corresponding Source
+    Corresponding Source along with the Object Code.  If the place to
+    copy the Object Code is a network server, the Corresponding Source
     may be on a different server (operated by You or a third party)
     that supports equivalent copying facilities, provided You maintain
     clear directions next to the object code saying where to find the
@@ -193,17 +182,17 @@ in one of these ways:
     Corresponding Source, You remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
-    e) Distribute the object code using peer-to-peer transmission, provided
-    You inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
+    e) Distribute the Object Code using peer-to-peer transmission,
+    provided You inform other peers where the Object Code and
+    Corresponding Source of the work are being offered to the general
+    public at no charge under subsection 6d.
 
   Corresponding Source distributed in accord with this section must be
 in a format that is publicly documented (and with an implementation
-available to the public in source code form), and must require no
-special password or key for unpacking, reading or copying.
+available to the public as Source Code), and must require no special
+password or key for unpacking, reading or copying.
 
-  7. User Product Lockdown.
+  6. User Product Lockdown.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
@@ -219,14 +208,14 @@ commercial, industrial or non-consumer uses, unless such uses represent
 the only significant mode of use of the product.
 
   "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
-and execute modified versions of a Covered Work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely because
-modification has been made.
+procedures, authorization keys, or other information required to
+install and execute modified versions of a Covered Work in that User
+Product from a modified version of its Corresponding Source.  The
+information must suffice to ensure that the continued functioning of
+the modified Object Code is in no case prevented or interfered with
+solely because modification has been made.
 
-  If You distribute an object code work under section 6 in, or with,
+  If You distribute an Object Code work under section 5 in, or with,
 or specifically for use in, a User Product, and the distributing
 occurs as part of a transaction in which the right of possession and
 use of the User Product is transferred to the recipient in perpetuity
@@ -234,7 +223,7 @@ or for a fixed term (regardless of how the transaction is
 characterized), the Corresponding Source distributed under this
 section must be accompanied by the Installation Information.  But this
 requirement does not apply if neither You nor any third party retains
-the ability to install modified object code on the User Product (for
+the ability to install modified Object Code on the User Product (for
 example, the work has been installed in ROM).
 
   The requirement to provide Installation Information does not include a
@@ -245,7 +234,7 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  8. Additional Terms.
+  7. Additional Terms.
 
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
@@ -296,7 +285,7 @@ does not survive such relicensing or distributing.
   Additional terms may be stated in the form of a separately written
 license or stated as exceptions to or qualifications of this License.
 
-  9. Termination.
+  8. Termination.
 
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
@@ -324,7 +313,7 @@ this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
 material under section 10.
 
-  10. Automatic Licensing of Downstream Recipients.
+  9. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
 receives a license from the original licensors, to run, copy, modify
@@ -343,7 +332,7 @@ License 2.0, as published by the Apache Software Foundation, shall not
 be deemed to give rise to imposition of a further restriction under
 this section.
 
-  11. Upstream Patent Licenses.
+  10. Upstream Patent Licenses.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -368,7 +357,7 @@ modify and distribute the contents of its contributor version.
 any implied license or other defenses to infringement that may
 otherwise be available to You under applicable patent law.
 
-  12. Liberty or Death.
+  11. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
@@ -397,7 +386,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  13. Compatibility with GNU GPL and GNU AGPL.
+  12. Compatibility with GNU GPL and GNU AGPL.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -405,15 +394,16 @@ version of the GNU General Public License and any version of the GNU
 Affero General Public License published by the Free Software
 Foundation.
 
-  14. New Versions of this License.
+  13. New Versions of this License.
 
-  The License Steward may publish new versions of Copyleft.next.  Each
-version will be given a distinguishing version number. You may
-distribute a Covered Work under the terms of the version of
-Copyleft.next under which the Program is licensed, or under the terms
-of any subsequent version published by the License Steward.
+  The initial License Steward is [?]. The License Steward may publish
+new versions of Copyleft.next.  Each version will be given a
+distinguishing version number. You may distribute a Covered Work under
+the terms of the version of Copyleft.next under which the Program is
+licensed, or under the terms of any subsequent version published by
+the License Steward.
 
-  15. Disclaimer of Warranty.
+  14. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -426,7 +416,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  16. Limitation of Liability.
+  15. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
