@@ -38,37 +38,36 @@ compiler used to produce the executable or (iii) an object code
 interpreter used to run the executable.
 
   For the avoidance of doubt, "distribution" of a work does not
-include mere interaction with a user through a computer network, with
-no transfer of a copy.
+include:
+
+  a) mere interaction with a user through a computer network, with no
+  transfer of the work to the user; and
+  
+  b) transfer of a copy to others for the sole purpose of having them
+make modifications exclusively for You, or provide You with facilities
+for running the work, where such others perform such activities
+exclusively on Your behalf, under Your direction and control, on terms
+that prohibit them from making any copies of Your copyrighted material
+outside their relationship with You.
 
   1. Basic Permissions.
 
   All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
-conditions are met.  This License explicitly affirms Your unlimited
-permission to run the Program.  The output from running a Covered Work
-is covered by this License only if the output, given its content,
-constitutes a Covered Work.  
+conditions are met.  
+
+  Permission to run the Program is unrestricted.
+
+  The output from running a Covered Work is governed by this License
+only if the output itself constitutes a Covered Work.
 
   This License is not intended to limit any rights You have under
 applicable copyright doctrines of fair use, fair dealing or other
 equivalents.
 
-  You may make, run and copy Covered Works that You do not distribute,
-without conditions so long as Your license otherwise remains in force.
-You may distribute Covered Works to others for the sole purpose of
-having them make modifications exclusively for You, or provide You
-with facilities for running those works, provided that You comply with
-the terms of this License in distributing all material for which You
-do not control copyright.  Those thus making or running the Covered
-Works for You must do so exclusively on Your behalf, under Your
-direction and control, on terms that prohibit them from making any
-copies of Your copyrighted material outside their relationship with
-You.
-
-  Distributing under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 9
-makes it unnecessary.
+  You have unconditional permission to make, run and copy Covered
+Works that You do not distribute, so long as Your rights to do so have
+not otherwise been terminated under section 8.
 
   2. Anti-Circumvention Law.
 
@@ -236,28 +235,12 @@ protocols for communication across the network.
 
   7. Additional Terms.
 
-  "Additional permissions" are terms that supplement the terms of this
-License by making exceptions from one or more of its conditions.
-Additional permissions that are applicable to the entire Program shall
-be treated as though they were included in this License, to the extent
-that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
-
-  When You distribute a copy of a Covered Work, You may at Your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when You modify the work.)  You may place
-additional permissions on material, added by You to a Covered Work,
-for which You have or can give appropriate copyright permission.
-
   Notwithstanding any other provision of this License, for material You
 add to a Covered Work, You may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
+    terms of sections 16 and 17 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material; or
@@ -283,7 +266,7 @@ terms of that license document, provided that the further restriction
 does not survive such relicensing or distributing.
 
   Additional terms may be stated in the form of a separately written
-license or stated as exceptions to or qualifications of this License.
+license or stated as qualifications of this License.
 
   8. Termination.
 
@@ -332,7 +315,7 @@ License 2.0, as published by the Apache Software Foundation, shall not
 be deemed to give rise to imposition of a further restriction under
 this section.
 
-  10. Upstream Patent Licenses.
+  10. Patent Licenses.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
