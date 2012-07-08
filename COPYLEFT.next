@@ -37,18 +37,16 @@ so on) of the operating system on which the executable runs or (ii) a
 compiler used to produce the executable or (iii) an object code
 interpreter used to run the executable.
 
-  For the avoidance of doubt, "distribution" of a work does not
-include:
-
-  a) mere interaction with a user through a computer network, with no
-  transfer of the work to the user; and
-  
-  b) transfer of a copy to others for the sole purpose of having them
-make modifications exclusively for You, or provide You with facilities
-for running the work, where such others perform such activities
-exclusively on Your behalf, under Your direction and control, on terms
-that prohibit them from making any copies of Your copyrighted material
-outside their relationship with You.
+  For purposes of this License, "distribution" of a work does not
+include transfer of a copy to others for the sole purpose of having
+them make modifications exclusively for You, or provide You with
+facilities for running the work, where such others perform such
+activities exclusively on Your behalf, under Your direction and
+control, on terms that prohibit them from making any copies of Your
+copyrighted material outside their relationship with You.  For the
+avoidance of doubt, "distribution" also does not include mere
+interaction with a user through a computer network, with no transfer
+of the work to the user.
 
   1. Basic Permissions.
 
