@@ -119,42 +119,42 @@ recipients a copy of this License along with the Program.
   You may charge any price or no price for each copy that You distribute,
 and You may offer support or warranty protection for a fee.
 
-  5. Distributing Modified Source Versions.
+  5. Distributing Modified Versions.
 
-  You may distribute a work based on the Program in the form of source
-code under the terms of section 4, provided that You also meet all of
-these conditions:
+  You may distribute a Modified Version in source code form under the
+terms of section 4, provided that You also meet all of these
+conditions:
 
-    a) The work must carry prominent notices stating that You modified
-    it, and giving a relevant date.
+    a) The Modified Version must carry prominent notices stating that
+    You modified the Program, and giving a relevant date.
 
-    b) The work must carry prominent notices stating that it is
-    released under this License and any conditions added under section
-    7.  This requirement modifies the requirement in section 4 to
-    "keep intact all notices".
+    b) The Modified Version must carry prominent notices stating that
+    it is released under this License and any conditions added under
+    section 7.  This requirement modifies the requirement in section 4
+    to "keep intact all notices".
 
-    c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy.  This
+    c) You must license the entire Modified Version, as a whole, under
+    this License to anyone who comes into possession of a copy.  This
     License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged.  This License gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if You have separately received it.
+    additional terms, to the whole of the Modified Version, and all
+    its parts, regardless of how they are packaged.  This License
+    gives no permission to license the Modified Version in any other
+    way, but it does not invalidate such permission if You have
+    separately received it.
 
-    d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, Your
-    work need not make them do so.
+    d) If Program has interactive user interfaces that display
+    Appropriate Legal Notices, then any interactive user interfaces of
+    Your Modified Version must also display Appropriate Legal Notices.
 
   A compilation of a Covered Work with other separate and independent
 works, which are not by their nature extensions of the Covered Work,
 and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
-"aggregate" if the compilation and its resulting copyright are not
+"Aggregate" if the compilation and its resulting copyright are not
 used to limit the access or legal rights of the compilation's users
 beyond what the individual works permit.  Inclusion of a Covered Work
-in an aggregate does not cause this License to apply to the other
-parts of the aggregate.
+in an Aggregate does not cause this License to apply to the other
+parts of the Aggregate.
 
   6. Distributing Non-Source Forms.
 
