@@ -5,9 +5,9 @@ All original contributions to Copyleft.next are dedicated to the
 public domain to the maximum extent permitted by applicable law,
 pursuant to CC0. See CC0 for further details.
 
-Contributions from individual free software project participants,
-regardless of their views on copyleft, and regardless of their
-opinions on existing licenses such as the GNU GPLv2 and its
+Contributions from individual free/libre/open source software project
+participants, regardless of their views on copyleft, and regardless of
+their opinions on existing licenses such as the GNU GPLv2 and its
 successors, are especially welcome and strongly encouraged.
 
 
@@ -31,6 +31,10 @@ Birdman Rule means:
   * All who wish to contribute are expected to do so by using the same
     software development methodology already in place for this project
     (for example, the use of git). 
+
+  * Private telephone calls, private teleconferences and private
+    in-person meetings shall not be used to discuss substantive
+    development of this project.
 
 
 Public Source Locations
