@@ -1,13 +1,49 @@
-Contributions of any sort from all interested individuals are welcome
-and encouraged.  All original contributions to Copyleft.next are
-dedicated to the public domain to the maximum extent permitted by
-applicable law, pursuant to CC0. See CC0 for further details.
 
-Note that Gitorious (https://gitorious.org/copyleft-next) is now the
-centralized location of source for this project. It will be mirrored
-at a GitHub repo (currently
-https://github.com/richardfontana/Copyleft.next) for the time being, and
-perhaps indefinitely.
+Contributions of any sort (text suggestions, ideas, feedback,
+criticism) from all interested individuals are welcome and encouraged.
+All original contributions to Copyleft.next are dedicated to the
+public domain to the maximum extent permitted by applicable law,
+pursuant to CC0. See CC0 for further details.
+
+Contributions from individual free software project participants,
+regardless of their views on copyleft, and regardless of their
+opinions on existing licenses such as the GNU GPLv2 and its
+successors, are especially welcome and strongly encouraged.
+
+
+Harvey Birdman Rule
+===================
+
+Contributions from lawyers are welcome, but note that the Harvey
+Birdman Rule applies to such contributions (as well as to
+contributions from non-lawyers, of course). Stated here for the first
+time, and subject to revision and further elaboration, the Harvey
+Birdman Rule means:
+
+  * Contributions in the form of word-processing documents (even if in
+    a free/open standard format), "redlined" or otherwise, are
+    unacceptable and will be deleted immediately.
+
+  * No private mailing lists (governed by the so-called Chatham House
+    Rule or similar) will be used by this project. If mailing lists
+    are used, their archives will be public. 
+
+  * All who wish to contribute are expected to do so by using the same
+    software development methodology already in place for this project
+    (for example, the use of git). 
+
+
+Public Source Locations
+=======================
+
+Gitorious (https://gitorious.org/copyleft-next) is now the centralized
+location of source for this project. It will be mirrored at a GitHub
+repo (currently https://github.com/richardfontana/Copyleft.next) for
+the time being, and perhaps indefinitely.
+
+
+Issue Tracking
+==============
 
 The issue tracker associated with
 https://github.com/richardfontana/Copyleft.next shall be kept open for the
