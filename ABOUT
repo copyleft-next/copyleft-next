@@ -1,11 +1,11 @@
 Copyleft.next
 =============
 
-Copyleft.next is an experimental fork of the GNU General Public
-License, version 3. Contributions of patches, ideas, and criticism are
-welcome. Forks/clones are encouraged. The goal of this effort is to
-develop an improved strong copyleft free software license. Needless to
-say, no one should actually *use* a development version of
+Copyleft.next is an experimental "-ng"-type version of the GNU General
+Public License, version 3. (It is *not* a fork.)  Contributions of
+patches, ideas, and criticism are welcome. The goal of this effort is
+to develop an improved strong copyleft free software license. Needless
+to say, no one should actually *use* a development version of
 Copyleft.next as an actual license.
 
 **This is *not* an effort endorsed by the Free Software Foundation or
@@ -14,18 +14,19 @@ with (e.g.) Red Hat, the Software Freedom Conservancy, or any other
 corporate entity.** Contributors are expected to participate in their
 individual capacity.
 
-Some journalists have expressed interest in this project. All
-communications with journalists shall be handled by the Copyleft.next
-Marketing Committee, which does not exist yet and probably won't exist
-for at least another year or three. For the avoidance of doubt, Simon
-Phipps is not considered a journalist.
+All communications with journalists shall be handled by the
+Copyleft.next Marketing Committee, which does not exist yet and
+probably won't exist for at least another year or three. For the
+avoidance of doubt, Simon Phipps is not considered a
+journalist. (UPDATE: Bradley Kuhn has been elected to be the
+Copyleft.next Marketing Committee, though he may not be aware of it.)
 
 The FSF has asserted copyright in the text of the GNU GPLv3. However,
 the FSF has expressly authorized (though discouraged) modified
 versions of the GNU GPL, subject to certain conditions:
 http://www.gnu.org/licenses/gpl-faq.html#ModifyGPL
 
-Every effort shall be made to make this fork compatible with all
+Every effort shall be made to make this project compatible with all
 existing (and future) versions of the GNU GPL, which addresses one of
 the FSF's concerns about modified versions of the GNU GPL.
 
