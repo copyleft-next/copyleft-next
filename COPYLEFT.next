@@ -54,17 +54,20 @@ window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
+  "Contractor Transfer" means Your transfer of a Covered Work to a
+recipient for the sole purpose of having the recipient make
+modifications exclusively for You, or providing You with facilities
+for running the Covered Work, where the recipient performs such
+activities exclusively on Your behalf, under Your direction and
+control, on terms extrinsic to this License that prohibit making
+copies of Your copyrighted material not authorized by You.
+
   "Distribute" means to transfer or make available copies of Covered
 Works to others, to the extent such activity requires copyright
-permission. However, Distribution does not include transfer for the
-sole purpose of having the recipient make modifications exclusively
-for You, or providing You with facilities for running the Covered
-Work, where the recipient performs such activities exclusively on Your
-behalf, under Your direction and control, on terms that prohibit
-making copies of Your copyrighted material not specifically authorized
-by You. For the avoidance of doubt, "Distribution" also does not
-include mere interaction with a user through a computer network,
-without any transfer of a Covered Work to the user.
+permission. Distribution does not include Contractor Transfer. For the
+avoidance of doubt, "Distribution" also does not include mere
+interaction with a user through a computer network, without any
+transfer of a Covered Work to the user.
 
   1. Basic Permissions.
 
