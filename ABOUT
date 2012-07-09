@@ -6,7 +6,10 @@ Public License, version 3. (It is *not* a fork.)  Contributions of
 patches, ideas, and criticism are welcome. The goal of this effort is
 to develop an improved strong copyleft free software license. Needless
 to say, no one should actually *use* a development version of
-Copyleft.next as an actual license.
+Copyleft.next as an actual license. Anyone interested in actually
+using a strong copyleft license for code will wish to use one or more
+of the following licenses: GNU GPLv2, GNU GPLv3, GNU AGPLv3, and/or
+later versions of those licenses.
 
 **This is *not* an effort endorsed by the Free Software Foundation or
 the GNU Project. This is also *not* an effort associated in any way
