@@ -46,12 +46,13 @@ includes interface definition files associated with source files for
 the work, and the Source Code of shared libraries and dynamically
 linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
-subprograms and other parts of the work.  "System Libraries" of an
-executable work means any part of the work that is normally
-distributed with (i) the major components (kernel, window system, and
-so on) of the operating system on which the executable runs or (ii) a
-compiler used to produce the executable or (iii) an object code
-interpreter used to run the executable.
+subprograms and other parts of the work.  
+
+  "System Libraries" of an executable work means any part of the work
+that is normally distributed with (i) the major components (kernel,
+window system, and so on) of the operating system on which the
+executable runs or (ii) a compiler used to produce the executable or
+(iii) an object code interpreter used to run the executable.
 
   "Distribute" means to transfer or make available copies of Covered
 Works to others, to the extent such activity requires copyright
