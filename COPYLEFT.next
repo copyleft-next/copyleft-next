@@ -77,6 +77,10 @@ published by the Free Software Foundation.
 
   "Proprietary Terms" means [to be defined].
 
+  "Legal Notices" means copyright notices, license notices, warranty
+disclaimers, textual author attributions and/or other kinds of legal
+notices customarily appearing in free software source code.
+
   1. Basic Permissions.
 
   Subject to the terms and conditions of this License, We hereby grant
@@ -140,12 +144,11 @@ conditions:
     a Covered Work under Proprietary Terms, this subsection 2c shall
     not apply to Your Derivative Work.
 
-    d) If the Program's interactive user interfaces display copyright
-    notices, license notices, warranty disclaimers, and/or textual
-    author attributions (collectively, "Legal Notices"), such Legal
-    Notices must be preserved by Your Derivative Work, solely to the
-    extent it has corresponding interfaces. This clause shall be
-    interpreted liberally in favor of Your right of modification.
+    d) If the Program's interactive user interfaces display Legal
+    Notices, such Legal Notices must be preserved by Your Derivative
+    Work, solely to the extent it has corresponding interfaces. This
+    clause shall be interpreted liberally in favor of Your right of
+    modification.
 
   5. Distributing Object Code.
 
