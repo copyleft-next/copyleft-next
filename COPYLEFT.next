@@ -296,44 +296,21 @@ material under section 9.
   9. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
-receives a license from the original licensors, to run, copy, modify
-and distribute that work, subject to this License.
+receives permission from Us to run, copy, modify and distribute the
+Covered Work, subject to this License.
+
+  10. No Further Restrictions.
 
   You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License.  For example, You may
-not initiate litigation (including a cross-claim or counterclaim in a
-lawsuit) alleging that any patent claim is infringed by making, using,
-selling, offering for sale, or importing the Program or any portion of
-it.
+rights granted or affirmed under this License. Further restrictions
+include initiation of litigation (including a cross-claim or
+counterclaim in a lawsuit) alleging that any patent claim is infringed
+by making, using, selling, offering for sale, or importing the Program
+or any portion of it.
 
   Distribution of a Covered Work containing material covered by the
-Apache License 2.0, as published by the Apache Software Foundation,
-does not impose any further restriction under this section.
-
-  10. Patent Licenses.
-
-  A "contributor" is a copyright holder who authorizes use under this
-License of the Program or a work on which the Program is based.  The
-work thus licensed is called the contributor's "contributor version".
-
-  A contributor's "essential patent claims" are all patent claims
-owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling its contributor version,
-but do not include claims that would be infringed only as a
-consequence of further modification of the contributor version.  For
-purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
-this License.
-
-  Each contributor grants You a non-exclusive, worldwide, royalty-free
-patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, copy,
-modify and distribute the contents of its contributor version.
-
-  Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
-otherwise be available to You under applicable patent law.
+Apache License 2.0, as published by the Apache Software Foundation, is
+not imposition of a further restriction under this section.
 
   11. Liberty or Death.
 
@@ -364,7 +341,32 @@ however denominated, not to enforce a patent (such as an express
 permission to practice a patent or covenant not to sue for patent
 infringement).
 
-  12. Compatibility with GNU Strong Copyleft Licenses.
+  12. Patent Licenses.
+
+  A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's "contributor version".
+
+  A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.  For
+purposes of this definition, "control" includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.
+
+  Each contributor grants You a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, copy,
+modify and distribute the contents of its contributor version.
+
+  Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to You under applicable patent law.
+
+  13. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -372,7 +374,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  13. New Versions of this License.
+  14. New Versions of this License.
 
   The initial License Steward is [?]. The License Steward may publish
 new versions of Copyleft.next.  Each version will be given a
@@ -381,7 +383,7 @@ the terms of the version of Copyleft.next under which the Program is
 licensed, or under the terms of any subsequent version published by
 the License Steward.
 
-  14. Disclaimer of Warranty.
+  15. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -394,7 +396,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  15. Limitation of Liability.
+  16. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
