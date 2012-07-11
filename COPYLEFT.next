@@ -145,7 +145,7 @@ a copy of this License along with the Program.
   5. Distributing Derivative Works.
 
   You may distribute a Derivative Work in Source Code form under the
-terms of section 3, provided that You also meet all of these
+terms of section 4, provided that You also meet all of these
 conditions:
 
     a) The Derivative Work must carry prominent notices stating that
@@ -173,45 +173,52 @@ conditions:
   6. Distributing Object Code.
 
   You may distribute a Covered Work in object code form under the terms
-of sections 3 and 4, provided that You also distribute the
+of sections 4 and 5, provided that You also distribute the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-    a) Distribute the Object Code in, or embodied in, a physical
-    product (including a physical distribution medium), accompanied by
-    the Corresponding Source fixed on a durable physical medium
-    customarily used for software interchange.
+    a) Simultaneous Distribution.
 
-    b) Distribute the Object Code in, or embodied in, a physical
-    product (including a physical distribution medium), accompanied by
-    a written offer, valid for at least three years and valid for as
-    long as You offer spare parts or customer support for that product
-    model, to give anyone who possesses the Object Code either (1) a
-    copy of the Corresponding Source for all the software in the
-    product that is covered by this License, on a durable physical
-    medium customarily used for software interchange, for a price no
-    more than Your reasonable cost of physically performing this
-    distributing of source, or (2) access to copy the Corresponding
-    Source from a network server at no charge.
+      i) Distribute the Object Code in, or embodied in, a physical
+         product (including a physical distribution medium),
+         accompanied by the Corresponding Source fixed on a durable
+         physical medium customarily used for software interchange.
 
-    c) Distribute individual copies of the Object Code with a copy of
-    the written offer to provide the Corresponding Source.  This
-    alternative is allowed only occasionally and noncommercially, and
-    only if You received the Object Code with such an offer, in accord
-    with subsection 5b.
+     ii) Distribute the Object Code by offering access from a
+         designated place (gratis or for a charge), and offer
+         equivalent access to the Corresponding Source in the same way
+         through the same place at no further charge.  You need not
+         require recipients to copy the Corresponding Source along
+         with the Object Code.  If the place to copy the Object Code
+         is a network server, the Corresponding Source may be on a
+         different server (operated by You or a third party) that
+         supports equivalent copying facilities, provided You maintain
+         clear directions next to the object code saying where to find
+         the Corresponding Source.  Regardless of what server hosts
+         the Corresponding Source, You remain obligated to ensure that
+         it is available for as long as needed to satisfy these
+         requirements.
 
-    d) Distribute the Object Code by offering access from a designated
-    place (gratis or for a charge), and offer equivalent access to the
-    Corresponding Source in the same way through the same place at no
-    further charge.  You need not require recipients to copy the
-    Corresponding Source along with the Object Code.  If the place to
-    copy the Object Code is a network server, the Corresponding Source
-    may be on a different server (operated by You or a third party)
-    that supports equivalent copying facilities, provided You maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, You remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
+    b) Offer for Source.
+
+      i) Distribute the Object Code in, or embodied in, a physical
+         product (including a physical distribution medium),
+         accompanied by a written offer, valid for at least three
+         years and valid for as long as You offer spare parts or
+         customer support for that product model, to give anyone who
+         possesses the Object Code either (1) a copy of the
+         Corresponding Source for all the software in the product that
+         is covered by this License, on a durable physical medium
+         customarily used for software interchange, for a price no
+         more than Your reasonable cost of physically performing this
+         distributing of source, or (2) access to copy the
+         Corresponding Source from a network server at no charge.
+
+     ii) Distribute individual copies of the Object Code with a copy
+         of the written offer to provide the Corresponding Source.
+         This alternative is allowed only occasionally and
+         noncommercially, and only if You received the Object Code
+         with such an offer, in accord with the preceding option.
 
   7. User Product Lockdown.
 
