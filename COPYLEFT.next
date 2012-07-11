@@ -12,10 +12,20 @@ Program under this License
   "Program" means the particular work governed by this License, as it
 is received by You.
 
-  For each of Us, "Predecessor Program" means the work We Distributed
-under this License which caused Us to fall under the definition of
-"We". It is possible that there is only one Predecessor Program and it
-is possible that the one Predecessor Program is also the Program. 
+  For each one of Us, "Predecessor Program" means the work We
+Distributed under this License which caused Us to fall under the
+definition of "We". It is possible that there is only one Predecessor
+Program and it is possible that the one Predecessor Program is also
+the Program.
+
+  "Essential Patent Claims" of a given work are all patent claims
+owned or controlled by a person, whether already acquired or hereafter
+acquired, that would be infringed by some manner, permitted by this
+License, of making, using, or selling the work, but do not include
+claims that would be infringed only as a consequence of further
+modification of the work.  For purposes of this definition, "control"
+includes the right to grant patent sublicenses in a manner consistent
+with the requirements of this License.
 
   "You" means an individual or entity exercising rights under this
 License with respect to the Program.
@@ -347,30 +357,21 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  12. Patent Licenses.
+  12. Patent License Grant.
 
-  A "contributor" is a copyright holder who authorizes use under this
-License of the Program or a work on which the Program is based.  The
-work thus licensed is called the contributor's "contributor version".
+  Each one of Us grants You a non-exclusive, worldwide, royalty-free
+patent license under Essential Patent Claims in Our respective
+Predecessor Program, to make, use, sell, offer for sale, import and
+otherwise transfer the contents of Our respective Predecessor
+Program. The foregoing grant does not exclude or limit any implied
+license or other defense to infringement that may otherwise be
+available to You under applicable patent law.
 
-  A contributor's "essential patent claims" are all patent claims
-owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling its contributor version,
-but do not include claims that would be infringed only as a
-consequence of further modification of the contributor version.  For
-purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
-this License.
-
-  Each contributor grants You a non-exclusive, worldwide, royalty-free
-patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, copy,
-modify and distribute the contents of its contributor version.
-
-  Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
-otherwise be available to You under applicable patent law.
+  If You Distribute a Derivative Work, You similarly grant to all
+downstream recpients of Your Derivative Work a non-exclusive,
+worldwide, royalty-free patent license under Essential Patent Claims
+in Your Derivative Work, to make, use, sell, offer for sale, import
+and otherwise transfer the contents of Your Derivative Work.
 
   13. Compatibility with GNU Strong Copyleft Licenses.
 
