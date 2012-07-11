@@ -294,7 +294,7 @@ material under section 9.
 receives permission from Us to run, copy, modify and distribute the
 Covered Work, subject to this License.
 
-  10. No Further Restrictions.
+  10. No Further Restrictions; Liberty-or-Death.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. Further restrictions
@@ -307,8 +307,6 @@ or any portion of it.
 Apache License 2.0, as published by the Apache Software Foundation, is
 not imposition of a further restriction under this section.
 
-  11. Liberty or Death.
-
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
 not excuse You from the conditions of this License.  If You cannot
@@ -320,23 +318,23 @@ collect a royalty for further distributing from those to whom You distribute
 the Program, the only way You could satisfy both those terms and this
 License would be to refrain entirely from distributing the Program.
 
-  For the avoidance of doubt, no violation of this provision occurs if
-You distribute a Covered Work, knowingly relying on a Patent License,
-and: (i) the Corresponding Source of the work is available for anyone
-to copy, free of charge and under the terms of this License, through a
-publicly available network server, or (ii) the Patent License is
-available to all downstream recipients under terms not inconsistent
-with this License.  "Knowingly relying" means You have actual
-knowledge that, but for the Patent License, Your distributing the
-Covered Work in a country, or Your recipient's use of the Covered Work
-in a country, would infringe one or more identifiable patents in that
-country that You have reason to believe are valid. A "Patent License"
-as used in this paragraph means any express agreement or commitment,
-however denominated, not to enforce a patent (such as an express
-permission to practice a patent or covenant not to sue for patent
-infringement).
+  For the avoidance of doubt, no violation of the preceding paragraph
+occurs if You distribute a Covered Work, knowingly relying on a Patent
+License, and: (i) the Corresponding Source of the work is available
+for anyone to copy, free of charge and under the terms of this
+License, through a publicly available network server, or (ii) the
+Patent License is available to all downstream recipients under terms
+not inconsistent with this License.  "Knowingly relying" means You
+have actual knowledge that, but for the Patent License, Your
+distributing the Covered Work in a country, or Your recipient's use of
+the Covered Work in a country, would infringe one or more identifiable
+patents in that country that You have reason to believe are valid. A
+"Patent License" as used in this paragraph means any express agreement
+or commitment, however denominated, not to enforce a patent (such as
+an express permission to practice a patent or covenant not to sue for
+patent infringement).
 
-  12. Patent Licenses.
+  11. Patent Licenses.
 
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -361,7 +359,7 @@ modify and distribute the contents of its contributor version.
 any implied license or other defenses to infringement that may
 otherwise be available to You under applicable patent law.
 
-  13. Compatibility with GNU Strong Copyleft Licenses.
+  12. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -369,7 +367,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  14. New Versions of this License.
+  13. New Versions of this License.
 
   The initial License Steward is [?]. The License Steward may publish
 new versions of Copyleft.next.  Each version will be given a
@@ -378,7 +376,7 @@ the terms of the version of Copyleft.next under which the Program is
 licensed, or under the terms of any subsequent version published by
 the License Steward.
 
-  15. Disclaimer of Warranty.
+  14. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -391,7 +389,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  16. Limitation of Liability.
+  15. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
