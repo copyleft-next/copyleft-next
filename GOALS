@@ -1,0 +1,18 @@
+Some people have asked what the goals of this project are. Here are a
+few. This list may be modified over time. It is likely that some of
+these goals are in conflict with one another.
+
+* Make the license shorter (the jocularly-expressed objective here is
+  "one line shorter than the Apache License 2.0")
+
+* Make the license terms easier for nonlawyers to understand
+
+* Investigate possible improvements to the basic legal implementation
+  of strong copyleft policy
+
+* Explicitly codify "inbound=outbound" project contribution policy
+
+* Discourage so-called proprietary relicensing
+
+* Address practical issues that have arisen in GNU GPL compliance
+  activity
