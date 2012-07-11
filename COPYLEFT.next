@@ -112,15 +112,11 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  3. Distributing Verbatim Copies.
+  3. Distributing Program Source Code.
 
-  You may distribute verbatim copies of the Program's Source Code as
-You receive it, in any medium, provided that You conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
+  You may Distribute the Program in Source Code form, provided that
+You keep intact all Legal Notices contained in the Program and include
+a copy of this License along with the Program.
 
   4. Distributing Derivative Works.
 
@@ -407,4 +403,3 @@ rendered inaccurate or losses sustained by You or third parties or a
 failure of the Program to operate with any other programs), even if
 such holder or other party has been advised of the possibility of such
 damages.
-
