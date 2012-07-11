@@ -52,18 +52,19 @@ for making modifications to it.
 
   "Object Code" means any form of a work other than Source Code.
 
-  "Corresponding Source" for an Object Code work means all the Source
-Code needed to generate, install, and (for an executable work) run the
-object code and to modify the work, including scripts to control those
-activities.  However, it does not include the work's System Libraries
-(as defined below), or general-purpose tools or generally available
-free programs which are used unmodified in performing those activities
-but which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the Source Code of shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.  
+  "Corresponding Source" for an Object Code work means all the
+machine-readable Source Code needed to generate, install, and (for an
+executable work) run the object code and to modify the work, including
+scripts to control those activities.  However, it does not include the
+work's System Libraries (as defined below), or general-purpose tools
+or generally available free programs which are used unmodified in
+performing those activities but which are not part of the work.  For
+example, Corresponding Source includes interface definition files
+associated with source files for the work, and the Source Code of
+shared libraries and dynamically linked subprograms that the work is
+specifically designed to require, such as by intimate data
+communication or control flow between those subprograms and other
+parts of the work.
 
   "System Libraries" of an executable work means any part of the work
 that is normally distributed with (i) the major components (kernel,
@@ -172,10 +173,10 @@ conditions:
 
   6. Distributing Object Code.
 
-  You may distribute a Covered Work in object code form under the terms
-of sections 4 and 5, provided that You also distribute the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:
+  You may distribute a Covered Work in object code form under the
+terms of sections 4 and 5, provided that You also distribute the
+Corresponding Source under the terms of this License, in one of these
+ways:
 
     a) Simultaneous Distribution.
 
