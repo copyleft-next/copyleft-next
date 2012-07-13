@@ -1,19 +1,18 @@
-Copyleft.next
+copyleft-next
 =============
 
 "Exploring ideas for a modified copyleft license can't hurt."
     - Richard M. Stallman, July 2012
 
-Copyleft.next is an experimental "-ng"-type modification of the GNU
+copyleft-next is an experimental "-ng"-type modification of the GNU
 General Public License, version 3. (It is *not* a fork.)
-Contributions of patches, ideas, and criticism are welcome. The goal
-of this effort is to develop an improved strong copyleft free software
-license. Needless to say, no one should actually *use* a development
-version of Copyleft.next as an actual license. Anyone interested in
-actually *using* a strong copyleft license for code will wish to use
-one or more of the following licenses: GNU GPLv2, GNU GPLv3, GNU
-AGPLv3, and/or later versions of those licenses. For more information,
-see http://www.gnu.org/licenses/.
+Contributions of patches, ideas, and criticism are welcome.  Needless
+to say, no one should actually *use* a development version of
+copyleft-next as an actual license. Anyone interested in actually
+*using* a strong copyleft license for code will wish to use one or
+more of the following licenses: GNU GPLv2, GNU GPLv3, GNU AGPLv3,
+and/or later versions of those licenses. For more information, see
+http://www.gnu.org/licenses/.
 
 **This is *not* an effort endorsed by the Free Software Foundation or
 the GNU Project. This is also *not* an effort associated in any way
@@ -21,10 +20,9 @@ with (e.g.) Red Hat, or any other corporate entity.** Contributors are
 expected to participate in their individual capacity.
 
 All communications with journalists shall be handled by the
-Copyleft.next Marketing Committee, which does not exist yet and
+copyleft-next Marketing Committee, which does not exist yet and
 probably won't exist for at least another year or three. For the
-avoidance of doubt, Simon Phipps is not considered a
-journalist.
+avoidance of doubt, Simon Phipps is not considered a journalist.
 
 The FSF has asserted copyright in the text of the GNU GPLv3. However,
 the FSF has expressly authorized (though discouraged) modified
@@ -36,7 +34,7 @@ existing (and future) versions of the GNU GPL, which addresses one of
 the FSF's concerns about modified versions of the GNU GPL.
 
 The meta-license from the FSF stated in its FAQ shall be the license
-of all versions of the Copyleft.next license text (to the extent that
+of all versions of the copyleft-next license text (to the extent that
 such versions retain any copyrightable material from versions of the
 GNU GPL in which the FSF has asserted copyright). Based on the FSF
 FAQ, that meta-license may be stated as follows:

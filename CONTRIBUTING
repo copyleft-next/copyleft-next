@@ -1,7 +1,7 @@
 
 Contributions of any sort (text suggestions, ideas, feedback,
 criticism) from all interested individuals are welcome and encouraged.
-All original contributions to Copyleft.next are dedicated to the
+All original contributions to copyleft-next are dedicated to the
 public domain to the maximum extent permitted by applicable law,
 pursuant to CC0. See CC0 for further details.
 
@@ -47,15 +47,5 @@ Public Source Locations
 =======================
 
 Gitorious (https://gitorious.org/copyleft-next) is now the centralized
-location of source for this project. It will be mirrored at a GitHub
-repo (currently https://github.com/richardfontana/Copyleft.next) for
-the time being, and perhaps indefinitely.
-
-
-Issue Tracking
-==============
-
-The issue tracker associated with
-https://github.com/richardfontana/Copyleft.next shall be kept open for the
-time being, but at some point it is likely to be disabled.
+location of source for this project. 
 

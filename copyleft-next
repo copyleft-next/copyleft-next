@@ -1,32 +1,23 @@
-                             Copyleft.next
+                             copyleft-next
 
   0. Definitions.
 
   "License" means this document.
 
   "We" means the individual(s), entity or entities that license(s) the
-Program under this License
+Program under this License.
 
-  "Contribution" means any modifcation to the Covered Work intentionally
-submitted by You to Us for inclusion in a Covered Work.
+  "Program" means the particular work We license to You under this
+License.
 
-  "Program" means the particular work governed by this License, as it
-is received by You.
-
-  For each one of Us, "Predecessor Program" means the work We
-Distributed under this License which caused Us to fall under the
-definition of "We". It is possible that there is only one Predecessor
-Program and it is possible that the one Predecessor Program is also
-the Program.
-
-  "Essential Patent Claims" of a given work are all patent claims
-owned or controlled by a person, whether already acquired or hereafter
-acquired, that would be infringed by some manner, permitted by this
-License, of making, using, or selling the work, but do not include
-claims that would be infringed only as a consequence of further
-modification of the work.  For purposes of this definition, "control"
-includes the right to grant patent sublicenses in a manner consistent
-with the requirements of this License.
+  For each one of Us, "Essential Patent Claims" means all patent
+claims owned or controlled by Us, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling the Program, but do not
+include claims that would be infringed only as a consequence of
+further modification of the Program.  For purposes of this definition,
+"control" includes the right to grant patent sublicenses in a manner
+consistent with the requirements of this License.
 
   "You" means an individual or entity exercising rights under this
 License with respect to the Program.
@@ -73,6 +64,9 @@ window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
+  "Contribution" means any modification to the Covered Work intentionally
+submitted by You to Us for inclusion in a Covered Work.
+
   "Contractor Transfer" means Your transfer of a Covered Work to a
 recipient for the sole purpose of having the recipient make
 modifications exclusively for You, or providing You with facilities
@@ -91,8 +85,8 @@ transfer of a Covered Work to the user.
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
 (iii) the GNU Affero General Public License, version 3; and/or (iv) a
-later version of any of the foregoing licenses, all as authored and
-published by the Free Software Foundation.
+later final version of any of the foregoing licenses, all as
+officially released by the Free Software Foundation.
 
   "Proprietary Terms" means [to be defined].
 
@@ -103,19 +97,34 @@ notices customarily appearing in free software source code.
   1. Basic Permissions.
 
   Subject to the terms and conditions of this License, We hereby grant
-You a worldwide, royalty-free, nonexclusive, perpetual (for the
+You: 
+
+  (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
 duration of copyright on the Program) license to make, copy,
 Distribute, publicly perform and publicly display Covered Works, in
-all cases in any medium or format. Permission to run the Program is
-entirely unconditional. For the avoidance of doubt, You may charge any
-fee for (i) Distributing Covered Works, and (ii) providing services to
-recipients of Covered Works.
+all cases in any medium or format; and
 
-  This License is not intended to limit any rights You have under
-applicable copyright doctrines of fair use, fair dealing or other
-equivalents.
+  (b) a worldwide, royalty-free, nonexclusive patent license under
+Essential Patent Claims, to make, use, sell, offer for sale, import
+and otherwise transfer the contents of the Program. 
 
-  2. Anti-Circumvention Law.
+  Permission to run the Program is entirely unconditional. For the
+avoidance of doubt, You may charge any fee for (i) Distributing
+Covered Works, and (ii) providing services to recipients of Covered
+Works.
+
+  This License is not intended to exclude or limit (i) any rights You
+have under applicable copyright doctrines of fair use, fair dealing or
+other equivalents, and (ii) any implied license or other defense to
+infringement that may otherwise be available to You under applicable
+patent law.
+
+  2. Trademarks.
+
+  This License does not grant any rights in the trademarks, service
+marks, or logos of any of Us.
+
+  3. Anti-Circumvention Law.
 
   No Covered Work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -131,45 +140,38 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  3. Submission of Contributions.
+  4. Submission of Contributions.
 
   Unless You explicitly state otherwise, any Contribution shall be under the
 terms and conditions of this License, without any additional terms or
 conditions.
 
-  4. Distributing Program Source Code.
+  5. Distributing Source Code.
 
-  You may Distribute the Program in Source Code form, provided that
-You keep intact all Legal Notices contained in the Program and include
-a copy of this License along with the Program.
+  You may Distribute a Covered Work in Source Code form, provided that
+You meet all of these conditions:
 
-  5. Distributing Derivative Works.
+  a) Keep intact all applicable Legal Notices contained in the
+     Program, and, for a Derivative Work, include prominent notice
+     that the Derivative Work is released under this License.
 
-  You may distribute a Derivative Work in Source Code form under the
-terms of section 4, provided that You also meet all of these
-conditions:
+  b) Include a copy of this License along with the Covered Work.
 
-    a) The Derivative Work must carry prominent notices stating that
-    You modified the Program, and giving a relevant date.
+  c) For a Derivative Work:
 
-    b) The Derivative Work must carry prominent notices stating that
-    it is released under this License and any conditions added under
-    section 7.  This requirement modifies the requirement in section 3
-    to "keep intact all notices".
+     i) Include prominent notice that You modified the Program.
+        
+    ii) Include prominent notice that the Derivative Work is released
+        under this License.
 
-    c) You must license the entire Derivative Work, as a whole, under
-    this License to anyone who comes into possession of a copy.  This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the Derivative Work, and all its
-    parts, regardless of how they are packaged. However, if We license
-    a Covered Work under Proprietary Terms, this subsection c shall
-    not apply to Your Derivative Work.
-
-    d) If the Program's interactive user interfaces display Legal
-    Notices, such Legal Notices must be preserved by Your Derivative
-    Work, solely to the extent it has corresponding interfaces. This
-    clause shall be interpreted liberally in favor of Your right of
-    modification.
+   iii) You must license the entire Derivative Work, as a whole, under
+        this License to anyone who comes into possession of a copy.
+        This License will therefore apply, along with any applicable
+        section 7 additional terms, to the whole of the Derivative
+        Work, and all its parts, regardless of how they are
+        packaged. However, if We license a Covered Work under
+        Proprietary Terms, this clause c)iii) shall not apply to Your
+        Derivative Work.
 
   6. Distributing Object Code.
 
@@ -269,7 +271,7 @@ protocols for communication across the network.
 You add to a Covered Work, You may (if authorized by the copyright
 holders of that material) supplement the terms of this License with
 terms (a) disclaiming warranty or limiting liability differently from
-the terms of sections 15 and 16 of this License; (b) requiring
+the terms of sections 13 and 14 of this License; (b) requiring
 preservation of specified reasonable legal notices or textual author
 attributions in that material; (c) prohibiting misrepresentation of
 the origin of that material, or requiring that modified versions of
@@ -280,7 +282,7 @@ rights under trademark law for use of trade names, trademarks, or
 service marks.
 
   All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 9.  If the Program as You
+restrictions" within the meaning of section 11.  If the Program as You
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
 restriction, You may remove that term.  If a license document contains
@@ -297,8 +299,7 @@ license or stated as qualifications of this License.
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
 copying, distribution or modification automatically terminates Your
-rights under this License (including any patent licenses granted under
-the third paragraph of section 11).
+rights under this License.
 
   However, if You cease all violation of this License, then Your
 license from a particular copyright holder is reinstated (a)
@@ -365,23 +366,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  12. Patent License Grant.
-
-  Each one of Us grants You a non-exclusive, worldwide, royalty-free
-patent license under Essential Patent Claims in Our respective
-Predecessor Program, to make, use, sell, offer for sale, import and
-otherwise transfer the contents of Our respective Predecessor
-Program. The foregoing grant does not exclude or limit any implied
-license or other defense to infringement that may otherwise be
-available to You under applicable patent law.
-
-  If You Distribute a Derivative Work, You similarly grant to all
-downstream recpients of Your Derivative Work a non-exclusive,
-worldwide, royalty-free patent license under Essential Patent Claims
-in Your Derivative Work, to make, use, sell, offer for sale, import
-and otherwise transfer the contents of Your Derivative Work.
-
-  13. Compatibility with GNU Strong Copyleft Licenses.
+  12. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -389,16 +374,16 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  14. New Versions of this License.
+  13. New Versions of this License.
 
-  The initial License Steward is [?]. The License Steward may publish
-new versions of Copyleft.next.  Each version will be given a
-distinguishing version number. You may distribute a Covered Work under
-the terms of the version of Copyleft.next under which the Program is
-licensed, or under the terms of any subsequent version published by
-the License Steward.
+  The initial License Steward is the Nonexistent Copyleft-Next
+Foundation. The License Steward may publish new versions of
+copyleft-next.  Each version will be given a distinguishing version
+number. You may distribute a Covered Work under the terms of the
+version of copyleft-next under which the Program is licensed, or under
+the terms of any subsequent version published by the License Steward.
 
-  15. Disclaimer of Warranty.
+  14. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -411,7 +396,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  16. Limitation of Liability.
+  15. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
