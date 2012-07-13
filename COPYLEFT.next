@@ -7,9 +7,6 @@
   "We" means the individual(s), entity or entities that license(s) the
 Program under this License
 
-  "Contribution" means any modifcation to the Covered Work intentionally
-submitted by You to Us for inclusion in a Covered Work.
-
   "Program" means the particular work governed by this License, as it
 is received by You.
 
@@ -72,6 +69,9 @@ that is normally distributed with (i) the major components (kernel,
 window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
+
+  "Contribution" means any modification to the Covered Work intentionally
+submitted by You to Us for inclusion in a Covered Work.
 
   "Contractor Transfer" means Your transfer of a Covered Work to a
 recipient for the sole purpose of having the recipient make
