@@ -119,7 +119,12 @@ other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  2. Anti-Circumvention Law.
+  2. Trademarks.
+
+  This License does not grant any rights in the trademarks, service
+marks, or logos of any of Us.
+
+  3. Anti-Circumvention Law.
 
   No Covered Work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -135,13 +140,13 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  3. Submission of Contributions.
+  4. Submission of Contributions.
 
   Unless You explicitly state otherwise, any Contribution shall be under the
 terms and conditions of this License, without any additional terms or
 conditions.
 
-  4. Distributing Source Code.
+  5. Distributing Source Code.
 
   You may Distribute a Covered Work in Source Code form, provided that
 You meet all of these conditions:
@@ -168,7 +173,7 @@ You meet all of these conditions:
         Proprietary Terms, this clause c)iii) shall not apply to Your
         Derivative Work.
 
-  5. Distributing Object Code.
+  6. Distributing Object Code.
 
   You may distribute a Covered Work in object code form under the
 terms of sections 4 and 5, provided that You also distribute the
@@ -218,7 +223,7 @@ ways:
          noncommercially, and only if You received the Object Code
          with such an offer, in accord with the preceding option.
 
-  6. User Product Lockdown.
+  7. User Product Lockdown.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
@@ -260,7 +265,7 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  7. Additional Terms.
+  8. Additional Terms.
 
   Notwithstanding any other provision of this License, for material
 You add to a Covered Work, You may (if authorized by the copyright
@@ -289,7 +294,7 @@ does not survive such relicensing or distributing.
   Additional terms may be stated in the form of a separately written
 license or stated as qualifications of this License.
 
-  8. Termination.
+  9. Termination.
 
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
@@ -316,13 +321,13 @@ this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
 material under section 9.
 
-   9. Automatic Licensing of Downstream Recipients.
+  10. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
 receives permission from Us to run, copy, modify and distribute the
 Covered Work, subject to this License.
 
-  10. No Further Restrictions; Liberty-or-Death.
+  11. No Further Restrictions; Liberty-or-Death.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. Further restrictions
@@ -361,7 +366,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  11. Compatibility with GNU Strong Copyleft Licenses.
+  12. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -369,7 +374,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  12. New Versions of this License.
+  13. New Versions of this License.
 
   The initial License Steward is the Nonexistent Copyleft-Next
 Foundation. The License Steward may publish new versions of
@@ -378,7 +383,7 @@ number. You may distribute a Covered Work under the terms of the
 version of copyleft-next under which the Program is licensed, or under
 the terms of any subsequent version published by the License Steward.
 
-  13. Disclaimer of Warranty.
+  14. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -391,7 +396,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  14. Limitation of Liability.
+  15. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
