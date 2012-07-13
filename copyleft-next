@@ -141,41 +141,40 @@ technological measures.
 terms and conditions of this License, without any additional terms or
 conditions.
 
-  4. Distributing Program Source Code.
+  4. Distributing Covered Works in Source Code Form.
 
-  You may Distribute the Program in Source Code form, provided that
-You keep intact all Legal Notices contained in the Program and include
-a copy of this License along with the Program.
+  You may Distribute a Covered Work in Source Code form, provided that
+You meet all of these conditions:
 
-  5. Distributing Derivative Works.
+  a) Keep intact all applicable Legal Notices contained in the
+     Program, and, for a Derivative Work, include prominent notice
+     that the Derivative Work is released under this License.
 
-  You may distribute a Derivative Work in Source Code form under the
-terms of section 4, provided that You also meet all of these
-conditions:
+  b) Include a copy of this License along with the Covered Work.
 
-    a) The Derivative Work must carry prominent notices stating that
-    You modified the Program, and giving a relevant date.
+  c) For a Derivative Work:
 
-    b) The Derivative Work must carry prominent notices stating that
-    it is released under this License and any conditions added under
-    section 7.  This requirement modifies the requirement in section 3
-    to "keep intact all notices".
+     i) Include prominent notice that You modified the Program.
+        
+    ii) Include prominent notice that the Derivative Work is released
+        under this License.
 
-    c) You must license the entire Derivative Work, as a whole, under
-    this License to anyone who comes into possession of a copy.  This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the Derivative Work, and all its
-    parts, regardless of how they are packaged. However, if We license
-    a Covered Work under Proprietary Terms, this subsection c shall
-    not apply to Your Derivative Work.
+   iii) You must license the entire Derivative Work, as a whole, under
+        this License to anyone who comes into possession of a copy.
+        This License will therefore apply, along with any applicable
+        section 7 additional terms, to the whole of the Derivative
+        Work, and all its parts, regardless of how they are
+        packaged. However, if We license a Covered Work under
+        Proprietary Terms, this clause c)iii) shall not apply to Your
+        Derivative Work.
 
-    d) If the Program's interactive user interfaces display Legal
-    Notices, such Legal Notices must be preserved by Your Derivative
-    Work, solely to the extent it has corresponding interfaces. This
-    clause shall be interpreted liberally in favor of Your right of
-    modification.
+    iv) If the Program's interactive user interfaces display Legal
+        Notices, such Legal Notices must be preserved by Your
+        Derivative Work, solely to the extent it has corresponding
+        interfaces. This clause shall be interpreted liberally in
+        favor of Your right of modification.
 
-  6. Distributing Object Code.
+  5. Distributing Object Code.
 
   You may distribute a Covered Work in object code form under the
 terms of sections 4 and 5, provided that You also distribute the
@@ -225,7 +224,7 @@ ways:
          noncommercially, and only if You received the Object Code
          with such an offer, in accord with the preceding option.
 
-  7. User Product Lockdown.
+  6. User Product Lockdown.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
@@ -267,13 +266,13 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
-  8. Additional Terms.
+  7. Additional Terms.
 
   Notwithstanding any other provision of this License, for material
 You add to a Covered Work, You may (if authorized by the copyright
 holders of that material) supplement the terms of this License with
 terms (a) disclaiming warranty or limiting liability differently from
-the terms of sections 14 and 15 of this License; (b) requiring
+the terms of sections 13 and 14 of this License; (b) requiring
 preservation of specified reasonable legal notices or textual author
 attributions in that material; (c) prohibiting misrepresentation of
 the origin of that material, or requiring that modified versions of
@@ -296,7 +295,7 @@ does not survive such relicensing or distributing.
   Additional terms may be stated in the form of a separately written
 license or stated as qualifications of this License.
 
-  9. Termination.
+  8. Termination.
 
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
@@ -323,13 +322,13 @@ this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
 material under section 9.
 
-  10. Automatic Licensing of Downstream Recipients.
+   9. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
 receives permission from Us to run, copy, modify and distribute the
 Covered Work, subject to this License.
 
-  11. No Further Restrictions; Liberty-or-Death.
+  10. No Further Restrictions; Liberty-or-Death.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. Further restrictions
@@ -368,7 +367,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  12. Compatibility with GNU Strong Copyleft Licenses.
+  11. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -376,7 +375,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  13. New Versions of this License.
+  12. New Versions of this License.
 
   The initial License Steward is [?]. The License Steward may publish
 new versions of copyleft-next.  Each version will be given a
@@ -385,7 +384,7 @@ the terms of the version of copyleft-next under which the Program is
 licensed, or under the terms of any subsequent version published by
 the License Steward.
 
-  14. Disclaimer of Warranty.
+  13. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -398,7 +397,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  15. Limitation of Liability.
+  14. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
