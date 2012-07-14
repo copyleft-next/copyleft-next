@@ -223,49 +223,7 @@ ways:
          noncommercially, and only if You received the Object Code
          with such an offer, in accord with the preceding option.
 
-  7. User Product Lockdown.
-
-  A "User Product" is either (1) a "consumer product", which means any
-tangible personal property which is normally used for personal, family,
-or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, "normally used" refers to a
-typical or common use of that class of product, regardless of the status
-of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
-
-  "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to
-install and execute Derivative Works of a Covered Work in that User
-Product from a Derivative Work of its Corresponding Source.  The
-information must suffice to ensure that the continued functioning of
-the Object Code Derivative Work is in no case prevented or interfered
-with solely because modification has been made.
-
-  If You distribute an Object Code work under section 5 in, or with,
-or specifically for use in, a User Product, and the distributing
-occurs as part of a transaction in which the right of possession and
-use of the User Product is transferred to the recipient in perpetuity
-or for a fixed term (regardless of how the transaction is
-characterized), the Corresponding Source distributed under this
-section must be accompanied by the Installation Information.  But this
-requirement does not apply if neither You nor any third party retains
-the ability to install modified Object Code on the User Product (for
-example, the work has been installed in non-field-modifiable ROM).
-
-  The requirement to provide Installation Information does not include a
-requirement to continue to provide support service, warranty, or updates
-for a work that has been modified or installed by the recipient, or for
-the User Product in which it has been modified or installed.  Access to a
-network may be denied when the modification itself materially and
-adversely affects the operation of the network or violates the rules and
-protocols for communication across the network.
-
-  8. Additional Terms.
+  7. Additional Terms.
 
   Notwithstanding any other provision of this License, for material
 You add to a Covered Work, You may (if authorized by the copyright
@@ -294,7 +252,7 @@ does not survive such relicensing or distributing.
   Additional terms may be stated in the form of a separately written
 license or stated as qualifications of this License.
 
-  9. Termination.
+  8. Termination.
 
   You may not copy, distribute or modify a Covered Work except as
 expressly provided under this License.  Any unauthorized act of
@@ -321,13 +279,13 @@ this License.  If Your rights have been terminated and not permanently
 reinstated, You do not qualify to receive new licenses for the same
 material under section 9.
 
-  10. Automatic Licensing of Downstream Recipients.
+  9. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
 receives permission from Us to run, copy, modify and distribute the
 Covered Work, subject to this License.
 
-  11. No Further Restrictions; Liberty-or-Death.
+  10. No Further Restrictions; Liberty-or-Death.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. Further restrictions
@@ -366,7 +324,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  12. Compatibility with GNU Strong Copyleft Licenses.
+  11. Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -374,7 +332,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  13. New Versions of this License.
+  12. New Versions of this License.
 
   The initial License Steward is the Nonexistent Copyleft-Next
 Foundation. The License Steward may publish new versions of
@@ -383,7 +341,7 @@ number. You may distribute a Covered Work under the terms of the
 version of copyleft-next under which the Program is licensed, or under
 the terms of any subsequent version published by the License Steward.
 
-  14. Disclaimer of Warranty.
+  13. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Program is provided
 under this License on an "as is" basis, without warranty of any kind,
@@ -396,7 +354,7 @@ necessary servicing, repair or correction.  This disclaimer of
 warranty constitutes an essential part of this License. No use of the
 Program is authorized under this License except under this disclaimer.
 
-  15. Limitation of Liability.
+  14. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
