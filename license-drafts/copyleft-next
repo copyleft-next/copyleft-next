@@ -12,17 +12,18 @@ License.
   "Program" means the particular work licensed to You under this
 License.
 
-  "We" means the individual(s), entity or entities that license(s) the
-Program under this License.
+  "Contributor" means the individual(s), entity or entities that
+license(s) the Program under this License.
 
-  For each one of Us, "Essential Patent Claims" means all patent
-claims owned or controlled by Us, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling the Program, but do not
-include claims that would be infringed only as a consequence of
-further modification of the Program.  For purposes of this definition,
-"control" includes the right to grant patent sublicenses in a manner
-consistent with the requirements of this License.
+  For each Contributor, "Essential Patent Claims" means all patent
+claims owned or controlled by the Contributor, whether already
+acquired or hereafter acquired, that would be infringed by some
+manner, permitted by this License, of making, using, or selling the
+Program, but do not include claims that would be infringed only as a
+consequence of further modification of the Program.  For purposes of
+this definition, "control" includes the right to grant patent
+sublicenses in a manner consistent with the requirements of this
+License.
 
   "Derivative Work" means a work that copies from, modifies or adapts
 all or part of the Program such that copyright permission is required,
@@ -66,8 +67,9 @@ window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
-  "Contribution" means any modification to the Covered Work intentionally
-submitted by You to Us for inclusion in a Covered Work.
+  "Inbound Contribution" means a work intentionally submitted by You
+to Contributor for inclusion in a modified or successor version of the
+Program.
 
   "Contractor Transfer" means Your transfer of a Covered Work to a
 recipient for the sole purpose of having the recipient make
@@ -79,10 +81,9 @@ copies of Your copyrighted material not authorized by You.
 
   "Distribute" means to transfer or make available copies of Covered
 Works to others, to the extent such activity requires copyright
-permission, but Distribution does not include Contractor Transfer. For
-the avoidance of doubt, "Distribution" also does not include mere
-interaction with a user through a computer network, without any
-transfer of a Covered Work to the user.
+permission. For the avoidance of doubt, "Distribution" also does not
+include mere interaction with a user through a computer network,
+without any transfer of a Covered Work to the user.
 
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
@@ -98,8 +99,8 @@ notices customarily appearing in free software source code.
 
   1. Basic Permissions.
 
-  Subject to the terms and conditions of this License, We hereby grant
-You: 
+  Subject to the terms and conditions of this License, Contributors
+hereby grant You:
 
   (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
 duration of copyright on the Program) license to make, copy,
@@ -124,7 +125,7 @@ patent law.
   2. Trademarks.
 
   This License does not grant any rights in the trademarks, service
-marks, or logos of any of Us.
+marks, or logos of Contributor.
 
   3. Anti-Circumvention Law.
 
@@ -144,18 +145,19 @@ technological measures.
 
   4. Inbound = Outbound.
 
-  Unless You explicitly state otherwise, any Contribution shall be under the
-terms and conditions of this License, without any additional terms or
-conditions.
+  Any Inbound Contribution shall be under the terms and conditions of
+this License, without any additional terms or conditions, unless you
+explicitly indicate otherwise at the time You submit the Inbound
+Contribution.
 
   5. Distributing Source Code.
 
   You may Distribute a Covered Work in Source Code form, provided that
 You meet all of these conditions:
 
-  a) Keep intact all applicable Legal Notices contained in the
-     Program, and, for a Derivative Work, include prominent notice
-     that the Derivative Work is released under this License.
+  a) Keep intact all Legal Notices contained in the Program (in the of
+     a Derivative Work, to the extent such Legal Notices remain
+     applicable).
 
   b) Include a copy of this License along with the Covered Work.
 
@@ -171,9 +173,9 @@ You meet all of these conditions:
         This License will therefore apply, along with any applicable
         section 7 additional terms, to the whole of the Derivative
         Work, and all its parts, regardless of how they are
-        packaged. However, if We license a Covered Work under
-        Proprietary Terms, this clause c)iii) shall not apply to Your
-        Derivative Work.
+        packaged. However, if Contributor licenses a Covered Work
+        under Proprietary Terms, this clause c)iii) shall not apply to
+        Your Derivative Work.
 
   6. Distributing Object Code.
 
@@ -282,8 +284,8 @@ material under section 9.
   9. Automatic Licensing of Downstream Recipients.
 
   Each time You distribute a Covered Work, the recipient automatically
-receives permission from Us to run, copy, modify and distribute the
-Covered Work, subject to this License.
+receives from the Contributor a license to the Program under the terms
+and conditions of this License.
 
   10. No Further Restrictions; Liberty-or-Death.
 
@@ -292,10 +294,10 @@ rights granted or affirmed under this License. Further restrictions
 include initiation of litigation (including a cross-claim or
 counterclaim in a lawsuit) alleging that any patent claim is infringed
 by making, using, selling, offering for sale, or importing the Program
-or any portion of it. Distribution of a Covered Work containing
+or any portion of it. The following are not "further restrictions"
+under this section: (i) Distribution of a Covered Work containing
 material covered by the Apache License 2.0, as published by the Apache
-Software Foundation, is not imposition of a further restriction under
-this section.
+Software Foundation, and (ii) Contractor Transfers.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
