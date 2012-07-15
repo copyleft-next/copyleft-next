@@ -67,9 +67,9 @@ window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
-  "Contribution" means any modification to the Covered Work
-intentionally submitted by You to Contributor for inclusion in a
-Covered Work.
+  "Inbound Contribution" means a work intentionally submitted by You
+to Contributor for inclusion in a modified or successor version of the
+Program.
 
   "Contractor Transfer" means Your transfer of a Covered Work to a
 recipient for the sole purpose of having the recipient make
@@ -145,9 +145,10 @@ technological measures.
 
   4. Inbound = Outbound.
 
-  Unless You explicitly state otherwise, any Contribution shall be under the
-terms and conditions of this License, without any additional terms or
-conditions.
+  Any Inbound Contribution shall be under the terms and conditions of
+this License, without any additional terms or conditions, unless you
+explicitly indicate otherwise at the time You submit the Inbound
+Contribution.
 
   5. Distributing Source Code.
 
