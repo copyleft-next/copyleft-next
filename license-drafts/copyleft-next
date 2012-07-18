@@ -71,14 +71,6 @@ executable runs or (ii) a compiler used to produce the executable or
 to Contributor for inclusion in a modified or successor version of the
 Program.
 
-  "Contractor Transfer" means Your transfer of a Covered Work to a
-recipient for the sole purpose of having the recipient make
-modifications exclusively for You, or providing You with facilities
-for running the Covered Work, where the recipient performs such
-activities exclusively on Your behalf, under Your direction and
-control, on terms extrinsic to this License that prohibit making
-copies of Your copyrighted material not authorized by You.
-
   "Distribute" means to transfer or make available copies of Covered
 Works to others, to the extent such activity requires copyright
 permission. For the avoidance of doubt, "Distribution" does not
@@ -267,10 +259,9 @@ rights granted or affirmed under this License. Further restrictions
 include initiation of litigation (including a cross-claim or
 counterclaim in a lawsuit) alleging that any patent claim is infringed
 by making, using, selling, offering for sale, or importing the Program
-or any portion of it. The following are not "further restrictions"
-under this section: (i) Distribution of a Covered Work containing
+or any portion of it. Distribution of a Covered Work containing
 material covered by the Apache License 2.0, as published by the Apache
-Software Foundation, and (ii) Contractor Transfers.
+Software Foundation, is not imposition of a "further restriction".
 
   Notwithstanding the preceding paragraph, for material You add to a
 Covered Work, You may (if authorized by the copyright holders of that
