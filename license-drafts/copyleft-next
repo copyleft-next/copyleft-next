@@ -227,28 +227,27 @@ the same material under section 8.
 receives from the Contributor a license to the Program under the terms
 and conditions of this License.
 
-  9. No Further Restrictions.
+  9. No Further Restrictions; Inbound License Compatibility.
 
   You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License. Further restrictions
-include initiation of litigation (including a cross-claim or
-counterclaim in a lawsuit) alleging that any patent claim is infringed
-by making, using, selling, offering for sale, or importing the Program
-or any portion of it. Distribution of a Covered Work containing
-material covered by the Apache License 2.0, as published by the Apache
-Software Foundation, is not imposition of a "further restriction".
+rights granted or affirmed under this License. 
 
-  Notwithstanding the preceding paragraph, for material You add to a
-Covered Work, You may (if authorized by the copyright holders of that
-material) supplement the terms of this License with terms (a)
-disclaiming warranty or limiting liability differently from the terms
-of sections 12 and 13 of this License; (b) requiring preservation of
-specified reasonable legal notices or textual author attributions in
-that material; (c) prohibiting misrepresentation of the origin of that
-material, or requiring that modified versions of such material be
-marked in reasonable ways as different from the original version; or
-(d) limiting the use for publicity purposes of names of licensors or
-authors of the material.
+  Further restrictions include, without limitation, initiation of
+litigation (including a cross-claim or counterclaim in a lawsuit)
+alleging that any patent claim is infringed by making, using, selling,
+offering for sale, or importing the Program or any portion of
+it. 
+
+  For the avoidance of doubt, Distribution of a Covered Work
+incorporating material covered by the following free software licenses
+is not imposition of a "further restriction". This list of licenses is
+illustrative rather than exhaustive and is meant to guide general
+interpretation of the condition against imposition of further
+restrictions: 
+    i) Apache License 2.0 as published by the Apache
+Software Foundation 
+   ii) MIT License, version at 
+  iii) 3-clause BSD License, version at
 
   If the Program as You received it, or any part of it, contains a
 notice stating that it is governed by this License along with a term
