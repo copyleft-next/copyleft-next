@@ -85,10 +85,6 @@ officially released by the Free Software Foundation.
 
   "Proprietary Terms" means [to be defined].
 
-  "Legal Notices" means copyright notices, license texts and notices,
-warranty disclaimers, textual author attributions and/or other kinds
-of legal notices customarily appearing in free software source code.
-
   1. Basic Permissions.
 
   Subject to the terms and conditions of this License, Contributors
@@ -142,42 +138,37 @@ this License, without any additional terms or conditions, unless you
 explicitly indicate otherwise at the time You submit the Inbound
 Contribution.
 
-  5. Distributing Source Code.
+  5. Distribution: General.
 
-  You may Distribute a Covered Work in Source Code form, provided that
-You meet all of these conditions:
+  You may Distribute a Covered Work, provided that You meet all of
+these conditions:
 
-  a) Keep intact all Legal Notices contained in the Program (in the
-     case of a Derivative Work, to the extent such Legal Notices
-     remain applicable), except that You may alter any such Legal
-     Notices to the extent required to remedy known factual
-     inaccuracies or to avoid misleading downstream recipients.
-
-  b) Include a copy of this License along with the Covered Work.
+  a) Keep intact all copyright notices, notices of the applicability
+     of this License, and warranty disclaimers contained in the
+     Program (in the case of a Derivative Work, to the extent such
+     notices remain applicable), and include a copy of this License
+     along with the Covered Work.
 
   c) For a Derivative Work:
 
-     i) Include prominent notice that You modified the Program.
-        
-    ii) Include prominent notice that the Derivative Work is released
+    i) Include prominent notice that the Derivative Work is released
         under this License.
 
-   iii) You must license the entire Derivative Work, as a whole, under
-        this License to anyone who comes into possession of a copy.
-        This License will therefore apply to the whole of the
-        Derivative Work, and all its parts, regardless of how they are
-        packaged. However, if Contributor commercially offers a
-        Covered Work under Proprietary Terms, this clause c)iii) shall
-        not apply to Your Derivative Work.
+   ii) You must license the entire Derivative Work, as a whole, under
+       this License to anyone who comes into possession of a copy.
+       This License will therefore apply to the whole of the
+       Derivative Work, and all its parts, regardless of how they are
+       packaged. However, if Contributor commercially offers a Covered
+       Work under Proprietary Terms, this clause c)iii) shall not
+       apply to Your Derivative Work.
 
-  6. Distributing Object Code.
+  6. Object Code Distribution.
 
-  You may distribute a Covered Work in object code form under the
-terms of sections 4 and 5, provided that You also distribute the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:
+  You may Distribute a Covered Work in Object Code form, provided that
+You also distribute the machine-readable Corresponding Source under
+the terms of this License, in one of these ways:
 
-    a) Simultaneous Distribution.
+    a) Simultaneous Distribution: 
 
       i) Distribute the Object Code in, or embodied in, a physical
          product (including a physical distribution medium),
