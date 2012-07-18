@@ -166,50 +166,33 @@ these conditions:
 
   You may Distribute a Covered Work in Object Code form, provided that
 You also distribute the machine-readable Corresponding Source under
-the terms of this License, in one of these ways:
+the terms of this License, in one of the following ways:
 
-    a) Simultaneous Distribution: 
+    a) Simultaneous Availability of Corresponding Source:
 
-      i) Distribute the Object Code in, or embodied in, a physical
-         product (including a physical distribution medium),
-         accompanied by the Corresponding Source fixed on a durable
-         physical medium customarily used for software interchange.
+      i) Distribute the Object Code in a physical product or tangible
+         storage medium, accompanied by either a durable physical
+         medium customarily used for software interchange that
+         contains the Corresponding Source, or notice of a network
+         location from which the Corresponding Source can be retrieved
+         at no further charge. Or, 
 
-     ii) Distribute the Object Code by offering access from a
-         designated place (gratis or for a charge), and offer
-         equivalent access to the Corresponding Source in the same way
-         through the same place at no further charge.  You need not
-         require recipients to copy the Corresponding Source along
-         with the Object Code.  If the place to copy the Object Code
-         is a network server, the Corresponding Source may be on a
-         different server (operated by You or a third party) that
-         supports equivalent copying facilities, provided You maintain
-         clear directions next to the object code saying where to find
-         the Corresponding Source.  Regardless of what server hosts
-         the Corresponding Source, You remain obligated to ensure that
-         it is available for as long as needed to satisfy these
-         requirements.
+     ii) Distribute the Object Code from a network location
+         accompanied by information giving clear directions indicating
+         how the Corresponding Source may be obtained from a network
+         location at no further charge and in a reasonably equivalent
+         manner.
 
-    b) Offer for Source.
-
-      i) Distribute the Object Code in, or embodied in, a physical
-         product (including a physical distribution medium),
-         accompanied by a written offer, valid for at least three
-         years and valid for as long as You offer spare parts or
-         customer support for that product model, to give anyone who
-         possesses the Object Code either (1) a copy of the
-         Corresponding Source for all the software in the product that
-         is covered by this License, on a durable physical medium
-         customarily used for software interchange, for a price no
-         more than Your reasonable cost of physically performing this
-         distributing of source, or (2) access to copy the
-         Corresponding Source from a network server at no charge.
-
-     ii) Distribute individual copies of the Object Code with a copy
-         of the written offer to provide the Corresponding Source.
-         This alternative is allowed only occasionally and
-         noncommercially, and only if You received the Object Code
-         with such an offer, in accord with the preceding option.
+    b) Offer for Source: Distribute the Object Code accompanied by a
+       written offer, valid for at least three years and (where the
+       Object Code is Distributed in a physical product) valid for as
+       long as You offer spare parts or customer support for that
+       product model, to give any third party a copy of the
+       Corresponding Source either (1) on a durable physical medium
+       customarily used for software interchange, for a price no more
+       than Your reasonable cost of performing this Distribution of
+       Corresponding Source, or (2) from a network server at no
+       charge.
 
   7. Termination.
 
