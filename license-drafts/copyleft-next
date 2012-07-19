@@ -242,21 +242,17 @@ it.
 incorporating material covered by the following free software licenses
 is not imposition of a "further restriction". This list of licenses is
 illustrative rather than exhaustive and is meant to guide general
-interpretation of the condition against imposition of further
-restrictions: 
+interpretation of the initial clause of this section: 
     i) Apache License 2.0 as published by the Apache
 Software Foundation 
-   ii) MIT License, version at 
-  iii) 3-clause BSD License, version at
+   ii) MIT License, version at http://opensource.org/licenses/MIT
+  iii) 3-clause BSD License, version at http://opensource.org/licenses/BSD-3-Clause
 
-  If the Program as You received it, or any part of it, contains a
-notice stating that it is governed by this License along with a term
-that is a further restriction, You may remove that term.  If a license
-document contains a further restriction but permits relicensing or
-distributing under this License, You may add to a Covered Work
-material governed by the terms of that license document, provided that
-the further restriction does not survive such relicensing or
-distributing.
+  If a license document contains a further restriction but permits
+relicensing or distributing under this License, You may add to a
+Covered Work material governed by the terms of that license document,
+provided that the further restriction does not survive such
+relicensing or distributing.
 
   Additional terms may be stated in the form of a separately written
 license or stated as qualifications of this License.
@@ -288,7 +284,7 @@ or commitment, however denominated, not to enforce a patent (such as
 an express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  10. Compatibility with GNU Strong Copyleft Licenses.
+  10. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
