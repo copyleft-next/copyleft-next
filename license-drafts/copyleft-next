@@ -23,14 +23,16 @@ available to You under this License.
   "Licensor" means the individual(s), entity or entities that grant a
 license to the Received Work under this License.
 
-  "Essential Patent Claims" means all patent claims owned or
-controlled by Licensor, whether already acquired or hereafter
-acquired, that would be infringed by some manner, permitted by this
-License, of making, using, or selling the Received Work, but do not
+  "Essential Patent Claims" means all Licensable patent claims,
+whether already acquired or hereafter acquired, that are necessarily
+infringed by making, using, or selling the Received Work, but do not
 include claims that would be infringed only as a consequence of
-further modification of the Received Work.  For purposes of this
-definition, "control" includes the right to grant patent sublicenses
-in a manner consistent with the requirements of this License.
+further modification of the Received Work.
+
+  "Licensable" patent claim means a patent claim owned or controlled
+by Licensor or as to which Licensor has the right to grant patent
+sublicenses under terms consistent with the requirements of this
+License.
 
   "Derivative" means a work of authorship that copies from, modifies,
 adapts, is based on, transforms or translates all or part of the
@@ -94,14 +96,13 @@ officially released by the Free Software Foundation.
   Subject to the terms and conditions of this License, Licensor grants
 You:
 
-  (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
-duration of copyright on the Received Work) license to make, copy,
-Distribute, publicly perform and publicly display Covered Works, in
-all cases in any medium or format; and
+  (a) a worldwide, royalty-free, nonexclusive, perpetual license to
+make, copy, Distribute, publicly perform and publicly display Covered
+Works, in all cases in any medium or format; and
 
-  (b) a worldwide, royalty-free, nonexclusive patent license under
-Essential Patent Claims, to make, use, sell, offer for sale, import
-and otherwise transfer the contents of the Received Work.
+  (b) a worldwide, royalty-free, nonexclusive, perpetual patent
+license under Essential Patent Claims, to make, use, sell, offer for
+sale, import and otherwise transfer the contents of the Received Work.
 
   Permission to run Covered Works is entirely unconditional. For the
 avoidance of doubt, You may charge any fee for (i) Distributing
