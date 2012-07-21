@@ -17,29 +17,26 @@ such entity, whether by contract or otherwise, or (ii) ownership of
 fifty percent (50%) or more of the outstanding shares, or (iii)
 beneficial ownership of such entity.
 
-  "Program" means the particular work of authorship made available to
-You under this License.
+  "Received Work" means the particular work of authorship made
+available to You under this License.
 
   "Licensor" means the individual(s), entity or entities that grant a
-license to the Program under this License.
+license to the Received Work under this License.
 
   "Essential Patent Claims" means all patent claims owned or
 controlled by Licensor, whether already acquired or hereafter
 acquired, that would be infringed by some manner, permitted by this
-License, of making, using, or selling the Program, but do not include
-claims that would be infringed only as a consequence of further
-modification of the Program.  For purposes of this definition,
-"control" includes the right to grant patent sublicenses in a manner
-consistent with the requirements of this License.
+License, of making, using, or selling the Received Work, but do not
+include claims that would be infringed only as a consequence of
+further modification of the Received Work.  For purposes of this
+definition, "control" includes the right to grant patent sublicenses
+in a manner consistent with the requirements of this License.
 
-  "Derivative Work" means a work of authorship that copies from,
-modifies, adapts, is based on, transforms or translates all or part of
-the Program such that copyright permission is required, but does not
+  "Derivative" means a work of authorship that copies from, modifies,
+adapts, is based on, transforms or translates all or part of the
+Received Work such that copyright permission is required, but does not
 include (i) the mere making, in isolation, of a verbatim copy of the
-entire Program or a subset of it, or (ii) Mere Aggregation. For the
-avoidance of doubt, this definition may be broader or narrower than
-definitions of "derivative work" (or similar) under applicable
-copyright law.
+entire Work or a subset of it, or (ii) Mere Aggregation.
 
   "Mere Aggregation" means a collection of a Covered Work with other
 separate and independent works on a storage or distribution medium, to
@@ -48,7 +45,7 @@ enhancements of the Covered Work, unless the license of the collection
 would limit a user from exercising rights under this License with
 respect to the Covered Work.
 
-  "Covered Work" means either the Program or a Derivative Work.
+  "Covered Work" means either the Received Work or a Derivative.
 
   "Source Code" for a work means the preferred form of the work
 for making modifications to it.  
@@ -76,7 +73,7 @@ executable runs or (ii) a compiler used to produce the executable or
 
   "Inbound Contribution" means a work intentionally submitted by You
 to Licensor for inclusion in a modified or successor version of the
-Program.
+Received Work.
 
   "Distribute" means to transfer or make available copies of Covered
 Works to others, to the extent such activity requires copyright
@@ -98,15 +95,15 @@ officially released by the Free Software Foundation.
 You:
 
   (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
-duration of copyright on the Program) license to make, copy,
+duration of copyright on the Received Work) license to make, copy,
 Distribute, publicly perform and publicly display Covered Works, in
 all cases in any medium or format; and
 
   (b) a worldwide, royalty-free, nonexclusive patent license under
 Essential Patent Claims, to make, use, sell, offer for sale, import
-and otherwise transfer the contents of the Program. 
+and otherwise transfer the contents of the Received Work.
 
-  Permission to run the Program is entirely unconditional. For the
+  Permission to run Covered Works is entirely unconditional. For the
 avoidance of doubt, You may charge any fee for (i) Distributing
 Covered Works, and (ii) providing services to recipients of Covered
 Works.
@@ -152,22 +149,22 @@ these conditions:
 
   a) Keep intact all copyright notices, notices of the applicability
      of this License, and warranty disclaimers contained in the
-     Program (in the case of a Derivative Work, to the extent such
+     Received Work (in the case of a Derivative, to the extent such
      notices remain applicable), and include a copy of this License
      along with the Covered Work.
 
-  c) For a Derivative Work:
+  c) For a Derivative:
 
-    i) Include prominent notice that the Derivative Work is released
-        under this License.
+    i) Include prominent notice that the Derivative is released under
+        this License.
 
-   ii) You must license the entire Derivative Work, as a whole, under
-       this License to anyone who comes into possession of a copy.
-       This License will therefore apply to the whole of the
-       Derivative Work, and all its parts, regardless of how they are
+   ii) You must license the entire Derivative, as a whole, under this
+       License to anyone who comes into possession of a copy.  This
+       License will therefore apply to the whole of the Derivative,
+       and all its parts, regardless of how they are
        packaged. However, if Licensor commercially offers a Covered
        Work under Proprietary Terms, this clause c)iii) shall not
-       apply to Your Derivative Work.
+       apply to Your Derivative.
 
   6. Object Code Distribution.
 
@@ -231,7 +228,7 @@ the same material under section 8.
   8. Automatic Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
-receives from Licensor a license to the Program subject to this
+receives from Licensor a license to the Received Work subject to this
 License.
 
   9. No Further Restrictions; Inbound License Compatibility.
@@ -242,8 +239,8 @@ rights granted or affirmed under this License.
   Further restrictions include, without limitation, initiation of
 litigation (including a cross-claim or counterclaim in a lawsuit)
 alleging that any patent claim is infringed by making, using, selling,
-offering for sale, or importing the Program or any portion of
-it. 
+offering for sale, or importing the Received Work or any portion of
+it.
 
   For the avoidance of doubt, Distribution of a Covered Work
 incorporating material covered by the following free software licenses
@@ -271,9 +268,9 @@ Your requirements under this License and any pertinent obligations
 extrinsic to this License, then as a consequence You may not
 Distribute it at all.  For example, if You agree to terms that
 obligate You to collect a royalty for further distributing from those
-to whom You Distribute the Program, the only way You could satisfy
+to whom You Distribute a Covered Work, the only way You could satisfy
 both those terms and this License would be to refrain entirely from
-Distributing the Program.
+Distributing Covered Works.
 
   You may Distribute a Covered Work knowingly relying on a Patent
 License if (i) the Corresponding Source of the Covered Work (or, for a
@@ -304,31 +301,32 @@ survive such relicensing.
 Steward may publish new versions of copyleft-next.  Each version will
 be given a distinguishing version number. You may distribute a Covered
 Work under the terms of the version of copyleft-next under which the
-Program is licensed, or under the terms of any subsequent version
-published by the License Steward.
+Received Work is licensed, or under the terms of any subsequent
+version published by the License Steward.
 
   13. Disclaimer of Warranty.
 
-  To the extent permitted by applicable law, the Program is provided
-under this License on an "as is" basis, without warranty of any kind,
-either express, implied, or statutory, including, without limitation,
-warranties that the Program is free of defects, merchantable, fit for
-a particular purpose or non-infringing.  The entire risk as to the
-quality and performance of the Program is with You.  Should the
-Program prove defective in any respect, You assume the cost of all
-necessary servicing, repair or correction.  This disclaimer of
-warranty constitutes an essential part of this License. No use of the
-Program is authorized under this License except under this disclaimer.
+  To the extent permitted by applicable law, the Received Work is
+provided under this License on an "as is" basis, without warranty of
+any kind, either express, implied, or statutory, including, without
+limitation, warranties that the Received Work is free of defects,
+merchantable, fit for a particular purpose or non-infringing.  The
+entire risk as to the quality and performance of the Received Work is
+with You.  Should the Received Work prove defective in any respect,
+You assume the cost of all necessary servicing, repair or correction.
+This disclaimer of warranty constitutes an essential part of this
+License. No use of the Received Work is authorized under this License
+except under this disclaimer.
 
   14. Limitation of Liability.
 
   In no event unless required by applicable law or agreed to in
 writing will any copyright holder, or any other party who modifies
-and/or distributes the Program as permitted above, be liable to You
-for damages, including any general, special, incidental or
+and/or distributes the Received Work as permitted above, be liable to
+You for damages, including any general, special, incidental or
 consequential damages arising out of the use or inability to use the
-Program (including but not limited to loss of data or data being
+Received Work (including but not limited to loss of data or data being
 rendered inaccurate or losses sustained by You or third parties or a
-failure of the Program to operate with any other programs), even if
-such holder or other party has been advised of the possibility of such
-damages.
+failure of the Received Work to operate with any other programs), even
+if such holder or other party has been advised of the possibility of
+such damages.
