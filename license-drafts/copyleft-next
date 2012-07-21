@@ -77,11 +77,11 @@ executable runs or (ii) a compiler used to produce the executable or
 to Licensor for inclusion in a modified or successor version of the
 Received Work.
 
-  "Distribute" means to transfer or make available copies of Covered
-Works to others, to the extent such activity requires copyright
-permission. For the avoidance of doubt, "Distribution" does not
-include mere interaction with a user through a computer network,
-without any transfer of a Covered Work to the user.
+  "Distribute" means to transfer or make available copies of a work to
+others, to the extent such activity requires copyright permission. For
+the avoidance of doubt, "Distribution" does not include mere
+interaction with a user through a computer network, without any
+transfer of a copy of a work to the user.
 
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
@@ -310,26 +310,24 @@ version published by the License Steward.
   13. Disclaimer of Warranty.
 
   To the extent permitted by applicable law, the Received Work is
-provided under this License on an "as is" basis, without warranty of
-any kind, either express, implied, or statutory, including, without
-limitation, warranties that the Received Work is free of defects,
-merchantable, fit for a particular purpose or non-infringing.  The
-entire risk as to the quality and performance of the Received Work is
-with You.  Should the Received Work prove defective in any respect,
-You assume the cost of all necessary servicing, repair or correction.
-This disclaimer of warranty constitutes an essential part of this
-License. No use of the Received Work is authorized under this License
-except under this disclaimer.
+provided on an "as is" basis, without warranty of any kind, either
+express, implied, or statutory, including, without limitation,
+warranties of title, noninfringement, merchantability, or fitness for
+a particular purpose.  You assume the entire risk associated with the
+Received Work and Your exercise of permissions under this
+License. This disclaimer of warranty constitutes an essential part of
+this License.
 
   14. Limitation of Liability.
 
-  In no event unless required by applicable law or agreed to in
-writing will any copyright holder, or any other party who modifies
-and/or distributes the Received Work as permitted above, be liable to
-You for damages, including any general, special, incidental or
-consequential damages arising out of the use or inability to use the
-Received Work (including but not limited to loss of data or data being
-rendered inaccurate or losses sustained by You or third parties or a
-failure of the Received Work to operate with any other programs), even
-if such holder or other party has been advised of the possibility of
+  In no event and under no legal theory, unless required by applicable
+law or agreed to in writing, shall Licensor or any Distributor be
+liable to You for damages, including any direct, indirect, general,
+special, incidental or consequential damages arising as a result of
+this License or out of the use or inability to use the Received Work
+(including but not limited to: loss of data or data being rendered
+inaccurate, failure of the Received Work to operate with any other
+programs, loss of goodwill, work stoppage, other failure or
+malfunction, or any and all other commercial damages or losses), even
+if Licensor or any Distributor has been advised of the possibility of
 such damages.
