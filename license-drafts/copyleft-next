@@ -12,18 +12,17 @@ License.
   "Program" means the particular work of authorship made available to
 You under this License.
 
-  "Contributor" means the individual(s), entity or entities that grant
-a license to the Program under this License.
+  "Licensor" means the individual(s), entity or entities that grant a
+license to the Program under this License.
 
-  For each Contributor, "Essential Patent Claims" means all patent
-claims owned or controlled by the Contributor, whether already
-acquired or hereafter acquired, that would be infringed by some
-manner, permitted by this License, of making, using, or selling the
-Program, but do not include claims that would be infringed only as a
-consequence of further modification of the Program.  For purposes of
-this definition, "control" includes the right to grant patent
-sublicenses in a manner consistent with the requirements of this
-License.
+  "Essential Patent Claims" means all patent claims owned or
+controlled by Licensor, whether already acquired or hereafter
+acquired, that would be infringed by some manner, permitted by this
+License, of making, using, or selling the Program, but do not include
+claims that would be infringed only as a consequence of further
+modification of the Program.  For purposes of this definition,
+"control" includes the right to grant patent sublicenses in a manner
+consistent with the requirements of this License.
 
   "Derivative Work" means a work of authorship that copies from,
 modifies, adapts, is based on, transforms or translates all or part of
@@ -68,7 +67,7 @@ executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
   "Inbound Contribution" means a work intentionally submitted by You
-to Contributor for inclusion in a modified or successor version of the
+to Licensor for inclusion in a modified or successor version of the
 Program.
 
   "Distribute" means to transfer or make available copies of Covered
@@ -87,8 +86,8 @@ officially released by the Free Software Foundation.
 
   1. Basic Permissions.
 
-  Subject to the terms and conditions of this License, Contributors
-hereby grant You:
+  Subject to the terms and conditions of this License, Licensor grants
+You:
 
   (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
 duration of copyright on the Program) license to make, copy,
@@ -113,7 +112,7 @@ patent law.
   2. Trademarks.
 
   This License does not grant any rights in the trademarks, service
-marks, or logos of Contributor.
+marks, or logos of Licensor.
 
   3. Anti-Circumvention Law.
 
@@ -158,7 +157,7 @@ these conditions:
        this License to anyone who comes into possession of a copy.
        This License will therefore apply to the whole of the
        Derivative Work, and all its parts, regardless of how they are
-       packaged. However, if Contributor commercially offers a Covered
+       packaged. However, if Licensor commercially offers a Covered
        Work under Proprietary Terms, this clause c)iii) shall not
        apply to Your Derivative Work.
 
@@ -223,9 +222,9 @@ the same material under section 8.
 
   8. Automatic Licensing of Downstream Recipients.
 
-  Each time You distribute a Covered Work, the recipient automatically
-receives from the Contributor a license to the Program under the terms
-and conditions of this License.
+  Each time You Distribute a Covered Work, the recipient automatically
+receives from Licensor a license to the Program subject to this
+License.
 
   9. No Further Restrictions; Inbound License Compatibility.
 
