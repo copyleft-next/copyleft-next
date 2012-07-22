@@ -82,7 +82,12 @@ officially released by the Free Software Foundation.
 
   "Proprietary Terms" means [to be defined].
 
-  1. Basic Permissions.
+  1. General Rule of Construction.
+
+  This License shall be interpreted in a manner that promotes the
+freedom of all users to use, share and change free software. 
+
+  2. Basic Permissions.
 
   Subject to the terms of this License, Licensor hereby grants You:
 
@@ -106,12 +111,12 @@ other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  2. Trademarks.
+  3. Trademarks.
 
   This License does not grant any rights in the trademarks, service
 marks, or logos of Licensor.
 
-  3. Anti-Circumvention Law.
+  4. Anti-Circumvention Law.
 
   No Covered Work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -127,13 +132,13 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  4. Inbound = Outbound.
+  5. Inbound = Outbound.
 
   Any Inbound Contribution shall be under this License, without any
 additional terms or conditions, unless you explicitly indicate
 otherwise at the time You submit the Inbound Contribution.
 
-  5. Distribution: General.
+  6. Distribution: General.
 
   You may Distribute a Covered Work, provided that You meet all of
 these conditions:
@@ -158,7 +163,7 @@ these conditions:
        Work under Proprietary Terms, this clause c)iii) shall not
        apply to Your Derived Work.
 
-  6. Object Code Distribution.
+  7. Object Code Distribution.
 
   You may Distribute a Covered Work in Object Code form, provided that
 You also distribute the machine-readable Corresponding Source under
@@ -190,7 +195,7 @@ this License, in one of the following ways:
        Corresponding Source, or (2) from a network server at no
        charge.
 
-  7. Termination.
+  8. Termination.
 
   If You fail to comply with this License, Your rights under this
 License are automatically terminated, except that permission to run
@@ -205,16 +210,16 @@ rights of those who have received copies or rights from You subject to
 this License.
 
   Termination of Your rights disqualifies You from receiving new
-licenses for the same material under section 8, unless and until Your
+licenses for the same material under section 9, unless and until Your
 rights are reinstated in accordance with this section.
 
-  8. Automatic Licensing of Downstream Recipients.
+  9. Automatic Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
 receives from Licensor a license to the Received Work subject to this
 License.
 
-  9. No Further Restrictions; Inbound License Compatibility.
+ 10. No Further Restrictions; Inbound License Compatibility.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. 
@@ -241,7 +246,7 @@ Covered Work material governed by the terms of that license document,
 provided that the further restriction does not survive such
 relicensing or Distributing.
 
-  10. Liberty or Death; Third-Party Patent Licenses.
+  11. Liberty or Death; Third-Party Patent Licenses.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
@@ -273,7 +278,7 @@ express agreement or commitment not to enforce a patent (such as an
 express permission to practice a patent or covenant not to sue for
 patent infringement).
 
-  11. Outbound Compatibility with GNU Strong Copyleft Licenses.
+  12. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -281,7 +286,7 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  12. New Versions of this License.
+  13. New Versions of this License.
 
   The initial License Steward is the Copyleft Next Group. The License
 Steward may publish new versions of copyleft-next.  Each version will
@@ -290,7 +295,7 @@ Work under the terms of the version of copyleft-next under which the
 Received Work is licensed, or under the terms of a newer version
 published by the License Steward.
 
-  13. No Warranty.
+  14. No Warranty.
 
   To the extent permitted by applicable law, the Received Work is
 provided on an "as is" basis, without warranty of any kind, either
@@ -303,7 +308,7 @@ laws, damage to or loss of data, programs or equipment, and
 unavailability or interruption of operations. This disclaimer of
 warranty constitutes an essential part of this License.
 
-  14. Limitation of Liability.
+  15. Limitation of Liability.
 
   Unless required by applicable law, neither Licensor nor any
 Distributor shall be liable to You for damages, including any direct,
@@ -320,10 +325,11 @@ stoppage, other failure or malfunction, or any and all other
 commercial damages or losses), even if Licensor or any Distributor has
 been advised of the possibility of such damages.
 
-  15. Severability.
+  16. Severability.
 
   If any provision of this License is invalid or unenforceable under
 applicable law, it shall not affect the validity or enforceability of
 the remainder of this License, and reviewing courts shall reform such
 provision to the minimum extent necessary to make such provision valid
 and enforceable.
+
