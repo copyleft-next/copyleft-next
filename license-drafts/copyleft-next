@@ -25,11 +25,11 @@ by Licensor or as to which Licensor has the right to grant patent
 sublicenses under terms consistent with the requirements of this
 License.
 
-  "Derivative" means a work of authorship that copies from, modifies,
-adapts, is based on, transforms or translates all or part of the
-Received Work such that copyright permission is required, but does not
-include (i) the mere making, in isolation, of a verbatim copy of the
-entire Work or a subset of it, or (ii) Mere Aggregation.
+  "Derived Work" means a work of authorship that copies from,
+modifies, adapts, is based on, transforms or translates all or part of
+the Received Work such that copyright permission is required, but does
+not include (i) the mere making, in isolation, of a verbatim copy of
+the entire Work or a subset of it, or (ii) Mere Aggregation.
 
   "Mere Aggregation" means a collection of a Covered Work with other
 separate and independent works on a storage or distribution medium, to
@@ -38,7 +38,7 @@ enhancements of the Covered Work, unless the license of the collection
 would limit a user from exercising rights under this License with
 respect to the Covered Work.
 
-  "Covered Work" means either the Received Work or a Derivative.
+  "Covered Work" means either the Received Work or a Derived Work.
 
   "Source Code" for a work means the preferred form of the work
 for making modifications to it.  
@@ -140,23 +140,23 @@ these conditions:
   a) Keep intact all copyright notices, textual author attributions,
      notices of the applicability of this License, and warranty
      disclaimers contained in the Received Work (in the case of a
-     Derivative, to the extent such notices remain pertinent), and
+     Derived Work, to the extent such notices remain pertinent), and
      include a copy of this License along with the Covered Work or a
      pointer to a canonical Internet address at which a copy of this
      License is publicly available.
 
-  c) For a Derivative:
+  c) For a Derived Work:
 
-    i) Include prominent notice that the Derivative is released under
-        this License.
+    i) Include prominent notice that the Derived Work is released
+        under this License.
 
-   ii) You must license the entire Derivative, as a whole, under this
-       License to anyone who comes into possession of a copy.  This
-       License will therefore apply to the whole of the Derivative,
-       and all its parts, regardless of how they are
+   ii) You must license the entire Derived Work, as a whole, under
+       this License to anyone who comes into possession of a copy.
+       This License will therefore apply to the whole of the Derived
+       Work, and all its parts, regardless of how they are
        packaged. However, if Licensor commercially offers a Covered
        Work under Proprietary Terms, this clause c)iii) shall not
-       apply to Your Derivative.
+       apply to Your Derived Work.
 
   6. Object Code Distribution.
 
