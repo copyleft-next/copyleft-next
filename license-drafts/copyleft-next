@@ -4,7 +4,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
   0. Definitions.
 
-  "License" means the terms and conditions defined in this document.
+  "License" means the terms defined in this document.
 
   "You" means an individual or Entity exercising rights under this
 License.
@@ -93,8 +93,7 @@ officially released by the Free Software Foundation.
 
   1. Basic Permissions.
 
-  Subject to the terms and conditions of this License, Licensor grants
-You:
+  Subject to the conditions of this License, Licensor grants You:
 
   (a) a worldwide, royalty-free, nonexclusive, perpetual license to
 make, copy, Distribute, publicly perform and publicly display Covered
@@ -138,10 +137,9 @@ technological measures.
 
   4. Inbound = Outbound.
 
-  Any Inbound Contribution shall be under the terms and conditions of
-this License, without any additional terms or conditions, unless you
-explicitly indicate otherwise at the time You submit the Inbound
-Contribution.
+  Any Inbound Contribution shall be under this License, without any
+additional terms or conditions, unless you explicitly indicate
+otherwise at the time You submit the Inbound Contribution.
 
   5. Distribution: General.
 
@@ -173,7 +171,7 @@ these conditions:
 
   You may Distribute a Covered Work in Object Code form, provided that
 You also distribute the machine-readable Corresponding Source under
-the terms of this License, in one of the following ways:
+this License, in one of the following ways:
 
     a) Simultaneous Availability of Corresponding Source:
 
@@ -268,17 +266,17 @@ Distributing Covered Works.
   You may Distribute a Covered Work knowingly relying on a Patent
 License if (i) the Corresponding Source of the Covered Work (or, for a
 Covered Work in Source Code form, such Source Code) is available for
-anyone to copy, free of charge and under the terms of this License,
-through a publicly available network server, or (ii) the Patent
-License is available to all downstream recipients under terms not
-inconsistent with this License.  "Knowingly relying" means You have
-actual knowledge that, but for the Patent License, Your Distribution
-of the Covered Work in a country, or Your recipient's use of the
-Covered Work in a country, would infringe one or more identifiable
-patents in that country that You have reason to believe are valid. A
-"Patent License" as used in this paragraph means any express agreement
-or commitment not to enforce a patent (such as an express permission
-to practice a patent or covenant not to sue for patent infringement).
+anyone to copy, free of charge and under this License, through a
+publicly available network server, or (ii) the Patent License is
+available to all downstream recipients under terms not inconsistent
+with this License.  "Knowingly relying" means You have actual
+knowledge that, but for the Patent License, Your Distribution of the
+Covered Work in a country, or Your recipient's use of the Covered Work
+in a country, would infringe one or more identifiable patents in that
+country that You have reason to believe are valid. A "Patent License"
+as used in this paragraph means any express agreement or commitment
+not to enforce a patent (such as an express permission to practice a
+patent or covenant not to sue for patent infringement).
 
   11. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
@@ -326,6 +324,6 @@ such damages.
 
   If any provision of this License is invalid or unenforceable under
 applicable law, it shall not affect the validity or enforceability of
-the remainder of the terms of this License, and reviewing courts shall
-reform such provision to the minimum extent necessary to make such
-provision valid and enforceable.
+the remainder of this License, and reviewing courts shall reform such
+provision to the minimum extent necessary to make such provision valid
+and enforceable.
