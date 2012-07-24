@@ -4,35 +4,33 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
   0. Definitions.
 
-  "License" means this document.
+  "License" means the terms defined in this document.
 
-  "You" means an individual or entity exercising rights under this
+  "You" means any individual or organization exercising rights under
+this License.
+
+  "Received Work" means a particular work of authorship made available
+to You under this License.
+
+  "Licensor" means the individual(s), entity or entities that grant a
+license to the Received Work under this License.
+
+  "Licensed Patents" means all Licensable patent claims, whether
+already acquired or hereafter acquired, that are necessarily infringed
+by making, using, or selling the Received Work, but do not include
+claims that would be infringed only as a consequence of further
+modification of the Received Work.
+
+  "Licensable" patent claim means a patent claim owned or controlled
+by Licensor or as to which Licensor has the right to grant patent
+sublicenses under terms consistent with the requirements of this
 License.
 
-  "Program" means the particular work of authorship made available to
-You under this License.
-
-  "Contributor" means the individual(s), entity or entities that grant
-a license to the Program under this License.
-
-  For each Contributor, "Essential Patent Claims" means all patent
-claims owned or controlled by the Contributor, whether already
-acquired or hereafter acquired, that would be infringed by some
-manner, permitted by this License, of making, using, or selling the
-Program, but do not include claims that would be infringed only as a
-consequence of further modification of the Program.  For purposes of
-this definition, "control" includes the right to grant patent
-sublicenses in a manner consistent with the requirements of this
-License.
-
-  "Derivative Work" means a work of authorship that copies from,
+  "Derived Work" means a work of authorship that copies from,
 modifies, adapts, is based on, transforms or translates all or part of
-the Program such that copyright permission is required, but does not
-include (i) the mere making, in isolation, of a verbatim copy of the
-entire Program or a subset of it, or (ii) Mere Aggregation. For the
-avoidance of doubt, this definition may be broader or narrower than
-definitions of "derivative work" (or similar) under applicable
-copyright law.
+the Received Work such that copyright permission is required, but does
+not include (i) the mere making, in isolation, of a verbatim copy of
+the entire Work or a subset of it, or (ii) Mere Aggregation.
 
   "Mere Aggregation" means a collection of a Covered Work with other
 separate and independent works on a storage or distribution medium, to
@@ -41,7 +39,7 @@ enhancements of the Covered Work, unless the license of the collection
 would limit a user from exercising rights under this License with
 respect to the Covered Work.
 
-  "Covered Work" means either the Program or a Derivative Work.
+  "Covered Work" means either the Received Work or a Derived Work.
 
   "Source Code" for a work means the preferred form of the work
 for making modifications to it.  
@@ -68,14 +66,14 @@ executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
   "Inbound Contribution" means a work intentionally submitted by You
-to Contributor for inclusion in a modified or successor version of the
-Program.
+to Licensor for inclusion in a modified or successor version of the
+Received Work.
 
-  "Distribute" means to transfer or make available copies of Covered
-Works to others, to the extent such activity requires copyright
-permission. For the avoidance of doubt, "Distribution" does not
-include mere interaction with a user through a computer network,
-without any transfer of a Covered Work to the user.
+  "Distribute" means to transfer or make available copies of a work to
+others, to the extent such activity requires copyright permission. For
+the avoidance of doubt, "Distribution" does not include mere
+interaction with a user through a computer network, without any
+transfer of a copy of a work to the user.
 
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
@@ -85,24 +83,28 @@ officially released by the Free Software Foundation.
 
   "Proprietary Terms" means [to be defined].
 
-  1. Basic Permissions.
+  1. General Rule of Construction.
 
-  Subject to the terms and conditions of this License, Contributors
-hereby grant You:
+  This License shall be interpreted in a manner that promotes the
+freedom of all users to use, share and change free software. 
 
-  (a) a worldwide, royalty-free, nonexclusive, perpetual (for the
-duration of copyright on the Program) license to make, copy,
-Distribute, publicly perform and publicly display Covered Works, in
-all cases in any medium or format; and
+  2. Basic Permissions.
 
-  (b) a worldwide, royalty-free, nonexclusive patent license under
-Essential Patent Claims, to make, use, sell, offer for sale, import
-and otherwise transfer the contents of the Program. 
+  Subject to the terms of this License, Licensor hereby grants You:
 
-  Permission to run the Program is entirely unconditional. For the
-avoidance of doubt, You may charge any fee for (i) Distributing
-Covered Works, and (ii) providing services to recipients of Covered
-Works.
+  (a) a non-exclusive, worldwide, royalty-free copyright license to
+make, copy, Distribute, publicly perform and publicly display Covered
+Works, in any medium; and
+
+  (b) a non-exclusive, worldwide, royalty-free patent license under
+Licensed Patents to make, use, sell, offer for sale, import and
+otherwise transfer the Received Work, in any medium.
+
+  The grants above are perpetual except to the extent Your rights
+under this License are terminated in accordance with section 7.
+
+  For the avoidance of doubt, You may charge any fee for Distributing
+Covered Works and providing services relating to Covered Works.
 
   This License is not intended to exclude or limit (i) any rights You
 have under applicable copyright doctrines of fair use, fair dealing or
@@ -110,12 +112,12 @@ other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  2. Trademarks.
+  3. Trademarks.
 
   This License does not grant any rights in the trademarks, service
-marks, or logos of Contributor.
+marks, or logos of Licensor.
 
-  3. Anti-Circumvention Law.
+  4. Anti-Circumvention Law.
 
   No Covered Work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -131,42 +133,42 @@ modification of the work as a means of enforcing, against the work's
 users, Your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-  4. Inbound = Outbound.
+  5. Inbound = Outbound.
 
-  Any Inbound Contribution shall be under the terms and conditions of
-this License, without any additional terms or conditions, unless you
-explicitly indicate otherwise at the time You submit the Inbound
-Contribution.
+  Any Inbound Contribution shall be under this License, without any
+additional terms or conditions, unless you explicitly indicate
+otherwise at the time You submit the Inbound Contribution.
 
-  5. Distribution: General.
+  6. Distribution: General.
 
   You may Distribute a Covered Work, provided that You meet all of
 these conditions:
 
-  a) Keep intact all copyright notices, notices of the applicability
-     of this License, and warranty disclaimers contained in the
-     Program (in the case of a Derivative Work, to the extent such
-     notices remain applicable), and include a copy of this License
-     along with the Covered Work.
+  a) Keep intact all copyright notices, textual author attributions,
+     license notices, and warranty disclaimers contained in the
+     Received Work (in the case of a Derived Work, to the extent such
+     notices remain pertinent), and include a copy of this License
+     along with the Covered Work or a pointer to a canonical Internet
+     address at which a copy of this License is publicly available.
 
-  c) For a Derivative Work:
+  c) For a Derived Work:
 
-    i) Include prominent notice that the Derivative Work is released
+    i) Include prominent notice that the Derived Work is released
         under this License.
 
-   ii) You must license the entire Derivative Work, as a whole, under
+   ii) You must license the entire Derived Work, as a whole, under
        this License to anyone who comes into possession of a copy.
-       This License will therefore apply to the whole of the
-       Derivative Work, and all its parts, regardless of how they are
-       packaged. However, if Contributor commercially offers a Covered
+       This License will therefore apply to the whole of the Derived
+       Work, and all its parts, regardless of how they are
+       packaged. However, if Licensor commercially offers a Covered
        Work under Proprietary Terms, this clause c)iii) shall not
-       apply to Your Derivative Work.
+       apply to Your Derived Work.
 
-  6. Object Code Distribution.
+  7. Object Code Distribution.
 
   You may Distribute a Covered Work in Object Code form, provided that
 You also distribute the machine-readable Corresponding Source under
-the terms of this License, in one of the following ways:
+this License, in one of the following ways:
 
     a) Simultaneous Availability of Corresponding Source:
 
@@ -194,40 +196,32 @@ the terms of this License, in one of the following ways:
        Corresponding Source, or (2) from a network server at no
        charge.
 
-  7. Termination.
+  8. Termination.
 
-  You may not copy, distribute or modify a Covered Work except as
-expressly provided under this License.  Any unauthorized act of
-copying, distribution or modification automatically terminates Your
-rights under this License.
+  If You fail to comply with this License, Your rights under this
+License are automatically terminated, except that to the extent that
+the right to make copies necessarily incident to running Covered Works
+shall never be terminated.
 
-  However, if You cease all violation of this License, then Your
-license from a particular copyright holder is reinstated (a)
-provisionally, unless and until the copyright holder explicitly and
-finally terminates Your license, and (b) permanently, if the copyright
-holder fails to notify You of the violation by some reasonable means
-prior to 60 days after the cessation.
-
-  Moreover, Your license from a particular copyright holder is
-reinstated permanently if the copyright holder notifies You of the
-violation by some reasonable means, this is the first time You have
-received notice of violation of this License (for any work) from that
-copyright holder, and You cure the violation prior to 30 days after
-Your receipt of the notice.
+  However, if You cure such failure within a reasonable time period
+after becoming aware of such noncompliance, then Your rights are
+reinstated.
 
   Termination of Your rights under this section does not terminate the
-licenses of parties who have received copies or rights from You under
-this License.  If Your rights have been terminated and are not
-permanently reinstated, You do not qualify to receive new licenses for
-the same material under section 8.
+rights of those who have received copies or rights from You subject to
+this License.
 
-  8. Automatic Licensing of Downstream Recipients.
+  Termination of Your rights disqualifies You from receiving new
+licenses for the same material under section 9, unless and until Your
+rights are reinstated in accordance with this section.
 
-  Each time You distribute a Covered Work, the recipient automatically
-receives from the Contributor a license to the Program under the terms
-and conditions of this License.
+  9. Automatic Licensing of Downstream Recipients.
 
-  9. No Further Restrictions; Inbound License Compatibility.
+  Each time You Distribute a Covered Work, the recipient automatically
+receives from Licensor a license to the Received Work subject to this
+License.
+
+ 10. No Further Restrictions; Inbound License Compatibility.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. 
@@ -235,8 +229,8 @@ rights granted or affirmed under this License.
   Further restrictions include, without limitation, initiation of
 litigation (including a cross-claim or counterclaim in a lawsuit)
 alleging that any patent claim is infringed by making, using, selling,
-offering for sale, or importing the Program or any portion of
-it. 
+offering for sale, or importing the Received Work or any portion of
+it.
 
   For the avoidance of doubt, Distribution of a Covered Work
 incorporating material covered by the following free software licenses
@@ -254,7 +248,7 @@ Covered Work material governed by the terms of that license document,
 provided that the further restriction does not survive such
 relicensing or Distributing.
 
-  10. Liberty or Death.
+  11. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of this License, they do
@@ -262,28 +256,15 @@ not excuse You from the conditions of this License.  If You cannot
 Distribute a Covered Work in a way that would satisfy simultaneously
 Your requirements under this License and any pertinent obligations
 extrinsic to this License, then as a consequence You may not
-Distribute it at all.  For example, if You agree to terms that
-obligate You to collect a royalty for further distributing from those
-to whom You Distribute the Program, the only way You could satisfy
-both those terms and this License would be to refrain entirely from
-Distributing the Program.
+Distribute it at all.  
 
-  You may Distribute a Covered Work knowingly relying on a Patent
-License if (i) the Corresponding Source of the Covered Work (or, for a
-Covered Work in Source Code form, such Source Code) is available for
-anyone to copy, free of charge and under the terms of this License,
-through a publicly available network server, or (ii) the Patent
-License is available to all downstream recipients under terms not
-inconsistent with this License.  "Knowingly relying" means You have
-actual knowledge that, but for the Patent License, Your Distribution
-of the Covered Work in a country, or Your recipient's use of the
-Covered Work in a country, would infringe one or more identifiable
-patents in that country that You have reason to believe are valid. A
-"Patent License" as used in this paragraph means any express agreement
-or commitment not to enforce a patent (such as an express permission
-to practice a patent or covenant not to sue for patent infringement).
+  For example, if You agree to terms that obligate You to collect a
+royalty for further Distribution from those to whom You Distribute
+Covered Works, the only way You could satisfy both those terms and
+this License would be to refrain entirely from Distributing Covered
+Works.
 
-  11. Outbound Compatibility with GNU Strong Copyleft Licenses.
+  12. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
   Notwithstanding any other provision of this License, You have
 permission to relicense any Covered Work under the terms of any
@@ -291,37 +272,50 @@ version of a GNU Strong Copyleft License. No condition of this License
 that would conflict with the chosen GNU Strong Copyleft License shall
 survive such relicensing.
 
-  12. New Versions of this License.
+  13. New Versions of this License.
 
   The initial License Steward is the Copyleft Next Group. The License
 Steward may publish new versions of copyleft-next.  Each version will
 be given a distinguishing version number. You may distribute a Covered
 Work under the terms of the version of copyleft-next under which the
-Program is licensed, or under the terms of any subsequent version
+Received Work is licensed, or under the terms of a newer version
 published by the License Steward.
 
-  13. Disclaimer of Warranty.
+  14. No Warranty.
 
-  To the extent permitted by applicable law, the Program is provided
-under this License on an "as is" basis, without warranty of any kind,
-either express, implied, or statutory, including, without limitation,
-warranties that the Program is free of defects, merchantable, fit for
-a particular purpose or non-infringing.  The entire risk as to the
-quality and performance of the Program is with You.  Should the
-Program prove defective in any respect, You assume the cost of all
-necessary servicing, repair or correction.  This disclaimer of
-warranty constitutes an essential part of this License. No use of the
-Program is authorized under this License except under this disclaimer.
+  To the extent permitted by applicable law, the Received Work is
+provided on an "as is" basis, without warranty of any kind, either
+express, implied, or statutory, including, without limitation,
+warranties of title, noninfringement, merchantability, or fitness for
+a particular purpose. You assume the entire risk associated with Your
+exercise of permissions under this License, including but not limited
+to the risks and costs of program errors, compliance with applicable
+laws, damage to or loss of data, programs or equipment, and
+unavailability or interruption of operations. This disclaimer of
+warranty constitutes an essential part of this License.
 
-  14. Limitation of Liability.
+  15. Limitation of Liability.
 
-  In no event unless required by applicable law or agreed to in
-writing will any copyright holder, or any other party who modifies
-and/or distributes the Program as permitted above, be liable to You
-for damages, including any general, special, incidental or
-consequential damages arising out of the use or inability to use the
-Program (including but not limited to loss of data or data being
-rendered inaccurate or losses sustained by You or third parties or a
-failure of the Program to operate with any other programs), even if
-such holder or other party has been advised of the possibility of such
-damages.
+  Unless required by applicable law, neither Licensor nor any
+Distributor shall be liable to You for damages, including any direct,
+indirect, general, special, incidental or consequential damages
+(including, without limitation, lost profits), howeer caused and on
+any theory of liability, whether in contract, strict liability, or
+tort (including negligence or otherwise), arising in any way out of
+the use or inability to use, or Distribution of Covered Works or the
+exercise of any rights granted under this License or out of the use or
+inability to use the Received Work (including but not limited to: loss
+of data or data being rendered inaccurate, failure of the Received
+Work to operate with any other programs, loss of goodwill, work
+stoppage, other failure or malfunction, or any and all other
+commercial damages or losses), even if Licensor or any Distributor has
+been advised of the possibility of such damages.
+
+  16. Severability.
+
+  If any provision of this License is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of this License, and reviewing courts shall reform such
+provision to the minimum extent necessary to make such provision valid
+and enforceable.
+
