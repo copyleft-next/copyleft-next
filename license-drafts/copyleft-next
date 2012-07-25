@@ -10,7 +10,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 this License.
 
   "Received Work" means a particular work of authorship made available
-to You under this License.
+to You under this License, or any subset of it.
 
   "Licensor" means the individual or organization that grants a
 license to the Received Work under this License.
@@ -150,18 +150,12 @@ these conditions:
      along with the Covered Work or a pointer to a canonical Internet
      address at which a copy of this License is publicly available.
 
-  c) For a Derived Work:
-
-    i) Include prominent notice that the Derived Work is released
-        under this License.
-
-   ii) You must license the entire Derived Work, as a whole, under
-       this License to anyone who comes into possession of a copy.
-       This License will therefore apply to the whole of the Derived
-       Work, and all its parts, regardless of how they are
-       packaged. However, if Licensor commercially offers a Covered
-       Work under Proprietary Terms, this clause c)iii) shall not
-       apply to Your Derived Work.
+  b) For a Derived Work: License the entire Derived Work under this
+     License, and include prominent notice of such licensing. This
+     requirement may not be circumvented or diminished through such
+     means as separate packaging or separate Distribution.  However,
+     if Licensor commercially offers a Covered Work under Proprietary
+     Terms, this clause b) shall not apply to Your Derived Work.
 
   7. Object Code Distribution.
 
