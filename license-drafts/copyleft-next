@@ -12,8 +12,8 @@ this License.
   "Received Work" means a particular work of authorship made available
 to You under this License, or any subset of it.
 
-  "Licensor" means the individual or organization that grants a
-license to the Received Work under this License.
+  "We" means the individual or organization that grants a license to
+the Received Work under this License.
 
   "Licensed Patents" means all Licensable patent claims, whether
 already acquired or hereafter acquired, that are necessarily infringed
@@ -21,10 +21,9 @@ by making, using, or selling the Received Work, but do not include
 claims that would be infringed only as a consequence of further
 modification of the Received Work.
 
-  "Licensable" patent claim means a patent claim owned or controlled
-by Licensor or as to which Licensor has the right to grant patent
-sublicenses under terms consistent with the requirements of this
-License.
+  "Licensable" patent claim means a patent claim as to which We have
+the power or right to grant patent licenses or sublicenses under terms
+consistent with the requirements of this License
 
   "Derived Work" means a work of authorship that copies from,
 modifies, adapts, is based on, transforms or translates all or part of
@@ -66,13 +65,16 @@ executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
   "Inbound Contribution" means a work intentionally submitted by You
-to Licensor for inclusion in a modified or successor version of the
-Received Work.
+to Us for inclusion in a modified or successor version of the Received
+Work.
 
   "Distribute" means to transfer or make available a copy of a work to
 anyone else (in the case of an organization, to anyone outside of the
 organization), to the extent such activity requires copyright
 permission. 
+
+  "Distributor" means an individual or organization that Distributes
+the Received Work.
 
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
@@ -89,7 +91,7 @@ freedom of all users to use, share and change free software.
 
   2. Basic Permissions.
 
-  Subject to the terms of this License, Licensor hereby grants You:
+  Subject to the terms of this License, We hereby grant You:
 
   (a) a non-exclusive, worldwide, royalty-free copyright license to
 make, copy, Distribute, publicly perform and publicly display Covered
@@ -113,8 +115,8 @@ patent law.
 
   3. Trademarks.
 
-  This License does not grant any rights in the trademarks, service
-marks, or logos of Licensor.
+  This License does not grant any rights in Our trademarks, service
+marks, or logos.
 
   4. Anti-Circumvention Law.
 
@@ -154,7 +156,7 @@ these conditions:
      License, and include prominent notice of such licensing. This
      requirement may not be circumvented or diminished through such
      means as separate packaging or separate Distribution.  However,
-     if Licensor commercially offers a Covered Work under Proprietary
+     if We commercially offer a Covered Work under Proprietary
      Terms, this clause b) shall not apply to Your Derived Work.
 
   7. Object Code Distribution.
@@ -211,7 +213,7 @@ rights are reinstated in accordance with this section.
   9. Automatic Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
-receives from Licensor a license to the Received Work subject to this
+receives from Us a license to the Received Work subject to this
 License.
 
  10. No Further Restrictions; Inbound License Compatibility.
@@ -277,24 +279,23 @@ published by the License Steward.
   14. Disclaimer of Warranty.
 
   The Received Work is provided “as-is.”  You bear the risk of using
-it.  Neither Licensor nor any Distributor gives any express
-warranties.  You may have additional rights under applicable law which
-this License cannot change.  To the extent permitted by applicable
-law, Licensor and all Distributors exclude the implied warranties of
-title, merchantability, fitness for a particular purpose and
-non-infringement.
+it.  Neither We nor any Distributor gives any express warranties.  You
+may have additional rights under applicable law which this License
+cannot change.  To the extent permitted by applicable law, We and all
+Distributors exclude the implied warranties of title, merchantability,
+fitness for a particular purpose and non-infringement.
 
   15. Limitation of Liability.
 
-  You cannot recover any damages from Licensor or any Distributor,
-including direct, consequential, lost profits, special, indirect or
-incidental damages. This limitation applies to the exercise of any
-rights granted or affirmed under this License, and to claims for
-breach of contract, breach of warranty, strict liability, negligence
-or other tort to the extent permitted by applicable law. It applies
-even if Licensor or any Distributor knew or should have known about
-the possibility of such damages. The foregoing limitation may not
-apply to You under applicable law. 
+  You cannot recover any damages from Us or any Distributor, including
+direct, consequential, lost profits, special, indirect or incidental
+damages. This limitation applies to the exercise of any rights granted
+or affirmed under this License, and to claims for breach of contract,
+breach of warranty, strict liability, negligence or other tort to the
+extent permitted by applicable law. It applies even if We or any
+Distributor knew or should have known about the possibility of such
+damages. The foregoing limitation may not apply to You under
+applicable law.
 
   16. Severability.
 
