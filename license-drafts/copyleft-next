@@ -45,18 +45,17 @@ modifications to it.
 
   "Object Code" means any form of a work other than Source Code.
 
-  "Corresponding Source" for an Object Code work means all the Source
-Code needed to generate, install, and (for an executable work) run the
-object code and to modify the work, including scripts to control those
-activities.  Corresponding Source does not include the work's System
-Libraries, or general-purpose tools which are used in performing those
-activities but which are separate from and independent of the work.
-For example, Corresponding Source includes interface definition files
-associated with source files for the work, and the Source Code of
-shared libraries and dynamically linked subprograms that the work is
-specifically designed to require, such as by intimate data
-communication or control flow between those subprograms and other
-parts of the work.
+  "Corresponding Source" means all the Source Code needed to generate,
+install, run and modify a work (to the extent those activities are
+meaningful for the work in question), including scripts to control
+those activities.  Corresponding Source does not include the work's
+System Libraries, or general-purpose tools which are used in
+performing those activities but which are separate from and
+independent of the work.  For example, Corresponding Source includes
+interface definition files, and the Source Code of shared libraries
+and dynamically linked subprograms that the work is specifically
+designed to require, such as by intimate data communication or control
+flow between those subprograms and other parts of the work.
 
   "System Libraries" of an executable work means any part of the work
 that is normally Distributed with (i) the major components (kernel,
