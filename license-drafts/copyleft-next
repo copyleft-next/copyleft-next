@@ -6,14 +6,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
   "License" means the terms defined in this document.
 
-  "You" means any individual or organization exercising rights under
+  "You" means the individual or organization exercising rights under
 this License.
 
   "Received Work" means a particular work of authorship made available
-to You under this License.
+to You under this License, or any subset of it.
 
-  "Licensor" means the individual(s), entity or entities that grant a
-license to the Received Work under this License.
+  "We" means the individual or organization that places the Received
+Work under this License.
 
   "Licensed Patents" means all Licensable patent claims, whether
 already acquired or hereafter acquired, that are necessarily infringed
@@ -21,10 +21,9 @@ by making, using, or selling the Received Work, but do not include
 claims that would be infringed only as a consequence of further
 modification of the Received Work.
 
-  "Licensable" patent claim means a patent claim owned or controlled
-by Licensor or as to which Licensor has the right to grant patent
-sublicenses under terms consistent with the requirements of this
-License.
+  "Licensable" patent claim means a patent claim as to which We have
+the power or right to grant patent licenses or sublicenses under terms
+consistent with the requirements of this License
 
   "Derived Work" means a work of authorship that copies from,
 modifies, adapts, is based on, transforms or translates all or part of
@@ -41,39 +40,40 @@ respect to the Covered Work.
 
   "Covered Work" means either the Received Work or a Derived Work.
 
-  "Source Code" for a work means the preferred form of the work
-for making modifications to it.  
+  "Source Code" means the preferred form of a work for making
+modifications to it.
 
   "Object Code" means any form of a work other than Source Code.
 
-  "Corresponding Source" for an Object Code work means all the Source
-Code needed to generate, install, and (for an executable work) run the
-object code and to modify the work, including scripts to control those
-activities.  However, it does not include the work's System Libraries
-(as defined below), or general-purpose tools or generally available
-free programs which are used unmodified in performing those activities
-but which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the Source Code of shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
+  "Corresponding Source" means all the Source Code needed to generate,
+install, run and modify a work (to the extent those activities are
+meaningful for the work in question), including scripts to control
+those activities.  Corresponding Source does not include the work's
+System Libraries, or general-purpose tools which are used in
+performing those activities but which are separate from and
+independent of the work.  For example, Corresponding Source includes
+interface definition files, and the Source Code of shared libraries
+and dynamically linked subprograms that the work is specifically
+designed to require, such as by intimate data communication or control
+flow between those subprograms and other parts of the work.
 
   "System Libraries" of an executable work means any part of the work
-that is normally distributed with (i) the major components (kernel,
+that is normally Distributed with (i) the major components (kernel,
 window system, and so on) of the operating system on which the
 executable runs or (ii) a compiler used to produce the executable or
 (iii) an object code interpreter used to run the executable.
 
   "Inbound Contribution" means a work intentionally submitted by You
-to Licensor for inclusion in a modified or successor version of the
-Received Work.
+to Us for inclusion in a modified or successor version of the Received
+Work.
 
-  "Distribute" means to transfer or make available copies of a work to
-others, to the extent such activity requires copyright permission. For
-the avoidance of doubt, "Distribution" does not include mere
-interaction with a user through a computer network, without any
-transfer of a copy of a work to the user.
+  "Distribute" means to transfer or make available a copy of a work to
+anyone else (in the case of an organization, to anyone outside of the
+organization), to the extent such activity requires copyright
+permission. 
+
+  "Distributor" means an individual or organization that Distributes
+the Received Work.
 
   "GNU Strong Copyleft License" means (i) the GNU General Public
 License, version 2; (ii) the GNU General Public License, version 3;
@@ -86,11 +86,12 @@ officially released by the Free Software Foundation.
   1. General Rule of Construction.
 
   This License shall be interpreted in a manner that promotes the
-freedom of all users to use, share and change free software. 
+freedom of the greatest number of users to use, share and modify
+Covered Works.
 
   2. Basic Permissions.
 
-  Subject to the terms of this License, Licensor hereby grants You:
+  Subject to the terms of this License, We hereby grant You:
 
   (a) a non-exclusive, worldwide, royalty-free copyright license to
 make, copy, Distribute, publicly perform and publicly display Covered
@@ -114,24 +115,18 @@ patent law.
 
   3. Trademarks.
 
-  This License does not grant any rights in the trademarks, service
-marks, or logos of Licensor.
+  This License does not grant any rights in Our trademarks, service
+marks, or logos.
 
   4. Anti-Circumvention Law.
 
-  No Covered Work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
-
-  When You distribute a Covered Work, You waive any legal power to forbid
-circumvention of technological measures to the extent such circumvention
-is effected by exercising rights under this License with respect to
-the Covered Work, and You disclaim any intention to limit operation or
-modification of the work as a means of enforcing, against the work's
-users, Your or third parties' legal rights to forbid circumvention of
-technological measures.
+  When You Distribute a Covered Work, You waive any legal power to
+forbid circumvention of technological measures to the extent such
+circumvention is effected by exercising rights under this License with
+respect to the Covered Work, and You disclaim any intention to limit
+operation or modification of the work as a means of enforcing, against
+the work's users, Your or third parties' legal rights to forbid
+circumvention of technological measures.
 
   5. Inbound = Outbound.
 
@@ -151,23 +146,17 @@ these conditions:
      along with the Covered Work or a pointer to a canonical Internet
      address at which a copy of this License is publicly available.
 
-  c) For a Derived Work:
-
-    i) Include prominent notice that the Derived Work is released
-        under this License.
-
-   ii) You must license the entire Derived Work, as a whole, under
-       this License to anyone who comes into possession of a copy.
-       This License will therefore apply to the whole of the Derived
-       Work, and all its parts, regardless of how they are
-       packaged. However, if Licensor commercially offers a Covered
-       Work under Proprietary Terms, this clause c)iii) shall not
-       apply to Your Derived Work.
+  b) For a Derived Work: License the entire Derived Work under this
+     License, and include prominent notice of such licensing. This
+     requirement may not be circumvented or diminished through such
+     means as separate packaging or separate Distribution.  However,
+     if We commercially offer a Covered Work under Proprietary
+     Terms, this clause b) shall not apply to Your Derived Work.
 
   7. Object Code Distribution.
 
   You may Distribute a Covered Work in Object Code form, provided that
-You also distribute the machine-readable Corresponding Source under
+You also Distribute the machine-readable Corresponding Source under
 this License, in one of the following ways:
 
     a) Simultaneous Availability of Corresponding Source:
@@ -218,7 +207,7 @@ rights are reinstated in accordance with this section.
   9. Automatic Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
-receives from Licensor a license to the Received Work subject to this
+receives from Us a license to the Received Work subject to this
 License.
 
  10. No Further Restrictions; Inbound License Compatibility.
@@ -276,40 +265,31 @@ survive such relicensing.
 
   The initial License Steward is the Copyleft Next Group. The License
 Steward may publish new versions of copyleft-next.  Each version will
-be given a distinguishing version number. You may distribute a Covered
+be given a distinguishing version number. You may Distribute a Covered
 Work under the terms of the version of copyleft-next under which the
 Received Work is licensed, or under the terms of a newer version
 published by the License Steward.
 
-  14. No Warranty.
+  14. Disclaimer of Warranty.
 
-  To the extent permitted by applicable law, the Received Work is
-provided on an "as is" basis, without warranty of any kind, either
-express, implied, or statutory, including, without limitation,
-warranties of title, noninfringement, merchantability, or fitness for
-a particular purpose. You assume the entire risk associated with Your
-exercise of permissions under this License, including but not limited
-to the risks and costs of program errors, compliance with applicable
-laws, damage to or loss of data, programs or equipment, and
-unavailability or interruption of operations. This disclaimer of
-warranty constitutes an essential part of this License.
+  The Received Work is provided “as-is.”  You bear the risk of using
+it.  Neither We nor any Distributor gives any express warranties.  You
+may have additional rights under applicable law which this License
+cannot change.  To the extent permitted by applicable law, We and all
+Distributors exclude the implied warranties of title, merchantability,
+fitness for a particular purpose and non-infringement.
 
   15. Limitation of Liability.
 
-  Unless required by applicable law, neither Licensor nor any
-Distributor shall be liable to You for damages, including any direct,
-indirect, general, special, incidental or consequential damages
-(including, without limitation, lost profits), howeer caused and on
-any theory of liability, whether in contract, strict liability, or
-tort (including negligence or otherwise), arising in any way out of
-the use or inability to use, or Distribution of Covered Works or the
-exercise of any rights granted under this License or out of the use or
-inability to use the Received Work (including but not limited to: loss
-of data or data being rendered inaccurate, failure of the Received
-Work to operate with any other programs, loss of goodwill, work
-stoppage, other failure or malfunction, or any and all other
-commercial damages or losses), even if Licensor or any Distributor has
-been advised of the possibility of such damages.
+  You cannot recover any damages from Us or any Distributor, including
+direct, consequential, lost profits, special, indirect or incidental
+damages. This limitation applies to the exercise of any rights granted
+or affirmed under this License, and to claims for breach of contract,
+breach of warranty, strict liability, negligence or other tort to the
+extent permitted by applicable law. It applies even if We or any
+Distributor knew or should have known about the possibility of such
+damages. The foregoing limitation may not apply to You under
+applicable law.
 
   16. Severability.
 
