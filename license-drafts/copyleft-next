@@ -45,10 +45,10 @@ modifications to it.
 
   "Object Code" means any form of a work other than Source Code.
 
-  "Corresponding Source" means all the Source Code needed to build,
-compile, generate, modify, install, and run a work (to the extent
-those activities are meaningful for the work in question), including
-[any] scripts and instructions necessary to effectively perform those
+  "Corresponding Source" of a work means all the Source Code needed to
+build, compile, generate, modify, install, and run the work (to the
+extent those activities are meaningful for the work), including [any]
+scripts and instructions necessary to effectively perform those
 activities.  Corresponding Source does not include the work's System
 Libraries, or general-purpose tools which are used in performing those
 activities but which are separate from and independent of the work.
@@ -58,11 +58,7 @@ subprograms that the work is specifically designed to require, such as
 by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
-  "System Libraries" of an executable work means any part of the work
-that is normally Distributed with (i) the major components (kernel,
-window system, and so on) of the operating system on which the
-executable runs or (ii) a compiler used to produce the executable or
-(iii) an object code interpreter used to run the executable.
+  "System Libraries" means [FIXME].
 
   "Inbound Contribution" means a work intentionally submitted by You
 to Us for inclusion in a modified or successor version of the Received
@@ -82,7 +78,7 @@ License, version 2; (ii) the GNU General Public License, version 3;
 later final version of any of the foregoing licenses, all as
 officially released by the Free Software Foundation.
 
-  "Proprietary Terms" means [to be defined].
+  "Proprietary Terms" means [FIXME].
 
   1. General Rule of Construction.
 
