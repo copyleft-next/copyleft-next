@@ -10,12 +10,14 @@ participants, regardless of their views on copyleft, and regardless of
 their opinions on existing licenses such as the GNU GPLv2 and its
 successors, are especially welcome and strongly encouraged.
 
-Given the nature of the subject matter, it is conceivable that lawyers
-will wish to participate in this project. A nontrivial number of
-interesting collaborative FLOSS legal endeavors have been operated in
-a relatively nontransparent and methodologically suboptimal
-manner. This project aims to be different, and this therefore
-necessitates the following rules of participation:
+Harvey Birdman Rule
+===================
+
+A nontrivial number of interesting collaborative FLOSS legal endeavors
+have been operated in a relatively nontransparent and methodologically
+suboptimal manner. This project aims to be different, and this
+therefore necessitates the following norms of participation, which
+shall be known informally as the 'Harvey Birdman Rule':
 
   * Contributions in the form of word-processing documents (even if in
     a free/open standard format), "redlined" or otherwise, are
@@ -24,10 +26,6 @@ necessitates the following rules of participation:
   * No private mailing lists (governed by the so-called Chatham House
     Rule or similar) will be used by this project. If mailing lists
     are used, their archives will be public. 
-
-  * All who wish to contribute are expected to do so by using the same
-    software development methodology already in place for this project
-    (for example, the use of git). 
 
   * Except in extraordinary cases, private telephone calls, private
     teleconferences and private in-person meetings shall not be used
@@ -48,5 +46,5 @@ Mailing List
 You can subscribe to the copyleft-next mailing list here:
 http://lists.fedorahosted.org/mailman/listinfo/copyleft-next/
 
-Top-posting is strongly discouraged.
-
+Top-posting is strongly discouraged, though currently it is not in
+itself a Harvey Birdman Rule violation.
