@@ -48,15 +48,15 @@ modifications to it.
   "Corresponding Source" means all the Source Code needed to build,
 compile, generate, modify, install, and run a work (to the extent
 those activities are meaningful for the work in question), including
-scripts and instructions necessary to effectively control or perform
-those activities.  Corresponding Source does not include the work's
-System Libraries, or general-purpose tools which are used in
-performing those activities but which are separate from and
-independent of the work.  For example, Corresponding Source includes
-interface definition files, and the Source Code of shared libraries
-and dynamically linked subprograms that the work is specifically
-designed to require, such as by intimate data communication or control
-flow between those subprograms and other parts of the work.
+[any] scripts and instructions necessary to effectively perform those
+activities.  Corresponding Source does not include the work's System
+Libraries, or general-purpose tools which are used in performing those
+activities but which are separate from and independent of the work.
+For example, Corresponding Source includes interface definition files,
+and the Source Code of shared libraries and dynamically linked
+subprograms that the work is specifically designed to require, such as
+by intimate data communication or control flow between those
+subprograms and other parts of the work.
 
   "System Libraries" of an executable work means any part of the work
 that is normally Distributed with (i) the major components (kernel,
