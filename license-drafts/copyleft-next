@@ -45,9 +45,10 @@ modifications to it.
 
   "Object Code" means any form of a work other than Source Code.
 
-  "Corresponding Source" means all the Source Code needed to generate,
-install, run and modify a work (to the extent those activities are
-meaningful for the work in question), including scripts to control
+  "Corresponding Source" means all the Source Code needed to build,
+compile, generate, modify, install, and run a work (to the extent
+those activities are meaningful for the work in question), including
+scripts and instructions necessary to effectively control or perform
 those activities.  Corresponding Source does not include the work's
 System Libraries, or general-purpose tools which are used in
 performing those activities but which are separate from and
