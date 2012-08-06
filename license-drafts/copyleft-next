@@ -1,137 +1,100 @@
 THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
-                             copyleft-next
+                             Copyleft-Next
 
-  0. Definitions.
+  0. Basic Definitions.
 
-  "License" means the terms defined in this document.
-
-  "You" means the individual or organization exercising rights under
-this License.
-
-  "Received Work" means a particular work of authorship made available
-to You under this License, or any subset of it.
-
-  "We" means the individual or organization that places the Received
-Work under this License.
-
-  "Licensed Patents" means all Licensable patent claims, whether
-already acquired or hereafter acquired, that are necessarily infringed
-by making, using, or selling the Received Work, but do not include
-claims that would be infringed only as a consequence of further
-modification of the Received Work.
-
-  "Licensable" patent claim means a patent claim as to which We have
-the power or right to grant patent licenses or sublicenses under terms
-consistent with the requirements of this License
+  "Covered Work" means the Received Work or a Derived Work.
 
   "Derived Work" means a work of authorship that copies from,
 modifies, adapts, is based on, transforms or translates all or part of
 the Received Work such that copyright permission is required, but does
 not include (i) the mere making, in isolation, of a verbatim copy of
-the entire Work or a subset of it, or (ii) Mere Aggregation.
-
-  "Mere Aggregation" means a collection of a Covered Work with other
-separate and independent works on a storage or distribution medium, to
-the extent such other works are not by their nature extensions or
-enhancements of the Covered Work, unless the license of the collection
-would limit a user from exercising rights under this License with
-respect to the Covered Work.
-
-  "Covered Work" means either the Received Work or a Derived Work.
-
-  "Source Code" means the preferred form of a work for making
-modifications to it.
-
-  "Object Code" means any form of a work other than Source Code.
-
-  "Corresponding Source" of a work means all the Source Code needed to
-build, compile, generate, modify, install, and run the work (to the
-extent those activities are meaningful for the work), including all
-relevant scripts and instructions necessary to effectively perform,
-control and/or complete those activities.  Corresponding Source does
-not include the work's System Libraries, or general-purpose tools
-which are used in performing those activities but which are separate
-from and independent of the work.  For example, Corresponding Source
-includes interface definition files, and the Source Code of shared
-libraries and dynamically linked subprograms that the work is
-specifically designed to require, such as by intimate data
-communication or control flow between those subprograms and other
-parts of the work.
-
-  "System Libraries" means [FIXME].
-
-  "Inbound Contribution" means a work intentionally submitted by You
-to Us for inclusion in a modified or successor version of the Received
-Work.
+all or part of the Received Work, or (ii) Mere Aggregation.
 
   "Distribute" means to transfer or make available a copy of a work to
 anyone else (in the case of an organization, to anyone outside of the
 organization), to the extent such activity requires copyright
 permission. 
 
-  "Distributor" means an individual or organization that Distributes
-the Received Work.
+  "Copyleft-Next" means the terms contained in this document, except
+as otherwise indicated in section 13.
 
-  "GNU Strong Copyleft License" means (i) the GNU General Public
-License, version 2; (ii) the GNU General Public License, version 3;
-(iii) the GNU Affero General Public License, version 3; and/or (iv) a
-later final version of any of the foregoing licenses, all as
-officially released by the Free Software Foundation.
+  "Mere Aggregation" means a collection of a Covered Work with other
+separate and independent works on a storage or distribution medium, to
+the extent such other works are not by their nature extensions or
+enhancements of the Covered Work, unless the license of the collection
+would limit a user from exercising rights under Copyleft-Next with
+respect to the Covered Work.
 
-  "Proprietary Terms" means [FIXME].
+  "Received Work" means the particular work of authorship We make
+available to You under Copyleft-Next.
+
+  "We" means the individual or organization that places the Received
+Work under Copyleft-Next.
+
+  "You" means the individual or organization exercising rights under
+Copyleft-Next.
 
   1. Rule of Construction.
 
-  The objective of this License is to promote the freedom of all users
+  The objective of Copyleft-Next is to promote the freedom of all users
 to run, copy, study, share and modify Covered Works.
 
-  2. Basic Permissions.
+  2. License Grants.
 
-  Subject to the terms and conditions of this License, We grant You:
+  Subject to the terms and conditions of Copyleft-Next, We grant You:
 
-  (a) a non-exclusive, worldwide, royalty-free copyright license to
+  (a) A non-exclusive, worldwide, royalty-free copyright license to
 make, copy, Distribute, publicly perform and publicly display Covered
 Works, in any medium; and
 
-  (b) a non-exclusive, worldwide, royalty-free patent license under
+  (b) A non-exclusive, worldwide, royalty-free patent license under
 Licensed Patents to make, have made, use, sell, offer for sale, import
-and otherwise transfer Covered Works.
+and otherwise transfer Covered Works.  "Licensed Patents" means all
+Licensable patent claims, now or in the future, that are necessarily
+infringed by making, using, or selling the Received Work, but do not
+include claims that would be infringed only as a consequence of
+further modification of the Received Work. A patent claim is
+"Licensable" if We have the right to grant patent licenses under terms
+consistent with the requirements of Copyleft-Next.
 
   The grants above are irrevocable and perpetual except to the extent
-Your rights under this License are terminated under section 8.
+Your rights are terminated under section 12.
 
   You may charge any fee for Distributing Covered Works and providing
 services relating to Covered Works.
 
-  This License is not intended to exclude or limit (i) any rights You
+  The License is not intended to exclude or limit (i) any rights You
 have under applicable copyright doctrines of fair use, fair dealing or
 other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  3. No Trademark License.
+  2. No Trademark License.
 
-  This License does not grant any rights in Our name, trademarks,
+  Copyleft-Next does not grant any rights in Our name, trademarks,
 service marks, or logos.
 
-  4. Anti-Circumvention Law.
+  3. Anti-Circumvention Law.
 
   When You Distribute a Covered Work, You waive any legal power to
 forbid circumvention of technological measures to the extent such
-circumvention is effected by exercising rights under this License with
+circumvention is effected by exercising rights under Copyleft-Next with
 respect to the Covered Work, and You disclaim any intention to limit
 operation or modification of the work as a means of enforcing, against
 the work's users, Your or third parties' legal rights to forbid
 circumvention of technological measures.
 
-  5. Inbound = Outbound.
+  4. Inbound = Outbound.
 
-  Any Inbound Contribution shall be under this License, without any
-additional terms or conditions, unless you explicitly indicate
+  "Inbound Contribution" means a Derived Work Distributed by You to Us
+for inclusion in a modified or successor version of the Received Work.
+Each Inbound Contributions shall be under Copyleft-Next, without any
+additional terms or conditions, unless You explicitly indicate
 otherwise before, or at the time, You submit the Inbound Contribution.
 
-  6. Distribution: General.
+  5. Distribution: General.
 
   You may Distribute a Covered Work, provided that You meet all of
 these conditions:
@@ -139,78 +102,93 @@ these conditions:
   a) Keep intact all copyright notices, textual author attributions,
      license notices, and warranty disclaimers contained in the
      Received Work (in the case of a Derived Work, to the extent such
-     notices remain pertinent), and include a copy of this License
+     notices remain pertinent), and include a copy of Copyleft-Next
      along with the Covered Work or a pointer to a canonical Internet
-     address at which a copy of this License is publicly available.
+     address at which a copy of Copyleft-Next is publicly available.
 
-  b) For a Derived Work: License the entire Derived Work under this
-     License, and include prominent notice of such licensing. This
-     requirement may not be circumvented or diminished through such
-     means as separate packaging or separate Distribution.  However,
-     if We commercially offer a Covered Work under Proprietary
-     Terms, this clause b) shall not apply to Your Derived Work.
+  b) For a Derived Work: License the entire Derived Work under
+     Copyleft-Next, and include prominent notice of such
+     licensing. This requirement may not be circumvented or diminished
+     through such means as separate packaging or separate
+     Distribution.  However, if We Proprietary-Relicense, this clause
+     b) shall not apply to Your Derived Work. "Proprietary-Relicense"
+     means to commercially offer a work that would be a Covered Work
+     had You prepared it, under a license that fails to satisfy
+     version 1.111 of the Free Software Definition as published by the
+     Free Software Foundation ("FSF").
 
-  7. Object Code Distribution.
+  6. Object Code Distribution.
+
+    a) Definitions.  
+
+      "Source Code" means the preferred form of a work for making
+      modifications to it.
+
+      "Object Code" means any form of a work that is not Source Code.
+
+      "System Libraries" means [FIXME].
+
+      "Corresponding Source" of a Covered Work means all the Source
+      Code needed to build, compile, generate, modify, install, and
+      run the Covered Work (to the extent those activities are
+      meaningful), including all relevant scripts and instructions
+      necessary to effectively perform, control and/or complete those
+      activities.  Corresponding Source does not include (i)
+      general-purpose tools used in performing those activities but
+      which are separate from and independent of the Covered Work, or
+      (ii) the Covered Work's System Libraries. Corresponding Source
+      includes interface definition files, and the Source Code of
+      shared libraries and dynamically-linked subprograms that the
+      Covered Work is specifically designed to require, such as by
+      intimate data communication or control flow between those
+      subprograms and other parts of the Covered Work.
+
+   b) Conditions.
 
   You may Distribute a Covered Work in Object Code form, provided that
-You also Distribute the machine-readable Corresponding Source under
-this License, in one of the following ways:
+You also Distribute its machine-readable Corresponding Source under
+Copyleft-Next, in one of the following ways:
 
-    a) Simultaneous Availability of Corresponding Source:
+    1) Simultaneous Availability:
 
-      i) Distribute the Object Code in a physical product or tangible
-         storage medium, accompanied by either a durable physical
-         medium customarily used for software interchange that
-         contains the Corresponding Source, or notice of a network
-         location from which the Corresponding Source can be retrieved
-         at no further charge. Or, 
+      i) If You Distribute the Object Code in a physical product or
+         tangible storage medium, accompany it with either a durable
+         physical medium customarily used for software interchange
+         that contains the Corresponding Source, or notice of a
+         network location from which the Corresponding Source can be
+         retrieved at no further charge. 
 
-     ii) Distribute the Object Code from a network location
-         accompanied by information giving clear directions indicating
-         how the Corresponding Source may be obtained from a network
-         location at no further charge and in a reasonably equivalent
-         manner.
+     ii) If You Distribute the Object Code from a network location,
+         accompany it with information giving clear directions
+         indicating how the Corresponding Source may be obtained from
+         a network location at no further charge and in a reasonably
+         equivalent manner.
 
-    b) Offer for Source: Distribute the Object Code accompanied by a
-       written offer, valid for at least three years and (where the
-       Object Code is Distributed in a physical product) valid for as
-       long as You offer spare parts or customer support for that
-       product model, to give any third party a copy of the
-       Corresponding Source either (1) on a durable physical medium
-       customarily used for software interchange, for a price no more
-       than Your reasonable cost of performing this Distribution of
-       Corresponding Source, or (2) from a network server at no
-       charge.
+    2) Offer for Source: 
+       Accompany the Object Code with a written offer, valid for at
+       least three years and (where the Object Code is Distributed in
+       a physical product) valid for as long as You offer spare parts
+       or customer support for that product model, to give any third
+       party a copy of the Corresponding Source either (1) on a
+       durable physical medium customarily used for software
+       interchange, for a price no more than Your reasonable cost of
+       performing this Distribution of Corresponding Source, or (2)
+       from a network server at no charge.
 
-  8. Termination.
-
-  If You fail to comply with this License, then, unless you cure such
-failure within thirty days after becoming aware of such noncompliance,
-Your rights under this License are automatically terminated. However,
-the right to make copies necessarily incident to running Covered Works
-shall never be terminated.
-
-  Termination of Your rights under this section does not terminate the
-rights of those who have received copies or rights from You subject to
-this License.
-
-  Termination of Your rights disqualifies You from receiving new
-licenses for the same material under section 9.
-
-  9. Automatic Licensing of Downstream Recipients.
+  7. Direct Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
-receives from Us a license to the Received Work subject to this
+receives from Us a license to the Received Work subject to the
 License.
 
- 10. No Further Restrictions; Inbound License Compatibility.
+  8. No Further Restrictions; Inbound License Compatibility.
 
   You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License. 
+rights granted or affirmed under Copyleft-Next.
 
-  Further restrictions include bringing litigation alleging that a
-patent claim is infringed by making, using, selling, offering for
-sale, or importing the Received Work or any portion of it.
+  Further restrictions include alleging in litigation that a patent
+claim is infringed by making, using, selling, offering for sale, or
+importing the Received Work or any portion of it.
 
   Distribution of a Covered Work incorporating material covered by the
 following free software licenses is not imposition of a "further
@@ -223,68 +201,85 @@ guide general interpretation of the initial sentence of this section:
    * Zope Public License Version 2.1 <http://www.zope.com/about_us/legal/zpl.html>
 
   If a license document contains a further restriction but permits
-relicensing or Distributing under this License, You may add to a
+relicensing or Distributing under Copyleft-Next, You may add to a
 Covered Work material governed by the terms of that license document,
 provided that the further restriction does not survive such
 relicensing or Distributing.
 
-  11. Liberty or Death.
+  9. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
-or otherwise) that contradict the conditions of this License, they do
-not excuse You from the conditions of this License.  If You cannot
+or otherwise) that contradict the conditions of Copyleft-Next, they do
+not excuse You from the conditions of Copyleft-Next.  If You cannot
 Distribute a Covered Work in a way that would satisfy simultaneously
-Your requirements under this License and any pertinent obligations
-extrinsic to this License, then as a consequence You may not
-Distribute it at all.  
+Your requirements under Copyleft-Next and any pertinent obligations
+extrinsic to Copyleft-Next, then as a consequence You may not Distribute
+it at all.
 
-  12. Outbound Compatibility with GNU Strong Copyleft Licenses.
+  10. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
-  Notwithstanding any other provision of this License, You have
-permission to relicense any Covered Work under the terms of any
-version of a GNU Strong Copyleft License. No condition of this License
-that would conflict with the chosen GNU Strong Copyleft License shall
-survive such relicensing.
+  You may relicense Covered Works under the terms of any version of a
+GNU Strong Copyleft License. No condition of Copyleft-Next that would
+conflict with the chosen GNU Strong Copyleft License shall survive
+such relicensing. "GNU Strong Copyleft License" means (i) the GNU
+General Public License, version 2; (ii) the GNU General Public
+License, version 3; (iii) the GNU Affero General Public License,
+version 3; and/or (iv) a later version of one or more of the foregoing
+licenses, all as officially released by the FSF.
 
-  13. Compatibility with Eclipse Public License.
+  11. Compatibility with Eclipse Public License.
 
   [FIXME]
 
-  13. New Versions of this License.
+  12. Termination.
 
-  The initial License Steward is the Copyleft Next Group. The License
-Steward may publish new versions of copyleft-next.  Each version will
+  If You fail to comply with Copyleft-Next, then, unless you cure such
+failure within thirty days after becoming aware of such noncompliance,
+Your rights under Copyleft-Next are automatically terminated. However,
+the right to make copies necessarily incident to running Covered Works
+shall never be terminated.
+
+  Termination of Your rights does not terminate the rights of those
+who have received copies or rights from You subject to Copyleft-Next.
+
+  Termination of Your rights disqualifies You from receiving new
+licenses for the same material under section 7.
+
+  13. New Versions of Copyleft-Next.
+
+  The initial License Steward is the Copyleft-Next Group. The License
+Steward may publish new versions of Copyleft-Next.  Each version will
 be given a distinguishing version number. You may Distribute a Covered
-Work under the terms of the version of copyleft-next under which the
+Work under the terms of the version of Copyleft-Next under which the
 Received Work is licensed, or under the terms of a newer version
 published by the License Steward.
 
-  14. Disclaimer of Warranty.
+  13. Disclaimer of Warranty.
 
   The Received Work is provided “as-is.”  You bear the risk of using
 it.  Neither We nor any Distributor gives any express warranties.  You
-may have additional rights under applicable law which this License
+may have additional rights under applicable law which Copyleft-Next
 cannot change.  To the extent permitted by applicable law, We and all
 Distributors exclude the implied warranties of title, merchantability,
 fitness for a particular purpose and non-infringement.
 
-  15. Limitation of Liability.
+  14. Limitation of Liability.
 
   You cannot recover any damages from Us or any Distributor, including
 direct, consequential, lost profits, special, indirect or incidental
 damages. This limitation applies to the exercise of any rights granted
-or affirmed under this License, and to claims for breach of contract,
+or affirmed under Copyleft-Next, and to claims for breach of contract,
 breach of warranty, strict liability, negligence or other tort to the
 extent permitted by applicable law. It applies even if We or any
 Distributor knew or should have known about the possibility of such
 damages. The foregoing limitation may not apply to You under
 applicable law.
 
-  16. Severability.
+  15. Severability.
 
-  If any provision of this License is invalid or unenforceable under
+  If any provision of Copyleft-Next is invalid or unenforceable under
 applicable law, it shall not affect the validity or enforceability of
-the remainder of this License, and reviewing courts shall reform such
+the remainder of Copyleft-Next, and reviewing courts shall reform such
 provision to the minimum extent necessary to make such provision valid
 and enforceable.
 
