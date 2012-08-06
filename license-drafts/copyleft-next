@@ -143,37 +143,35 @@ these conditions:
       intimate data communication or control flow between those
       subprograms and other parts of the Covered Work.
 
+      "Product" means a physical product or tangible storage medium.
+
+      "Minimum Period", with respect to a Covered Work embodied in a
+      Product, means the longer of (i) three years from the date of
+      your Distribution of the Product, or (ii) the period during
+      which You offer spare parts or customer support for the Product.
+
    b) Conditions.
 
   You may Distribute a Covered Work in Object Code form, provided that
 You also Distribute its machine-readable Corresponding Source under
 Copyleft-Next, in one of the following ways:
 
-    1) Simultaneous Availability:
+      i) If You Distribute such Object Code in a Product, either
 
-      i) If You Distribute the Object Code in a physical product or
-         tangible storage medium, accompany it with either a durable
-         physical medium customarily used for software interchange
-         that contains the Corresponding Source, or notice of a
-         network location from which the Corresponding Source can be
-         retrieved at no further charge. 
+	 1) Accompany the Product with a durable physical medium
+            customarily used for software storage that contains the
+            Corresponding Source, or
 
-     ii) If You Distribute the Object Code from a network location,
-         accompany it with information giving clear directions
-         indicating how the Corresponding Source may be obtained from
-         a network location at no further charge and in a reasonably
-         equivalent manner.
+         2) Ensure that the Corresponding Source is available to the
+            public, at no charge and for the Minimum Period, by way of
+            a network location, and accompany the Product with notice
+            of such location.
 
-    2) Offer for Source: 
-       Accompany the Object Code with a written offer, valid for at
-       least three years and (where the Object Code is Distributed in
-       a physical product) valid for as long as You offer spare parts
-       or customer support for that product model, to give any third
-       party a copy of the Corresponding Source either (1) on a
-       durable physical medium customarily used for software
-       interchange, for a price no more than Your reasonable cost of
-       performing this Distribution of Corresponding Source, or (2)
-       from a network server at no charge.
+      ii) If You Distribute such Object Code from a network location,
+          accompany it with information giving clear directions
+          indicating how the Corresponding Source may be obtained from
+          a network location at no further charge and in a reasonably
+          equivalent manner.
 
   8. Direct Licensing of Downstream Recipients.
 
