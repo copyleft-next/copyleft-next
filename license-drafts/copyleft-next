@@ -208,21 +208,19 @@ License.
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License. 
 
-  Further restrictions include, without limitation, initiation of
-litigation (including a cross-claim or counterclaim in a lawsuit)
-alleging that any patent claim is infringed by making, using, selling,
-offering for sale, or importing the Received Work or any portion of
-it.
+  Further restrictions include bringing litigation alleging that a
+patent claim is infringed by making, using, selling, offering for
+sale, or importing the Received Work or any portion of it.
 
-  For the avoidance of doubt, Distribution of a Covered Work
-incorporating material covered by the following free software licenses
-is not imposition of a "further restriction". This list of licenses is
-illustrative rather than exhaustive and is meant to guide general
-interpretation of the initial clause of this section: 
-    i) Apache License 2.0 as published by the Apache
-Software Foundation 
-   ii) MIT License, version at http://opensource.org/licenses/MIT
-  iii) 3-clause BSD License, version at http://opensource.org/licenses/BSD-3-Clause
+  Distribution of a Covered Work incorporating material covered by the
+following free software licenses is not imposition of a "further
+restriction". This list of licenses is illustrative and is intended to
+guide general interpretation of the initial sentence of this section:
+   * Apache License 2.0 <http:///www.apache.org/licenses/LICENSE-2.0.html>
+   * MIT License <http://opensource.org/licenses/MIT>
+   * 3-clause BSD License <http://opensource.org/licenses/BSD-3-Clause>
+   * zlib license <http://www.gzip.org/zlib/zlib_license.html>
+   * Zope Public License Version 2.1 <http://www.zope.com/about_us/legal/zpl.html>
 
   If a license document contains a further restriction but permits
 relicensing or Distributing under this License, You may add to a
