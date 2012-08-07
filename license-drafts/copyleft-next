@@ -68,20 +68,20 @@ other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  4. No Trademark License.
+  4. Anti-Circumvention Waiver and Disclaimer.
+
+  We waive any legal power to forbid circumvention of technological
+measures to the extent such circumvention is effected by exercising
+rights under Copyleft-Next with respect to a Covered Work.
+
+  We disclaim any intention to limit operation or modification of the
+Received Work as a means of enforcing Our or third parties' legal
+rights to forbid circumvention of technological measures.
+  
+  5. No Trademark License.
 
   Copyleft-Next does not grant any rights in Our name, trademarks,
 service marks, or logos.
-
-  5. Anti-Circumvention Law.
-
-  When You Distribute a Covered Work, You waive any legal power to
-forbid circumvention of technological measures to the extent such
-circumvention is effected by exercising rights under Copyleft-Next with
-respect to the Covered Work, and You disclaim any intention to limit
-operation or modification of the work as a means of enforcing, against
-the work's users, Your or third parties' legal rights to forbid
-circumvention of technological measures.
 
   6. Inbound = Outbound.
 
@@ -113,6 +113,9 @@ these conditions:
      had You prepared it, under a license that fails to satisfy
      version 1.111 of the Free Software Definition as published by the
      Free Software Foundation ("FSF").
+
+  c) Make the waiver and disclaimer of section 4 regardless of whether
+     part (b) of this section is applicable.
 
   You may charge any fee for Distributing Covered Works and providing
 services relating to Covered Works.
