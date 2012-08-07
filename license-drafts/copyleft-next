@@ -18,7 +18,7 @@ organization), to the extent such activity requires copyright
 permission. 
 
   "Copyleft-Next" means the terms contained in this document, except
-as otherwise indicated in section 13.
+as otherwise indicated in section 15.
 
   "Mere Aggregation" means a collection of a Covered Work with other
 separate and independent works on a storage or distribution medium, to
@@ -36,26 +36,31 @@ Work under Copyleft-Next.
   "You" means the individual or organization exercising rights under
 Copyleft-Next.
 
-  1. License Grants.
+  1. Copyright License Grant.
 
-  Subject to the terms and conditions of Copyleft-Next, We grant You:
+  Subject to the terms and conditions of Copyleft-Next, We grant You a
+non-exclusive, worldwide, royalty-free, irrevocable (subject to
+termination under section 14) copyright license, for the duration of
+Our copyright in the Received Work, to make, copy, Distribute,
+publicly perform and publicly display Covered Works, in any medium.
 
-  (a) A non-exclusive, worldwide, royalty-free copyright license to
-make, copy, Distribute, publicly perform and publicly display Covered
-Works, in any medium; and
+  2. Patent License Grant.
 
-  (b) A non-exclusive, worldwide, royalty-free patent license under
-Licensed Patents to make, have made, use, sell, offer for sale, import
-and otherwise transfer Covered Works.  "Licensed Patents" means all
-Licensable patent claims, now or in the future, that are necessarily
-infringed by making, using, or selling the Received Work, but do not
-include claims that would be infringed only as a consequence of
-further modification of the Received Work. A patent claim is
-"Licensable" if We have the right to grant patent licenses under terms
-consistent with the requirements of Copyleft-Next.
+  Subject to the terms and conditions of Copyleft-Next, We grant You a
+non-exclusive, worldwide, royalty-free, irrevocable (subject to
+termination under section 14) patent license under Licensed Patents to
+make, have made, use, sell, offer for sale, import and otherwise
+transfer Covered Works.  
 
-  The grants above are irrevocable and perpetual except to the extent
-Your rights are terminated under section 12.
+  "Licensed Patents" means all Licensable patent claims, now or in the
+future, that are necessarily infringed by making, using, or selling
+the Received Work, but do not include claims that would be infringed
+only as a consequence of further modification of the Received Work. A
+patent claim is "Licensable" if We have the right to grant patent
+licenses under terms consistent with the requirements of
+Copyleft-Next.
+
+  3. Fair Use, Etc.
 
   Copyleft-Next is not intended to exclude or limit (i) any rights You
 have under applicable copyright doctrines of fair use, fair dealing or
@@ -63,12 +68,12 @@ other equivalents, and (ii) any implied license or other defense to
 infringement that may otherwise be available to You under applicable
 patent law.
 
-  2. No Trademark License.
+  4. No Trademark License.
 
   Copyleft-Next does not grant any rights in Our name, trademarks,
 service marks, or logos.
 
-  3. Anti-Circumvention Law.
+  5. Anti-Circumvention Law.
 
   When You Distribute a Covered Work, You waive any legal power to
 forbid circumvention of technological measures to the extent such
@@ -78,7 +83,7 @@ operation or modification of the work as a means of enforcing, against
 the work's users, Your or third parties' legal rights to forbid
 circumvention of technological measures.
 
-  4. Inbound = Outbound.
+  6. Inbound = Outbound.
 
   "Inbound Contribution" means a Derived Work Distributed by You to Us
 for inclusion in a modified or successor version of the Received Work.
@@ -86,7 +91,7 @@ Each Inbound Contributions shall be under Copyleft-Next, without any
 additional terms or conditions, unless You explicitly indicate
 otherwise before, or at the time, You submit the Inbound Contribution.
 
-  5. Distribution: General.
+  7. Distribution: General.
 
   You may Distribute a Covered Work, provided that You meet all of
 these conditions:
@@ -112,7 +117,7 @@ these conditions:
   You may charge any fee for Distributing Covered Works and providing
 services relating to Covered Works.
 
-  6. Object Code Distribution.
+  8. Object Code Distribution.
 
     a) Definitions.  
 
@@ -168,13 +173,13 @@ Copyleft-Next, in one of the following ways:
           a network location at no further charge and in a reasonably
           equivalent manner.
 
-  7. Direct Licensing of Downstream Recipients.
+  9. Direct Licensing of Downstream Recipients.
 
   Each time You Distribute a Covered Work, the recipient automatically
 receives from Us a license to the Received Work subject to the
 License.
 
-  8. No Further Restrictions; Inbound License Compatibility.
+  10. No Further Restrictions; Inbound License Compatibility.
 
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under Copyleft-Next.
@@ -199,7 +204,7 @@ Covered Work material governed by the terms of that license document,
 provided that the further restriction does not survive such
 relicensing or Distributing.
 
-   9. Liberty or Death.
+   11. Liberty or Death.
 
   If conditions are imposed on You (whether by court order, agreement
 or otherwise) that contradict the conditions of Copyleft-Next, they do
@@ -209,7 +214,7 @@ Your requirements under Copyleft-Next and any pertinent obligations
 extrinsic to Copyleft-Next, then as a consequence You may not Distribute
 it at all.
 
-  10. Outbound Compatibility with GNU Strong Copyleft Licenses.
+  12. Outbound Compatibility with GNU Strong Copyleft Licenses.
 
   You may relicense Covered Works under the terms of any version of a
 GNU Strong Copyleft License. No condition of Copyleft-Next that would
@@ -220,25 +225,26 @@ License, version 3; (iii) the GNU Affero General Public License,
 version 3; and/or (iv) a later version of one or more of the foregoing
 licenses, all as officially released by the FSF.
 
-  11. Compatibility with Eclipse Public License.
+  13. Compatibility with Eclipse Public License.
 
   [FIXME]
 
-  12. Termination.
+  14. Termination.
 
-  If You fail to comply with Copyleft-Next, then, unless you cure such
-failure within thirty days after becoming aware of such noncompliance,
-Your rights under Copyleft-Next are automatically terminated. However,
-the right to make copies necessarily incident to running Covered Works
-shall never be terminated.
+  If You fail to comply with the conditions of Copyleft-Next, then,
+unless you cure such failure within thirty days after becoming aware
+of such noncompliance, Your rights under Copyleft-Next are
+automatically terminated. However, the right to make copies
+necessarily incident to running Covered Works shall never be
+terminated.
 
   Termination of Your rights does not terminate the rights of those
 who have received copies or rights from You subject to Copyleft-Next.
 
   Termination of Your rights disqualifies You from receiving new
-licenses for the same material under section 7.
+licenses for the same material under section 9.
 
-  13. New Versions of Copyleft-Next.
+  15. New Versions of Copyleft-Next.
 
   The initial License Steward is the Copyleft-Next Group. The License
 Steward may publish new versions of Copyleft-Next.  Each version will
@@ -247,7 +253,7 @@ Work under the terms of the version of Copyleft-Next under which the
 Received Work is licensed, or under the terms of a newer version
 published by the License Steward.
 
-  14. Disclaimer of Warranty.
+  16. Disclaimer of Warranty.
 
   The Received Work is provided “as-is.”  You bear the risk of using
 it.  Neither We nor any Distributor gives any express warranties.  You
@@ -256,7 +262,7 @@ cannot change.  To the extent permitted by applicable law, We and all
 Distributors exclude the implied warranties of title, merchantability,
 fitness for a particular purpose and non-infringement.
 
-  15. Limitation of Liability.
+  17. Limitation of Liability.
 
   You cannot recover any damages from Us or any Distributor, including
 direct, consequential, lost profits, special, indirect or incidental
@@ -268,7 +274,7 @@ Distributor knew or should have known about the possibility of such
 damages. The foregoing limitation may not apply to You under
 applicable law.
 
-  16. Severability.
+  18. Severability.
 
   If any provision of Copyleft-Next is invalid or unenforceable under
 applicable law, it shall not affect the validity or enforceability of
