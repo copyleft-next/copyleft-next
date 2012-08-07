@@ -17,6 +17,9 @@ anyone else (in the case of an organization, to anyone outside of the
 organization), to the extent such activity requires copyright
 permission. 
 
+  "Distributor" means an individual or organization that Distributes
+Covered Works, including Us. 
+
   "Copyleft-Next" means the terms contained in this document, except
 as otherwise indicated in section 15.
 
@@ -30,11 +33,11 @@ respect to the Covered Work.
   "Received Work" means the particular work of authorship We make
 available to You under Copyleft-Next.
 
-  "We" means the individual or organization that places the Received
-Work under Copyleft-Next.
+  "We"/"Us"/"Our" refers to the individual or organization that places
+the Received Work under Copyleft-Next.
 
-  "You" means the individual or organization exercising rights under
-Copyleft-Next.
+  "You"/"Your" refers to the individual or organization exercising
+rights under Copyleft-Next.
 
   1. Copyright License Grant.
 
@@ -50,15 +53,13 @@ publicly perform and publicly display Covered Works, in any medium.
 non-exclusive, worldwide, royalty-free, irrevocable (subject to
 termination under section 14) patent license under Licensed Patents to
 make, have made, use, sell, offer for sale, import and otherwise
-transfer Covered Works.  
-
-  "Licensed Patents" means all Licensable patent claims, now or in the
-future, that are necessarily infringed by making, using, or selling
-the Received Work, but do not include claims that would be infringed
-only as a consequence of further modification of the Received Work. A
-patent claim is "Licensable" if We have the right to grant patent
-licenses under terms consistent with the requirements of
-Copyleft-Next.
+transfer Covered Works. "Licensed Patents" means all Licensable patent
+claims, now or in the future, that are necessarily infringed by
+making, using, or selling the Received Work, but do not include claims
+that would be infringed only as a consequence of further modification
+of the Received Work. A patent claim is "Licensable" if We have the
+right to grant patent licenses under terms consistent with the
+requirements of Copyleft-Next.
 
   3. Fair Use, Etc.
 
@@ -70,13 +71,14 @@ patent law.
 
   4. Anti-Circumvention Waiver and Disclaimer.
 
-  We waive any legal power to forbid circumvention of technological
-measures to the extent such circumvention is effected by exercising
-rights under Copyleft-Next with respect to a Covered Work.
+  Each Distributor waives any legal power to forbid circumvention of
+technological measures to the extent such circumvention is effected by
+exercising rights under Copyleft-Next with respect to a Covered Work.
 
-  We disclaim any intention to limit operation or modification of the
-Received Work as a means of enforcing Our or third parties' legal
-rights to forbid circumvention of technological measures.
+  Each Distributor disclaims any intention to limit operation or
+modification of the Received Work as a means of enforcing such
+Distributor's or third parties' legal rights to forbid circumvention
+of technological measures.
   
   5. No Trademark License.
 
@@ -91,7 +93,7 @@ Each Inbound Contributions shall be under Copyleft-Next, without any
 additional terms or conditions, unless You explicitly indicate
 otherwise before, or at the time, You submit the Inbound Contribution.
 
-  7. Distribution: General.
+  7. Distribution: General Conditions.
 
   You may Distribute a Covered Work, provided that You meet all of
 these conditions:
@@ -103,16 +105,16 @@ these conditions:
      along with the Covered Work or a pointer to a canonical Internet
      address at which a copy of Copyleft-Next is publicly available.
 
-  b) For a Derived Work: License the entire Derived Work under
-     Copyleft-Next, and include prominent notice of such
-     licensing. This requirement may not be circumvented or diminished
-     through such means as separate packaging or separate
-     Distribution.  However, if We Proprietary-Relicense, this clause
-     b) shall not apply to Your Derived Work. "Proprietary-Relicense"
-     means to commercially offer a work that would be a Covered Work
-     had You prepared it, under a license that fails to satisfy
-     version 1.111 of the Free Software Definition as published by the
-     Free Software Foundation ("FSF").
+  b) For a Derived Work: Except as provided otherwise in section 13,
+     License the entire Derived Work under Copyleft-Next, and include
+     prominent notice of such licensing. This requirement may not be
+     circumvented or diminished through such means as separate
+     packaging or separate Distribution.  However, if We
+     Proprietary-Relicense, this clause b) shall not apply to Your
+     Derived Work. "Proprietary-Relicense" means to commercially offer
+     a work that would be a Covered Work had You prepared it, under a
+     license that fails to satisfy version 1.111 of the Free Software
+     Definition as published by the Free Software Foundation ("FSF").
 
   c) Make the waiver and disclaimer of section 4 regardless of whether
      part (b) of this section is applicable.
@@ -134,7 +136,7 @@ services relating to Covered Works.
       "Corresponding Source" of a Covered Work means all the Source
       Code needed to build, compile, generate, modify, install, and
       run the Covered Work (to the extent those activities are
-      meaningful), including all relevant scripts and instructions
+      meaningful), including all relevant scripts and instructions 
       necessary to effectively perform, control and/or complete those
       activities.  Corresponding Source does not include (i)
       general-purpose tools used in performing those activities but
@@ -248,33 +250,33 @@ licenses for the same material under section 9.
 
   15. New Versions of Copyleft-Next.
 
-  The initial License Steward is the Copyleft-Next Group. The License
-Steward may publish new versions of Copyleft-Next.  Each version will
-be given a distinguishing version number. You may Distribute a Covered
-Work under the terms of the version of Copyleft-Next under which the
-Received Work is licensed, or under the terms of a newer version
-published by the License Steward.
+  The initial License Steward is [FIXME]. The License Steward may
+publish new versions of Copyleft-Next.  Each version will be given a
+distinguishing version number. You may Distribute a Covered Work under
+the terms of the version of Copyleft-Next under which the Received
+Work is licensed, or under the terms of a newer version published by
+the License Steward.
 
   16. Disclaimer of Warranty.
 
   The Received Work is provided “as-is.”  You bear the risk of using
-it.  Neither We nor any Distributor gives any express warranties.  You
-may have additional rights under applicable law which Copyleft-Next
-cannot change.  To the extent permitted by applicable law, We and all
-Distributors exclude the implied warranties of title, merchantability,
-fitness for a particular purpose and non-infringement.
+it.  No Distributor gives any express warranties.  You may have
+additional rights under applicable law which Copyleft-Next cannot
+change.  To the extent permitted by applicable law, each Distributor
+excludes the implied warranties of title, merchantability, fitness for
+a particular purpose and non-infringement.
 
   17. Limitation of Liability.
 
-  You cannot recover any damages from Us or any Distributor, including
-direct, consequential, lost profits, special, indirect or incidental
-damages. This limitation applies to the exercise of any rights granted
-or affirmed under Copyleft-Next, and to claims for breach of contract,
-breach of warranty, strict liability, negligence or other tort to the
-extent permitted by applicable law. It applies even if We or any
-Distributor knew or should have known about the possibility of such
-damages. The foregoing limitation may not apply to You under
-applicable law.
+  You cannot recover any damages from Distributors of the Received
+Work to You, including direct, consequential, lost profits, special,
+indirect or incidental damages. This limitation applies to the
+exercise of any rights granted or affirmed under Copyleft-Next, and to
+claims for breach of contract, breach of warranty, strict liability,
+negligence or other tort to the extent permitted by applicable law. It
+applies even if such Distributor knew or should have known about the
+possibility of such damages. The foregoing limitation may not apply to
+You under applicable law.
 
   18. Severability.
 
