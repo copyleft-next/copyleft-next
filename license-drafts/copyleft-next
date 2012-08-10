@@ -19,15 +19,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    "Distributor" means any individual or organization that
    Distributes a Covered Work, including Us.
 
-   "Mere Aggregation" means an aggregation of a Covered Work with
-   another work that is separate from, independent of, and is not by
-   its nature an extension or enhancement of, the Covered
-   Work. However, if the license of an aggregation restricts users
-   from exercising rights under this License with respect to the
+   "Mere Aggregation" means an aggregation of a Covered Work with a
+   Separate Work. However, if the license of an aggregation restricts
+   users from exercising rights under this License with respect to the
    Covered Work, the aggregation is not Mere Aggregation.
 
    "Received Work" means the particular work of authorship We make
    available to You under this License.
+
+   "Separate Work" means a work that is separate from and independent
+   of a given Covered Work and is not by its nature an extension or
+   enhancement of the Covered Work.
 
    "We"/"Us"/"Our" refers to the individual or organization that
    places the Received Work under This License.
@@ -107,10 +109,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    (b) Definition of Corresponding Source.
   
-       "Corresponding Source" of a work means all the Source Code
-       needed to build, compile, generate, modify, install, and run
-       the work, to the extent those activities are meaningful
-       ("Development Activities").
+       "Corresponding Source" of a Covered Work means all the Source
+       Code needed to build, compile, generate, modify, install, and
+       run the Covered Work, to the extent those activities are
+       meaningful ("Development Activities").
 
        Corresponding Source includes:
       
@@ -122,17 +124,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        * interface definition files 
 
        * the Source Code of shared libraries and dynamically-linked
-         subprograms that the work is specifically designed to
+         subprograms that the Covered Work is specifically designed to
          require, such as by intimate data communication or control
-         flow between those subprograms and parts of the work.
+         flow between those subprograms and parts of the Covered Work.
 
        Corresponding Source does not include: 
 
-       * general-purpose tools used in performing Development
-         Activities but which are separate from and independent of the
-         work
+       * a general-purpose tool used in performing Development
+         Activities but which is a Separate Work
  
-       * the work's System Libraries.
+       * the Covered Work's System Libraries.
 
    (c) Conditions.
 
