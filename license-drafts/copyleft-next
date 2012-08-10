@@ -114,26 +114,19 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        run the Covered Work, to the extent those activities are
        meaningful ("Development Activities").
 
-       Corresponding Source includes:
-      
-       * all relevant scripts and known instructions (even if
-         previously unrecorded) necessary for a skilled person to
-         effectively perform, control and/or complete Development
-         Activities
+       Corresponding Source includes (i) all relevant scripts and
+       known instructions (even if previously unrecorded) necessary
+       for a skilled person to effectively perform, control and/or
+       complete Development Activities; (ii) interface definition
+       files; and (iii) the Source Code of shared libraries and
+       dynamically-linked subprograms that the Covered Work is
+       specifically designed to require, such as by intimate data
+       communication or control flow between those subprograms and
+       parts of the Covered Work.
 
-       * interface definition files 
-
-       * the Source Code of shared libraries and dynamically-linked
-         subprograms that the Covered Work is specifically designed to
-         require, such as by intimate data communication or control
-         flow between those subprograms and parts of the Covered Work.
-
-       Corresponding Source does not include: 
-
-       * a general-purpose tool used in performing Development
-         Activities but which is a Separate Work
- 
-       * the Covered Work's System Libraries.
+       Corresponding Source does not include (i) a Separate Work used
+       in performing Development Activities, or (ii) the Covered
+       Work's System Libraries.
 
    (c) Conditions.
 
