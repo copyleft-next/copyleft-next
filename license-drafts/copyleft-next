@@ -4,37 +4,37 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 0. Basic Definitions.
 
-   "Covered Work" means the Received Work or a Derived Work.
+  "Covered Work" means the Received Work or a Derived Work.
 
-   "Derived Work" means a work of authorship that copies from,
-   modifies, adapts, is based on, contains, transforms or translates
-   all or part of the Received Work such that copyright permission is
-   required. Derived Works do not include Mere Aggregation or the mere
-   making of a verbatim copy of the Received Work.
+  "Derived Work" means a work of authorship that copies from,
+  modifies, adapts, is based on, contains, transforms or translates
+  all or part of the Received Work such that copyright permission is
+  required. Derived Works do not include Mere Aggregation or the mere
+  making of a verbatim copy of the Received Work.
 
-   "Distribute" means to transfer or make available a copy to someone
-   else (in the case of an organization, to someone outside of the
-   organization), such that copyright permission is required.
+  "Distribute" means to transfer or make available a copy to someone
+  else (in the case of an organization, to someone outside of the
+  organization), such that copyright permission is required.
 
-   "Distributor" means Us and anyone else who Distributes a Covered
+  "Distributor" means Us and anyone else who Distributes a Covered
    Work.
 
-   "Mere Aggregation" means an aggregation of a Covered Work with a
-   Separate Work. However, if the license of such an aggregation
-   restricts users from exercising rights in the Covered Work given by
-   this License, the aggregation is not Mere Aggregation.
+  "Mere Aggregation" means an aggregation of a Covered Work with a
+  Separate Work. However, if the license of such an aggregation
+  restricts users from exercising rights in the Covered Work given by
+  this License, the aggregation is not Mere Aggregation.
 
-   "Received Work" means the particular work of authorship We license
-   to you under this License.
+  "Received Work" means the particular work of authorship We license
+  to you under this License.
 
-   "Separate Work" means a work that is separate from and independent
-   of a particular Covered Work and is not by its nature an extension
-   or enhancement of the Covered Work.
+  "Separate Work" means a work that is separate from and independent
+  of a particular Covered Work and is not by its nature an extension
+  or enhancement of the Covered Work.
 
-   "We"/"Us"/"Our" refers to the individual or organization that
-   places the Received Work under this License.
+  "We"/"Us"/"Our" refers to the individual or organization that places
+  the Received Work under this License.
 
-1. Copyright and Patent License Grants.
+1. License Grants.
 
    Subject to the terms and conditions of this License, including
    termination under section 8, We grant you the following licenses:
@@ -86,9 +86,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    c. Make the waiver and disclaimer of section 4.
 
-3. Conditions for Object Code Distribution.
+3. Object Code Distribution.
 
-   (a) General Definitions.  
+  3.1. General Definitions.  
 
        "Minimum Period", with respect to a Covered Work embodied in a
        Product, means the longer of (i) three years from the date of
@@ -105,7 +105,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
        "System Libraries" means [FIXME].
 
-   (b) Definition of Corresponding Source.
+  3.2. Definition of Corresponding Source.
   
        "Corresponding Source" of a Covered Work means all the Source
        Code needed to build, compile, generate, modify, install, and
@@ -126,15 +126,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        in performing Development Activities, or (ii) the Covered
        Work's System Libraries.
 
-   (c) Conditions.
+  3.3. Conditions for Distributing Object Code.
 
        You may Distribute a Covered Work in Object Code form, provided
        that you also Distribute its machine-readable Corresponding
        Source under this License, in one of the following ways:
 
-       (i) If you Distribute such Object Code in a Product, either
+       a. If you Distribute such Object Code in a Product, either
 
-	 1) Accompany the Product with a durable physical medium
+         1) Accompany the Product with a durable physical medium
             customarily used for software interchange that contains
             the Corresponding Source, or
 
@@ -143,11 +143,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
             of a network location, and accompany the Product with
             notice of such location.
 
-      (ii) If you Distribute such Object Code from a network location,
-           accompany it with information giving clear directions
-           indicating how the Corresponding Source may be obtained
-           from a network location at no further charge and in a
-           reasonably equivalent manner.
+       b. If you Distribute such Object Code from a network location,
+          accompany it with information giving clear directions
+          indicating how the Corresponding Source may be obtained from
+          a network location at no further charge and in a reasonably
+          equivalent manner.
 
 4. Anticircumvention Waiver and Disclaimer.
 
@@ -201,15 +201,13 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        directly or indirectly infringes any patent, then your license
        grants under section 1 are automatically terminated.
 
-  8.3  Termination of your rights does not terminate the rights of
-       those who have received copies or rights from you subject to
-       this License.
+  Termination of your rights under this section 8 disqualifies you
+  from receiving new licenses covering the Received Work. It does not
+  terminate the rights of those who have received copies or rights
+  from you subject to this License.
 
-  8.4  Termination of your rights disqualifies you from receiving new
-       licenses covering the Received Work.
-
-  8.5  Your right to make copies necessarily incident to running
-       Covered Works shall never be terminated.
+  Your right to make copies necessarily incident to running Covered
+  Works shall never be terminated.
 
 9. Later License Versions.
 
