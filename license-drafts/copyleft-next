@@ -167,7 +167,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    automatically receives from Us a license to the Received Work under
    this License.
 
-6. No Further Restrictions; Inbound License Compatibility.
+6. No Further Restrictions.
 
    You may not impose further restrictions on the exercise of the
    rights granted or affirmed under this License ("Further
@@ -179,15 +179,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    forth in a separate agreement between you and a third party.
 
    Distribution of a Covered Work incorporating material covered by
-   one of the following licenses does not impose Further Restrictions:
-
-   * Apache License 2.0 <http:///www.apache.org/licenses/LICENSE-2.0.html>
-   * MIT License <http://opensource.org/licenses/MIT>
-   * 3-clause BSD License <http://opensource.org/licenses/BSD-3-Clause>
-   * zlib license <http://www.gzip.org/zlib/zlib_license.html>
-   * Zope Public License Version 2.1 <http://www.zope.com/about_us/legal/zpl.html>
-
-   This list is illustrative and is intended to guide interpretation.
+   the Apache License 2.0, as published by the Apache Software
+   Foundation, does not impose Further Restrictions.
 
 7. Outbound License Compatibility.
 
