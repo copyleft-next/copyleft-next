@@ -191,37 +191,34 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 7. Outbound License Compatibility.
 
-   You may relicense Covered Works under the terms of any version of a
-   GNU Strong Copyleft License. No condition of this License that
-   would conflict with the chosen GNU Strong Copyleft License shall
-   survive such relicensing. "GNU Strong Copyleft License" means (i)
-   the GNU General Public License, version 2; (ii) the GNU General
-   Public License, version 3; (iii) the GNU Affero General Public
-   License, version 3; and/or (iv) a later version of one or more of
-   the foregoing licenses, all as officially released by the FSF.
+   You may relicense Covered Works under the terms of one or more of
+   the following licenses published by the Free Software Foundation:
+   * GNU General Public License, version 2
+   * GNU General Public License, version 3
+   * GNU Affero General Public License, version 3
+   * later versions of the foregoing licenses.
 
 8. Termination.
 
-   (a) If you fail to comply with the conditions of this License,
-       then, unless and until you cure such failure within thirty days
-       after becoming aware of such noncompliance, then your license
-       grants under section 1 are automatically terminated. 
+  8.1  If you fail to comply with the conditions of this License, then,
+       unless and until you cure such failure within thirty days after
+       becoming aware of such noncompliance, your license grants under
+       section 1 are automatically terminated.
 
-       Termination of your rights does not terminate the rights of
+  8.2  If you initiate litigation by asserting a patent infringement
+       claim (excluding declaratory judgment actions, counterclaims,
+       and cross-claims) alleging that any part of the Received Work
+       directly or indirectly infringes any patent, then your license
+       grants under section 1 are automatically terminated.
+
+  8.3  Termination of your rights does not terminate the rights of
        those who have received copies or rights from you subject to
        this License.
 
-       Termination of your rights in the Received Work disqualifies
-       you from receiving new licenses for copies of the Received
-       Work.
+  8.4  Termination of your rights disqualifies you from receiving new
+       licenses covering the Received Work.
 
-   (b) If you initiate litigation by asserting a patent infringement
-       claim (excluding declaratory judgment actions, counterclaims,
-       and cross-claims) alleging that any portion of the Received
-       Work directly or indirectly infringes any patent, then your
-       license grants under section 1 are automatically terminated.
-
-   (c) Your right to make copies necessarily incident to running
+  8.5  Your right to make copies necessarily incident to running
        Covered Works shall never be terminated.
 
 9. Later License Versions.
