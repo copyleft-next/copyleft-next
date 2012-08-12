@@ -1,7 +1,6 @@
-copyleft-next
-=============
+# copyleft-next #
 
-"Exploring ideas for a modified copyleft license can't hurt."
+> "Exploring ideas for a modified copyleft license can't hurt."
     - Richard M. Stallman, July 2012
 
 copyleft-next is a new, experimental strong copyleft license inspired
