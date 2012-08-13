@@ -36,8 +36,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 1. License Grants.
 
-   Subject to the terms and conditions of this License, including
-   termination under section 8, We grant you the following licenses:
+   Subject to the conditions of this License, We grant you the
+   following licenses:
 
    a. A non-exclusive, worldwide, royalty-free, irrevocable copyright
       license, for the duration of Our copyright in the Received Work,
@@ -53,133 +53,126 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       claims that would be infringed only as a consequence of further
       modification of the Received Work.
 
-   This License is not intended to exclude or limit (i) any rights you
+   This License is not intended to exclude or limit any rights you
    have under applicable copyright doctrines of fair use, fair dealing
-   or other equivalents, and (ii) any implied license or other defense
-   to infringement that may otherwise be available to you under
+   or other equivalents, and any implied license or other defense to
+   infringement that may otherwise be available to you under
    applicable patent law.
+
+2. No Trademark License.
 
    This License does not grant any rights in Our name, trademarks,
    service marks, or logos.
 
-2. Distribution: General Conditions.
+3. Anticircumvention Law Waiver and Disclaimer.
 
-   You may Distribute a Covered Work, provided that you meet all of
-   these conditions:
+   [FIXME]  
 
-   a. Keep intact all legal notices and textual author attributions
-      contained in the Received Work (in the case of a Derived Work,
-      to the extent such notices remain pertinent), and include a copy
-      of this License along with the Covered Work or notice of a
-      canonical Internet address at which a copy of this License is
-      publicly available.
+4. Distribution: General Conditions.
 
-   b. For a Derived Work: License the entire Derived Work under this
-      License, and include prominent notice of such licensing. This
-      condition may not be avoided through such means as separate
-      Distribution.  This condition shall not apply to your Derived
-      Work if We Proprietary-Relicense. "Proprietary-Relicense" means
-      to commercially offer a work that would be a Covered Work had
-      you prepared it, under a license that fails to satisfy version
-      1.111 of the Free Software Definition as published by the Free
-      Software Foundation ("FSF").
+   You may Distribute Covered Works, provided that you: 
+   * preserve all legal notices and textual author attributions
+     contained in the Received Work (in the case of a Derived Work, to
+     the extent such notices remain pertinent);   
+   * include a copy of this License along with the Covered Work;
+   * make the waiver and disclaimer of section 3; and
+   * satisfy the applicable conditions of sections 5 through 8.
 
-   c. Make the waiver and disclaimer of section 4.
+5. Conditions for Distributing Derived Works.
 
-3. Object Code Distribution.
+   You may Distribute a Derived Work, provided that you license the
+   entire Derived Work under this License, and include prominent
+   notice of such licensing. This condition may not be avoided through
+   such means as separate Distribution.
 
-  3.1. General Definitions.  
+   This section shall not apply if We Proprietary-Relicense.
+   "Proprietary-Relicense" means to commercially offer a work that
+   would be a Covered Work had you prepared it, under a license that
+   fails to satisfy version 1.111 of the Free Software Definition as
+   published by the Free Software Foundation ("FSF").
 
-       "Minimum Period", with respect to a Covered Work embodied in a
-       Product, means the longer of (i) three years from the date of
-       your Distribution of the Covered Work in the Product, or (ii)
-       the period during which you offer spare parts or customer
-       support for the Product.
+6. Direct Licensing.
 
-       "Object Code" means any form of a work that is not Source Code.
+   When you Distribute a Covered Work, the recipient automatically
+   receives from Us a license to the Received Work subject to the
+   terms of this License.
 
-       "Product" means a physical product or tangible storage medium.
-
-       "Source Code" means the preferred form of a work for making
-       modifications to it.
-
-       "System Libraries" means [FIXME].
-
-  3.2. Definition of Corresponding Source.
-  
-       "Corresponding Source" of a Covered Work means all the Source
-       Code needed to build, compile, generate, modify, install, and
-       run the Covered Work, to the extent those activities are
-       meaningful ("Development Activities").
-
-       Corresponding Source includes (i) all relevant scripts and
-       known instructions (even if previously unrecorded) necessary
-       for a skilled person to effectively perform, control and/or
-       complete Development Activities; (ii) interface definition
-       files; and (iii) the Source Code of shared libraries and
-       dynamically-linked subprograms that the Covered Work is
-       specifically designed to require, such as by intimate data
-       communication or control flow between those subprograms and
-       parts of the Covered Work.
-
-       Corresponding Source does not include (i) a Separate Work used
-       in performing Development Activities, or (ii) the Covered
-       Work's System Libraries.
-
-  3.3. Conditions for Distributing Object Code.
-
-       You may Distribute a Covered Work in Object Code form, provided
-       that you also Distribute its machine-readable Corresponding
-       Source under this License, in one of the following ways:
-
-       a. If you Distribute such Object Code in a Product, either
-
-         1) Accompany the Product with a durable physical medium
-            customarily used for software interchange that contains
-            the Corresponding Source, or
-
-         2) Ensure that the Corresponding Source is publicly
-            available, at no charge and for the Minimum Period, by way
-            of a network location, and accompany the Product with
-            notice of such location.
-
-       b. If you Distribute such Object Code from a network location,
-          accompany it with information giving clear directions
-          indicating how the Corresponding Source may be obtained from
-          a network location at no further charge and in a reasonably
-          equivalent manner.
-
-4. Anticircumvention Waiver and Disclaimer.
-
-   Each Distributor of a Covered Work (i) waives all rights to forbid
-   circumvention of technological measures achieved by exercising
-   rights under this License with respect to a Covered Work, and (ii)
-   disclaims any intention to limit operation or modification of the
-   Received Work as a means of enforcing such Upstream Distributor's
-   or third parties' legal rights to forbid circumvention of
-   technological measures.
-  
-5. Direct Licensing of Downstream Recipients.
-
-   Each time you Distribute a Covered Work, the recipient
-   automatically receives from Us a license to the Received Work under
-   this License.
-
-6. No Further Restrictions.
+7. No Further Restrictions.
 
    You may not impose further restrictions on the exercise of the
    rights granted under this License ("Further Restrictions").
 
-   No violation of this section is excused merely because Further
-   Restrictions result from your compliance with conditions extrinsic
-   to this License, such as conditions imposed by court order or set
-   forth in a separate agreement between you and a third party.
+   The preceding condition is not excused merely because Further
+   Restrictions result from your compliance with conditions or
+   obligations extrinsic to this License (for example, a court order
+   or an agreement with a third party).
 
-   Distribution of a Covered Work incorporating material covered by
-   the Apache License 2.0, as published by the Apache Software
+   Distribution of a Covered Work incorporating material licensed
+   under the Apache License 2.0, as published by the Apache Software
    Foundation, does not impose Further Restrictions.
 
-7. Outbound License Compatibility.
+8. Object Code Distribution.
+
+8.1. General Definitions.
+
+     "Minimum Period", with respect to a Covered Work embodied in a
+     Product, means the longer of (i) three years from the date of
+     your Distribution of the Covered Work in the Product, or (ii) the
+     period during which you offer spare parts or customer support for
+     the Product.
+
+     "Object Code" means any form of a work that is not Source Code.
+
+     "Product" means a physical product or tangible storage medium.
+
+     "Source Code" means the preferred form of a work for making
+     modifications to it.
+
+     "System Libraries" means [FIXME].
+
+8.2. Definition of Corresponding Source.
+  
+     "Corresponding Source" of a Covered Work means all the Source
+     Code needed to build, compile, generate, modify, install, and run
+     the Covered Work, to the extent those activities are meaningful
+     ("Development Activities"). Corresponding Source must be in
+     machine-readable form.
+
+     Corresponding Source includes (i) all relevant scripts and known
+     instructions (even if previously unrecorded) necessary for a
+     skilled person to effectively perform, control and/or complete
+     Development Activities; (ii) interface definition files; and
+     (iii) the Source Code of shared libraries and dynamically-linked
+     subprograms that the Covered Work is specifically designed to
+     require, such as by intimate data communication or control flow
+     between those subprograms and parts of the Covered Work.
+
+     Corresponding Source does not include (i) a Separate Work used in
+     performing Development Activities, or (ii) the Covered Work's
+     System Libraries.
+
+8.3. Conditions for Distributing Object Code.
+
+     You may Distribute a Covered Work in Object Code form, provided
+     that:
+
+     a. For Object Code Distributed in a Product: you accompany the
+        Product with either:
+
+        1) a durable physical medium customarily used for software
+           interchange that contains the Corresponding Source, or
+
+        2) notice of a network location through which the
+           Corresponding Source is available under this License at no
+           charge, for the Minimum Period.
+
+     b. For Object Code Distributed from a network location: you
+        accompany the Object Code with clear directions indicating how
+        the Corresponding Source may be obtained under this License
+        from a network location at no further charge and in a
+        reasonably equivalent manner.
+
+9. Outbound (A)GPL Compatibility.
 
    You may relicense Covered Works under the terms of one or more of
    the following licenses published by the Free Software Foundation:
@@ -188,38 +181,38 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    * GNU Affero General Public License, version 3
    * later versions of the foregoing licenses.
 
-8. Termination.
+10. Termination.
 
-  8.1  If you fail to comply with the conditions of this License, then,
-       unless and until you cure such failure within thirty days after
-       becoming aware of such noncompliance, your license grants under
-       section 1 are automatically terminated.
+10.1. If you fail to comply with the conditions of this License, then,
+      unless and until you cure such failure within thirty days after
+      becoming aware of such noncompliance, your license grants under
+      section 1 are automatically terminated.
 
-  8.2  If you initiate litigation by asserting a patent infringement
-       claim (excluding declaratory judgment actions, counterclaims,
-       and cross-claims) alleging that any part of the Received Work
-       directly or indirectly infringes any patent, then your license
-       grants under section 1 are automatically terminated.
+10.2. If you initiate litigation by asserting a patent infringement
+      claim (excluding declaratory judgment actions, counterclaims,
+      and cross-claims) alleging that any part of the Received Work
+      directly or indirectly infringes any patent, then your license
+      grants under section 1 are automatically terminated.
 
-  Termination of your rights under this section 8 disqualifies you
-  from receiving new licenses covering the Received Work. It does not
-  terminate the rights of those who have received copies or rights
-  from you subject to this License.
+10.3. Termination of your rights disqualifies you from receiving new
+      licenses covering the Received Work. It does not terminate the
+      rights of those who have received copies or rights from you
+      subject to this License.
 
-  Your right to make copies necessarily incident to running Covered
-  Works shall never be terminated.
+10.4. Your right to make copies necessarily incident to running
+      Covered Works shall never be terminated.
 
-9. Later License Versions.
+11. Later License Versions.
 
-   The Copyleft-Next Project may publish new versions of
-   copyleft-next, designated by a distinguishing version number, but
-   no such new version is "Authorized" until it has been specifically
-   approved as a new version by both the Free Software Foundation and
-   the Open Source Initiative. You may Distribute a Covered Work under
-   the terms of this License or under the terms of an Authorized newer
-   version of copyleft-next.
+    The Copyleft-Next Project may publish new versions of
+    copyleft-next, designated by a distinguishing version number, but
+    no such new version is "Authorized" until it has been specifically
+    approved as a new version by both the Free Software Foundation and
+    the Open Source Initiative. You may Distribute a Covered Work
+    under the terms of this License or under the terms of an
+    Authorized newer version of copyleft-next.
 
-10. No Warranty.
+12. No Warranty.
 
     The Received Work is provided "as-is", without warranty.  You bear
     the risk of using it.  You may have additional rights under
@@ -228,7 +221,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     warranties of title, merchantability, fitness for a particular
     purpose and non-infringement.
 
-11. Limitation of Liability.
+13. Limitation of Liability.
 
     To the extent permitted by applicable law, in no event will any
     Distributor be liable to you for any damages whatsoever, whether
@@ -237,7 +230,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     otherwise, even where the Distributor knew or should have known
     about the possibility of such damages.
 
-12. Severability.
+14. Severability.
 
     If any provision of this License is invalid or unenforceable under
     applicable law, it shall not affect the validity or enforceability
