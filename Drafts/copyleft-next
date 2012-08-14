@@ -135,14 +135,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
      ("Development Activities"). Corresponding Source must be in
      machine-readable form.
 
-     Corresponding Source includes (i) all relevant scripts and known
-     instructions (even if previously unrecorded) necessary for a
-     skilled person to effectively perform, control and/or complete
-     Development Activities; (ii) interface definition files; and
-     (iii) the Source Code of shared libraries and dynamically-linked
-     subprograms that the Covered Work is specifically designed to
-     require, such as by intimate data communication or control flow
-     between those subprograms and parts of the Covered Work.
+     Corresponding Source includes (i) all relevant scripts and
+     instructions known to you (even if previously unrecorded)
+     necessary for a skilled person to effectively perform, control
+     and/or complete Development Activities; (ii) interface definition
+     files; and (iii) the Source Code of shared libraries and
+     dynamically-linked subprograms that the Covered Work is
+     specifically designed to require, such as by intimate data
+     communication or control flow between those subprograms and parts
+     of the Covered Work.
 
      Corresponding Source does not include (i) a Separate Work used in
      performing Development Activities, or (ii) the Covered Work's
