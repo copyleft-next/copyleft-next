@@ -154,14 +154,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
      that:
 
      a. For Object Code Distributed in a Product: you accompany the
-        Product with either:
-
-        1) a durable physical medium customarily used for software
-           interchange that contains the Corresponding Source, or
-
-        2) notice of a network location through which the
-           Corresponding Source is available under this License at no
-           charge, for the Minimum Period.
+        Product with either: (i) a durable physical medium customarily
+        used for software interchange that contains the Corresponding
+        Source, or (ii) notice of a network location through which the
+        Corresponding Source is available, for the Minimum Period,
+        under this License and at no charge.
 
      b. For Object Code Distributed from a network location: you
         accompany the Object Code with clear directions indicating how
