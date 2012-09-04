@@ -136,11 +136,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
      effectively build, compile and install the Covered Work
      ("Development Activities"); (iii) all relevant interface
      definition files; and (iv) the Source Code of shared libraries
-     and dynamically-linked subprograms that the Covered Work is
-     specifically designed to require, such as by intimate data
-     communication or control flow between those subprograms and parts
-     of the Covered Work. Corresponding Source must be in
-     machine-readable form.
+     that the Covered Work is specifically designed to require, such
+     as by intimate data communication or control flow between those
+     libraries and parts of the Covered Work. Corresponding Source
+     must be in machine-readable form.
 
      Corresponding Source does not include (i) a Separate Work used in
      performing Development Activities, or (ii) the Covered Work's
