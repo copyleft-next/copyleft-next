@@ -31,6 +31,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
   of a particular Covered Work and is not by its nature an extension
   or enhancement of the Covered Work.
 
+  "System Library" means [FIXME].
+
   "We"/"Us"/"Our" refers to the individual or organization that places
   the Received Work under this License.
 
@@ -124,8 +126,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
      "Source Code" means the preferred form of a work for making
      modifications to it.
-
-     "System Libraries" means [FIXME].
 
 8.2. Definition of Corresponding Source.
   
