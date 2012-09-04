@@ -71,9 +71,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    not bound by sections 4 through 10 of this License.
    "Proprietary-Relicense" means to offer a work that would be a
    Covered Work had you prepared it, under a license that fails to
-   satisfy either the Free Software Definition, version 1.111, as
-   published by the Free Software Foundation ("FSF") or the Open
-   Source Definition, as published by the Open Source Initiative.
+   satisfy the Free Software Definition, version 1.111, as published
+   by the Free Software Foundation ("FSF").
 
 4. Distribution: General Conditions.
 
@@ -166,7 +165,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 9. Outbound (A)GPL Compatibility.
 
    You may Distribute Covered Works under the terms of one or more of
-   the following licenses published by the Free Software Foundation:
+   the following licenses published by the FSF:
    * GNU General Public License, version 2
    * GNU General Public License, version 3
    * GNU Affero General Public License, version 3
