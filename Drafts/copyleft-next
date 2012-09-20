@@ -24,14 +24,19 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
   restricts users from exercising rights in the Covered Work given by
   this License, the aggregation is not Mere Aggregation.
 
+  "Object Code" means any form of a work that is not Source Code.
+
   "Received Work" means the particular work of authorship We license
   to you under this License.
 
   "Separate Work" means a work that is separate from and independent
   of a particular Covered Work and is not by its nature an extension
-  or enhancement of the Covered Work.
+  or enhancement of the Covered Work, and/or a runtime library,
+  standard library or similar component bundled with a Separate Work
+  that is used to generate an object code form of the Covered Work.
 
-  "System Library" means [FIXME].
+  "Source Code" means the preferred form of a work for making
+  modifications to it.
 
   "We"/"Us"/"Our" refers to the individual or organization that places
   the Received Work under this License.
@@ -111,56 +116,38 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 8. Object Code Distribution.
 
-8.1. General Definitions.
+   "Corresponding Source" of a Distributed Covered Work means (i) the
+   Source Code of all parts of the Covered Work; (ii) all scripts and
+   specific instructions known to you (even if previously unrecorded)
+   necessary for a skilled developer to effectively build, compile and
+   install the Covered Work ("Development Activities"); (iii) all
+   relevant interface definition files; and (iv) the Source Code of
+   shared libraries that the Covered Work is specifically designed to
+   require, such as by intimate data communication or control flow
+   between those libraries and parts of the Covered
+   Work. Corresponding Source must be in machine-readable form.
+   Corresponding Source does not include a Separate Work used in
+   performing Development Activities.
 
-     "Minimum Period", with respect to a Covered Work embodied in a
-     Product, means the longer of (i) two years from the date of your
-     Distribution of the Covered Work in the Product, or (ii) the
-     period during which you offer spare parts or customer support for
-     the Product.
+   You may Distribute a Covered Work in Object Code form, provided
+   that:
 
-     "Object Code" means any form of a work that is not Source Code.
+   a. For Object Code Distributed in a physical product or tangible
+      storage medium ("Product"): you accompany the Product with
+      either: (i) a durable physical medium customarily used for
+      software interchange that contains the Corresponding Source, or
+      (ii) notice of a network location through which the
+      Corresponding Source is available, for the Minimum Period, under
+      this License and at no charge.  "Minimum Period" means the
+      longer of (i) two years from the date of your Distribution of
+      the Covered Work in the Product, or (ii) the period during which
+      you offer spare parts or customer support for the Product.
 
-     "Product" means a physical product or tangible storage medium.
-
-     "Source Code" means the preferred form of a work for making
-     modifications to it.
-
-8.2. Definition of Corresponding Source.
-  
-     "Corresponding Source" of a Distributed Covered Work means (i)
-     the Source Code of all parts of the Covered Work; (ii) all
-     scripts and specific instructions known to you (even if
-     previously unrecorded) necessary for a skilled developer to
-     effectively build, compile and install the Covered Work
-     ("Development Activities"); (iii) all relevant interface
-     definition files; and (iv) the Source Code of shared libraries
-     that the Covered Work is specifically designed to require, such
-     as by intimate data communication or control flow between those
-     libraries and parts of the Covered Work. Corresponding Source
-     must be in machine-readable form.
-
-     Corresponding Source does not include (i) a Separate Work used in
-     performing Development Activities, or (ii) the Covered Work's
-     System Libraries.
-
-8.3. Conditions for Distributing Object Code.
-
-     You may Distribute a Covered Work in Object Code form, provided
-     that:
-
-     a. For Object Code Distributed in a Product: you accompany the
-        Product with either: (i) a durable physical medium customarily
-        used for software interchange that contains the Corresponding
-        Source, or (ii) notice of a network location through which the
-        Corresponding Source is available, for the Minimum Period,
-        under this License and at no charge.
-
-     b. For Object Code Distributed from a network location: you
-        accompany the Object Code with clear directions indicating how
-        the Corresponding Source may be obtained under this License
-        from a network location at no further charge and in a
-        reasonably equivalent manner.
+   b. For Object Code Distributed from a network location: you
+      accompany the Object Code with clear directions indicating how
+      the Corresponding Source may be obtained under this License from
+      a network location at no further charge and in a reasonably
+      equivalent manner.
 
 9. Outbound (A)GPL Compatibility.
 
