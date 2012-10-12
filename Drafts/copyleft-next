@@ -119,8 +119,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    "Corresponding Source" of a Covered Work means (i) the
    Source Code of the Covered Work; (ii) all scripts,
    instructions and/or information known to you (even if previously unrecorded)
-   necessary to effectively build, compile and
-   install the Covered Work ("Development Activities"); (iii) all
+   necessary to build, compile, generate, modify, install and/or run
+   the Covered Work ("Development Activities"); (iii) all
    relevant interface definition files; and (iv) the Source Code of
    shared libraries that the Covered Work is specifically designed to
    require, such as by intimate data communication or control flow
