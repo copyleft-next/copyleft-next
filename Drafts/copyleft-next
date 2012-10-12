@@ -126,8 +126,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    require, such as by intimate data communication or control flow
    between those libraries and parts of the Covered
    Work. Corresponding Source must be in machine-readable form.
-   Corresponding Source does not include a Separate Work used in
-   performing Development Activities.
+   Corresponding Source does not need to include per se a Separate Work used in
+   performing Development Activities; however, such Separate Works must be
+   clearly named, identified, and described.
 
    You may Distribute a Covered Work in Object Code form, provided
    that:
