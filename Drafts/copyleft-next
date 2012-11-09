@@ -116,19 +116,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 8. Object Code Distribution.
 
-   "Corresponding Source" of a Covered Work means (i) the
-   Source Code of the Covered Work; (ii) all scripts,
-   instructions and/or information known to you (even if previously unrecorded)
-   necessary to build, compile, generate, modify, install and/or run
-   the Covered Work ("Development Activities"); (iii) all
-   relevant interface definition files; and (iv) the Source Code of
-   shared libraries that the Covered Work is specifically designed to
-   require, such as by intimate data communication or control flow
-   between those libraries and parts of the Covered
-   Work. Corresponding Source must be in machine-readable form.
-   Corresponding Source does not need to include per se a Separate Work used in
-   performing Development Activities; however, such Separate Works must be
-   clearly named, identified, and described.
+   "Corresponding Source" of a Covered Work means 
+   (i) the Source Code of the Covered Work;
+   (ii) all scripts, instructions or information known to you
+   necessary for a skilled developer to build, compile, generate,
+   modify, install and run the Covered Work ("Development
+   Activities");
+   (iii) all relevant interface definition files;
+   (iv) the Source Code of shared libraries that the Covered Work is
+   specifically designed to require, such as by intimate data
+   communication or control flow between those libraries and parts of
+   the Covered Work; and
+   (v) a list clearly identifying all Separate Works used in
+   performing Development Activities. Corresponding Source must be in
+   machine-readable form.
 
    You may Distribute a Covered Work in Object Code form, provided
    that:
