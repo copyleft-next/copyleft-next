@@ -128,8 +128,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    communication or control flow between those libraries and parts of
    the Covered Work; and
    (v) a list clearly identifying all Separate Works used in
-   performing Development Activities. Corresponding Source must be in
-   machine-readable form.
+   performing Development Activities. 
+   Corresponding Source must be in machine-readable form.
 
    You may Distribute a Covered Work in Object Code form, provided
    that:
