@@ -116,19 +116,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 8. Object Code Distribution.
 
-   "Corresponding Source" of a Covered Work means 
-   (i) the Source Code of the Covered Work;
-   (ii) all scripts, instructions or information known to you
-   necessary for a skilled developer to build, compile, generate,
-   modify, install and run the Covered Work ("Development
-   Activities");
-   (iii) all relevant interface definition files;
-   (iv) the Source Code of shared libraries that the Covered Work is
-   specifically designed to require, such as by intimate data
-   communication or control flow between those libraries and parts of
-   the Covered Work; and
-   (v) a list clearly identifying all Separate Works used in
-   performing Development Activities. 
+   "Corresponding Source" of a Covered Work means (i) the Source Code
+   of the Covered Work; (ii) all scripts, instructions and information
+   known to you necessary for a skilled developer to build, compile,
+   generate, modify, install and run the Covered Work; (iii) all
+   relevant interface definition files; (iv) the Source Code of shared
+   libraries that the Covered Work is specifically designed to
+   require, such as by intimate data communication or control flow
+   between those libraries and parts of the Covered Work; and (v) a
+   list clearly identifying all Separate Works that were used in
+   building, compiling, generating and installing the Covered Work.
    Corresponding Source must be in machine-readable form.
 
    You may Distribute a Covered Work in Object Code form, provided
@@ -166,11 +163,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
      becoming aware of it, your license grants under section 1 are
      automatically terminated.
 
-10.2 If you initiate litigation by asserting a patent infringement
-     claim (excluding declaratory judgment actions, counterclaims, and
-     cross-claims) alleging that any part of the Received Work
-     directly or indirectly infringes any patent, then your license
-     grants under section 1 are automatically terminated.
+10.2 If you initiate a patent infringement litigation claim (excluding
+     declaratory judgment actions, counterclaims, and cross-claims)
+     alleging that any part of the Received Work directly or
+     indirectly infringes any patent, then your license grants under
+     section 1 are automatically terminated.
 
 10.3 Termination of your rights disqualifies you from receiving new
      licenses covering the Received Work, but it does not terminate
