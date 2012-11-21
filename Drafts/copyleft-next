@@ -2,7 +2,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                      copyleft-next ("this License")
 
-0. Basic Definitions.
+1. Basic Definitions.
 
   "Covered Work" means the Received Work or a Derived Work.
 
@@ -41,7 +41,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
   "We"/"Us"/"Our" refers to the individual or organization that places
   the Received Work under this License.
 
-1. License Grants.
+2. License Grants.
 
    Subject to the terms of this License, We grant you:
 
@@ -65,56 +65,56 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    infringement that may otherwise be available to you under
    applicable patent law.
 
-2. No Trademark License.
+3. No Trademark License.
 
    This License does not grant any rights in Our name, trademarks,
    service marks, or logos.
 
-3. Proprietary-Relicensing. 
+4. Proprietary-Relicensing. 
 
    If and when We Proprietary-Relicense, now or in the future, you are
-   not bound by sections 4 through 10 of this License.
+   not bound by sections 5 through 11 of this License.
    "Proprietary-Relicense" means to offer a work that would be a
    Covered Work had you prepared it, under a license that fails to
    satisfy the Free Software Definition, version 1.111, as published
    by the Free Software Foundation ("FSF").
 
-4. Distribution: General Conditions.
+5. Distribution: General Conditions.
 
    You may Distribute Covered Works, provided that you: 
    a) preserve all legal notices and textual author attributions
       contained in the Received Work (in the case of a Derived Work, to
       the extent such notices remain pertinent);   
    b) inform recipients how they can obtain a copy of this License; and
-   c) satisfy the applicable conditions of sections 5 through 8.
+   c) satisfy the applicable conditions of sections 6 through 9.
 
-5. Distributing Derived Works.
+6. Distributing Derived Works.
 
    If you Distribute a Derived Work, you must license the entire
    Derived Work as a whole under this License, with prominent notice
    of such licensing. This condition may not be avoided through such
    means as separate Distribution of portions of the Derived Work.
 
-6. Direct Licensing.
+7. Direct Licensing.
 
    When you Distribute a Covered Work, the recipient automatically
    receives from Us a license to the Received Work subject to the
    terms of this License.
 
-7. No Further Restrictions.
+8. No Further Restrictions.
 
-7.1 You may not impose further restrictions on the exercise of the
+8.1 You may not impose further restrictions on the exercise of the
     rights granted under this License ("Further Restrictions").
 
-7.2 The preceding condition is not excused merely because Further
+8.2 The preceding condition is not excused merely because Further
     Restrictions result from your compliance with conditions or
     obligations extrinsic to this License (for example, a court order
     or an agreement with a third party).
 
-7.3 Distribution of a Covered Work incorporating material licensed
+8.3 Distribution of a Covered Work incorporating material licensed
     under the Apache License 2.0 does not impose Further Restrictions.
 
-8. Object Code Distribution.
+9. Object Code Distribution.
 
    "Corresponding Source" of a Covered Work means (i) the Source Code
    of the Covered Work; (ii) all scripts, instructions and information
@@ -148,7 +148,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       a network location at no further charge and in a reasonably
       equivalent manner.
 
-9. Outbound (A)GPL Compatibility.
+10. Outbound (A)GPL Compatibility.
 
    You may Distribute a Covered Work under one or more of the
    following licenses published by the FSF:
@@ -156,28 +156,28 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    * GNU Affero General Public License, version 3
    * later versions of the foregoing licenses.
 
-10. Termination.
+11. Termination.
 
-10.1 If you fail to comply with the conditions of this License, then,
+11.1 If you fail to comply with the conditions of this License, then,
      unless you cure such noncompliance within thirty days after
-     becoming aware of it, your license grants under section 1 are
+     becoming aware of it, your license grants under section 2 are
      automatically terminated.
 
-10.2 If you initiate a patent infringement litigation claim (excluding
+11.2 If you initiate a patent infringement litigation claim (excluding
      declaratory judgment actions, counterclaims, and cross-claims)
      alleging that any part of the Received Work directly or
      indirectly infringes any patent, then your license grants under
-     section 1 are automatically terminated.
+     section 2 are automatically terminated.
 
-10.3 Termination of your rights disqualifies you from receiving new
+11.3 Termination of your rights disqualifies you from receiving new
      licenses covering the Received Work, but it does not terminate
      the rights of those who have received copies or rights from you
      subject to this License.
 
-10.4 Your right to make copies necessarily incident to running Covered
+11.4 Your right to make copies necessarily incident to running Covered
      Works shall never be terminated.
 
-11. Later License Versions.
+12. Later License Versions.
 
     The Copyleft-Next Project may publish new versions of
     copyleft-next, designated by a distinguishing version number.
@@ -188,7 +188,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 ***************************************************************************
 *                                                                         *
-* 12. No Warranty.                                                        *
+* 13. No Warranty.                                                        *
 *                                                                         *
 *     The Received Work is provided "as-is", without warranty. You bear   *
 *     the risk of using it. To the extent permitted by applicable law,    *
@@ -200,7 +200,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 ***************************************************************************
 *                                                                         *
-* 13. Limitation of Liability.                                            *
+* 14. Limitation of Liability.                                            *
 *                                                                         *
 *     To the extent permitted by applicable law, in no event will any     *
 *     Distributor be liable to you for any damages whatsoever, whether    *
@@ -211,7 +211,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 *                                                                         *
 ***************************************************************************
 
-14. Severability.
+15. Severability.
 
     If any provision of this License is invalid or unenforceable under
     applicable law, it shall not affect the validity or enforceability
