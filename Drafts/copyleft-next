@@ -1,157 +1,157 @@
 THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
-                     copyleft-next ("this License")
+		      copyleft-next ("this License")
 
 1. Basic Definitions.
 
   "Covered Work" means the Received Work or a Derived Work.
 
-  "Derived Work" means a work of authorship that copies from,
-  modifies, adapts, is based on, contains, transforms or translates
-  all or part of the Received Work such that copyright permission is
-  required. Derived Works do not include Mere Aggregation or the mere
-  making of a verbatim copy of the Received Work.
+  "Derived Work" means a work of authorship that copies from, modifies,
+  adapts, is based on, contains, transforms or translates all or part of
+  the Received Work such that copyright permission is required. Derived
+  Works do not include Mere Aggregation or the mere making of a verbatim
+  copy of the Received Work.
 
-  "Distribute" means to transfer or make available a copy to someone
-  else (in the case of an organization, to someone outside of the
+  "Distribute" means to transfer or make available a copy to someone else
+  (in the case of an organization, to someone outside of the
   organization), such that copyright permission is required.
 
-  "Distributor" means Us and anyone else who Distributes a Covered
-   Work.
+  "Distributor" means Us and anyone else who Distributes a Covered Work.
 
   "Mere Aggregation" means an aggregation of a Covered Work with a
-  Separate Work. However, if the license of such an aggregation
-  restricts users from exercising rights in the Covered Work given by
-  this License, the aggregation is not Mere Aggregation.
+  Separate Work. However, if the license of such an aggregation restricts
+  users from exercising rights in the Covered Work given by this License,
+  the aggregation is not Mere Aggregation.
 
   "Object Code" means any form of a work that is not Source Code.
 
-  "Received Work" means the particular work of authorship We license
-  to you under this License.
+  "Received Work" means the particular work of authorship We license to
+  you under this License.
 
-  "Separate Work" means a work that is separate from and independent
-  of a particular Covered Work and is not by its nature an extension
-  or enhancement of the Covered Work, and/or a runtime library,
-  standard library or similar component bundled with a Separate Work
-  that is used to generate an Object Code form of the Covered Work.
+  "Separate Work" means a work that is separate from and independent of a
+  particular Covered Work and is not by its nature an extension or
+  enhancement of the Covered Work, and/or a runtime library, standard
+  library or similar component bundled with a Separate Work that is used
+  to generate an Object Code form of the Covered Work.
 
   "Source Code" means the preferred form of a work for making
   modifications to it.
 
-  "We"/"Us"/"Our" refers to the individual or organization that places
-  the Received Work under this License.
+  "We"/"Us"/"Our" refers to the individual or organization that places the
+  Received Work under this License.
 
 2. License Grants.
 
-   Subject to the terms of this License, We grant you:
+  Subject to the terms of this License, We grant you:
 
    a. A non-exclusive, worldwide, royalty-free, irrevocable copyright
-      license, for the duration of Our copyright in the Received Work,
-      to make, copy, Distribute, publicly perform and publicly display
+      license, for the duration of Our copyright in the Received Work, to
+      make, copy, Distribute, publicly perform and publicly display
       Covered Works, in any medium.
 
-   b. A non-exclusive, worldwide, royalty-free, irrevocable patent
-      license under Licensed Patents to make, have made, use, sell,
-      offer for sale, import and otherwise transfer Covered
-      Works. "Licensed Patents" means all patent claims licensable by
-      Us, now or in the future, that are necessarily infringed by
-      making, using, or selling the Received Work, but do not include
-      claims that would be infringed only as a consequence of further
-      modification of the Received Work.
+   b. A non-exclusive, worldwide, royalty-free, irrevocable patent license
+      under Licensed Patents to make, have made, use, sell, offer for
+      sale, import and otherwise transfer Covered Works. "Licensed
+      Patents" means all patent claims licensable by Us, now or in the
+      future, that are necessarily infringed by making, using, or selling
+      the Received Work, but do not include claims that would be infringed
+      only as a consequence of further modification of the Received Work.
 
-   This License is not intended to exclude or limit any rights you
-   have under applicable copyright doctrines of fair use, fair dealing
-   or other equivalents, and any implied license or other defense to
-   infringement that may otherwise be available to you under
-   applicable patent law.
+  This License is not intended to exclude or limit any rights you have
+  under applicable copyright doctrines of fair use, fair dealing or other
+  equivalents, and any implied license or other defense to infringement
+  that may otherwise be available to you under applicable patent law.
 
 3. No Trademark License.
 
-   This License does not grant any rights in Our name, trademarks,
-   service marks, or logos.
+  This License does not grant any rights in Our name, trademarks, service
+  marks, or logos.
 
 4. Proprietary-Relicensing. 
 
-   If and when We Proprietary-Relicense, now or in the future, you are
-   not bound by sections 5 through 11 of this License.
-   "Proprietary-Relicense" means to offer a work that would be a
-   Covered Work had you prepared it, under a license that fails to
-   satisfy the Free Software Definition, version 1.111, as published
-   by the Free Software Foundation ("FSF").
+  If and when We Proprietary-Relicense, now or in the future, you are not
+  bound by sections 5 through 11 of this License. "Proprietary-Relicense"
+  means to offer a work that would be a Covered Work had you prepared it,
+  under a license that fails to satisfy the Free Software Definition,
+  version 1.111, as published by the Free Software Foundation ("FSF").
 
 5. Distribution: General Conditions.
 
-   You may Distribute Covered Works, provided that you: 
+  You may Distribute Covered Works, provided that you: 
+
    a) preserve all legal notices and textual author attributions
       contained in the Received Work (in the case of a Derived Work, to
-      the extent such notices remain pertinent);   
+      the extent such notices remain pertinent);
+
    b) inform recipients how they can obtain a copy of this License; and
+
    c) satisfy the applicable conditions of sections 6 through 9.
 
 6. Distributing Derived Works.
 
-   If you Distribute a Derived Work, you must license the entire
-   Derived Work as a whole under this License, with prominent notice
-   of such licensing. This condition may not be avoided through such
-   means as separate Distribution of portions of the Derived Work.
+  If you Distribute a Derived Work, you must license the entire Derived
+  Work as a whole under this License, with prominent notice of such
+  licensing. This condition may not be avoided through such  means as
+  separate Distribution of portions of the Derived Work.
 
 7. Direct Licensing.
 
-   When you Distribute a Covered Work, the recipient automatically
-   receives from Us a license to the Received Work subject to the
-   terms of this License.
+  When you Distribute a Covered Work, the recipient automatically
+  receives from Us a license to the Received Work subject to the terms of
+  this License.
 
 8. No Further Restrictions.
 
-8.1 You may not impose further restrictions on the exercise of the
-    rights granted under this License ("Further Restrictions").
+8.1 You may not impose further restrictions on the exercise of the rights
+    granted under this License ("Further Restrictions").
 
 8.2 The preceding condition is not excused merely because Further
     Restrictions result from your compliance with conditions or
-    obligations extrinsic to this License (for example, a court order
-    or an agreement with a third party).
+    obligations extrinsic to this License (for example, a court order or
+    an agreement with a third party).
 
-8.3 Distribution of a Covered Work incorporating material licensed
-    under the Apache License 2.0 does not impose Further Restrictions.
+8.3 Distribution of a Covered Work incorporating material licensed under
+    the Apache License 2.0 does not impose Further Restrictions.
 
 9. Object Code Distribution.
 
-   "Corresponding Source" of a Covered Work means (i) the Source Code
-   of the Covered Work; (ii) all scripts, instructions and information
-   known to you necessary for a skilled developer to build, compile,
-   generate, modify, install and run the Covered Work; (iii) all
-   relevant interface definition files; (iv) the Source Code of shared
-   libraries that the Covered Work is specifically designed to
-   require, such as by intimate data communication or control flow
-   between those libraries and parts of the Covered Work; and (v) a
-   list clearly identifying all Separate Works that were used in
-   building, compiling, generating and installing the Covered Work.
-   Corresponding Source must be in machine-readable form.
+  "Corresponding Source" of a Covered Work means (i) the Source Code of
+  the Covered Work; (ii) all scripts, instructions and information known
+  to you necessary for a skilled developer to build, compile, generate,
+  modify, install and run the Covered Work; (iii) all relevant interface
+  definition files; (iv) the Source Code of shared libraries that the
+  Covered Work is specifically designed to require, such as by intimate
+  data communication or control flow between those libraries and parts of
+  the Covered Work; and (v) a list clearly identifying all Separate Works
+  that were used in building, compiling, generating and installing the
+  Covered Work.
 
-   You may Distribute a Covered Work in Object Code form, provided
-   that:
+  Corresponding Source must be in machine-readable form.
+
+  You may Distribute a Covered Work in Object Code form, provided
+  that:
 
    a) For Object Code Distributed in a physical product or tangible
-      storage medium ("Product"): you accompany the Product with
-      either: (i) a durable physical medium customarily used for
-      software interchange that contains the Corresponding Source, or
-      (ii) notice of a network location through which the
-      Corresponding Source is available, for the Minimum Period, under
-      this License and at no charge.  "Minimum Period" means the
-      longer of (i) two years from the date of your Distribution of
-      the Covered Work in the Product, or (ii) the period during which
-      you offer spare parts or customer support for the Product.
+      storage medium ("Product"): you accompany the Product with either:
+      (i) a durable physical medium customarily used for software
+      interchange that contains the Corresponding Source, or (ii) notice
+      of a network location through which the Corresponding Source is
+      available, for the Minimum Period, under this License and at no
+      charge. "Minimum Period" means the longer of (i) two years from the
+      date of your Distribution of the Covered Work in the Product, or
+      (ii) the period during which you offer spare parts or customer
+      support for the Product.
 
-   b) For Object Code Distributed from a network location: you
-      accompany the Object Code with clear directions indicating how
-      the Corresponding Source may be obtained under this License from
-      a network location at no further charge and in a reasonably
-      equivalent manner.
+   b) For Object Code Distributed from a network location: you accompany
+      the Object Code with clear directions indicating how the
+      Corresponding Source may be obtained under this License from a
+      network location at no further charge and in a reasonably equivalent
+      manner.
 
 10. Outbound (A)GPL Compatibility.
 
-   You may Distribute a Covered Work under one or more of the
-   following licenses published by the FSF:
+  You may Distribute a Covered Work under one or more of the following
+  licenses published by the FSF:
    * GNU General Public License, version 2
    * GNU Affero General Public License, version 3
    * later versions of the foregoing licenses.
@@ -159,62 +159,61 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 11. Termination.
 
 11.1 If you fail to comply with the conditions of this License, then,
-     unless you cure such noncompliance within thirty days after
-     becoming aware of it, your license grants under section 2 are
-     automatically terminated.
+     unless you cure such noncompliance within thirty days after becoming
+     aware of it, your license grants under section 2 are automatically
+     terminated.
 
 11.2 If you initiate a patent infringement litigation claim (excluding
      declaratory judgment actions, counterclaims, and cross-claims)
-     alleging that any part of the Received Work directly or
-     indirectly infringes any patent, then your license grants under
-     section 2 are automatically terminated.
+     alleging that any part of the Received Work directly or indirectly
+     infringes any patent, then your license grants under section 2 are
+     automatically terminated.
 
 11.3 Termination of your rights disqualifies you from receiving new
-     licenses covering the Received Work, but it does not terminate
-     the rights of those who have received copies or rights from you
-     subject to this License.
+     licenses covering the Received Work, but it does not terminate the
+     rights of those who have received copies or rights from you subject
+     to this License.
 
 11.4 Your right to make copies necessarily incident to running Covered
      Works shall never be terminated.
 
 12. Later License Versions.
 
-    The Copyleft-Next Project may publish new versions of
-    copyleft-next, designated by a distinguishing version number.
-    Unless the Received Work explicitly removes the option of
-    Distributing Covered Works under later published versions of
-    copyleft-next, you may Distribute Covered Works under any later
-    version of copyleft-next.
+  The Copyleft-Next Project may publish new versions of copyleft-next,
+  designated by a distinguishing version number. Unless the Received Work
+  explicitly removes the option of Distributing Covered Works under later
+  published versions of copyleft-next, you may Distribute Covered Works
+  under any later version of copyleft-next.
 
-***************************************************************************
-*                                                                         *
-* 13. No Warranty.                                                        *
-*                                                                         *
-*     The Received Work is provided "as-is", without warranty. You bear   *
-*     the risk of using it. To the extent permitted by applicable law,    *
-*     each Distributor excludes the implied warranties of title,          *
-*     merchantability, fitness for a particular purpose and               *
-*     non-infringement.                                                   *
-*                                                                         *
-***************************************************************************
+**************************************************************************
+*                                                                        *
+* 13. No Warranty.                                                       *
+*                                                                        *
+*     The Received Work is provided "as-is", without warranty. You bear  *
+*     the risk of using it. To the extent permitted by applicable law,   *
+*     each Distributor excludes the implied warranties of title,         *
+*     merchantability, fitness for a particular purpose and              *
+*     non-infringement.                                                  *
+*                                                                        *
+**************************************************************************
 
-***************************************************************************
-*                                                                         *
-* 14. Limitation of Liability.                                            *
-*                                                                         *
-*     To the extent permitted by applicable law, in no event will any     *
-*     Distributor be liable to you for any damages whatsoever, whether    *
-*     direct, indirect, special, incidental, or consequential damages,    *
-*     whether arising under contract, tort (including negligence), or     *
-*     otherwise, even where the Distributor knew or should have known     * 
-*     about the possibility of such damages.                              *
-*                                                                         *
-***************************************************************************
+**************************************************************************
+*                                                                        *
+* 14. Limitation of Liability.                                           *
+*                                                                        *
+*     To the extent permitted by applicable law, in no event will any    *
+*     Distributor be liable to you for any damages whatsoever, whether   *
+*     direct, indirect, special, incidental, or consequential damages,   *
+*     whether arising under contract, tort (including negligence), or    *
+*     otherwise, even where the Distributor knew or should have known    * 
+*     about the possibility of such damages.                             *
+*                                                                        *
+**************************************************************************
 
 15. Severability.
 
-    If any provision of this License is invalid or unenforceable under
-    applicable law, it shall not affect the validity or enforceability
-    of the remainder of this License, and reviewing courts shall
-    reform such provision to the minimum extent necessary to make such
-    provision valid and enforceable.
+  If any provision of this License is invalid or unenforceable under
+  applicable law, it shall not affect the validity or enforceability of
+  the remainder of this License, and reviewing courts shall reform such
+  provision to the minimum extent necessary to make such provision valid
+  and enforceable.
