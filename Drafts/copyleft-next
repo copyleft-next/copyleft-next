@@ -42,14 +42,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 2. License Grants.
 
-  Subject to the terms of this License, We grant you:
+   Subject to the terms of this License, We grant you:
 
-   a. A non-exclusive, worldwide, royalty-free, irrevocable copyright
+   a) A non-exclusive, worldwide, royalty-free, irrevocable copyright
       license, for the duration of Our copyright in the Received Work, to
       make, copy, Distribute, publicly perform and publicly display
       Covered Works, in any medium.
 
-   b. A non-exclusive, worldwide, royalty-free, irrevocable patent license
+   b) A non-exclusive, worldwide, royalty-free, irrevocable patent license
       under Licensed Patents to make, have made, use, sell, offer for
       sale, import and otherwise transfer Covered Works. "Licensed
       Patents" means all patent claims licensable by Us, now or in the
@@ -57,27 +57,27 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       the Received Work, but do not include claims that would be infringed
       only as a consequence of further modification of the Received Work.
 
-  This License is not intended to exclude or limit any rights you have
-  under applicable copyright doctrines of fair use, fair dealing or other
-  equivalents, and any implied license or other defense to infringement
-  that may otherwise be available to you under applicable patent law.
+   This License is not intended to exclude or limit any rights you have
+   under applicable copyright doctrines of fair use, fair dealing or other
+   equivalents, and any implied license or other defense to infringement
+   that may otherwise be available to you under applicable patent law.
 
 3. No Trademark License.
 
-  This License does not grant any rights in Our name, trademarks, service
-  marks, or logos.
+   This License does not grant any rights in Our name, trademarks, service
+   marks, or logos.
 
 4. Proprietary-Relicensing. 
 
-  If and when We Proprietary-Relicense, now or in the future, you are not
-  bound by sections 5 through 11 of this License. "Proprietary-Relicense"
-  means to offer a work that would be a Covered Work had you prepared it,
-  under a license that fails to satisfy the Free Software Definition,
-  version 1.111, as published by the Free Software Foundation ("FSF").
+   If and when We Proprietary-Relicense, now or in the future, you are not
+   bound by sections 5 through 11 of this License. "Proprietary-Relicense"
+   means to offer a work that would be a Covered Work had you prepared it,
+   under a license that fails to satisfy the Free Software Definition,
+   version 1.111, as published by the Free Software Foundation ("FSF").
 
 5. Distribution: General Conditions.
 
-  You may Distribute Covered Works, provided that you: 
+   You may Distribute Covered Works, provided that you: 
 
    a) preserve all legal notices and textual author attributions
       contained in the Received Work (in the case of a Derived Work, to
@@ -89,16 +89,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Distributing Derived Works.
 
-  If you Distribute a Derived Work, you must license the entire Derived
-  Work as a whole under this License, with prominent notice of such
-  licensing. This condition may not be avoided through such  means as
-  separate Distribution of portions of the Derived Work.
+   If you Distribute a Derived Work, you must license the entire Derived
+   Work as a whole under this License, with prominent notice of such
+   licensing. This condition may not be avoided through such means as
+   separate Distribution of portions of the Derived Work.
 
 7. Direct Licensing.
 
-  When you Distribute a Covered Work, the recipient automatically
-  receives from Us a license to the Received Work subject to the terms of
-  this License.
+   When you Distribute a Covered Work, the recipient automatically
+   receives from Us a license to the Received Work subject to the terms of
+   this License.
 
 8. No Further Restrictions.
 
@@ -115,21 +115,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 9. Object Code Distribution.
 
-  "Corresponding Source" of a Covered Work means (i) the Source Code of
-  the Covered Work; (ii) all scripts, instructions and information known
-  to you necessary for a skilled developer to build, compile, generate,
-  modify, install and run the Covered Work; (iii) all relevant interface
-  definition files; (iv) the Source Code of shared libraries that the
-  Covered Work is specifically designed to require, such as by intimate
-  data communication or control flow between those libraries and parts of
-  the Covered Work; and (v) a list clearly identifying all Separate Works
-  that were used in building, compiling, generating and installing the
-  Covered Work.
+   "Corresponding Source" of a Covered Work means (i) the Source Code of
+   the Covered Work; (ii) all scripts, instructions and information known
+   to you necessary for a skilled developer to build, compile, generate,
+   modify, install and run the Covered Work; (iii) all relevant interface
+   definition files; (iv) the Source Code of shared libraries that the
+   Covered Work is specifically designed to require, such as by intimate
+   data communication or control flow between those libraries and parts of
+   the Covered Work; and (v) a list clearly identifying all Separate Works
+   that were used in building, compiling, generating and installing the
+   Covered Work.
 
-  Corresponding Source must be in machine-readable form.
+   Corresponding Source must be in machine-readable form.
 
-  You may Distribute a Covered Work in Object Code form, provided
-  that:
+   You may Distribute a Covered Work in Object Code form, provided
+   that:
 
    a) For Object Code Distributed in a physical product or tangible
       storage medium ("Product"): you accompany the Product with either:
@@ -150,11 +150,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 10. Outbound (A)GPL Compatibility.
 
-  You may Distribute a Covered Work under one or more of the following
-  licenses published by the FSF:
-   * GNU General Public License, version 2
-   * GNU Affero General Public License, version 3
-   * later versions of the foregoing licenses.
+    You may Distribute a Covered Work under one or more of the following
+    licenses published by the FSF:
+    * GNU General Public License, version 2
+    * GNU Affero General Public License, version 3
+    * later versions of the foregoing licenses.
 
 11. Termination.
 
