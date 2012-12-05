@@ -4,17 +4,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 1. Definitions.
 
-  "Corresponding Source" of a Covered Work means (i) the Source Code
-   of the Covered Work; (ii) all scripts, instructions and information
-   known to you necessary for a skilled developer to build, compile,
-   generate and modify the Covered Work; (iii) all relevant interface
-   definition files; (iv) the Source Code of shared libraries that the
-   Covered Work is specifically designed to require, such as by
-   intimate data communication or control flow between those libraries
-   and parts of the Covered Work; and (v) a list clearly identifying
-   all Separate Works that were used in building, compiling,
-   generating and installing the Covered Work.  Corresponding Source
-   must be in machine-readable form.
+  "Corresponding Source" of a Covered Work in Object Code form means (i)
+   the Source Code of the Covered Work; (ii) all scripts, instructions and
+   information known to you necessary for a skilled developer to build, 
+   compile, generate and modify the Covered Work; (iii) all relevant 
+   interface definition files; (iv) the Source Code of shared libraries 
+   that the Covered Work is specifically designed to require, such as by
+   intimate data communication or control flow between those libraries and 
+   parts of the Covered Work; and (v) a list clearly identifying all 
+   Separate Works that were used in building, compiling, generating and 
+   installing the Covered Work.  Corresponding Source must be in machine-
+   readable form.
 
   "Covered Work" means the Received Work or a Derived Work.
 
