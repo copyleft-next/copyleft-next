@@ -21,14 +21,13 @@ drafting is about setting the right policies for Free Software projects,
 and therefore input from developers and contributors is more valuable than
 that of lawyers.
 
-Needless
-to say, no one should actually consider *using* a development version
-of copyleft-next as an actual license. A "development version" is a
-version of the file "copyleft-next" in the Drafts directory, and/or
-any version of copyleft-next made available by this project with the
-heading "THIS IS A DRAFT. DO NOT USE AS A LICENSE" (or other wording
-to the same effect). Numbered releases of copyleft-next will be stored
-in the Releases directory.
+Needless to say, no one should actually consider *using* a development
+version of copyleft-next as an actual license. A "development version" is
+a version of the file "copyleft-next" in the Drafts directory, and/or any
+version of copyleft-next made available by this project with the heading
+"THIS IS A DRAFT. DO NOT USE AS A LICENSE" (or other wording to the same
+effect). Numbered releases of copyleft-next will be stored in the Releases
+directory.
 
 **The copyleft-next project is *not* an effort endorsed by the Free
 Software Foundation or the GNU Project. It is is also *not* an effort
