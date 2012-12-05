@@ -2,7 +2,19 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 		      copyleft-next ("this License")
 
-1. Basic Definitions.
+1. Definitions.
+
+  "Corresponding Source" of a Covered Work means (i) the Source Code
+   of the Covered Work; (ii) all scripts, instructions and information
+   known to you necessary for a skilled developer to build, compile,
+   generate and modify the Covered Work; (iii) all relevant interface
+   definition files; (iv) the Source Code of shared libraries that the
+   Covered Work is specifically designed to require, such as by
+   intimate data communication or control flow between those libraries
+   and parts of the Covered Work; and (v) a list clearly identifying
+   all Separate Works that were used in building, compiling,
+   generating and installing the Covered Work.  Corresponding Source
+   must be in machine-readable form.
 
   "Covered Work" means the Received Work or a Derived Work.
 
@@ -24,6 +36,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
   aggregation is not Mere Aggregation.
 
   "Object Code" means any form of a work that is not Source Code.
+
+  "Product" means a physical product or tangible storage medium.
 
   "Received Work" means the particular work of authorship We license to you
   under this License.
@@ -70,7 +84,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 4. Proprietary-Relicensing. 
 
    If and when We Proprietary-Relicense, now or in the future, you are not
-   bound by sections 5 through 11 of this License. "Proprietary-Relicense"
+   bound by sections 5 through 12 of this License. "Proprietary-Relicense"
    means to offer a work that would be a Covered Work had you prepared it,
    under a license that fails to satisfy the Free Software Definition,
    version 1.111, as published by the Free Software Foundation ("FSF").
@@ -85,7 +99,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    b) inform recipients how they can obtain a copy of this License; and
 
-   c) satisfy the applicable conditions of sections 6 through 9.
+   c) satisfy the applicable conditions of sections 6 through 10.
 
 6. Distributing Derived Works.
 
@@ -112,38 +126,27 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    under the Apache License 2.0 does not impose further restrictions under 
    this section.
 
-9. Object Code Distribution.
+9. Distribution of Object Code in Products.
 
-   "Corresponding Source" of a Covered Work means (i) the Source Code of
-   the Covered Work; (ii) all scripts, instructions and information known
-   to you necessary for a skilled developer to build, compile, generate 
-   and modify the Covered Work; (iii) all relevant interface definition 
-   files; (iv) the Source Code of shared libraries that the Covered Work is 
-   specifically designed to require, such as by intimate data communication 
-   or control flow between those libraries and parts of the Covered Work; 
-   and (v) a list clearly identifying all Separate Works that were used in 
-   building, compiling, generating and installing the Covered Work. 
-   Corresponding Source must be in machine-readable form.
+   You may Distribute an Object Code form of a Covered Work in a Product,
+   provided that you accompany the Product with either: (i) a durable 
+   physical medium customarily used for software interchange that contains 
+   the Corresponding Source, or (ii) notice of a network location through 
+   which the Corresponding Source is available, for the Minimum Period, 
+   under this License and at no charge. "Minimum Period" means the longer 
+   of (i) two years from the date of your Distribution of the Covered Work 
+   in the Product, or (ii) the period during which you offer spare parts or 
+   customer support for the Product.
 
-   You may Distribute a Covered Work in Object Code form, provided that:
+10. Network Distribution of Object Code.
 
-   a) For Object Code Distributed in a physical product or tangible storage
-      medium ("Product"): you accompany the Product with either: (i) a
-      durable physical medium customarily used for software interchange
-      that contains the Corresponding Source, or (ii) notice of a network 
-      location through which the Corresponding Source is available, for the
-      Minimum Period, under this License and at no charge. "Minimum Period"
-      means the longer of (i) two years from the date of your Distribution 
-      of the Covered Work in the Product, or (ii) the period during which 
-      you offer spare parts or customer support for the Product.
+    You may Distribute an Object Code form of a Covered Work from a
+    network location, provided that you accompany the Object Code with
+    clear directions indicating how the Corresponding Source may be
+    obtained under this License from a network location at no further
+    charge and in a reasonably equivalent manner.
 
-   b) For Object Code Distributed from a network location: you accompany
-      the Object Code with clear directions indicating how the
-      Corresponding Source may be obtained under this License from a
-      network location at no further charge and in a reasonably equivalent
-      manner.
-
-10. Outbound (A)GPL Compatibility.
+11. Outbound (A)GPL Compatibility.
 
     You may Distribute a Covered Work under one or more of the following
     licenses published by the FSF:
@@ -151,28 +154,28 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     * GNU Affero General Public License, version 3
     * later versions of the foregoing licenses.
 
-11. Termination.
+12. Termination.
 
-11.1 If you fail to comply with the conditions of this License, then,
+12.1 If you fail to comply with the conditions of this License, then,
      unless you cure such noncompliance within thirty days after becoming
      aware of it, your license grants under section 2 are automatically
      terminated.
 
-11.2 If you initiate a patent infringement litigation claim (excluding
+12.2 If you initiate a patent infringement litigation claim (excluding
      declaratory judgment actions, counterclaims, and cross-claims)
      alleging that any part of the Received Work directly or indirectly
      infringes any patent, then your license grants under section 2 are
      automatically terminated.
 
-11.3 Termination of your rights disqualifies you from receiving new
+12.3 Termination of your rights disqualifies you from receiving new
      licenses covering the Received Work, but it does not terminate the
      rights of those who have received copies or rights from you subject to
      this License.
 
-11.4 To the extent permission to make copies of a Covered Work is necessary 
+12.4 To the extent permission to make copies of a Covered Work is necessary 
      for running it, such permission is not terminable.
 
-12. Later License Versions.
+13. Later License Versions.
 
     The Copyleft-Next Project may publish new versions of copyleft-next,
     designated by a distinguishing version number. Unless We explicitly 
@@ -182,7 +185,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 **************************************************************************
 *                                                                        *
-* 13. No Warranty.                                                       *
+* 14. No Warranty.                                                       *
 *                                                                        *
 *     The Received Work is provided "as-is", without warranty. You bear  *
 *     the risk of using it. To the extent permitted by applicable law,   *
@@ -194,7 +197,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 **************************************************************************
 *                                                                        *
-* 14. Limitation of Liability.                                           *
+* 15. Limitation of Liability.                                           *
 *                                                                        *
 *     To the extent permitted by applicable law, in no event will any    *
 *     Distributor be liable to you for any damages whatsoever, whether   *
@@ -205,7 +208,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 *                                                                        *
 **************************************************************************
 
-15. Severability.
+16. Severability.
 
     The invalidity or unenforceability of any provision of this License 
     does not affect the validity or enforceability of the remainder of 
