@@ -14,12 +14,12 @@ between a weak copyleft license (like the LGPL) and a strong copyleft
 license like the GPL. "Strong" is not meant in any broader sense.
 
 Contributions of patches, ideas, and criticism are welcome.  In
-particular, the copyleft-next project actively seeks the participatory
-involvement of Free Software developers and contributors who may not have
-considered helping with license drafting before.  Free Software license
-drafting is about setting the right policies for Free Software projects,
-and therefore input from developers and contributors is more valuable than
-that of lawyers.
+particular, the copyleft-next project actively seeks the participation
+of open source/free software developers and contributors who may not
+have considered helping with license drafting before. License drafting
+is fundamentally about establishing policies for projects, and
+therefore input from developers and contributors is typically more
+valuable than input from lawyers.
 
 Needless to say, no one should actually consider *using* a development
 version of copyleft-next as an actual license. A "development version" is
