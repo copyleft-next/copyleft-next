@@ -165,48 +165,48 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 16. Definitions.
 
-   "Corresponding Source" of a Covered Work in Object Code form means (i)
-   the Source Code of the Covered Work; (ii) all associated interface 
-   definition files; (iii) all scripts, instructions and similar 
-   information that were used to build such Source Code; and (iv) a list 
-   clearly identifying all Separate Works that were used in building and 
-   installing the Covered Work. Corresponding Source must be machine-
-   readable.
+    "Corresponding Source" of a Covered Work in Object Code form means (i)
+    the Source Code of the Covered Work; (ii) all associated interface 
+    definition files; (iii) all scripts, instructions and similar 
+    information that were used to build such Source Code; and (iv) a list 
+    clearly identifying all Separate Works that were used in building and 
+    installing the Covered Work. Corresponding Source must be machine-
+    readable.
 
-   "Covered Work" means the Received Work or a Derived Work.
+    "Covered Work" means the Received Work or a Derived Work.
 
-   "Derived Work" means a work of authorship that copies from, modifies,
-   adapts, is based on, contains, transforms or translates all or part of
-   the Received Work such that copyright permission is required. Derived
-   Works do not include Mere Aggregation or the mere making of a verbatim
-   copy of the Received Work.
+    "Derived Work" means a work of authorship that copies from, modifies,
+    adapts, is based on, contains, transforms or translates all or part of
+    the Received Work such that copyright permission is required. Derived
+    Works do not include Mere Aggregation or the mere making of a verbatim
+    copy of the Received Work.
 
-   "Distribute" means to transfer or make available a copy to someone else
-   (in the case of an organization, to someone outside of the
-   organization), such that copyright permission is required.
+    "Distribute" means to transfer or make available a copy to someone else
+    (in the case of an organization, to someone outside of the 
+    organization), such that copyright permission is required.
 
-   "Distributor" means Us and anyone else who Distributes a Covered Work.
+    "Distributor" means Us and anyone else who Distributes a Covered Work.
 
-   "Mere Aggregation" means an aggregation of a Covered Work with a 
-   Separate Work. However, if the license of such an aggregation restricts 
-   users from exercising rights in the Covered Work given by this License, 
-   the aggregation is not Mere Aggregation.
+    "Mere Aggregation" means an aggregation of a Covered Work with a 
+    Separate Work. However, if the license of such an aggregation restricts 
+    users from exercising rights in the Covered Work given by this License, 
+    the aggregation is not Mere Aggregation.
 
-   "Object Code" means any form of a work that is not Source Code.
+    "Object Code" means any form of a work that is not Source Code.
 
-   "Product" means a physical product or tangible storage medium.
+    "Product" means a physical product or tangible storage medium.
 
-   "Received Work" means the particular work of authorship We license to 
-   you under this License.
+    "Received Work" means the particular work of authorship We license to 
+    you under this License.
 
-   "Separate Work" means a work that is separate from and independent of a
-   particular Covered Work and is not by its nature an extension or
-   enhancement of the Covered Work, and/or a runtime library, standard
-   library or similar component bundled with a Separate Work that is used 
-   to generate an Object Code form of the Covered Work.
+    "Separate Work" means a work that is separate from and independent of a
+    particular Covered Work and is not by its nature an extension or
+    enhancement of the Covered Work, and/or a runtime library, standard
+    library or similar component bundled with a Separate Work that is used 
+    to generate an Object Code form of the Covered Work.
 
-   "Source Code" means the preferred form of a work for making 
-   modifications to it.
+    "Source Code" means the preferred form of a work for making 
+    modifications to it.
 
-   "We"/"Us"/"Our" refers to the individual or organization that places the
-   Received Work under this License.
+    "We"/"Us"/"Our" refers to the individual or organization that places 
+    the Received Work under this License.
