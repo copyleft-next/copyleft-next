@@ -16,13 +16,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       import and otherwise transfer Covered Works. "Licensed Patents" means
       all patent claims licensable by Us, now or in the future, that are 
       necessarily infringed by making, using, or selling the Received Work,
-      but do not include claims that would be infringed only as a 
-      consequence of further modification of the Received Work.
+      and excludes claims that would be infringed only as a consequence of 
+      further modification of the Received Work.
 
-   This License is not intended to exclude or limit any rights you have
-   under applicable copyright doctrines of fair use, fair dealing or other
-   equivalents, and any implied license or other defense to infringement
-   that may otherwise be available to you under applicable patent law.
+   This License does not exclude or limit any rights you have under 
+   applicable copyright doctrines of fair use, fair dealing or other
+   equivalents.
 
 2. No Trademark License.
 
@@ -35,20 +34,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    this License, we offer a work that would be a Covered Work had you 
    prepared it, under a license other than (i) a version of copyleft-next, 
    (ii) a license authorized under section 10, or (iii) a license approved 
-   by the Open Source Initiative, sections 4 through 11 of this License no 
-   longer apply to you.
+   as "Open Source" by the Open Source Initiative, sections 4 through 11 of 
+   this License no longer apply to you.
 
 4. Distribution: General Conditions.
 
-   You may Distribute Covered Works, provided that you: 
-
-   a) preserve all legal notices and textual author attributions contained
-      in the Received Work (in the case of a Derived Work, to the extent
-      such notices remain pertinent);
-
-   b) inform recipients how they can obtain a copy of this License; and
-
-   c) satisfy the applicable conditions of sections 5 through 9.
+   You may Distribute Covered Works, provided that you (i) preserve all
+   legal notices and textual author attributions contained in the Received 
+   Work (in the case of a Derived Work, to the extent such notices and 
+   attributions remain pertinent); (ii) inform recipients how they can 
+   obtain a copy of this License; and (iii) satisfy the applicable 
+   conditions of sections 5 through 9.
 
 5. Distributing Derived Works.
 
@@ -57,7 +53,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    licensing. This condition may not be avoided through such means as
    separate Distribution of portions of the Derived Work.
 
-6. Direct Licensing.
+6. Pass-Through.
 
    When you Distribute a Covered Work, the recipient automatically receives
    from Us a license to the Received Work subject to the terms of this 
