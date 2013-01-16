@@ -25,7 +25,7 @@ shall be known informally as the 'Harvey Birdman Rule':
 
   2. No private mailing lists (including but not limited to those
      governed by the so-called Chatham House Rule) will be used by
-     this project.  Public archiving of such mailing lists is strongly
+     this project.  Public archiving of mailing lists used by this project is strongly
      encouraged; however, archives are not mandatory and partial
      archiving is permitted.
 
