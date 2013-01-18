@@ -37,9 +37,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 4. Distribution: General Conditions.
 
    You may Distribute Covered Works, provided that you (i) preserve all
-   legal notices and textual author attributions contained in the Received 
-   Work (in the case of a Derived Work, to the extent such notices and 
-   attributions remain pertinent); (ii) inform recipients how they can 
+   Legal Notices contained in the Received 
+   Work (in the case of a Derived Work, to the extent such Legal Notices
+   remain pertinent); (ii) inform recipients how they can 
    obtain a copy of this License; and (iii) satisfy the applicable 
    conditions of sections 5 through 9.
 
@@ -178,6 +178,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     organization), such that copyright permission is required.
 
     "Distributor" means Us and anyone else who Distributes a Covered Work.
+
+    "Legal Notices" means copyright notices, license notices and license 
+    texts, and author attributions. Legal Notices do not include logos or 
+    other graphical images.
 
     "Licensed Patents" means all patent claims licensable by Us, now or in 
     the future, that are necessarily infringed by making, using, or selling 
