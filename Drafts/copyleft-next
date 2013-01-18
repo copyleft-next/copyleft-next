@@ -4,20 +4,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 1. License Grants.
 
-   Subject to the terms of this License, We grant you:
+   Subject to the terms and conditions of this License, We grant you:
 
-   a) A non-exclusive, worldwide, royalty-free, irrevocable copyright
-      license, for the duration of Our copyright in the Received Work, to
-      make, copy, Distribute, publicly perform and publicly display Covered
-      Works, in any medium.
+   a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable 
+      copyright license, to make, copy, Distribute, publicly perform and 
+      publicly display Covered Works, in any medium.
 
-   b) A non-exclusive, worldwide, royalty-free, irrevocable patent license
-      under Licensed Patents to make, have made, use, sell, offer for sale,
-      import and otherwise transfer Covered Works. "Licensed Patents" means
-      all patent claims licensable by Us, now or in the future, that are 
-      necessarily infringed by making, using, or selling the Received Work,
-      and excludes claims that would be infringed only as a consequence of 
-      further modification of the Received Work.
+   b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable 
+      patent license under Licensed Patents to make, have made, use, sell, 
+      offer for sale, import and otherwise transfer Covered Works. 
 
    This License does not exclude or limit any rights you have under 
    applicable copyright doctrines of fair use, fair dealing or other
@@ -31,20 +26,23 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 3. Proprietary Relicensing. 
 
    If, more than one year after Our Distribution of the Received Work under 
-   this License, we offer a work that would be a Covered Work had you 
-   prepared it, under a license other than (i) a version of copyleft-next, 
-   (ii) a license authorized under section 10, or (iii) a license approved 
-   as "Open Source" by the Open Source Initiative, sections 4 through 11 of 
-   this License no longer apply to you.
+   this License, We offer to license a work that would be a Covered Work 
+   had you prepared it, under terms other than (i) a version of 
+   copyleft-next, (ii) a license authorized under section 10, or (iii) a 
+   license approved as 'Open Source' by the Open Source Initiative as of 1 
+   January 2013, sections 4 through 9 of this License no longer apply to
+   you.
 
 4. Distribution: General Conditions.
 
-   You may Distribute Covered Works, provided that you (i) preserve all
-   legal notices and textual author attributions contained in the Received 
-   Work (in the case of a Derived Work, to the extent such notices and 
-   attributions remain pertinent); (ii) inform recipients how they can 
-   obtain a copy of this License; and (iii) satisfy the applicable 
-   conditions of sections 5 through 9.
+   You may Distribute Covered Works, provided that you (i) inform 
+   recipients how they can obtain a copy of this License; (ii) satisfy the 
+   applicable conditions of sections 5 through 9; and (iii) preserve all 
+   Legal Notices contained in the Received Work (in the case of a Derived 
+   Work, to the extent such Legal Notices remain pertinent). "Legal 
+   Notices" means copyright notices, license notices, license texts, and 
+   author attributions, but does not include logos or other graphical 
+   images.
 
 5. Distributing Derived Works.
 
@@ -73,16 +71,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 8. Distribution of Object Code in Products.
 
-   You may Distribute an Object Code form of a Covered Work in a Product,
-   provided that you accompany the Product with either: (i) a durable 
-   physical medium customarily used for software interchange that contains 
-   the Corresponding Source of the Covered Work, or (ii) notice of a 
-   network location through which such Corresponding Source is available 
-   for the Minimum Period at no charge. In either case, Corresponding 
-   Source must be made available under this License "Minimum Period" means 
-   the longer of (i) two years from the date of your Distribution of the 
-   Covered Work in the Product, or (ii) the period during which you offer 
-   spare parts or customer support for the Product.
+   You may Distribute an Object Code form of a Covered Work in a physical 
+   product or tangible storage medium ("Product"), provided that you 
+   accompany the Product with either: (i) a durable physical medium 
+   customarily used for software interchange that contains the 
+   Corresponding Source of the Covered Work, or (ii) notice of a network 
+   location through which such Corresponding Source is available, at no 
+   charge, for two years from the date of your Distribution of the 
+   Covered Work in the Product. In either case, Corresponding Source must 
+   be provided under this License. 
 
 9. Network Distribution of Object Code.
 
@@ -101,32 +98,31 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 11. Termination.
 
-11.1 If you fail to comply with the conditions of this License, then,
-     unless you cure such noncompliance within thirty days after becoming
-     aware of it, your license grants under section 1 are automatically
-     terminated.
+    Your license grants under section 1 are automatically terminated if you
 
-11.2 If you initiate a patent infringement litigation claim (excluding
-     declaratory judgment actions, counterclaims, and cross-claims)
-     alleging that any part of the Received Work directly or indirectly
-     infringes any patent, then your license grants under section 1 are
-     automatically terminated.
+    a) fail to comply with the conditions of this License, unless you cure 
+       such noncompliance within thirty days after becoming aware of it, or
 
-11.3 Termination of your rights disqualifies you from receiving new
-     licenses covering the Received Work, but it does not terminate the
-     rights of those who have received copies or rights from you subject to
-     this License.
+    b) initiate a patent infringement litigation claim (excluding 
+       declaratory judgment actions, counterclaims, and cross-claims)
+       alleging that any part of the Received Work directly or indirectly
+       infringes any patent.
 
-11.4 To the extent permission to make copies of a Covered Work is necessary 
-     for running it, such permission is not terminable.
+    Termination of your rights disqualifies you from receiving new licenses 
+    covering the Received Work, but it does not terminate the rights of 
+    those who have received copies or rights from you subject to this 
+    License.
+
+    To the extent permission to make copies of a Covered Work is necessary 
+    for running it, such permission is not terminable.
 
 12. Later License Versions.
 
-    The Copyleft-Next Project may publish new versions of copyleft-next,
-    designated by a distinguishing version number. Unless We explicitly 
-    remove the option of Distributing Covered Works under later published 
-    versions of copyleft-next, you may Distribute Covered Works under any 
-    later version of copyleft-next.
+    The Copyleft-Next Project <https://gitorious.org/copyleft-next/> may 
+    publish new versions of copyleft-next, designated by a distinguishing 
+    version number ("Later Versions"). Unless We explicitly remove the 
+    option of Distributing Covered Works under Later Versions, you may 
+    Distribute Covered Works under any Later Version.
 
 **************************************************************************
 *                                                                        *
@@ -185,14 +181,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Distributor" means Us and anyone else who Distributes a Covered Work.
 
+    "Licensed Patents" means all patent claims licensable by Us, now or in 
+    the future, that are necessarily infringed by making, using, or selling 
+    the Received Work, and excludes claims that would be infringed only as 
+    a consequence of further modification of the Received Work.
+
     "Mere Aggregation" means an aggregation of a Covered Work with a 
     Separate Work. However, if the license of such an aggregation restricts 
     users from exercising rights in the Covered Work given by this License, 
     the aggregation is not Mere Aggregation.
 
     "Object Code" means any form of a work that is not Source Code.
-
-    "Product" means a physical product or tangible storage medium.
 
     "Received Work" means the particular work of authorship We license to 
     you under this License.
