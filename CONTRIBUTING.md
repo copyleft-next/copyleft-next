@@ -59,3 +59,8 @@ Mailing List
 You can subscribe to the copyleft-next mailing list here:
 http://lists.fedorahosted.org/mailman/listinfo/copyleft-next/
 
+IRC
+===
+
+There is a totally official #copyleft-next channel on freenode.
+
