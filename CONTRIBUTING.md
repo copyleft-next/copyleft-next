@@ -30,11 +30,12 @@ shall be known informally as the 'Harvey Birdman Rule':
      mandatory and partial archiving is permitted.
 
   3. Except in extraordinary cases, private telephone calls, private
-     teleconferences and private in-person meetings shall not be used
-     to discuss *substantive* development of this project.  Should
-     such private communications nevertheless occur, participants in
-     such communications are expected to publish summaries of any
-     relevant discussions in a suitable public forum.
+     teleconferences, private in-person meetings, and private email
+     communications shall not be used to discuss *substantive*
+     development of this project.  Should such private communications
+     nevertheless occur, participants in such communications are
+     expected to publish summaries of any relevant discussions in a
+     manner or medium accessible to the general net public.
 
   4. Contributing by informal suggestions or proposals made in a
      posting to the project mailing list is welcome. However, any such
@@ -45,7 +46,7 @@ shall be known informally as the 'Harvey Birdman Rule':
   5. Criticisms of, or proposed changes to, the Harvey Birdman Rule
      are welcome, though such criticisms or proposals must themselves
      comply with the Harvey Birdman Rule as it exists at the time the
-     criticism or proposal is made.
+     criticism or proposal is made. 
 
 Public Source Locations
 =======================
