@@ -4,7 +4,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 1. License Grants.
 
-   Subject to the terms and conditions of this License, We grant you:
+   Subject to the terms and conditions of this License, We grant You:
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable 
       copyright license, to make, copy, Distribute, publicly perform and 
@@ -14,7 +14,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       patent license under Licensed Patents to make, have made, use, sell, 
       offer for sale, import and otherwise transfer Covered Works. 
 
-   This License does not exclude or limit any rights you have under 
+   This License does not exclude or limit any rights You have under 
    applicable copyright doctrines of fair use, fair dealing or other
    equivalents.
 
@@ -27,15 +27,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    If, more than one year after Our Distribution of the Received Work under 
    this License, We offer to license a work that would be a Covered Work 
-   had you prepared it, under terms other than (i) a version of 
+   had You prepared it, under terms other than (i) a version of 
    copyleft-next, (ii) a license authorized under section 10, or (iii) a 
    license approved as 'Open Source' by the Open Source Initiative as of 1 
    January 2013, sections 4 through 9 of this License no longer apply to
-   you.
+   You.
 
 4. Distribution: General Conditions.
 
-   You may Distribute Covered Works, provided that you (i) inform 
+   You may Distribute Covered Works, provided that You (i) inform 
    recipients how they can obtain a copy of this License; (ii) satisfy the 
    applicable conditions of sections 5 through 9; and (iii) preserve all 
    Legal Notices contained in the Received Work (in the case of a Derived 
@@ -46,14 +46,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 5. Distributing Derived Works.
 
-   If you Distribute a Derived Work, you must license the entire Derived
+   If You Distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
    licensing. This condition may not be avoided through such means as
    separate Distribution of portions of the Derived Work.
 
 6. Pass-Through.
 
-   When you Distribute a Covered Work, the recipient automatically receives
+   When You Distribute a Covered Work, the recipient automatically receives
    from Us a license to the Received Work subject to the terms of this 
    License.
 
@@ -61,7 +61,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    You may not impose further restrictions on the exercise of the rights 
    granted under this License. This condition is not excused merely because 
-   such restrictions result from your compliance with conditions or 
+   such restrictions result from Your compliance with conditions or 
    obligations extrinsic to this License (for example, a court order or an 
    agreement with a third party). 
 
@@ -72,19 +72,19 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 8. Distribution of Object Code in Products.
 
    You may Distribute an Object Code form of a Covered Work in a physical 
-   product or tangible storage medium ("Product"), provided that you 
+   product or tangible storage medium ("Product"), provided that You 
    accompany the Product with either: (i) a durable physical medium 
    customarily used for software interchange that contains the 
    Corresponding Source of the Covered Work, or (ii) notice of a network 
    location through which such Corresponding Source is available, at no 
-   charge, for two years from the date of your Distribution of the 
+   charge, for two years from the date of Your Distribution of the 
    Covered Work in the Product. In either case, Corresponding Source must 
    be provided under this License. 
 
 9. Network Distribution of Object Code.
 
    You may Distribute an Object Code form of a Covered Work from a network
-   location, provided that you accompany the Object Code with clear 
+   location, provided that You accompany the Object Code with clear 
    directions indicating how the Corresponding Source may be obtained under
    this License from a network location at no further charge and in a 
    reasonably equivalent manner.
@@ -98,9 +98,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 11. Termination.
 
-    Your license grants under section 1 are automatically terminated if you
+    Your license grants under section 1 are automatically terminated if You
 
-    a) fail to comply with the conditions of this License, unless you cure 
+    a) fail to comply with the conditions of this License, unless You cure 
        such noncompliance within thirty days after becoming aware of it, or
 
     b) initiate a patent infringement litigation claim (excluding 
@@ -108,9 +108,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        alleging that any part of the Received Work directly or indirectly
        infringes any patent.
 
-    Termination of your rights disqualifies you from receiving new licenses 
+    Termination of Your rights disqualifies You from receiving new licenses 
     covering the Received Work, but it does not terminate the rights of 
-    those who have received copies or rights from you subject to this 
+    those who have received copies or rights from You subject to this 
     License.
 
     To the extent permission to make copies of a Covered Work is necessary 
@@ -121,7 +121,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     The Copyleft-Next Project <https://gitorious.org/copyleft-next/> may 
     publish new versions of copyleft-next, designated by a distinguishing 
     version number ("Later Versions"). Unless We explicitly remove the 
-    option of Distributing Covered Works under Later Versions, you may 
+    option of Distributing Covered Works under Later Versions, You may 
     Distribute Covered Works under any Later Version.
 
 **************************************************************************
@@ -141,7 +141,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 * 14. Limitation of Liability.                                           *
 *                                                                        *
 *     To the extent permitted by applicable law, in no event will any    *
-*     Distributor be liable to you for any damages whatsoever, whether   *
+*     Distributor be liable to You for any damages whatsoever, whether   *
 *     direct, indirect, special, incidental, or consequential damages,   *
 *     whether arising under contract, tort (including negligence), or    *
 *     otherwise, even where the Distributor knew or should have known    * 
@@ -192,7 +192,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Object Code" means any form of a work that is not Source Code.
 
     "Received Work" means the particular work of authorship We license to 
-    you under this License.
+    You under this License.
 
     "Separate Work" means a work that is separate from and independent of a
     particular Covered Work and is not by its nature an extension or
@@ -203,5 +203,13 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Source Code" means the preferred form of a work for making 
     modifications to it.
 
-    "We"/"Us"/"Our" refers to the individual or organization that places 
+    "We"/"Us"/"Our" refers to the individual or legal entity that places 
     the Received Work under this License.
+
+    "You"/"Your" refers to the individual or legal entity exercising rights 
+    in the Received Work under this License. For legal entities, “You” 
+    includes any entity that controls, is controlled by, or is under common 
+    control with You. “Control” means (a) the power, direct or indirect, to 
+    cause the direction or management of such entity, whether by contract 
+    or otherwise, or (b) ownership of more than fifty percent of the 
+    outstanding shares or beneficial ownership of such entity.
