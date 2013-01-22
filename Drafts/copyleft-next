@@ -28,9 +28,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    If, more than one year after Our first Distribution of the Received Work 
    under this License, We offer to license a work that would be a Covered 
    Work had You prepared it, under terms other than (i) a version of 
-   copyleft-next, (ii) a license authorized under section 10, or (iii) a 
-   license approved by the Open Source Initiative as of 1 January 2013, 
-   sections 4 through 9 of this License no longer apply to You.
+   copyleft-next released by the Copyleft-Next Project, (ii) a license 
+   authorized under section 10, or (iii) a license approved by the Open 
+   Source Initiative as of 1 January 2013, sections 4 through 9 of this 
+   License no longer apply to You.
 
 4. Distribution: General Conditions.
 
@@ -117,11 +118,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 12. Later License Versions.
 
-    The Copyleft-Next Project <https://gitorious.org/copyleft-next/> may 
-    publish new versions of copyleft-next, designated by a distinguishing 
-    version number ("Later Versions"). Unless We explicitly remove the 
-    option of Distributing Covered Works under Later Versions, You may 
-    Distribute Covered Works under any Later Version.
+    The Copyleft-Next Project may publish new versions of copyleft-next, 
+    designated by a distinguishing version number ("Later Versions"). 
+    Unless We explicitly remove the option of Distributing Covered Works 
+    under Later Versions, You may Distribute Covered Works under any Later 
+    Version.
 
 **************************************************************************
 *                                                                        *
@@ -156,6 +157,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     necessary to make it valid and enforceable.
 
 16. Definitions.
+
+    "Copyleft-Next Project" means the project that maintains the source 
+    code repository at <https://gitorious.org/copyleft-next/> as of the 
+    release date of this License.
 
     "Corresponding Source" of a Covered Work in Object Code form means (i)
     the Source Code form of the Covered Work; (ii) all additional Source 
