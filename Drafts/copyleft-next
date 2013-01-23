@@ -166,8 +166,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     a skilled developer to generate the Covered Work from the Source Code 
     provided under (i); and (iii) a list clearly identifying all Separate 
     Works (other than those provided in compliance with (ii)) that were 
-    actually used in building and installing the Covered Work. 
-    Corresponding Source must be machine-readable.
+    specifically used in building and installing the Covered Work (for 
+    example, a specified proprietary compiler including its version 
+    number). Corresponding Source must be machine-readable.
 
     "Covered Work" means the Received Work or a Derived Work.
 
