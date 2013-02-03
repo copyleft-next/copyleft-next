@@ -3,19 +3,18 @@
 
 1. License Grants.
 
-   Subject to the terms and conditions of this License, We grant You:
+   Subject to the terms and the conditions in paragraphs 4-5 and 6-9 of this License, We grant You:
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable 
-      copyright license, to make, copy, Distribute, publicly perform and 
+      copyright license, to reproduce, Distribute, prepare derivative works, publicly perform and 
       publicly display Covered Works, in any medium.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable 
       patent license under Licensed Patents to make, have made, use, sell, 
       offer for sale, import and otherwise transfer Covered Works. 
 
-   This License does not exclude or limit any rights You have under 
-   applicable copyright doctrines of fair use, fair dealing or other
-   equivalents.
+   This License does not exclude or limit any rights You would have under 
+   applicable copyright law except as expressly described in this License.
 
 2. No Trademark License.
 
@@ -36,7 +35,7 @@
 
    You may Distribute Covered Works, provided that You (i) inform 
    recipients how they can obtain a copy of this License; (ii) satisfy the 
-   applicable conditions of sections 5 through 9; and (iii) preserve all 
+   applicable conditions of sections 5 and 7 through 9; and (iii) preserve all 
    Legal Notices contained in the Received Work (to the extent they remain 
    pertinent). "Legal Notices" means copyright notices, license notices, 
    license texts, and author attributions, but does not include logos or 
@@ -88,7 +87,7 @@
 
 10. Outbound (A)GPL Compatibility.
 
-    You may Distribute a Covered Work under one or more of the following
+    You may Distribute a Derived Work under one or more of the following
     licenses published by the Free Software Foundation: (i) GNU General 
     Public License, version 2; (ii) GNU Affero General Public License, 
     version 3; (iii) later versions of the foregoing licenses.
@@ -117,8 +116,7 @@
 
     The Copyleft-Next Project may release new versions of copyleft-next, 
     designated by a distinguishing version number ("Later Versions"). 
-    Unless We explicitly remove the option of Distributing Covered Works 
-    under Later Versions, You may Distribute Covered Works under any Later 
+    You may Distribute Covered Works under any Later 
     Version.
 
 **************************************************************************
@@ -167,7 +165,7 @@
     Works (other than those provided in compliance with (ii)) that were 
     specifically used in building and installing the Covered Work (for 
     example, a specified proprietary compiler including its version 
-    number). Corresponding Source must be machine-readable.
+    number).
 
     "Covered Work" means the Received Work or a Derived Work.
 
@@ -177,7 +175,7 @@
     Works do not include Mere Aggregation or the mere making of a verbatim
     copy of the Received Work.
 
-    "Distribute" means to distribute, transfer or make available a copy of a Covered Work to 
+    "Distribute" means to distribute, transfer or make a Covered Work available to 
     someone else.
 
     "Distributor" means Us and anyone else who Distributes a Covered Work.
@@ -211,6 +209,6 @@
     in the Received Work under this License. For legal entities, “You” 
     includes any entity that controls, is controlled by, or is under common 
     control with You. “Control” means (a) the power, direct or indirect, to 
-    cause the direction or management of such entity, whether by contract 
+    direct the actions of such entity, whether by contract 
     or otherwise, or (b) ownership of more than fifty percent of the 
     outstanding shares or beneficial ownership of such entity.
