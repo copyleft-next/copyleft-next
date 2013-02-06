@@ -46,13 +46,13 @@ shall be known informally as the 'Harvey Birdman Rule':
   5. Criticisms of, or proposed changes to, the Harvey Birdman Rule
      are welcome, though such criticisms or proposals must themselves
      comply with the Harvey Birdman Rule as it exists at the time the
-     criticism or proposal is made. 
+     criticism or proposal is made.
 
 Public Source Locations
 =======================
 
 Gitorious (https://gitorious.org/copyleft-next) is now the centralized
-location of source for this project. 
+location of source for this project.
 
 Mailing List
 ============
