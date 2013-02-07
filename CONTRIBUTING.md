@@ -10,6 +10,12 @@ participants, regardless of their views on copyleft, and regardless of
 their opinions on existing licenses such as the GNU GPLv2 and its
 successors, are especially welcome and strongly encouraged.
 
+Patches or merge requests relating to a given license text should be
+made against the relevant file in the Drafts/ directory, **not** a
+numbered version in the Releases/ directory. The files in Releases/
+are meant to be immutable. (Any suggestion for a better approach than
+this Drafts vs. Releases system would be greatly welcome.)
+
 Harvey Birdman Rule
 ===================
 
