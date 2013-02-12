@@ -15,7 +15,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       offer for sale, and import Covered Works.
 
    This License does not exclude or limit any rights You have under
-   applicable copyright law.
+   applicable law.
 
 2. No Trademark License.
 
@@ -42,12 +42,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    license texts, and author attributions, but does not include logos,
    other graphical images or trademark legends.
 
-5. Conditions for Distributing Derived Works.
+5. Conditions for Distributing Derived Works; Outbound GPL Compatibility.
 
    If You Distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
    licensing. This condition may not be avoided through such means as
    separate Distribution of portions of the Derived Work.
+
+   You may additionally license the Derived Work under any version of the
+   GNU General Public License published by the Free Software Foundation
+   ("GPL"), so that the recipient may further Distribute the Derived Work
+   under either this License or the GPL.
 
 6. Condition Against Further Restrictions.
 
@@ -86,14 +91,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    from Us a license to the Received Work subject to the terms of this
    License.
 
-10. Outbound (A)GPL Compatibility.
-
-    You may Distribute a Covered Work under one or more of the following
-    licenses published by the Free Software Foundation: (i) GNU General
-    Public License, version 2; (ii) GNU Affero General Public License,
-    version 3; (iii) later versions of the foregoing licenses.
-
-11. Termination.
+10. Termination.
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -113,7 +111,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
 
-12. Later License Versions.
+11. Later License Versions.
 
     The Copyleft-Next Project may release new versions of copyleft-next,
     designated by a distinguishing version number ("Later Versions").
@@ -121,7 +119,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     under Later Versions, You may Distribute Covered Works under any Later
     Version.
 
-# 13. No Warranty.                                                       #
+# 12. No Warranty.                                                       #
 #                                                                        #
 #     The Received Work is provided "as-is", without warranty. You bear  #
 #     the risk of using it. To the extent permitted by applicable law,   #
@@ -129,7 +127,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 #     merchantability, fitness for a particular purpose and              #
 #     non-infringement.                                                  #
 
-# 14. Limitation of Liability.                                           #
+# 13. Limitation of Liability.                                           #
 #                                                                        #
 #     To the extent permitted by applicable law, in no event will any    #
 #     Distributor be liable to You for any damages whatsoever, whether   #
@@ -138,14 +136,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 #     otherwise, even where the Distributor knew or should have known    #
 #     about the possibility of such damages.                             #
 
-15. Severability.
+14. Severability.
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-16. Definitions.
+15. Definitions.
 
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://gitorious.org/copyleft-next/> as of the
