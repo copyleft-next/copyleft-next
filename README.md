@@ -13,11 +13,11 @@ influential characterization of the difference in copyleft scope
 between a weak copyleft license (like the LGPL) and a strong copyleft
 license like the GPL. "Strong" is not meant in any broader sense.
 
-Contributions of patches, ideas, and criticism are welcome.  In particular, 
+Contributions of patches, ideas, and criticism are welcome.  In particular,
 the Copyleft-Next Project actively seeks the participation of open source/
-free software project developers who may not have considered helping with 
-license drafting before. License drafting is fundamentally about 
-establishing policies for projects, and therefore input from developers is 
+free software project developers who may not have considered helping with
+license drafting before. License drafting is fundamentally about
+establishing policies for projects, and therefore input from developers is
 typically more valuable than input from lawyers.
 
 Needless to say, no one should actually consider *using* a development
