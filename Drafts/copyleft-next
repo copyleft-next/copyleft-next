@@ -48,9 +48,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    licensing. This condition may not be avoided through such means as
    separate Distribution of portions of the Derived Work.
 
-   You may additionally license the Derived Work under the GPL, so that the
-   recipient may further Distribute the Derived Work under either this
-   License or the GPL.
+   You may additionally license the Derived Work under any version of the
+   GNU General Public License published by the Free Software Foundation
+   ("GPL"), so that the recipient may further Distribute the Derived Work
+   under either this License or the GPL.
 
 6. Condition Against Further Restrictions
 
@@ -171,9 +172,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     someone else.
 
     "Distributor" means Me and anyone else who Distributes a Covered Work.
-
-    "GPL" means any version of the GNU General Public License published by
-    the Free Software Foundation.
 
     "Licensed Patents" means all patent claims licensable by Me, now or in
     the future, that are necessarily infringed by making, using, or selling
