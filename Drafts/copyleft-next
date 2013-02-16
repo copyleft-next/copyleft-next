@@ -24,12 +24,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 3. Nullification of Copyleft/Proprietary Dual Licensing
 
-   If, more than one year after My first Distribution of My Work
-   under this License, I offer to license a work that would be a Covered
-   Work had You prepared it, under terms that fail to satisfy the Open
-   Source Definition as published by the Open Source Initiative as of 1
-   January 2013, then I additionally license My Work to You under
-   the Apache License.
+   If, more than one year after My first Distribution of My Work under this
+   License, I offer to license a work that would be a Covered Work had You
+   prepared it, under terms that fail to satisfy the Open Source Definition
+   as published by the Open Source Initiative as of 1 January 2013, then I
+   additionally license My Work to You under the Apache License.
 
 4. Distribution: General Conditions
 
@@ -87,8 +86,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 9. Pass-Through
 
    When You Distribute a Covered Work, the recipient automatically receives
-   from Me a license to My Work subject to the terms of this
-   License.
+   from Me a license to My Work subject to the terms of this License.
 
 10. Termination
 
@@ -99,13 +97,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     b) initiate a patent infringement litigation claim (excluding
        declaratory judgment actions, counterclaims, and cross-claims)
-       alleging that any part of My Work directly or indirectly
-       infringes any patent.
+       alleging that any part of My Work directly or indirectly infringes
+       any patent.
 
     Termination of Your rights disqualifies You from receiving new licenses
-    covering My Work, but it does not terminate the rights of
-    those who have received copies or rights from You subject to this
-    License.
+    covering My Work, but it does not terminate the rights of those who
+    have received copies or rights from You subject to this License.
 
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
@@ -120,9 +117,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 ## 12. No Warranty                                                       ##
 ##                                                                       ##
-##     My Work is provided "as-is", without warranty. You bear           ##
-##     the risk of using it. To the extent permitted by applicable law,  ##
-##     each Distributor excludes the implied warranties of title,        ##
+##     My Work is provided "as-is", without warranty. You bear the risk  ##
+##     of using it. To the extent permitted by applicable law, each      ##
+##     Distributor excludes the implied warranties of title,             ##
 ##     merchantability, fitness for a particular purpose and             ##
 ##     non-infringement.                                                 ##
 
@@ -165,8 +162,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Derived Work" means a work of authorship that copies from, modifies,
     adapts, is based on, contains, transforms or translates all or part of
-    My Work. Derived Works do not include Mere Aggregation or the
-    mere making of a verbatim copy of My Work.
+    My Work. Derived Works do not include Mere Aggregation or the mere
+    making of a verbatim copy of My Work.
 
     "Distribute" means to distribute, transfer or make a copy available to
     someone else.
@@ -175,16 +172,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Licensed Patents" means all patent claims licensable by Me, now or in
     the future, that are necessarily infringed by making, using, or selling
-    My Work, and excludes claims that would be infringed only as
-    a consequence of further modification of My Work.
+    My Work, and excludes claims that would be infringed only as a
+    consequence of further modification of My Work.
 
     "Mere Aggregation" means an aggregation of a Covered Work with a
     Separate Work.
 
     "Object Code" means any form of a work that is not Source Code.
 
-    "My Work" means the particular work of authorship I license to
-    You under this License.
+    "My Work" means the particular work of authorship I license to You
+    under this License.
 
     "Separate Work" means a work that is separate from and independent of a
     particular Covered Work and is not by its nature an extension or
@@ -199,9 +196,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     My Work under this License.
 
     "You"/"Your" refers to the individual or legal entity exercising rights
-    in My Work under this License. For legal entities, "You"
-    includes any entity that controls, is controlled by, or is under common
-    control with You. "Control" means (a) the power to direct the actions
-    of such entity, whether by contract or otherwise, or (b) ownership of
-    more than fifty percent of the outstanding shares or beneficial
-    ownership of such entity.
+    in My Work under this License. For legal entities, "You" includes any
+    entity that controls, is controlled by, or is under common control with
+    You. "Control" means (a) the power to direct the actions of such
+    entity, whether by contract or otherwise, or (b) ownership of more than
+    fifty percent of the outstanding shares or beneficial ownership of such
+    entity.
