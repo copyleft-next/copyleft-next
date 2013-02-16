@@ -63,31 +63,31 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    licensed under the Apache License does not impose further restrictions
    under this section.
 
-7. Conditions for Distributing Object Code in Products
+7. Conditions for Distributing Object Code
 
-   You may Distribute an Object Code form of a Covered Work in a physical
-   product or tangible storage medium ("Product"), provided that You
-   accompany the Product with either: (i) a durable physical medium
-   customarily used for software interchange that contains the
-   Corresponding Source of the Covered Work, or (ii) notice of a network
-   location through which such Corresponding Source is available, at no
-   charge, for two years from the date of Your most recent Distribution of
-   the Covered Work in the Product.
+   You may Distribute an Object Code form of a Covered Work
 
-8. Conditions for Network Distribution of Object Code
+   a) in a physical
+      product or tangible storage medium ("Product"), provided that You
+      accompany the Product with either: (i) a durable physical medium
+      customarily used for software interchange that contains the
+      Corresponding Source of the Covered Work, or (ii) notice of a network
+      location through which such Corresponding Source is available, at no
+      charge, for two years from the date of Your most recent Distribution of
+      the Covered Work in the Product; or
 
-   You may Distribute an Object Code form of a Covered Work through a
-   computer network, provided that You accompany the Object Code with clear
-   directions indicating how the Corresponding Source may be obtained
-   from a network location at no charge and in a reasonably equivalent
-   manner.
+   b) through a
+      computer network, provided that You accompany the Object Code with clear
+      directions indicating how the Corresponding Source may be obtained
+      from a network location at no charge and in a reasonably equivalent
+      manner.
 
-9. Pass-Through
+8. Pass-Through
 
    When You Distribute a Covered Work, the recipient automatically receives
    from Me a license to My Work subject to the terms of this License.
 
-10. Termination
+9. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -106,7 +106,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
 
-11. Later License Versions
+10. Later License Versions
 
     The Copyleft-Next Project may release new versions of copyleft-next,
     designated by a distinguishing version number ("Later Versions").
@@ -114,7 +114,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     under Later Versions, You may Distribute Covered Works under any Later
     Version.
 
-## 12. No Warranty                                                       ##
+## 11. No Warranty                                                       ##
 ##                                                                       ##
 ##     My Work is provided "as-is", without warranty. You bear the risk  ##
 ##     of using it. To the extent permitted by applicable law, each      ##
@@ -122,7 +122,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 ##     merchantability, fitness for a particular purpose and             ##
 ##     non-infringement.                                                 ##
 
-## 13. Limitation of Liability                                           ##
+## 12. Limitation of Liability                                           ##
 ##                                                                       ##
 ##     To the extent permitted by applicable law, in no event will any   ##
 ##     Distributor be liable to You for any damages whatsoever, whether  ##
@@ -131,14 +131,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 ##     otherwise, even where the Distributor knew or should have known   ##
 ##     about the possibility of such damages.                            ##
 
-14. Severability
+13. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-15. Definitions
+14. Definitions
 
     "Apache License" means the Apache License, version 2.0, as published by
     the Apache Software Foundation.
