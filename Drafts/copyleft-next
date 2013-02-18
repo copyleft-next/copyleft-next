@@ -20,20 +20,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-2. Copyleft Nullification
+2. Nullification of Copyleft/Proprietary Dual Licensing
 
-   I additionally license My Work to You under the Apache License if:
-
-   a) more than one year after My first Distribution of My Work under this
-      License, I offer to license a work that would be a Covered Work had
-      You prepared it, under terms that fail to satisfy the Open Source
-      Definition published by the Open Source Initiative as of 1 January
-      2013; or
-
-   b) My Work is in Object Code form and I do not Give Corresponding
-      Source.
-
-   This provision does not affect the license of any preexisting material
+   I additionally license My Work to You under the Apache License if, more
+   than one year after My first Distribution of My Work under this License,
+   I offer to license a work that would be a Covered Work had You prepared
+   it, in a manner that fails to satisfy the Open Source Definition
+   published by the Open Source Initiative as of 1 January 2013. This
+   provision does not affect the license of any preexisting material
    contained in My Work over which I do not hold copyright.
 
 3. Distribution: General Conditions
@@ -71,11 +65,23 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Conditions for Distributing Object Code
 
-   You may Distribute an Object Code form of a Covered Work, provided that
-   You also Give Corresponding Source.
+   You may Distribute an Object Code form of a Covered Work, provided that:
+
+   a) if the Object Code is contained in a physical product or tangible
+      storage medium ("Product"), You accompany the Product with either:
+      (i) a durable physical medium customarily used for software
+      interchange that contains the Corresponding Source or (ii) notice of
+      a network location through which the Corresponding Source is
+      available, at no charge, for two years from the date of Your most
+      recent Distribution of the Object Code in an identical Product;
+
+   b) if the Object Code is Distributed through a computer network, You
+      accompany the Object Code with clear directions indicating how its
+      Corresponding Source may be obtained from a network location at no
+      charge and in a reasonably equivalent manner.
 
    Each recipient of the Covered Work from You is an intended third-party
-   beneficiary of this License solely as to this section 7, with the right
+   beneficiary of this License solely as to this section 6, with the right
    to enforce its terms.
 
 7. Pass-Through
@@ -164,23 +170,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     someone else.
 
     "Distributor" means Me and anyone else who Distributes a Covered Work.
-
-    A Distributor "Gives" Corresponding Source if:
-
-    a) for a Covered Work Distributed in a physical product or tangible
-       storage medium ("Product"), the Distributor accompanies the Product
-       with either: (i) a durable physical medium customarily used for
-       software interchange that contains the Covered Work's Corresponding
-       Source or (ii) notice of a network location through which such
-       Corresponding Source is available, at no charge, for two years from
-       the date of the Distributor's most recent Distribution of the
-       Covered Work in an identical Product;
-
-    b) for a Covered Work Distributed through a computer network, the
-       Distributor accompanies the Covered Work with clear directions
-       indicating how the Covered Work's Corresponding Source may be
-       obtained from a network location at no charge and in a reasonably
-       equivalent manner.
 
     "Licensed Patents" means all patent claims licensable by Me, now or in
     the future, that are necessarily infringed by making, using, or selling
