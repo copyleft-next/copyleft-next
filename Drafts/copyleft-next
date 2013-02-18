@@ -17,12 +17,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not exclude or limit any rights You have under
    applicable law.
 
-2. No Trademark License
-
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-3. Copyleft Nullification
+2. Copyleft Nullification
 
    I additionally license My Work to You under the Apache License if:
 
@@ -38,17 +36,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This provision does not affect the license of any preexisting material
    contained in My Work over which I do not hold copyright.
 
-4. Distribution: General Conditions
+3. Distribution: General Conditions
 
    You may Distribute Covered Works, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
-   applicable conditions of sections 5 through 7; and (iii) preserve all
+   applicable conditions of sections 4 through 6; and (iii) preserve all
    Legal Notices contained in My Work (to the extent they remain
    pertinent). "Legal Notices" means copyright notices, license notices,
    license texts, and author attributions, but does not include logos,
    other graphical images or trademark legends.
 
-5. Conditions for Distributing Derived Works; Outbound GPL Compatibility
+4. Conditions for Distributing Derived Works; Outbound GPL Compatibility
 
    If You Distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
@@ -60,7 +58,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    ("GPL"), so that the recipient may further Distribute the Derived Work
    under either this License or the GPL.
 
-6. Condition Against Further Restrictions
+5. Condition Against Further Restrictions
 
    When Distributing a Covered Work, You may not impose further
    restrictions on the exercise of rights in the Covered Work granted under
@@ -71,7 +69,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    licensed under the Apache License does not impose further restrictions
    under this section.
 
-7. Conditions for Distributing Object Code
+6. Conditions for Distributing Object Code
 
    You may Distribute an Object Code form of a Covered Work, provided that
    You also Give Corresponding Source.
@@ -80,12 +78,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 7, with the right
    to enforce its terms.
 
-8. Pass-Through
+7. Pass-Through
 
    When You Distribute a Covered Work, the recipient automatically receives
    from Me a license to My Work subject to the terms of this License.
 
-9. Termination
+8. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -104,15 +102,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
 
-10. Later License Versions
+9. Later License Versions
 
-    The Copyleft-Next Project may release new versions of copyleft-next,
-    designated by a distinguishing version number ("Later Versions").
-    Unless I explicitly remove the option of Distributing Covered Works
-    under Later Versions, You may Distribute Covered Works under any Later
-    Version.
+   The Copyleft-Next Project may release new versions of copyleft-next,
+   designated by a distinguishing version number ("Later Versions").
+   Unless I explicitly remove the option of Distributing Covered Works
+   under Later Versions, You may Distribute Covered Works under any Later
+   Version.
 
-## 11. No Warranty                                                       ##
+## 10. No Warranty                                                       ##
 ##                                                                       ##
 ##     My Work is provided "as-is", without warranty. You bear the risk  ##
 ##     of using it. To the extent permitted by applicable law, each      ##
@@ -120,7 +118,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 ##     merchantability, fitness for a particular purpose and             ##
 ##     non-infringement.                                                 ##
 
-## 12. Limitation of Liability                                           ##
+## 11. Limitation of Liability                                           ##
 ##                                                                       ##
 ##     To the extent permitted by applicable law, in no event will any   ##
 ##     Distributor be liable to You for any damages whatsoever, whether  ##
@@ -129,14 +127,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 ##     otherwise, even where the Distributor knew or should have known   ##
 ##     about the possibility of such damages.                            ##
 
-13. Severability
+12. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-14. Definitions
+13. Definitions
 
     "Apache License" means the Apache License, version 2.0, as published by
     the Apache Software Foundation.
