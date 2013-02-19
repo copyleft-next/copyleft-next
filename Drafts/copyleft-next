@@ -162,8 +162,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Covered Work" means My Work or a Derived Work.
 
     "Derived Work" means a work of authorship that copies from, modifies,
-    adapts, is based on, contains, transforms or translates all or part of
-    My Work. Derived Works do not include Mere Aggregation or the mere
+    adapts, is based on, is a derivative work of, transforms, translates
+    or contains all or part of My Work (excluding any preexisting
+    material). Derived Works do not include Mere Aggregation or the mere
     making of a verbatim copy of My Work.
 
     "Distributor" means Me and anyone else who distributes a Covered Work.
@@ -179,7 +180,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Object Code" means any form of a work that is not Source Code.
 
     "My Work" means the particular work of authorship I license to You
-    under this License.
+    under this License, or any part of such work (excluding any preexisting
+    material).
 
     "Separate Work" means a work that is separate from and independent of a
     particular Covered Work and is not by its nature an extension or
