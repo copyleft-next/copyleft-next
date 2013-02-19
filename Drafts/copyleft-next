@@ -32,7 +32,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 3. Distribution: General Conditions
 
-   You may Distribute Covered Works, provided that You (i) inform
+   You may distribute Covered Works, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
    applicable conditions of sections 4 through 6; and (iii) preserve all
    Legal Notices contained in My Work (to the extent they remain
@@ -42,14 +42,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 4. Conditions for Distributing Derived Works; Outbound GPL Compatibility
 
-   If You Distribute a Derived Work, You must license the entire Derived
+   If You distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
    licensing. This condition may not be avoided through such means as
    separate Distribution of portions of the Derived Work.
 
    You may additionally license the Derived Work under any version of the
    GNU General Public License published by the Free Software Foundation
-   ("GPL"), so that the recipient may further Distribute the Derived Work
+   ("GPL"), so that the recipient may further distribute the Derived Work
    under either this License or the GPL.
 
 5. Condition Against Further Restrictions
@@ -65,7 +65,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Conditions for Distributing Object Code
 
-   You may Distribute an Object Code form of a Covered Work, provided that:
+   You may distribute an Object Code form of a Covered Work, provided that:
 
    a) if the Object Code is contained in a physical product or tangible
       storage medium ("Product"), You accompany the Product with either:
@@ -75,7 +75,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       available, at no charge, for two years from the date of Your most
       recent Distribution of the Object Code in an identical Product;
 
-   b) if the Object Code is Distributed through a computer network, You
+   b) if the Object Code is distributed through a computer network, You
       accompany the Object Code with clear directions indicating how its
       Corresponding Source may be obtained from a network location at no
       charge and in a reasonably equivalent manner.
@@ -86,7 +86,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 7. Pass-Through
 
-   When You Distribute a Covered Work, the recipient automatically receives
+   When You distribute a Covered Work, the recipient automatically receives
    from Me a license to My Work subject to the terms of this License.
 
 8. Termination
@@ -113,25 +113,25 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
    Unless I explicitly remove the option of Distributing Covered Works
-   under Later Versions, You may Distribute Covered Works under any Later
+   under Later Versions, You may distribute Covered Works under any Later
    Version.
 
 ** 10. No Warranty                                                       **
 **                                                                       **
 **     My Work is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
-**     Distributor excludes the implied warranties of title,             **
+**     distributor of My Work excludes the implied warranties of title,  **
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
 ** 11. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
-**     Distributor be liable to You for any damages whatsoever, whether  **
-**     direct, indirect, special, incidental, or consequential damages,  **
-**     whether arising under contract, tort (including negligence), or   **
-**     otherwise, even where the Distributor knew or should have known   **
-**     about the possibility of such damages.                            **
+**     distributor of My Work be liable to You for any damages           **
+**     whatsoever, whether direct, indirect, special, incidental, or     **
+**     consequential damages, whether arising under contract, tort       **
+**     (including negligence), or otherwise, even where the distributor  **
+**     knew or should have known about the possibility of such damages.  **
 
 12. Severability
 
@@ -166,10 +166,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     My Work. Derived Works do not include Mere Aggregation or the mere
     making of a verbatim copy of My Work.
 
-    "Distribute" means to distribute, transfer or make a copy available to
-    someone else.
-
-    "Distributor" means Me and anyone else who Distributes a Covered Work.
+    "Distributor" means Me and anyone else who distributes a Covered Work.
 
     "Licensed Patents" means all patent claims licensable by Me, now or in
     the future, that are necessarily infringed by making, using, or selling
