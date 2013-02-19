@@ -23,7 +23,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 2. Nullification of Copyleft/Proprietary Dual Licensing
 
    I additionally license My Work to You under the Apache License if, more
-   than one year after My first Distribution of My Work under this License,
+   than one year after My first distribution of My Work under this License,
    I offer to license a work that would be a Covered Work had You prepared
    it, in a manner that fails to satisfy the Open Source Definition
    published by the Open Source Initiative as of 1 January 2013. This
@@ -45,7 +45,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    If You distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
    licensing. This condition may not be avoided through such means as
-   separate Distribution of portions of the Derived Work.
+   separate distribution of portions of the Derived Work.
 
    You may additionally license the Derived Work under any version of the
    GNU General Public License published by the Free Software Foundation
@@ -54,12 +54,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 5. Condition Against Further Restrictions
 
-   When Distributing a Covered Work, You may not impose further
+   When distributing a Covered Work, You may not impose further
    restrictions on the exercise of rights in the Covered Work granted under
    this License. This condition is not excused merely because such
    restrictions result from Your compliance with conditions or obligations
    extrinsic to this License (such as a court order or an agreement with a
-   third party). Mere Distribution of a Covered Work incorporating material
+   third party). Mere distribution of a Covered Work incorporating material
    licensed under the Apache License does not impose further restrictions
    under this section.
 
@@ -73,7 +73,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       interchange that contains the Corresponding Source or (ii) notice of
       a network location through which the Corresponding Source is
       available, at no charge, for two years from the date of Your most
-      recent Distribution of the Object Code in an identical Product;
+      recent distribution of the Object Code in an identical Product;
 
    b) if the Object Code is distributed through a computer network, You
       accompany the Object Code with clear directions indicating how its
@@ -112,7 +112,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
-   Unless I explicitly remove the option of Distributing Covered Works
+   Unless I explicitly remove the option of distributing Covered Works
    under Later Versions, You may distribute Covered Works under any Later
    Version.
 
@@ -166,8 +166,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     or contains all or part of My Work (excluding any preexisting
     material). Derived Works do not include Mere Aggregation or the mere
     making of a verbatim copy of My Work.
-
-    "Distributor" means Me and anyone else who distributes a Covered Work.
 
     "Licensed Patents" means all patent claims licensable by Me, now or in
     the future, that are necessarily infringed by making, using, or selling
