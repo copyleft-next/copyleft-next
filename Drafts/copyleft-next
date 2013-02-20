@@ -33,7 +33,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    You may distribute Covered Works, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
-   applicable conditions of sections 4 through 6; and (iii) preserve all
+   applicable conditions of sections 4 through 7; and (iii) preserve all
    Legal Notices contained in My Work (to the extent they remain
    pertinent). "Legal Notices" means copyright notices, license notices,
    license texts, and author attributions, but does not include logos,
@@ -78,12 +78,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 6, with the right
    to enforce its terms.
 
-7. Pass-Through
+7. Symmetrical Licensing Condition for Upstream Contributions
+
+   If You distribute a work to Me specifically for inclusion in or
+   modification of a Covered Work (Your "Patch"), then, unless Your Patch
+   explicitly states otherwise, You license it to Me under this License, to
+   the extent of Your copyright in Your Patch. This condition does not
+   negate the other conditions of this License, if applicable to Your
+   Patch.
+
+8. Pass-Through
 
    When You distribute a Covered Work, the recipient automatically receives
    a license to My Work from Me, subject to the terms of this License.
 
-8. Termination
+9. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -101,15 +110,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
-
-9. Symmetrical Licensing Condition for Upstream Contributions
-
-   If You distribute a work to Me specifically for inclusion in or
-   modification of a Covered Work (Your "Patch"), then, unless Your Patch
-   explicitly states otherwise, You license it to Me under this License, to
-   the extent of Your copyright in Your Patch. This condition does not
-   negate the other conditions of this License, if applicable to Your
-   Patch.
 
 10. Later License Versions
 
