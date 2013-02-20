@@ -64,20 +64,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Conditions for Distributing Object Code
 
-   You may distribute an Object Code form of a Covered Work, provided that:
+   You may distribute an Object Code form of a Covered Work, provided that
+   you accompany the Object Code with notice of a network location from
+   which the Corresponding Source is available, at no charge, through some
+   standard or customary means of providing network access to source code.
 
-   a) if the Object Code is contained in a physical product or tangible
-      storage medium ("Product"), You accompany the Product with either:
-      (i) a durable physical medium customarily used for software
-      interchange that contains the Corresponding Source or (ii) notice of
-      a network location through which the Corresponding Source is
-      available, at no charge, for two years from the date of Your most
-      recent distribution of the Object Code in an identical Product;
-
-   b) if the Object Code is distributed through a computer network, You
-      accompany the Object Code with clear directions indicating how its
-      Corresponding Source may be obtained from a network location at no
-      charge and in a reasonably equivalent manner.
+   If you distribute the Object Code in a physical product or tangible
+   storage medium ("Product"), you may alternatively accompany the Product
+   with a durable physical medium customarily used for software interchange
+   that contains the Corresponding Source.
 
    Each recipient of the Covered Work from You is an intended third-party
    beneficiary of this License solely as to this section 6, with the right
