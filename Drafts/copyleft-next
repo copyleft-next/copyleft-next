@@ -90,12 +90,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    negate the other conditions of this License, if applicable to Your
    Patch.
 
-8. Pass-Through
+8. Copyleft Sunset
+
+   Conditions 3 through 6 of this License cease to apply to You 15 years
+   from the date of My first distribution of My Work under this License.
+
+9. Pass-Through
 
    When You distribute a Covered Work, the recipient automatically receives
    a license to My Work from Me, subject to the terms of this License.
 
-9. Termination
+10. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -114,7 +119,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
 
-10. Later License Versions
+11. Later License Versions
 
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
@@ -122,7 +127,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    under Later Versions, You may distribute Covered Works under any Later
    Version.
 
-** 11. No Warranty                                                       **
+** 12. No Warranty                                                       **
 **                                                                       **
 **     My Work is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
@@ -130,7 +135,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
-** 12. Limitation of Liability                                           **
+** 13. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
 **     distributor of My Work be liable to You for any damages           **
@@ -139,14 +144,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     (including negligence), or otherwise, even where the distributor  **
 **     knew or should have known about the possibility of such damages.  **
 
-13. Severability
+14. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-14. Definitions
+15. Definitions
 
     "Apache License" means the Apache License, version 2.0, as published by
     the Apache Software Foundation.
