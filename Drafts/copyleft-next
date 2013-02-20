@@ -102,7 +102,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of a Covered Work is necessary
     merely for running it, such permission is not terminable.
 
-9. Later License Versions
+9. Symmetrical Licensing Condition for Upstream Contributions
+
+   If You distribute a work to Me specifically for inclusion in or
+   modification of a Covered Work (Your "Patch"), then, unless Your
+   Patch bears a license stating otherwise, You license it to Me under
+   this License, to the extent of Your copyright in Your Patch. This
+   condition does not negate the other conditions of this License, if
+   applicable to Your Patch.
+
+10. Later License Versions
 
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
@@ -110,7 +119,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    under Later Versions, You may distribute Covered Works under any Later
    Version.
 
-** 10. No Warranty                                                       **
+** 11. No Warranty                                                       **
 **                                                                       **
 **     My Work is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
@@ -118,7 +127,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
-** 11. Limitation of Liability                                           **
+** 12. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
 **     distributor of My Work be liable to You for any damages           **
@@ -127,14 +136,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     (including negligence), or otherwise, even where the distributor  **
 **     knew or should have known about the possibility of such damages.  **
 
-12. Severability
+13. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-13. Definitions
+14. Definitions
 
     "Apache License" means the Apache License, version 2.0, as published by
     the Apache Software Foundation.
