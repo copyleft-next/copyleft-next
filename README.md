@@ -7,7 +7,7 @@ copyleft-next is a new, post-post-modern, non-weak copyleft license
 inspired by, though different from, the GNU GPL.
 
 Contributions of patches, ideas, and criticism are welcome (see the file
-CONTRIBTING.md for more information).  In particular, the Copyleft-Next
+CONTRIBUTING.md for more information).  In particular, the Copyleft-Next
 Project actively seeks the participation of open source/free software
 project developers who may not have considered helping with license
 drafting before. License drafting is fundamentally about establishing
