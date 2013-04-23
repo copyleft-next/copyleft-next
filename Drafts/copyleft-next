@@ -17,15 +17,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-2. Nullification of Copyleft/Proprietary Dual Licensing
-
-   If I offer to license, for a fee, a Covered Work under terms other than
-   a license approved by the Open Source Initiative, a license classified
-   as 'free' by the Free Software Foundation, or a numbered version of
-   copyleft-next released by the Copyleft-Next Project, then sections 3
-   through 6 of this License cease to apply to My Work.
-
-3. Distribution: General Conditions
+2. Distribution: General Conditions
 
    You may Distribute Covered Works, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
@@ -35,7 +27,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    license texts, and author attributions, but does not include logos,
    other graphical images, trademarks or trademark legends.
 
-4. Conditions for Distributing Derived Works; Outbound GPL Compatibility
+3. Conditions for Distributing Derived Works; Outbound GPL Compatibility
 
    If You Distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
@@ -47,7 +39,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    ("GPL"), so that the recipient may further Distribute the Derived Work
    under either this License or the GPL.
 
-5. Condition Against Further Restrictions
+4. Condition Against Further Restrictions
 
    When Distributing a Covered Work, You may not impose further
    restrictions on the exercise of rights in the Covered Work granted under
@@ -59,7 +51,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Software Foundation, does not impose further restrictions under this
    section.
 
-6. Conditions for Distributing Object Code
+5. Conditions for Distributing Object Code
 
    You may Distribute an Object Code form of a Covered Work, provided that
    you accompany the Object Code with notice of a network location through
@@ -78,13 +70,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 6, with the right
    to enforce its terms.
 
-7. Symmetrical Licensing Condition for Upstream Contributions
+6. Symmetrical Licensing Condition for Upstream Contributions
 
    If You Distribute a work to Me specifically for inclusion in or
    modification of a Covered Work (a "Patch"), and no explicit licensing
    terms apply to the Patch, You license the Patch under this License, to
    the extent of Your copyright in the Patch. This condition does not
    negate the other conditions of this License, if applicable to the Patch.
+
+7. Nullification of Copyleft/Proprietary Dual Licensing
+
+   If I offer to license, for a fee, a Covered Work under terms other than
+   a license approved by the Open Source Initiative, a license classified
+   as 'free' by the Free Software Foundation, or a numbered version of
+   copyleft-next released by the Copyleft-Next Project, then sections 3
+   through 6 of this License cease to apply to My Work.
 
 8. Copyleft Sunset
 
