@@ -39,17 +39,23 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    ("GPL"), so that the recipient may further Distribute the Derived Work
    under either this License or the GPL.
 
-4. Condition Against Further Restrictions
+4. Condition Against Further Restrictions; Inbound License Compatibility
 
    When Distributing a Covered Work, You may not impose further
    restrictions on the exercise of rights in the Covered Work granted under
    this License. This condition is not excused merely because such
    restrictions result from Your compliance with conditions or obligations
    extrinsic to this License (such as a court order or an agreement with a
-   third party). Mere Distribution of a Covered Work incorporating material
-   licensed under the Apache License 2.0, as published by the Apache
-   Software Foundation, does not impose further restrictions under this
-   section.
+   third party).
+
+   However, You may Distribute a Covered Work incorporating material
+   licensed under an Inbound Compatible License, provided that Your
+   Distribution is in compliance with the Inbound Compatible License.
+   An "Inbound Compatible License" is a license that is both approved by
+   the Open Source Initiative and classified as 'free' by the Free Software
+   Foundation as of the release date of this License, other than the GPL
+   (as to which outbound compatibility is addressed in section 3, second
+   paragraph) or the GNU Affero General Public License.
 
 5. Conditions for Distributing Object Code
 
@@ -117,11 +123,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 11. Later License Versions
 
-   The Copyleft-Next Project may release new versions of copyleft-next,
-   designated by a distinguishing version number ("Later Versions").
-   Unless I explicitly remove the option of Distributing Covered Works
-   under Later Versions, You may Distribute Covered Works under any Later
-   Version.
+    The Copyleft-Next Project may release new versions of copyleft-next,
+    designated by a distinguishing version number ("Later Versions").
+    Unless I explicitly remove the option of Distributing Covered Works
+    under Later Versions, You may Distribute Covered Works under any Later
+    Version.
 
 ** 12. No Warranty                                                       **
 **                                                                       **
