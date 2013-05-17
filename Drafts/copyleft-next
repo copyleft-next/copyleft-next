@@ -32,9 +32,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    If You Distribute a Derived Work, You must license the entire Derived
    Work as a whole under this License, with prominent notice of such
    licensing. This condition may not be avoided through such means as
-   separate Distribution of portions of the Derived Work.
-
-   You may additionally license the Derived Work under the GPL, so that the
+   separate Distribution of portions of the Derived Work. You may
+   additionally license the Derived Work under the GPL, so that the
    recipient may further Distribute the Derived Work under either this
    License or the GPL.
 
@@ -48,10 +47,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    third party).
 
    However, You may Distribute a Covered Work incorporating material
-   licensed under a Compatible License, provided that Your Distribution
-   complies with the Compatible License. A "Compatible License" is a
-   license that is both OSI-Approved and FSF-Free as of the release date of
-   this License.
+   governed by a license that is both OSI-Approved and FSF-Free as of the
+   release date of this License, provided that Your Distribution complies
+   with such other license.
 
 5. Conditions for Distributing Object Code
 
