@@ -52,17 +52,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    release date of this License, provided that Your Distribution complies
    with such other license.
 
-5. Conditions for Distributing Object Code
+5. Conditions for Distributing Object Code Forms
 
-   You may Distribute an Object Code form of Covered Code, provided that
-   you accompany the Object Code with a URL through which the Corresponding
+   You may Distribute an Object Code Form of Covered Code, provided that
+   you accompany the Object Code Form with a URL through which the Corresponding
    Source is made available, at no charge, by some standard or customary
    means of providing network access to source code.
 
-   If you Distribute the Object Code in a physical product or tangible
+   If you Distribute the Object Code Form in a physical product or tangible
    storage medium ("Product"), the Corresponding Source must be available
    through such URL for two years from the date of Your most recent
-   Distribution of the Object Code in the Product. However, if the Product
+   Distribution of the Object Code Form in the Product. However, if the Product
    itself contains or is accompanied by the Corresponding Source (made
    available in a customarily accessible manner), You need not also comply
    with the first paragraph of this section.
@@ -156,10 +156,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     code repository at <https://gitorious.org/copyleft-next/> as of the
     release date of this License.
 
-    "Corresponding Source" of Covered Code in Object Code form means (i)
+    "Corresponding Source" of an Object Code Form of Covered Code means (i)
     the Source Code form of the Covered Code; (ii) all scripts,
     instructions and similar information that are reasonably necessary for
-    a skilled developer to generate such Object Code from the Source Code
+    a skilled developer to generate the Object Code Form from the Source Code
     provided under (i); and (iii) a list clearly identifying all Separate
     Works (other than those provided in compliance with (ii)) that were
     specifically used in building and (if applicable) installing the
@@ -205,7 +205,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "My Code" means the particular set of files I license to You
     under this License, including portions thereof.
 
-    "Object Code" means any form of a work that is not Source Code.
+    "Object Code Form" means any form of a work that is not Source Code.
 
     "OSI-Approved" means approved as 'Open Source' by the Open Source
     Initiative.
@@ -214,7 +214,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Code and is not by its nature an extension or
     enhancement of Covered Code, and/or a runtime library, standard
     library or similar component that is used to generate an Object Code
-    form of Covered Code.
+    Form of Covered Code.
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
