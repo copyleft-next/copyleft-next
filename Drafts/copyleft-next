@@ -8,7 +8,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       copyright license, to reproduce, Distribute, prepare derivative works
-      of, publicly perform and publicly display My Work.
+      of, publicly perform and publicly display My Code.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       patent license under Licensed Patents to make, have made, use, sell,
@@ -22,7 +22,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    You may Distribute Covered Works, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
    applicable conditions of sections 3 through 6; and (iii) preserve all
-   Legal Notices contained in My Work (to the extent they remain
+   Legal Notices contained in My Code (to the extent they remain
    pertinent). "Legal Notices" means copyright notices, license notices,
    license texts, and author attributions, but does not include logos,
    other graphical images, trademarks or trademark legends.
@@ -90,13 +90,13 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 8. Copyleft Sunset
 
    The conditions in sections 2 through 5 no longer apply once fifteen
-   years have elapsed from the date of My first Distribution of My Work
+   years have elapsed from the date of My first Distribution of My Code
    under this License.
 
 9. Pass-Through
 
    When You Distribute a Covered Work, the recipient automatically receives
-   a license to My Work from Me, subject to the terms of this License.
+   a license to My Code from Me, subject to the terms of this License.
 
 10. Termination
 
@@ -107,7 +107,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     b) initiate a patent infringement litigation claim (excluding
        declaratory judgment actions, counterclaims, and cross-claims)
-       alleging that any part of My Work directly or indirectly infringes
+       alleging that any part of My Code directly or indirectly infringes
        any patent.
 
     Termination of Your license grants extends to all copies of Covered
@@ -128,16 +128,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 ** 12. No Warranty                                                       **
 **                                                                       **
-**     My Work is provided "as-is", without warranty. You bear the risk  **
+**     My Code is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
-**     Distributor of My Work excludes the implied warranties of title,  **
+**     Distributor of My Code excludes the implied warranties of title,  **
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
 ** 13. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
-**     Distributor of My Work be liable to You for any damages           **
+**     Distributor of My Code be liable to You for any damages           **
 **     whatsoever, whether direct, indirect, special, incidental, or     **
 **     consequential damages, whether arising under contract, tort       **
 **     (including negligence), or otherwise, even where the Distributor  **
@@ -166,7 +166,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Work (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
 
-    "Covered Work" means My Work and/or Modifications.
+    "Covered Work" means My Code and/or Modifications.
 
     "Distribute" means to distribute, transfer or make a copy available to
     someone else, such that copyright permission is required.
@@ -180,7 +180,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Work under this License. "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Work under this License. A legal entity
+    entity exercising rights in My Code under this License. A legal entity
     includes each entity that controls, is controlled by, or is under
     common control with such legal entity. "Control" means (a) the power to
     direct the actions of such legal entity, whether by contract or
@@ -189,20 +189,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Licensed Patents" means all patent claims licensable royalty-free by
     Me, now or in the future, that are necessarily infringed by making,
-    using, or selling My Work, and excludes claims that would be infringed
-    only as a consequence of further modification of My Work.
+    using, or selling My Code, and excludes claims that would be infringed
+    only as a consequence of further modification of My Code.
 
     "Mere Aggregation" means an aggregation of a Covered Work with a
     Separate Work.
 
     "Modification" means (a) a file that results from an addition to,
-    deletion from, or other modification of the contents of My Work, (b) a
-    new file that contains any part of My Work, or (c) [FIXME], but only
+    deletion from, or other modification of the contents of My Code, (b) a
+    new file that contains any part of My Code, or (c) [FIXME], but only
     where Distribution of the file would require copyright permission from
-    Me. A file that merely makes reference to My Work, considered in
+    Me. A file that merely makes reference to My Code, considered in
     isolation, is not a Modification.
 
-    "My Work" means the particular work of authorship I license to You
+    "My Code" means the particular work of authorship I license to You
     under this License.
 
     "Object Code" means any form of a work that is not Source Code.
