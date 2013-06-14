@@ -2,7 +2,26 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
-1. License Grants; No Trademark License
+1. Basic Definitions
+
+    "Covered Code" means My Code and/or Modifications.
+
+    "I"/"Me"/"My" refers to the individual or legal entity that places My
+    Code under this License.
+
+    "Modification" means (a) a file that results from an addition to,
+    deletion from, or other modification of the contents of a file
+    contained in My Code, (b) a new file that contains any part of My
+    Code, or (c) [FIXME]. A file that merely makes reference to My
+    Code, as by [FIXME], is not a Modification.
+
+    "My Code" means the particular set of files in Source Code Form that I
+    license to You under this License, including portions thereof.
+
+    "Source Code Form" of Covered Code means the preferred form for making
+    modifications to the Covered Code.
+
+2. License Grants; No Trademark License
 
    Subject to the terms of this License, I grant You:
 
@@ -17,7 +36,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-2. Distribution: General Conditions
+  "Covered Code" means My Code and/or Modifications.
+
+3. Distribution: General Conditions
 
    You may Distribute Covered Code, provided that You (i) inform
    recipients how they can obtain a copy of this License; (ii) satisfy the
@@ -27,18 +48,18 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    license texts, and author attributions, but does not include logos,
    other graphical images, trademarks or trademark legends.
 
-3. Conditions for Distributing Modifications
+4. Conditions for Distributing Modifications
 
    If You Distribute Modifications, You must license such Modifications
    under this License, with prominent notice of such licensing.
 
-3a. Outbound GPL Compatibility.
+5. Outbound GPL Compatibility.
 
    [You may additionally license [FIXME] under the GPL, so that the
    recipient may further Distribute [FIXME] under either this License or
    the GPL.]
 
-4. Condition Against Further Restrictions; Inbound License Compatibility
+6. Condition Against Further Restrictions; Inbound License Compatibility
 
    When Distributing Covered Code, You may not impose further
    restrictions on the exercise of rights in the Covered Code granted under
@@ -52,7 +73,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    release date of this License, provided that Your Distribution complies
    with such other license.
 
-5. Conditions for Distributing Object Code Forms
+7. Conditions for Distributing Object Code Forms
 
    You may Distribute an Object Code Form of Covered Code, provided that
    you accompany the Object Code Form with a URL through which the Corresponding
@@ -71,7 +92,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 5, with the right
    to enforce its terms.
 
-6. Symmetrical Licensing Condition for Upstream Contributions
+8. Symmetrical Licensing Condition for Upstream Contributions
 
    If You Distribute a work to Me specifically for inclusion in or
    modification of Covered Code (a "Patch"), and no explicit licensing
@@ -166,8 +187,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Code (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
 
-    "Covered Code" means My Code and/or Modifications.
-
     "Distribute" means to distribute, transfer or make a copy available to
     someone else, such that copyright permission is required.
 
@@ -178,8 +197,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "GPL" means a version of the GNU General Public License or the GNU
     Affero General Public License.
 
-    "I"/"Me"/"My" refers to the individual or legal entity that places My
-    Work under this License. "You"/"Your" refers to the individual or legal
+    "You"/"Your" refers to the individual or legal
     entity exercising rights in My Code under this License. A legal entity
     includes each entity that controls, is controlled by, or is under
     common control with such legal entity. "Control" means (a) the power to
@@ -195,16 +213,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Mere Aggregation" means an aggregation of Covered Code with a
     Separate Work.
 
-    "Modification" means (a) a file that results from an addition to,
-    deletion from, or other modification of the contents of My Code, (b) a
-    new file that contains any part of My Code, or (c) [FIXME], but only
-    where Distribution of the file would require copyright permission from
-    Me. A file that merely makes reference to My Code, considered in
-    isolation, is not a Modification.
-
-    "My Code" means the particular set of files I license to You
-    under this License, including portions thereof.
-
     "Object Code Form" means any form of a work that is not Source Code.
 
     "OSI-Approved" means approved as 'Open Source' by the Open Source
@@ -215,6 +223,3 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     enhancement of Covered Code, and/or a runtime library, standard
     library or similar component that is used to generate an Object Code
     Form of Covered Code.
-
-    "Source Code" means the preferred form of a work for making
-    modifications to it.
