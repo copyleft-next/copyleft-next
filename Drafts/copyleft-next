@@ -27,15 +27,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    license texts, and author attributions, but does not include logos,
    other graphical images, trademarks or trademark legends.
 
-3. Conditions for Distributing Derived Works; Outbound GPL Compatibility
+3. Conditions for Distributing Modifications
 
-   If You Distribute a Derived Work, You must license the entire Derived
-   Work as a whole under this License, with prominent notice of such
-   licensing. This condition may not be avoided through such means as
-   separate Distribution of portions of the Derived Work. You may
-   additionally license the Derived Work under the GPL, so that the
-   recipient may further Distribute the Derived Work under either this
-   License or the GPL.
+   If You Distribute Modifications, You must license such Modifications
+   under this License, with prominent notice of such licensing.
+
+3a. Outbound GPL Compatibility.
+
+   [You may additionally license [FIXME] under the GPL, so that the
+   recipient may further Distribute [FIXME] under either this License or
+   the GPL.]
 
 4. Condition Against Further Restrictions; Inbound License Compatibility
 
@@ -165,15 +166,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Work (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
 
-    "Covered Work" means My Work or a Derived Work.
-
-    "Derived Work" means a work of authorship that copies from, modifies,
-    adapts, is based on, is a derivative work of, transforms, translates or
-    contains all or part of My Work, such that copyright permission is
-    required. The following are not Derived Works: (i) Mere Aggregation;
-    (ii) a mere reproduction of My Work; and (iii) if My Work fails to
-    explicitly state an expectation otherwise, a work that merely makes
-    reference to My Work.
+    "Covered Work" means My Work and/or Modifications.
 
     "Distribute" means to distribute, transfer or make a copy available to
     someone else, such that copyright permission is required.
@@ -202,10 +195,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Mere Aggregation" means an aggregation of a Covered Work with a
     Separate Work.
 
-    "Modifications" means (a) a file in Source Code form that results from
-    an addition to, deletion from, or other modification of the contents of
-    a file that is part of My Work, (b) a new file that contains any part
-    of My Work, or (c) [FIXME].
+    "Modification" means (a) a file that results from an addition to,
+    deletion from, or other modification of the contents of My Work, (b) a
+    new file that contains any part of My Work, or (c) [FIXME], but only
+    where Distribution of the file would require copyright permission from
+    Me. A file that merely makes reference to My Work, considered in
+    isolation, is not a Modification.
 
     "My Work" means the particular work of authorship I license to You
     under this License.
