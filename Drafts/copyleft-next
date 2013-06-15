@@ -17,28 +17,29 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-2. Distribution: General Conditions
+2. General Conditions for Distributing Covered Code
 
-   You may Distribute Covered Code, provided that You (i) inform recipients
-   how they can obtain a copy of this License; (ii) satisfy the applicable
-   conditions of sections 3 through 6; and (iii) preserve all Legal Notices
+   If You Distribute Covered Code, You must (i) inform recipients how they
+   can obtain a copy of this License; (ii) satisfy the applicable
+   conditions of sections 4 through 7; and (iii) preserve all Legal Notices
    contained in My Code (to the extent they remain pertinent). "Legal
-   Notices" means copyright notices, license notices, license texts, and
-   author attributions, but does not include logos, other graphical images,
-   trademarks or trademark legends.
-
-3. Conditions for Distributing Modifications
+   Notices" means copyright notices, license notices, license texts,
+   warranty disclaimers, and author attributions, but does not include
+   logos, other graphical images, trademarks or trademark legends.
 
    If You Distribute Modifications, You must license such Modifications
    under this License, with prominent notice of such licensing.
 
-4. Outbound GPL Compatibility.
+3. Outbound License Compatibility
 
-   [You may additionally license [FIXME] under the GPL, so that the
-   recipient may further Distribute [FIXME] under either this License or
-   the GPL.]
+   You may additionally Distribute Covered Code under the GPL, so that the
+   recipient may further Distribute such Covered Code under either this
+   License or the GPL.
 
-5. Condition Against Further Restrictions; Inbound License Compatibility
+   Unless I explicitly remove the option, You may Distribute Covered Code
+   under any Later Version.
+
+4. Condition Against Further Restrictions; Inbound License Compatibility
 
    When Distributing Covered Code, You may not impose further restrictions
    on the exercise of rights in the Covered Code granted under this
@@ -51,7 +52,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    date of this License, provided that Your Distribution complies with such
    other license.
 
-6. Conditions for Distributing Object Code Forms
+5. Conditions for Distributing Object Code Forms
 
    You may Distribute an Object Code Form of Covered Code, provided that
    you accompany the Object Code Form with a URL through which the
@@ -70,7 +71,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 5, with the right
    to enforce its terms.
 
-7. Symmetrical Licensing Condition for Upstream Contributions
+6. Symmetrical Licensing Condition for Upstream Contributions
 
    If You Distribute a work to Me specifically for inclusion in or
    modification of Covered Code (a "Patch"), and no explicit licensing
@@ -78,7 +79,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    the extent of Your copyright in the Patch. This condition does not
    negate the other conditions of this License, if applicable to the Patch.
 
-8. Nullification of Copyleft/Proprietary Dual Licensing
+7. Nullification of Copyleft/Proprietary Dual Licensing
 
    If I offer to license, for a fee, Covered Code under terms other than
    a license that is OSI-Approved or FSF-Free as of the release date of this
@@ -86,18 +87,18 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Copyleft-Next Project, then the license I grant You under section 1 is no
    longer subject to the conditions in sections 2 through 5.
 
-9. Copyleft Sunset
+8. Copyleft Sunset
 
    The conditions in sections 2 through 5 no longer apply once fifteen
    years have elapsed from the date of My first Distribution of My Code
    under this License.
 
-10. Pass-Through
+9. Pass-Through
 
-    When You Distribute Covered Code, the recipient automatically receives
-    a license to My Code from Me, subject to the terms of this License.
+   When You Distribute Covered Code, the recipient automatically receives
+   a license to My Code from Me, subject to the terms of this License.
 
-11. Termination
+10. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -117,15 +118,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of Covered Code is necessary
     merely for running it, such permission is not terminable.
 
-12. Later License Versions
-
-    The Copyleft-Next Project may release new versions of copyleft-next,
-    designated by a distinguishing version number ("Later Versions").
-    Unless I explicitly remove the option of Distributing Covered Code
-    under Later Versions, You may Distribute Covered Code under any Later
-    Version.
-
-** 13. No Warranty                                                       **
+** 11. No Warranty                                                       **
 **                                                                       **
 **     My Code is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
@@ -133,7 +126,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
-** 14. Limitation of Liability                                           **
+** 12. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
 **     Distributor of My Code be liable to You for any damages           **
@@ -142,14 +135,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     (including negligence), or otherwise, even where the Distributor  **
 **     knew or should have known about the possibility of such damages.  **
 
-15. Severability
+13. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-16. Definitions
+14. Definitions
 
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://gitorious.org/copyleft-next/> as of the
@@ -179,6 +172,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Code under this License.
+
+    "Later Version" means a new version of copyleft-next released by the
+    Copyleft-Next Project, designated by a distinguishing version number.
 
     "Licensed Patents" means all patent claims licensable royalty-free by
     Me, now or in the future, that are necessarily infringed by making,
