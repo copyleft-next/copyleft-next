@@ -2,43 +2,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
-1. Basic Definitions
-
-   "Covered Code" means My Code and/or Modifications.
-
-   "I"/"Me"/"My" refers to the individual or legal entity that places
-   My Code under this License.
-
-   "My Code" means the particular set of files in Source Code Form
-   that I license to You under this License, including portions
-   thereof.
-
-   "Source Code Form" of Covered Code means the preferred form for
-   making modifications to the Covered Code.
-
-   "You"/"Your" refers to the individual or legal entity exercising
-   rights in My Code under this License. A legal entity includes each
-   entity that controls, is controlled by, or is under common control
-   with such legal entity. "Control" means (a) the power to direct the
-   actions of such legal entity, whether by contract or otherwise, or
-   (b) ownership of more than fifty percent of the outstanding shares
-   or beneficial ownership of such legal entity.
-
-   "Modification" means:
-
-   (a) a file that results from an addition to, deletion from, or
-   other modification of the contents of a file contained in My Code,
-   or
-
-   (b) a new file that contains any part of My Code, or
-
-   (c) a new file that [FIXME],
-
-   but in all cases only where copying the file would require
-   copyright permission from Me.  A file that merely makes reference
-   to My Code, as by [FIXME], is not, by itself, a Modification.
-
-3. License Grants; No Trademark License
+1. License Grants; No Trademark License
 
    Subject to the terms of this License, I grant You:
 
@@ -47,67 +11,66 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       of, publicly perform and publicly display My Code.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents to make, have made, use, sell,
+      patent license under Licensed Patents, to make, have made, use, sell,
       offer for sale, and import Covered Code.
 
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-4. Distribution: General Conditions
+2. Distribution: General Conditions
 
-   You may Distribute Covered Code, provided that You (i) inform
-   recipients how they can obtain a copy of this License; (ii) satisfy the
-   applicable conditions of sections 3 through 6; and (iii) preserve all
-   Legal Notices contained in My Code (to the extent they remain
-   pertinent). "Legal Notices" means copyright notices, license notices,
-   license texts, and author attributions, but does not include logos,
-   other graphical images, trademarks or trademark legends.
+   You may Distribute Covered Code, provided that You (i) inform recipients
+   how they can obtain a copy of this License; (ii) satisfy the applicable
+   conditions of sections 3 through 6; and (iii) preserve all Legal Notices
+   contained in My Code (to the extent they remain pertinent). "Legal
+   Notices" means copyright notices, license notices, license texts, and
+   author attributions, but does not include logos, other graphical images,
+   trademarks or trademark legends.
 
-5. Conditions for Distributing Modifications
+3. Conditions for Distributing Modifications
 
    If You Distribute Modifications, You must license such Modifications
    under this License, with prominent notice of such licensing.
 
-6. Outbound GPL Compatibility.
+4. Outbound GPL Compatibility.
 
    [You may additionally license [FIXME] under the GPL, so that the
    recipient may further Distribute [FIXME] under either this License or
    the GPL.]
 
-7. Condition Against Further Restrictions; Inbound License Compatibility
+5. Condition Against Further Restrictions; Inbound License Compatibility
 
-   When Distributing Covered Code, You may not impose further
-   restrictions on the exercise of rights in the Covered Code granted under
-   this License. This condition is not excused merely because such
-   restrictions result from Your compliance with conditions or obligations
-   extrinsic to this License (such as a court order or an agreement with a
-   third party).
+   When Distributing Covered Code, You may not impose further restrictions
+   on the exercise of rights in the Covered Code granted under this
+   License. This condition is not excused merely because such restrictions
+   result from Your compliance with conditions or obligations extrinsic to
+   this License (such as a court order or an agreement with a third party).
 
-   However, You may Distribute Covered Code incorporating material
-   governed by a license that is both OSI-Approved and FSF-Free as of the
-   release date of this License, provided that Your Distribution complies
-   with such other license.
+   However, You may Distribute Covered Code incorporating material governed
+   by a license that is both OSI-Approved and FSF-Free as of the release
+   date of this License, provided that Your Distribution complies with such
+   other license.
 
-8. Conditions for Distributing Object Code Forms
+6. Conditions for Distributing Object Code Forms
 
    You may Distribute an Object Code Form of Covered Code, provided that
-   you accompany the Object Code Form with a URL through which the Corresponding
-   Source is made available, at no charge, by some standard or customary
-   means of providing network access to source code.
+   you accompany the Object Code Form with a URL through which the
+   Corresponding Source is made available, at no charge, by some standard
+   or customary means of providing network access to source code.
 
    If you Distribute the Object Code Form in a physical product or tangible
    storage medium ("Product"), the Corresponding Source must be available
    through such URL for two years from the date of Your most recent
-   Distribution of the Object Code Form in the Product. However, if the Product
-   itself contains or is accompanied by the Corresponding Source (made
-   available in a customarily accessible manner), You need not also comply
-   with the first paragraph of this section.
+   Distribution of the Object Code Form in the Product. However, if the
+   Product itself contains or is accompanied by the Corresponding Source
+   (made available in a customarily accessible manner), You need not also
+   comply with the first paragraph of this section.
 
    Each recipient of Covered Code from You is an intended third-party
    beneficiary of this License solely as to this section 5, with the right
    to enforce its terms.
 
-9. Symmetrical Licensing Condition for Upstream Contributions
+7. Symmetrical Licensing Condition for Upstream Contributions
 
    If You Distribute a work to Me specifically for inclusion in or
    modification of Covered Code (a "Patch"), and no explicit licensing
@@ -115,7 +78,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    the extent of Your copyright in the Patch. This condition does not
    negate the other conditions of this License, if applicable to the Patch.
 
-10. Nullification of Copyleft/Proprietary Dual Licensing
+8. Nullification of Copyleft/Proprietary Dual Licensing
 
    If I offer to license, for a fee, Covered Code under terms other than
    a license that is OSI-Approved or FSF-Free as of the release date of this
@@ -123,18 +86,18 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Copyleft-Next Project, then the license I grant You under section 1 is no
    longer subject to the conditions in sections 2 through 5.
 
-11. Copyleft Sunset
+9. Copyleft Sunset
 
    The conditions in sections 2 through 5 no longer apply once fifteen
    years have elapsed from the date of My first Distribution of My Code
    under this License.
 
-12. Pass-Through
+10. Pass-Through
 
-   When You Distribute Covered Code, the recipient automatically receives
-   a license to My Code from Me, subject to the terms of this License.
+    When You Distribute Covered Code, the recipient automatically receives
+    a license to My Code from Me, subject to the terms of this License.
 
-13. Termination
+11. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -154,7 +117,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     To the extent permission to make copies of Covered Code is necessary
     merely for running it, such permission is not terminable.
 
-14. Later License Versions
+12. Later License Versions
 
     The Copyleft-Next Project may release new versions of copyleft-next,
     designated by a distinguishing version number ("Later Versions").
@@ -162,7 +125,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     under Later Versions, You may Distribute Covered Code under any Later
     Version.
 
-** 15. No Warranty                                                       **
+** 13. No Warranty                                                       **
 **                                                                       **
 **     My Code is provided "as-is", without warranty. You bear the risk  **
 **     of using it. To the extent permitted by applicable law, each      **
@@ -170,7 +133,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     merchantability, fitness for a particular purpose and             **
 **     non-infringement.                                                 **
 
-** 16. Limitation of Liability                                           **
+** 14. Limitation of Liability                                           **
 **                                                                       **
 **     To the extent permitted by applicable law, in no event will any   **
 **     Distributor of My Code be liable to You for any damages           **
@@ -179,14 +142,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 **     (including negligence), or otherwise, even where the Distributor  **
 **     knew or should have known about the possibility of such damages.  **
 
-17. Severability
+15. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-18. Definitions
+16. Definitions
 
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://gitorious.org/copyleft-next/> as of the
@@ -195,12 +158,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Corresponding Source" of an Object Code Form of Covered Code means (i)
     the Source Code form of the Covered Code; (ii) all scripts,
     instructions and similar information that are reasonably necessary for
-    a skilled developer to generate the Object Code Form from the Source Code
-    provided under (i); and (iii) a list clearly identifying all Separate
-    Works (other than those provided in compliance with (ii)) that were
-    specifically used in building and (if applicable) installing the
+    a skilled developer to generate the Object Code Form from the Source
+    Code Form provided under (i); and (iii) a list clearly identifying all
+    Separate Works (other than those provided in compliance with (ii)) that
+    were specifically used in building and (if applicable) installing the
     Covered Code (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
+
+    "Covered Code" means My Code and/or Modifications.
 
     "Distribute" means to distribute, transfer or make a copy available to
     someone else, such that copyright permission is required.
@@ -212,13 +177,27 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "GPL" means a version of the GNU General Public License or the GNU
     Affero General Public License.
 
+    "I"/"Me"/"My" refers to the individual or legal entity that places My
+    Code under this License.
+
     "Licensed Patents" means all patent claims licensable royalty-free by
     Me, now or in the future, that are necessarily infringed by making,
     using, or selling My Code, and excludes claims that would be infringed
     only as a consequence of further modification of My Code.
 
-    "Mere Aggregation" means an aggregation of Covered Code with a
-    Separate Work.
+    "Mere Aggregation" means an aggregation of Covered Code with a Separate
+    Work.
+
+    "Modification" means (a) a file that results from an addition to,
+    deletion from, or other modification of the contents of a file
+    contained in My Code, (b) a new file that contains any part of My Code,
+    or(c) a new file that [FIXME], but in all cases only where copying the
+    file would require copyright permission from Me. A file that merely
+    makes reference to My Code, as by [FIXME], is not, by itself, a
+    Modification.
+
+    "My Code" means the particular set of files in Source Code Form that I
+    license to You under this License, including portions thereof.
 
     "Object Code Form" means any form of a work that is not Source Code.
 
@@ -226,7 +205,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Initiative.
 
     "Separate Work" means a work that is separate from and independent of
-    Covered Code and is not by its nature an extension or
-    enhancement of Covered Code, and/or a runtime library, standard
-    library or similar component that is used to generate an Object Code
-    Form of Covered Code.
+    Covered Code and is not by its nature an extension or enhancement of
+    Covered Code, and/or a runtime library, standard library or similar
+    component that is used to generate an Object Code Form of Covered Code.
+
+    "Source Code Form" of Covered Code means the preferred form for making
+    modifications to the Covered Code.
+
+    "You"/"Your" refers to the individual or legal entity exercising rights
+    in My Code under this License. A legal entity includes each entity that
+    controls, is controlled by, or is under common control with such legal
+    entity. "Control" means (a) the power to direct the actions of such
+    legal entity, whether by contract or otherwise, or (b) ownership of
+    more than fifty percent of the outstanding shares or beneficial
+    ownership of such legal entity.
