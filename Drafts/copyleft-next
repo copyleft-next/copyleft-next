@@ -2,6 +2,34 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
+
+0. Basic Definitions
+
+   "I"/"Me" refers to the individual or legal entity that places My
+   Code under this License.
+
+   "You"/"Your" refers to the individual or legal entity exercising
+   rights in My Code under this License. A legal entity includes each
+   entity that controls, is controlled by, or is under common control
+   with such legal entity. "Control" means (a) the power to direct the
+   actions of such legal entity, whether by contract or otherwise, or
+   (b) ownership of more than fifty percent of the outstanding shares
+   or beneficial ownership of such legal entity.
+
+   "Source Code Form" of Covered Code means the preferred form for
+   making modifications to the Covered Code.
+
+   "My Code" means the set of files in Source Code Form comprising the
+   work of authorship that I license to You under this License.
+
+   "Modified Code" means (a) a file that results from an addition to,
+   deletion from, or other modification of the contents of a file
+   contained in My Code, or (b) a new file that contains a portion of
+   My Code.
+
+   "Neighboring Code" means a file that is not Modified Code but which
+   specifically uses functions or data declared or defined in My Code.
+
 1. License Grants; No Trademark License
 
    Subject to the terms of this License, I grant You:
@@ -34,7 +62,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    If You Distribute Modifications, You must conspicuously license such
    Modifications under this License.
- 
+
    In either case, You may not impose further restrictions on the exercise
    of rights in the Covered Code granted under this License. This condition
    is not excused merely because such restrictions result from Your
@@ -43,10 +71,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 4. Copyleft Conditions: Exceptions and Limitations
 
-   Unless I explicitly remove the option, You may additionally or 
+   Unless I explicitly remove the option, You may additionally or
    alternatively Distribute Covered Code under a Later Version. In such a
    case, [FIXME].
-   
+
    You may additionally Distribute Covered Code under the GPL, so that a
    recipient may further Distribute such Covered Code under either this
    License (and/or a Later Version) and/or the GPL.
@@ -176,9 +204,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "GPL" means a version of the GNU General Public License or the GNU
     Affero General Public License.
 
-    "I"/"Me"/"My" refers to the individual or legal entity that places My
-    Code under this License.
-
     "Later Version" means a new version of copyleft-next released by the
     Copyleft-Next Project, designated by a distinguishing version number.
 
@@ -190,17 +215,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Mere Aggregation" means an aggregation of Covered Code with a Separate
     Work.
 
-    "Modification" means (a) a file that results from an addition to,
-    deletion from, or other modification of the contents of a file
-    contained in My Code, (b) a new file that contains any part of My Code,
-    or(c) a new file that [FIXME], but in all cases only where copying the
-    file would require copyright permission from Me. A file that merely
-    makes reference to My Code, as by [FIXME], is not, by itself, a
-    Modification.
-
-    "My Code" means the particular set of files in Source Code Form that I
-    license to You under this License, including portions thereof.
-
     "Object Code Form" means any form of a work that is not Source Code.
 
     "OSI-Approved" means approved as 'Open Source' by the Open Source
@@ -211,13 +225,3 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Code, and/or a runtime library, standard library or similar
     component that is used to generate an Object Code Form of Covered Code.
 
-    "Source Code Form" of Covered Code means the preferred form for making
-    modifications to the Covered Code.
-
-    "You"/"Your" refers to the individual or legal entity exercising rights
-    in My Code under this License. A legal entity includes each entity that
-    controls, is controlled by, or is under common control with such legal
-    entity. "Control" means (a) the power to direct the actions of such
-    legal entity, whether by contract or otherwise, or (b) ownership of
-    more than fifty percent of the outstanding shares or beneficial
-    ownership of such legal entity.
