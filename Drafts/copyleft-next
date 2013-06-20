@@ -2,7 +2,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
-
 0. Basic Definitions
 
    "I"/"Me" refers to the individual or legal entity that places My
@@ -20,17 +19,24 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    making modifications to the Covered Code.
 
    "My Code" means the set of files in Source Code Form comprising the
-   work of authorship that I license to You under this License.
+   work of authorship that I license to You under this License,
+   including any portion thereof.
 
-   "Modified Code" means (a) a file that results from an addition to,
-   deletion from, or other modification of the contents of a file
-   contained in My Code, or (b) a new file that contains a portion of
-   My Code.
+   "Modified Code" means one or more files resulting from an addition
+   to, deletion from, or other modification of the contents of one or
+   more files in My Code, or (b) one or more new files containing
+   portions of My Code.
 
-   "Neighboring Code" means a file that is not Modified Code but which
-   specifically uses functions or data declared or defined in My Code.
+   "Neighboring Code" means one or more files that specifically use
+   functions or data declared or defined in My Code, but which are not
+   Modified Code.
 
-1. License Grants; No Trademark License
+   "Covered Code" means a set of files consisting of My Code and/or
+   Modified Code. Covered Code additionally includes all Neighboring
+   Code that is Distributed with Covered Code, but Neighboring Code in
+   isolation is not Covered Code.
+
+1. Copyright and Patent License Grants
 
    Subject to the terms of this License, I grant You:
 
@@ -42,10 +48,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       patent license under Licensed Patents, to make, have made, use, sell,
       offer for sale, and import Covered Code.
 
+2. No Trademark License
+
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-2. General Conditions for Distributing Covered Code
+3. Lawful Uses Unaffected
+
+   This License does not exclude or limit any rights you have under
+   copyright or other applicable law.
+
+4. General Conditions for Distributing Covered Code
 
    If You Distribute Covered Code, You must (i) inform recipients how they
    can obtain a copy of this License; (ii) satisfy the applicable
@@ -191,8 +204,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     were specifically used in building and (if applicable) installing the
     Covered Code (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
-
-    "Covered Code" means My Code and/or Modifications.
 
     "Distribute" means to distribute, transfer or make a copy available to
     someone else, such that copyright permission is required.
