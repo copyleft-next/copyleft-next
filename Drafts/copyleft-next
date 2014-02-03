@@ -34,7 +34,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    recipient may further Distribute the Derived Work under either this
    License or the GPL.
 
-4. Condition Against Further Restrictions; Inbound License Compatibility
+4. Condition Against Further Restrictions
 
    When Distributing a Covered Work, You may not impose further
    restrictions on the exercise of rights in the Covered Work granted under
@@ -43,10 +43,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    extrinsic to this License (such as a court order or an agreement with a
    third party).
 
-   However, You may Distribute a Covered Work incorporating material
-   governed by a license that is both OSI-Approved and FSF-Free as of the
-   release date of this License, provided that Your Distribution complies
-   with such other license.
+4a. Inbound License Compatibility [FIXME]
+
+   You may Distribute a Covered Work incorporating material governed by a
+   license that is both OSI-Approved and FSF-Free as of the release date of
+   this License.
 
 5. Conditions for Distributing Object Code
 
@@ -142,12 +143,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     (including negligence), or otherwise, even where the Distributor knew
     or should have known about the possibility of such damages.
 
-13a. Supplementing or Altering Sections 12 and 13
+13a. Miscellaneous
      
      When Distributing a Covered Work, You may include additional warranty
      disclaimers and limitations of liability worded differently from
      sections 12 and 13. You may also typographically alter the
      presentation of sections 12 and 13 to make them more conspicuous.
+
+     Narrowly-tailored efforts taken by a Distributor to comply in good
+     faith with applicable export control laws are not in conflict with
+     this License.
 
 14. Severability
 
