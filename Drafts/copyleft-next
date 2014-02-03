@@ -67,8 +67,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    beneficiary of this License solely as to this section 5, with the right
    to enforce its terms.
 
-5a. [AFFERO-LIKE CONDITION PLACEHOLDER (+ OPT-OUT OPTION)]
-
 6. Symmetrical Licensing Condition for Upstream Contributions
 
    If You Distribute Code to Me specifically for inclusion in or
@@ -76,6 +74,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    terms apply to the Patch, You license the Patch under this License, to
    the extent of Your copyright in the Patch. This condition does not
    negate the other conditions of this License, if applicable to the Patch.
+
+6a. [AFFERO-LIKE CONDITION PLACEHOLDER (+ OPT-OUT OPTION)]
 
 7. Nullification of Copyleft/Proprietary Dual Licensing
 
