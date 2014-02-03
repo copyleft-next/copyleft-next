@@ -80,11 +80,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 7. Nullification of Copyleft/Proprietary Dual Licensing
 
-   If I offer to license, for a fee, a Covered Work under terms other than
-   a license that is OSI-Approved or FSF-Free as of the release date of this
-   License or a numbered version of copyleft-next released by the
-   Copyleft-Next Project, then the license I grant You under section 1 is no
-   longer subject to the conditions in sections 2 through 5.
+   If I Distribute a Covered Work under a Proprietary License, then the
+   license I grant You under section 1 is no longer subject to the
+   conditions in sections 2 through 5.
 
 8. Copyleft Sunset
 
@@ -209,6 +207,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "OSI-Approved" means approved as 'Open Source' by the Open Source
     Initiative.
+
+    "Proprietary License" means FIXME.
 
     "Separate Work" means a work that is separate from and independent of a
     particular Covered Work and is not by its nature an extension or
