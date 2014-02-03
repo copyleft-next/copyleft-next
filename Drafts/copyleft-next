@@ -58,7 +58,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    This License does not exclude or limit any rights you have under
    copyright or other applicable law.
 
-4. General Conditions for Distributing Covered Code
+4. Distributing Covered Code
+
+   a) General Conditions   
 
    If You Distribute Covered Code, You must (i) inform recipients how they
    can obtain a copy of this License; (ii) satisfy the applicable
@@ -68,43 +70,52 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    warranty disclaimers, and author attributions, but does not include
    logos, other graphical images, trademarks or trademark legends.
 
-3. Distributing Covered Code: Copyleft Conditions and Pass-Through
+   b) Pass-Through
 
    When You Distribute Covered Code, the recipient automatically receives
    a license to My Code from Me, subject to the terms of this License.
 
-   If You Distribute Modifications, You must conspicuously license such
-   Modifications under this License.
+   c) Copyleft Condition for Distributing Modified Code
 
-   In either case, You may not impose further restrictions on the exercise
-   of rights in the Covered Code granted under this License. This condition
-   is not excused merely because such restrictions result from Your
+   If You Distribute Modified Code, You must conspicuously license
+   such Modified Code under this License.
+
+   d) Condition Against Imposition of More Restrictive Terms
+
+   If You Distribute Covered Code, except as otherwise provided
+   herein, You may not impose terms on the Covered Code that are more
+   restrictive than the terms of this License. This condition is not
+   excused merely because such additional terms result from Your
    compliance with conditions or obligations extrinsic to this License
    (such as a court order or an agreement with a third party).
 
-4. Copyleft Conditions: Exceptions and Limitations
+   e) Permission to Relicense Under Later Versions
 
    Unless I explicitly remove the option, You may additionally or
-   alternatively Distribute Covered Code under a Later Version. In such a
-   case, [FIXME].
+   alternatively Distribute Covered Code under a Later Version. 
+
+   f) Permission for GPL Dual-Licensing
 
    You may additionally Distribute Covered Code under the GPL, so that a
    recipient may further Distribute such Covered Code under either this
    License (and/or a Later Version) and/or the GPL.
 
-   You may Distribute a Modification under this License even if it
+   [You may Distribute a Modification under this License even if it
    incorporates third-party material governed by a license that is both
    OSI-Approved and FSF-Free as of the release date of this License,
    provided that such other license does not itself prevent You from
    Distributing the Modification under this License. Compatibility of
    other third-party licenses must be measured against the requirement of
-   the final paragraph of section 3 of this License.
+   the final paragraph of section 3 of this License. FIXME]
 
-   You may license an Aggregate under terms of Your choice, provided
-   that such terms are consistent with the conditions of this License as
-   to Covered Code contained in the Aggregate.
+   g) Licensing of Aggregates
 
-5. Conditions for Distributing Object Code Forms
+   If You Distribute Covered Code in an Aggregate, You may place the
+   Aggregate under terms of Your choice, provided that such terms are
+   consistent with the conditions of this License as to Covered Code
+   contained in the Aggregate.
+
+6. Conditions for Distributing Object Code Forms
 
    You may Distribute an Object Code Form of Covered Code, provided that
    you accompany the Object Code Form with a URL through which the
