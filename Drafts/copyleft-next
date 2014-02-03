@@ -74,7 +74,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Symmetrical Licensing Condition for Upstream Contributions
 
-   If You Distribute a work to Me specifically for inclusion in or
+   If You Distribute Code to Me specifically for inclusion in or
    modification of a Covered Work (a "Patch"), and no explicit licensing
    terms apply to the Patch, You license the Patch under this License, to
    the extent of Your copyright in the Patch. This condition does not
@@ -150,6 +150,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     necessary to make it valid and enforceable.
 
 15. Definitions
+
+    "Code" means FIXME.
 
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://gitorious.org/copyleft-next/> as of the
