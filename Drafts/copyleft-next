@@ -11,7 +11,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       of, publicly perform, and publicly display My Work.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents to make, have made, use, sell,
+      patent license under Licensed Patents, to make, have made, use, sell,
       offer for sale, and import Covered Works.
 
 2. Distributing Covered Works
@@ -20,9 +20,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) Notice Requirements
 
-      The Covered Work must inform recipients how they can obtain a copy of
-      this License and preserve all pertinent Legal Notices contained in My
-      Work. "Legal Notices" means copyright notices, license notices,
+      The Covered Work must preserve all pertinent Legal Notices contained
+      in My Work and inform recipients how they can obtain a copy of this
+      License. "Legal Notices" means copyright notices, license notices,
       license texts, and author attributions, but does not include logos,
       other graphical images, trademarks, or trademark legends.
 
@@ -31,19 +31,18 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       You may not impose further restrictions on the exercise of rights in
       the Covered Work granted under this License. This condition is not
       excused merely because such restrictions result from Your compliance
-      with conditions or obligations extrinsic to this License (such as a
+      with mandates or obligations extrinsic to this License (such as a
       court order or an agreement with a third party).
 
       Distribution of a Covered Work incorporating material governed by a
       license listed in Appendix A does not impose further restrictions.
       You have permission to ignore subsection 2c solely to the extent
-      necessary to comply with such other license. However, the requirement
-      in subsection 2d to provide Corresponding Source is in no case
-      limited by this permission.The Appendix A list is intended to be
-      illustrative and not exhaustive.
+      necessary to comply with such other license. The requirement in
+      subsection 2d to provide Corresponding Source is in no case limited
+      by this permission.
 
-      Reasonable and narrowly-tailored measures taken by You to comply with
-      applicable export control laws do not impose further restrictions.
+      Narrowly-tailored measures taken by You to comply with applicable
+      export control laws do not impose further restrictions.
 
    c) Derived Works; Outbound GPL Compatibility
 
