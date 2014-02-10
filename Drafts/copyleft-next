@@ -7,7 +7,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Subject to the terms of this License, I grant You:
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      copyright license, to reproduce, Distribute, prepare derivative works
+      copyright license, to reproduce, distribute, prepare derivative works
       of, publicly perform, and publicly display My Work.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
@@ -16,7 +16,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 2. Distributing Covered Works
 
-   You may Distribute Covered Works, subject to the following terms:
+   You may distribute Covered Works, subject to the following terms:
 
    a) Notice Requirements
 
@@ -47,12 +47,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    c) Derived Works; Outbound GPL Compatibility
 
-      If You Distribute a Derived Work, You must license the Derived Work
+      If You distribute a Derived Work, You must license the Derived Work
       as a whole under this License, with prominent notice of such
       licensing. This condition may not be avoided through such means as
-      separate Distribution of portions of the Derived Work. You may
+      separate distribution of portions of the Derived Work. You may
       additionally license the Derived Work under the GPL, so that the
-      recipient may further Distribute the Derived Work under either this
+      recipient may further distribute the Derived Work under either this
       License or the GPL.
 
    d) Object Code
@@ -62,10 +62,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       available, at no charge, by some standard or customary means of
       providing network access to source code.
 
-      If you Distribute the Object Code in a physical product or tangible
+      If you distribute the Object Code in a physical product or tangible
       storage medium ("Product"), the Corresponding Source must be
       available through such URL for two years from the date of Your most
-      recent Distribution of the Object Code in the Product. However, if
+      recent distribution of the Object Code in the Product. However, if
       the Product itself contains or is accompanied by the Corresponding
       Source (readily accessible to the Product user), You need not also
       comply with the preceding paragraph.
@@ -76,7 +76,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    e) Pass-Through
 
-      When You Distribute a Covered Work, the recipient automatically
+      When You distribute a Covered Work, the recipient automatically
       receives a license to My Work from Me, subject to the terms of this
       License.
 
@@ -88,19 +88,19 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 4. Nullification of Copyleft/Proprietary Dual Licensing
 
-   If I Distribute a Covered Work under a Proprietary License, then the
+   If I distribute a Covered Work under a Proprietary License, then the
    licenses I grant You under section 1 are no longer subject to the
    conditions in sections 2 and 3.
 
 5. Copyleft Sunset
 
    The conditions in sections 2 through 4 no longer apply once fifteen
-   years have elapsed from the date of My first Distribution of My Work
+   years have elapsed from the date of My first distribution of My Work
    under this License.
 
 6. Symmetrical Licensing Condition for Upstream Contributions
 
-   If You Distribute any material to a Project specifically for inclusion
+   If You distribute any material to a Project specifically for inclusion
    in or modification or extension of a Covered Work (a "Patch"), and You
    do not apply any explicit licensing terms to such material, You hereby
    license the Patch under this License.
@@ -134,24 +134,24 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
-   Unless I explicitly remove the option of Distributing Covered Works
-   under Later Versions, You may Distribute Covered Works under any Later
+   Unless I explicitly remove the option of distributing Covered Works
+   under Later Versions, You may distribute Covered Works under any Later
    Version.
 
 10. No Warranty
 
     Covered Works are provided "as-is", without warranty. You bear the risk
     of using them. To the extent permitted by applicable law, each
-    Distributor of a Covered Work excludes the implied warranties of title,
+    distributor of a Covered Work excludes the implied warranties of title,
     merchantability, fitness for a particular purpose, and non-infringement.
 
 11. Limitation of Liability
 
     To the extent permitted by applicable law, in no event will any
-    Distributor of a Covered Work be liable to You for any damages
+    distributor of a Covered Work be liable to You for any damages
     whatsoever, whether direct, indirect, special, incidental, or
     consequential damages, whether arising under contract, tort
-    (including negligence), or otherwise, even where the Distributor knew
+    (including negligence), or otherwise, even where the distributor knew
     or should have known about the possibility of such damages.
 
 12. Severability
@@ -186,11 +186,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     (ii) a mere reproduction of My Work; and (iii) if My Work fails to
     explicitly state an expectation otherwise, a work that merely makes
     reference to My Work.
-
-    "Distribute" means to distribute, transfer,or make a copy available to
-    someone else, such that copyright permission is required.
-
-    "Distributor" means Me and anyone else who Distributes a Covered Work.
 
     "GPL" means a version of the GNU General Public License published
     by the Free Software Foundation.
