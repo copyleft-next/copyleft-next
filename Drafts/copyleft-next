@@ -8,33 +8,33 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       copyright license, to reproduce, distribute, prepare derivative works
-      of, publicly perform, and publicly display My Work.
+      of, publicly perform, and publicly display My Code.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       patent license under Licensed Patents, to make, have made, use, sell,
-      offer for sale, and import Covered Works.
+      offer for sale, and import Covered Code.
 
-2. Distributing Covered Works
+2. Distributing Covered Code
 
-   You may distribute Covered Works, subject to the following terms:
+   You may distribute Covered Code, subject to the following terms:
 
    a) Notice Requirements
 
-      The Covered Work must preserve all pertinent Legal Notices contained
-      in My Work and inform recipients how they can obtain a copy of this
+      The Covered Code must preserve all pertinent Legal Notices contained
+      in My Code and inform recipients how they can obtain a copy of this
       License. "Legal Notices" means copyright notices, license notices,
       license texts, and author attributions, but does not include logos,
       other graphical images, trademarks, or trademark legends.
 
    b) No Further Restrictions
 
-      You may not impose further restrictions on the exercise of rights in
-      the Covered Work granted under this License. This condition is not
+      You may not impose further restrictions on the exercise of
+      permissions granted under this License. This condition is not
       excused merely because such restrictions result from Your compliance
       with mandates or obligations extrinsic to this License (such as a
       court order or an agreement with a third party).
 
-      Distribution of a Covered Work incorporating material governed by a
+      Distribution of Covered Code incorporating material governed by a
       license listed in Appendix A does not impose further restrictions.
       You have permission to ignore subsection 2c solely to the extent
       necessary to comply with such other license. The requirement in
@@ -44,20 +44,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       Narrowly-tailored measures taken by You to comply with applicable
       export control laws do not impose further restrictions.
 
-   c) Derived Works; Outbound GPL Compatibility
+   c) Derivative Works; Outbound GPL Compatibility
 
-      If You distribute a Derived Work, You must license the Derived Work
-      as a whole under this License, with prominent notice of such
-      licensing. This condition may not be avoided through such means as
-      separate distribution of portions of the Derived Work. You may
-      additionally license the Derived Work under the GPL, so that the
-      recipient may further distribute the Derived Work under either this
-      License or the GPL.
+      If You distribute a Derivative Work, You must license the Derivative
+      Work as a whole under this License, with prominent notice of such
+      licensing. This condition may not be circumvented through such means
+      as separate distribution of portions of the Derivative Work. You may
+      additionally license the Derivative Work under the GPL, so that the
+      recipient may further distribute the Derivative Work under either
+      this License or the GPL.
 
    d) Object Code
 
-      If the Covered Work is in Object Code form, You must accompany the
-      Object Code with a URL through which the Corresponding Source is made
+      If Covered Code is in Object Code form, You must accompany the Object
+      Code with a URL through which the Corresponding Source is made
       available, at no charge, by some standard or customary means of
       providing network access to source code.
 
@@ -69,14 +69,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       Source (readily accessible to the Product user), You need not also
       comply with the preceding paragraph.
 
-      Each recipient of the Covered Work from You is an intended
-      third-party beneficiary of this License solely as to this subsection
+      Each recipient of Covered Code from You is an intended third-party
+      beneficiary of this License solely as to this subsection
       2d, with the right to enforce its terms.
 
    e) Pass-Through
 
-      When You distribute a Covered Work, the recipient automatically
-      receives a license to My Work from Me, subject to the terms of this
+      When You distribute Covered Code, the recipient automatically
+      receives a license to My Code from Me, subject to the terms of this
       License.
 
    Subsections 2a through 2d are conditions of this License.
@@ -87,14 +87,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 4. Nullification of Copyleft/Proprietary Dual Licensing
 
-   If I distribute a Covered Work under a Proprietary License, then the
+   If I distribute Covered Code under a Proprietary License, then the
    licenses I grant You under section 1 are no longer subject to the
    conditions in sections 2 and 3.
 
 5. Copyleft Sunset
 
    The conditions in sections 2 through 4 no longer apply once fifteen
-   years have elapsed from the date of My first distribution of My Work
+   years have elapsed from the date of My first distribution of My Code
    under this License.
 
 6. Symmetrical Licensing Condition for Upstream Contributions
@@ -117,16 +117,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
        such noncompliance within thirty days after becoming aware of it, or
 
     b) initiate a patent infringement litigation claim (excluding
-       counterclaims and cross-claims) alleging that all or part of My Work
+       counterclaims and cross-claims) alleging that all or part of My Code
        directly or indirectly infringes a patent.
 
     Termination of Your license grants extends to all copies of Covered
-    Works You subsequently obtain.
+    Code You subsequently obtain.
 
     Termination of Your license grants does not terminate the licenses of
-    those who have received copies of Covered Works from You.
+    those who have received copies of Covered Code from You.
 
-    Licenses needed solely to run a copy of a Covered Work shall never be
+    Licenses needed solely to run a copy of Covered Code shall never be
     terminated.
 
 9. Later License Versions
@@ -134,20 +134,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
    Unless I explicitly remove the option of distributing Covered Works
-   under Later Versions, You may distribute Covered Works under any Later
+   under Later Versions, You may distribute Covered Code under any Later
    Version.
 
 10. No Warranty
 
-    Covered Works are provided "as-is", without warranty. You bear the risk
-    of using them. To the extent permitted by applicable law, each
-    distributor of a Covered Work excludes the implied warranties of title,
-    merchantability, fitness for a particular purpose, and non-infringement.
+    Covered Code isprovided "as-is", without warranty. You bear the risk
+    of using it. To the extent permitted by applicable law, each
+    distributor of Covered Code excludes the implied warranties of title,
+    merchantability, fitness for a particular purpose, and
+    non-infringement.
 
 11. Limitation of Liability
 
     To the extent permitted by applicable law, in no event will any
-    distributor of a Covered Work be liable to You for any damages
+    distributor of Covered Code be liable to You for any damages
     whatsoever, whether direct, indirect, special, incidental, or
     consequential damages, whether arising under contract, tort
     (including negligence), or otherwise, even where the distributor knew
@@ -166,32 +167,30 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     code repository at <https://gitorious.org/copyleft-next/> as of the
     release date of this License.
 
-    "Corresponding Source" of a Covered Work in Object Code form means (i)
-    the Source Code form of the Covered Work; (ii) all scripts,
+    "Corresponding Source" of Covered Code in Object Code form means (i)
+    the Source Code form of the Covered Code; (ii) all scripts,
     instructions, know-how, and similar information that are reasonably
     necessary for a skilled developer to generate such Object Code from the
     Source Code provided under (i); and (iii) a list clearly identifying
     all Separate Works (other than those provided in compliance with (ii))
     that were specifically used in building and (if applicable) installing
-    the Covered Work (for example, a specified proprietary compiler including
+    the Covered Code (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
 
-    "Covered Work" means My Work or a Derived Work.
+    "Covered Code" means My Code or a Derivative Work.
 
-    "Derived Work" means a work of authorship that copies from, modifies,
-    adapts, is based on, is a derivative work of, transforms, translates,
-    or contains all or part of My Work, such that copyright permission is
-    required. The following are not Derived Works: (i) Mere Aggregation;
-    (ii) a mere reproduction of My Work; and (iii) if My Work fails to
-    explicitly state an expectation otherwise, a work that merely makes
-    reference to My Work.
+    "Derivative Work" means a derivative work, collective work or
+    compilation, or a work that contains all or part of My Code. But the
+    following are nto Derivative Works: (i) Mere Aggregation; (ii) a mere
+    reproduction of My Code; and (iii) if My Code fails to explicitly state
+    an expectation otherwise, a work that merely makes reference to My Code
 
     "GPL" means a version of the GNU General Public License published
     by the Free Software Foundation.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Work under this License. "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Work under this License. A legal entity
+    entity exercising rights in My Code under this License. A legal entity
     includes each entity that controls, is controlled by, or is under
     common control with such legal entity. "Control" means (a) the power to
     direct the actions of such legal entity, whether by contract or
@@ -200,24 +199,24 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Licensed Patents" means all patent claims licensable royalty-free by
     Me, now or in the future, that are necessarily infringed by making,
-    using, or selling My Work, and excludes claims that would be infringed
-    only as a consequence of further modification of My Work.
+    using, or selling My Code, and excludes claims that would be infringed
+    only as a consequence of further modification of My Code.
 
-    "Mere Aggregation" means an aggregation of a Covered Work with a
+    "Mere Aggregation" means an aggregation of Covered Code with a
     Separate Work.
 
-    "My Work" means the particular work of authorship I license to You
+    "My Code" means the particular work of authorship I license to You
     under this License.
 
     "Object Code" means any form of a work that is not Source Code.
 
     "Proprietary License" means FIXME.
 
-    "Separate Work" means a work that is separate from and independent of a
-    particular Covered Work and is not by its nature an extension or
-    enhancement of the Covered Work, and/or a runtime library, standard
+    "Separate Work" means a work that is separate from and independent of
+    particular Covered Code and is not by its nature an extension or
+    enhancement of the Covered Code, and/or a runtime library, standard
     library, or similar component that is used to generate an Object Code
-    form of a Covered Work.
+    form of Covered Code..
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
