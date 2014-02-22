@@ -97,19 +97,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    years have elapsed from the date of My first distribution of My Code
    under this License.
 
-6. Symmetrical Licensing Condition for Upstream Contributions
-
-   If You distribute any material to a Project specifically for inclusion
-   in or modification or extension of a Covered Work (a "Patch"), and You
-   do not apply any explicit licensing terms to such material, You hereby
-   license the Patch under this License.
-
-7. No Trademark License
+6. No Trademark License
 
    This License does not grant any rights in My name, trademarks, service
    marks, or logos.
 
-8. Termination
+7. Termination
 
     Your license grants under section 1 are automatically terminated if You
 
@@ -129,7 +122,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Licenses needed solely to run a copy of Covered Code shall never be
     terminated.
 
-9. Later License Versions
+8. Later License Versions
 
    The Copyleft-Next Project may release new versions of copyleft-next,
    designated by a distinguishing version number ("Later Versions").
@@ -137,15 +130,15 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    under Later Versions, You may distribute Covered Code under any Later
    Version.
 
-10. No Warranty
+9. No Warranty
 
-    Covered Code isprovided "as-is", without warranty. You bear the risk
-    of using it. To the extent permitted by applicable law, each
-    distributor of Covered Code excludes the implied warranties of title,
-    merchantability, fitness for a particular purpose, and
-    non-infringement.
+   Covered Code isprovided "as-is", without warranty. You bear the
+   risk of using it. To the extent permitted by applicable law, each
+   distributor of Covered Code excludes the implied warranties of
+   title, merchantability, fitness for a particular purpose, and
+   non-infringement.
 
-11. Limitation of Liability
+10. Limitation of Liability
 
     To the extent permitted by applicable law, in no event will any
     distributor of Covered Code be liable to You for any damages
@@ -154,14 +147,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     (including negligence), or otherwise, even where the distributor knew
     or should have known about the possibility of such damages.
 
-12. Severability
+11. Severability
 
     The invalidity or unenforceability of any provision of this License
     does not affect the validity or enforceability of the remainder of
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-13. Definitions
+12. Definitions
 
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://gitorious.org/copyleft-next/> as of the
