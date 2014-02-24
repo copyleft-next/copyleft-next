@@ -37,14 +37,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       Distribution of Covered Code incorporating material governed by a
       license listed in Appendix A does not impose further restrictions.
       You have permission to ignore subsection 2c solely to the extent
-      necessary to comply with such other license. The requirement in
+      necessary to comply with such other license. But the requirement in
       subsection 2d to provide Corresponding Source is in no case limited
       by this permission.
 
       Narrowly-tailored measures taken by You to comply with applicable
       export control laws do not impose further restrictions.
 
-   c) Derivative Works; Outbound GPL Compatibility
+   c) Derivative Works
 
       If You distribute a Derivative Work, You must license the Derivative
       Work as a whole under this License, with prominent notice of such
@@ -58,7 +58,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
       If Covered Code is in Object Code form, You must accompany the Object
       Code with a URL through which the Corresponding Source is made
-      available, at no charge, by some standard or customary means of
+      available, at no cost, by some standard or customary means of
       providing network access to source code.
 
       If you distribute the Object Code in a physical product or tangible
@@ -81,9 +81,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    Subsections 2a through 2d are conditions of this License.
 
-3. Affero Clause
+3. Network Services
 
-   FIXME
+   You may prepare a Derivative Work that is designed primarily to provide
+   a Network Service, provided that that the Derivative Work informs
+   Service Users how they may obtain the Corresponding Source, at no cost,
+   by some standard or customary means of providing network access to
+   source code. "Service Users" means: (i) for a Derivative Work that You
+   Distribute, all potential users of the Network Service provided by a
+   recipient, and (ii) if You provide the Network Service, all actual users
+   of the Network Service.
+
+   If I explicitly state in My Work that I opt out of this condition, it
+   shall not apply to You. You are not permitted to opt out unless I have
+   opted out.
 
 4. Nullification of Copyleft/Proprietary Dual Licensing
 
@@ -200,6 +211,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "My Code" means the particular work of authorship I license to You
     under this License.
+
+    "Network Service" means a form of delivery of software functionality
+    to third-party users in which Distribution of most of the software does
+    not occur, with users instead primarily accessing such functionality
+    remotely, through requests made by a client program, such as a web
+    browser, to a server running the software.
 
     "Object Code" means any form of a work that is not Source Code.
 
