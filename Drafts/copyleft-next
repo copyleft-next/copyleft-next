@@ -40,10 +40,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
       Distribution of Covered Code incorporating material governed by a
       license listed in Appendix A does not impose further restrictions.
-      You have permission to ignore subsection 2c solely to the extent
-      necessary to comply with such other license. But the requirement in
-      subsection 2d to provide Corresponding Source is in no case limited
-      by this permission.
+      This list is illustrative and not exhaustive. You have permission to
+      ignore subsection 2c solely to the extent necessary to comply with
+      such other license (or an equivalently or comparably permissive free
+      software/open source license). But the requirement in subsection 2d
+      to provide Corresponding Source is in no case limited by this
+      permission.
 
       Narrowly-tailored measures taken by You to comply with applicable
       export control laws do not impose further restrictions.
@@ -54,28 +56,38 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       Work as a whole under this License, with prominent notice of such
       licensing. This condition may not be circumvented through such means
       as separate distribution of portions of the Derivative Work. You may
-      additionally license the Derivative Work under the GPL, so that the
-      recipient may further distribute the Derivative Work under either
-      this License or the GPL.
+      additionally license the Derivative Work under a version of the GNU
+      General Public License published by the Free Software Foundation
+      ("GPL"), so that the recipient may further distribute the Derivative
+      Work under either this License or the GPL.
 
    d) Object Code
 
       If Covered Code is in Object Code form, You must accompany the Object
-      Code with a URL through which the Corresponding Source is made
-      available, at no cost, by some standard or customary means of
-      providing network access to source code.
+      Code with a URL through which the Ordinary Corresponding Source
+      ("OCS") is made available, at no cost, by some standard or customary
+      means of providing network access to source code.
 
       If you distribute the Object Code in a physical product or tangible
-      storage medium ("Product"), the Corresponding Source must be
-      available through such URL for two years from the date of Your most
-      recent distribution of the Object Code in the Product. However, if
-      the Product itself contains or is accompanied by the Corresponding
-      Source (readily accessible to the Product user), You need not also
-      comply with the preceding paragraph.
+      storage medium ("Product"), OCS must be available through such URL
+      for two years from the date of Your most recent distribution of the
+      Object Code in the Product. However, if the Product itself contains
+      or is accompanied by OCS (readily accessible to the Product user),
+      You need not also comply with the preceding paragraph.
+
+      OCS means: (i) the Source Code form of the Covered Code; (ii) all
+      scripts, instructions, know-how, and similar information that are
+      reasonably necessary for a skilled developer to generate such Object
+      Code from the Source Code provided under (i); and (iii) a list
+      clearly identifying all Separate Works (other than those provided in
+      compliance with (ii)) that were specifically used in building and (if
+      applicable) installing the Covered Code (for example, a specified
+      proprietary compiler including its version number). OCS must be
+      machine-readable.
 
       Each recipient of Covered Code from You is an intended third-party
-      beneficiary of this License solely as to this subsection
-      2d, with the right to enforce its terms.
+      beneficiary of this License solely as to this subsection 2d, with the
+      right to enforce its terms.
 
    e) Pass-Through
 
@@ -85,16 +97,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    Subsections 2a through 2d are conditions of this License.
 
-3. Network Services
+3. Network Services Condition
 
    You may prepare a Derivative Work that is designed primarily to provide
    a Network Service, provided that that the Derivative Work informs
-   Service Users how they may obtain the Corresponding Source, at no cost,
-   by some standard or customary means of providing network access to
-   source code. "Service Users" means: (i) for a Derivative Work that You
-   distribute, all potential users of the Network Service provided by a
-   recipient, and (ii) if You provide the Network Service, all actual users
-   of the Network Service.
+   Service Users how they may obtain the Network Services Source ("NSS"),
+   at no cost, by some standard or customary means of providing network
+   access to source code. "Service Users" means: (i) for a Derivative Work
+   that You distribute, all potential users of the Network Service provided
+   by a recipient, and (ii) if You provide the Network Service, all actual
+   users of the Network Service.
+
+   NSS means: (i) the Source Code form of the Derivative Work; and (ii) a
+   list clearly identifying all Separate Works that are specifically used
+   in or required for providing the Network Service (for example, a
+   specified web server including its version number).
 
    If I explicitly state in My Work that I opt out of this condition, it
    shall not apply to You. You are not permitted to opt out unless I have
@@ -119,23 +136,23 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 7. Termination
 
-    Your license grants under section 1 are automatically terminated if You
+   Your license grants under section 1 are automatically terminated if You
 
-    a) fail to comply with the conditions of this License, unless You cure
-       such noncompliance within thirty days after becoming aware of it, or
+   a) fail to comply with the conditions of this License, unless You cure
+      such noncompliance within thirty days after becoming aware of it, or
 
-    b) initiate a patent infringement litigation claim (excluding
-       counterclaims and cross-claims) alleging that all or part of My Code
-       directly or indirectly infringes a patent.
+   b) initiate a patent infringement litigation claim (excluding
+      counterclaims and cross-claims) alleging that all or part of My Code
+      directly or indirectly infringes a patent.
 
-    Termination of Your license grants extends to all copies of Covered
-    Code You subsequently obtain.
+   Termination of Your license grants extends to all copies of Covered Code
+   You subsequently obtain.
 
-    Termination of Your license grants does not terminate the licenses of
-    those who have received copies of Covered Code from You.
+   Termination of Your license grants does not terminate the licenses of
+   those who have received copies of Covered Code from You.
 
-    Licenses needed solely to run a copy of Covered Code shall never be
-    terminated.
+   Licenses needed solely to run a copy of Covered Code shall never be
+   terminated.
 
 8. Later License Versions
 
@@ -151,7 +168,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    risk of using it. To the extent permitted by applicable law, each
    distributor of Covered Code excludes the implied warranties of
    title, merchantability, fitness for a particular purpose, and
-   non-infringement.
+   noninfringement.
 
 10. Limitation of Liability
 
@@ -175,16 +192,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     code repository at <https://gitorious.org/copyleft-next/> as of the
     release date of this License.
 
-    "Corresponding Source" of Covered Code in Object Code form means (i)
-    the Source Code form of the Covered Code; (ii) all scripts,
-    instructions, know-how, and similar information that are reasonably
-    necessary for a skilled developer to generate such Object Code from the
-    Source Code provided under (i); and (iii) a list clearly identifying
-    all Separate Works (other than those provided in compliance with (ii))
-    that were specifically used in building and (if applicable) installing
-    the Covered Code (for example, a specified proprietary compiler including
-    its version number). Corresponding Source must be machine-readable.
-
     "Covered Code" means My Code or a Derivative Work.
 
     "Derivative Work" means a derivative work, collective work or
@@ -193,9 +200,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     reproduction of My Code, without more; and (iii) if My Code fails to
     explicitly state an expectation otherwise, a work that merely makes
     reference to My Code.
-
-    "GPL" means a version of the GNU General Public License published
-    by the Free Software Foundation.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Work under this License. "You"/"Your" refers to the individual or legal
