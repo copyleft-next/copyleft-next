@@ -66,7 +66,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       If Covered Code is in Object Code form, You must accompany the Object
       Code with a URL through which the Ordinary Corresponding Source
       ("OCS") is made available, at no cost, by some standard or customary
-      means of providing network access to source code.
+      means of providing network access to source code. "Object Code" means
+      any form of a work that is not Source Code.
 
       If you distribute the Object Code in a physical product or tangible
       storage medium ("Product"), OCS must be available through such URL
@@ -101,17 +102,28 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    You may prepare a Derivative Work that is designed primarily to provide
    a Network Service, provided that that the Derivative Work informs
-   Service Users how they may obtain the Network Services Source ("NSS"),
+   Service Users how they may obtain the Network Service Source ("NSS"),
    at no cost, by some standard or customary means of providing network
-   access to source code. "Service Users" means: (i) for a Derivative Work
-   that You distribute, all potential users of the Network Service provided
-   by a recipient, and (ii) if You provide the Network Service, all actual
-   users of the Network Service.
+   access to source code.
 
-   NSS means: (i) the Source Code form of the Derivative Work; and (ii) a
-   list clearly identifying all Separate Works that are specifically used
-   in or required for providing the Network Service (for example, a
-   specified web server including its version number).
+   "Network Service" means delivery of software functionality to third-
+   party users in which distribution of most of the software does not
+   occur, with users instead primarily accessing such functionality
+   remotely, through network requests made by a client program, such as a
+   web browser, to a server running the software.
+
+   "Service Users" means: (i) for a Derivative Work that You distribute,
+   all potential users of the Network Service provided by a recipient, and
+   (ii) if You provide the Network Service, all actual users of the Network
+   Service.
+
+   NSS means: (i) the Source Code form of the Derivative Work; (ii) all
+   scripts, instructions, know-how, and similar information that are
+   reasonably necessary to use the Derivative Work to substantially
+   replicate the Network Service, and (iii) a list clearly identifying all
+   Separate Works that are specifically used in or required for providing
+   the Network Service (for example, a specified web server including its
+   version number).
 
    If I explicitly state in My Work that I opt out of this condition, it
    shall not apply to You. You are not permitted to opt out unless I have
@@ -121,13 +133,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    If I distribute Covered Code under a Proprietary License, then the
    licenses I grant You under section 1 are no longer subject to the
-   conditions in sections 2 and 3.
+   conditions in sections 2 and 3. "Proprietary License" means a license
+   which (i) is not royalty-free, (ii) does not permit distribution, (iii)
+   does not permit preparation of derivative works, (iv) limits the number
+   of licensed users or copies, and/or (iv) contains field-of-use
+   restrictions.
 
 5. Copyleft Sunset
 
-   The conditions in sections 2 through 4 no longer apply once fifteen
-   years have elapsed from the date of My first distribution of My Code
-   under this License.
+   The conditions in sections 2 and 3 no longer apply once fifteen years
+   have elapsed from the date of My first distribution of My Code under
+   this License.
 
 6. No Trademark License
 
@@ -215,19 +231,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "My Code" means the particular work of authorship I license to You
     under this License.
-
-    "Network Service" means a form of delivery of software functionality
-    to third-party users in which distribution of most of the software does
-    not occur, with users instead primarily accessing such functionality
-    remotely, through requests made by a client program, such as a web
-    browser, to a server running the software.
-
-    "Object Code" means any form of a work that is not Source Code.
-
-    "Proprietary License" means a license which (i) is not royalty-free,
-    (ii) does not permit distribution, (iii) does not permit preparation of
-    derivative works, (iv) limits the number of licensed users or copies,
-    and/or (iv) contains field-of-use restrictions.
 
     "Separate Work" means a work that is separate from and independent of
     particular Covered Code and is not by its nature an extension or
