@@ -88,7 +88,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Service Users how they may obtain the Corresponding Source, at no cost,
    by some standard or customary means of providing network access to
    source code. "Service Users" means: (i) for a Derivative Work that You
-   Distribute, all potential users of the Network Service provided by a
+   distribute, all potential users of the Network Service provided by a
    recipient, and (ii) if You provide the Network Service, all actual users
    of the Network Service.
 
@@ -185,9 +185,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Derivative Work" means a derivative work, collective work or
     compilation, or a work that contains all or part of My Code. But the
-    following are nto Derivative Works: (i) Mere Aggregation; (ii) a mere
-    reproduction of My Code; and (iii) if My Code fails to explicitly state
-    an expectation otherwise, a work that merely makes reference to My Code
+    following are not Derivative Works: (i) Mere Aggregation; (ii) a mere
+    reproduction of My Code, without more; and (iii) if My Code fails to
+    explicitly state an expectation otherwise, a work that merely makes
+    reference to My Code.
 
     "GPL" means a version of the GNU General Public License published
     by the Free Software Foundation.
@@ -213,14 +214,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     under this License.
 
     "Network Service" means a form of delivery of software functionality
-    to third-party users in which Distribution of most of the software does
+    to third-party users in which distribution of most of the software does
     not occur, with users instead primarily accessing such functionality
     remotely, through requests made by a client program, such as a web
     browser, to a server running the software.
 
     "Object Code" means any form of a work that is not Source Code.
 
-    "Proprietary License" means FIXME.
+    "Proprietary License" means a license which (i) is not royalty-free,
+    (ii) does not permit distribution, (iii) does not permit preparation of
+    derivative works, (iv) limits the number of licensed users or copies,
+    and/or (iv) contains field-of-use restrictions.
 
     "Separate Work" means a work that is separate from and independent of
     particular Covered Code and is not by its nature an extension or
