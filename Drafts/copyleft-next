@@ -12,7 +12,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       patent license under Licensed Patents, to make, have made, use, sell,
-      offer for sale, and import Covered Code.
+      offer for sale, and import Covered Code. "Licensed Patents" means all
+      patent claims licensable royalty-free by Me, now or in the future,
+      that are necessarily infringed by making, using, or selling My Code,
+      and excludes claims that would be infringed only as a consequence of
+      further modification of My Code.
 
 2. Distributing Covered Code
 
@@ -201,11 +205,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     direct the actions of such legal entity, whether by contract or
     otherwise, or (b) ownership of more than fifty percent of the
     outstanding shares or beneficial ownership of such legal entity.
-
-    "Licensed Patents" means all patent claims licensable royalty-free by
-    Me, now or in the future, that are necessarily infringed by making,
-    using, or selling My Code, and excludes claims that would be infringed
-    only as a consequence of further modification of My Code.
 
     "Mere Aggregation" means an aggregation of Covered Code with a
     Separate Work.
