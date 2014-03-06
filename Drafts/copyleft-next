@@ -38,19 +38,28 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       with mandates or obligations extrinsic to this License (such as a
       court order or an agreement with a third party).
 
+   c) Compatibility With Certain Licenses Does Not Constitute Further Restrictions
+
       Distribution of Covered Code incorporating material governed by a
       license listed in Appendix A does not impose further restrictions.
       This list is illustrative and not exhaustive. You have permission to
-      ignore subsection 2c solely to the extent necessary to comply with
+      ignore subsection 2.e) solely to the extent necessary to comply with
       such other license (or an equivalently or comparably permissive free
-      software/open source license). But the requirement in subsection 2d
+      software/open source license). But the requirement in subsection 2e
       to provide Corresponding Source is in no case limited by this
       permission.
+      
+   d) Export Control Laws
 
       Narrowly-tailored measures taken by You to comply with applicable
-      export control laws do not impose further restrictions.
+      export control laws do not impose further restrictions. An illustrative, but
+      not exhaustive, example of a narrowly-tailored measure would be a notice
+      that the Covered Code contains cryptographic software and should not be
+      used or re-exported by a potential recipient before that potential
+      recipient consults the laws and regulations of their country concerning
+      cryptographic software.
 
-   c) Derivative Works
+   e) Derivative Works
 
       If You distribute a Derivative Work, You must license the Derivative
       Work as a whole under this License, with prominent notice of such
@@ -61,7 +70,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       ("GPL"), so that the recipient may further distribute the Derivative
       Work under either this License or the GPL.
 
-   d) Object Code
+   f) Object Code
 
       If Covered Code is in Object Code form, You must accompany the Object
       Code with a URL through which the Ordinary Corresponding Source
@@ -87,18 +96,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       machine-readable.
 
       Each recipient of Covered Code from You is an intended third-party
-      beneficiary of this License solely as to this subsection 2d, with the
+      beneficiary of this License solely as to this subsection 2.f), with the
       right to enforce its terms.
 
-   e) Pass-Through
+   g) Pass-Through
 
       When You distribute Covered Code, the recipient automatically
       receives a license to My Code from Me, subject to the terms of this
       License.
 
-   Subsections 2a through 2d are conditions of this License.
+   Subsections 2.a) through 2.f) are conditions of this License.
 
 3. Network Services Condition
+
+   a) Permission and Definitions
 
    You may prepare a Derivative Work that is designed primarily to provide
    a Network Service, provided that that the Derivative Work informs
@@ -125,6 +136,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    the Network Service (for example, a specified web server including its
    version number).
 
+   b) Opt Out Option
+
    If I explicitly state in My Work that I opt out of this condition, it
    shall not apply to You. You are not permitted to opt out unless I have
    opted out.
@@ -133,11 +146,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    If I distribute Covered Code under a Proprietary License, then the
    licenses I grant You under section 1 are no longer subject to the
-   conditions in sections 2 and 3. "Proprietary License" means a license
-   which (i) is not royalty-free, (ii) does not permit distribution, (iii)
-   does not permit preparation of derivative works, (iv) limits the number
-   of licensed users or copies, and/or (iv) contains field-of-use
-   restrictions.
+   conditions in sections 2 and 3. 
+
+   "Proprietary License" means a license which (i) is not royalty-free, (ii)
+   does not permit distribution, (iii) does not permit preparation of 
+   derivative works, (iv) limits the number of licensed users or copies, 
+   and/or (iv) contains field- of-use restrictions.
 
 5. Copyleft Sunset
 
@@ -180,7 +194,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 9. No Warranty
 
-   Covered Code isprovided "as-is", without warranty. You bear the
+   Covered Code is provided "as-is", without warranty. You bear the
    risk of using it. To the extent permitted by applicable law, each
    distributor of Covered Code excludes the implied warranties of
    title, merchantability, fitness for a particular purpose, and
