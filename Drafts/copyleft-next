@@ -115,10 +115,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    access to source code.
 
    "Network Service" means delivery of software functionality to third-
-   party users in which distribution of most of the software does not
-   occur, with users instead primarily accessing such functionality
-   remotely, through network requests made by a client program, such as a
-   web browser, to a server running the software.
+   party users in which users primarily access such functionality remotely,
+   through network requests made by a client program, such as a web browser,
+   to a server running the software.
 
    "Service Users" means: (i) for a Derivative Work that You distribute,
    all potential users of the Network Service provided by a recipient, and
