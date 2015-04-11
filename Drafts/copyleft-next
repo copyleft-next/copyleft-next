@@ -64,6 +64,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       ("GPL"), so that the recipient may further distribute the Derivative
       Work under either this License or the GPL.
 
+      If My Code provides a Public Interface, mere interaction of other
+      software with My Code by way of the Public Interface does not itself
+      make the other software, alone or in combination with My Code, a
+      Derivative Work.
+
    d) Object Code
 
       If Covered Code is in Object Code form, You must accompany the Object
@@ -234,6 +239,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "My Code" means the particular work of authorship I license to You
     under this License.
+
+    "Public Interface" means FIXME.
 
     "Separate Work" means a work that is separate from and independent of
     particular Covered Code and is not by its nature an extension or
