@@ -53,21 +53,21 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       exercise permissions under this License in return for support,
       maintenance or similar benefits.
 
-   c) Derivative Works
+   c) Enhancements
 
-      If You distribute a Derivative Work, You must license the Derivative
-      Work as a whole under this License, with prominent notice of such
-      licensing. This condition may not be circumvented through such means
-      as separate distribution of portions of the Derivative Work. You may
-      additionally license the Derivative Work under a version of the GNU
-      General Public License published by the Free Software Foundation
-      ("GPL"), so that the recipient may further distribute the Derivative
-      Work under either this License or the GPL.
+      If You distribute an Enhancement, You must license the Enhancement as
+      a whole under this License, with prominent notice of such licensing.
+      This condition may not be circumvented through such means as separate
+      distribution of portions of the Enhancement. You may additionally
+      license the Enhancement under a version of the GNU General Public
+      License published by the Free Software Foundation ("GPL"), so that
+      the recipient may further distribute the Enhancement under either
+      this License or the GPL.
 
       If My Code provides a Public Interface, mere interaction of other
       software with My Code by way of the Public Interface does not itself
-      make the other software, alone or in combination with My Code, a
-      Derivative Work.
+      make the other software, alone or in combination with My Code, an
+      Enhancement.
 
    d) Object Code
 
@@ -108,8 +108,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 3. Network Services Condition
 
-   You may prepare a Derivative Work that is designed primarily to provide
-   a Network Service, provided that that the Derivative Work informs
+   You may prepare an Enhancement that is designed primarily to provide
+   a Network Service, provided that that the Enhancement informs
    Service Users how they may obtain the Network Service Source ("NSS"),
    at no cost, by some standard or customary means of providing network
    access to source code.
@@ -119,17 +119,17 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    through network requests made by a client program, such as a web browser,
    to a server running the software.
 
-   "Service Users" means: (i) for a Derivative Work that You distribute,
-   all potential users of the Network Service provided by a recipient, and
-   (ii) if You provide the Network Service, all actual users of the Network
+   "Service Users" means: (i) for an Enhancement that You distribute, all
+   potential users of the Network Service provided by a recipient, and (ii)
+   if You provide the Network Service, all actual users of the Network
    Service.
 
-   NSS means: (i) the Source Code form of the Derivative Work; (ii) all
+   NSS means: (i) the Source Code form of the Enhancement; (ii) all
    scripts, instructions, know-how, and similar information that are
-   reasonably necessary to use the Derivative Work to substantially
-   replicate the Network Service, and (iii) a list clearly identifying all
-   Separate Works that are specifically used in or required for providing
-   the Network Service (for example, a specified web server including its
+   reasonably necessary to use the Enhancement to substantially replicate
+   the Network Service, and (iii) a list clearly identifying all Separate
+   Works that are specifically used in or required for providing the
+   Network Service (for example, a specified web server including its
    version number).
 
    If I explicitly state in My Work that I opt out of this condition, it
@@ -215,14 +215,13 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     code repository at <https://github.com/richardfontana/copyleft-next/>
     as of the release date of this License.
 
-    "Covered Code" means My Code or a Derivative Work.
+    "Covered Code" means My Code or an Enhancement.
 
-    "Derivative Work" means a derivative work, collective work or
-    compilation, or a work that contains all or part of My Code. But the
-    following are not Derivative Works: (i) Mere Aggregation; (ii) a mere
-    reproduction of My Code, without more; and (iii) if My Code fails to
-    explicitly state an expectation otherwise, a work that merely makes
-    reference to My Code.
+    "Enhancement" means a derivative work, collective work or compilation,
+    or a work that contains all or part of My Code. But the following are
+    not Enhancements: (i) Mere Aggregation; (ii) a mere reproduction of My
+    Code, without more; and (iii) if My Code fails to explicitly state an
+    expectation otherwise, a work that merely makes reference to My Code.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Work under this License. "You"/"Your" refers to the individual or legal
