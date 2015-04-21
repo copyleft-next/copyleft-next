@@ -64,11 +64,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       the recipient may further distribute the Enhancement under either
       this License or the GPL.
 
-      If My Code provides a Public Interface, mere interaction of other
-      software with My Code by way of the Public Interface does not itself
-      make the other software, alone or in combination with My Code, an
-      Enhancement.
-
    d) Object Code
 
       If Covered Code is in Object Code form, You must accompany the Object
@@ -219,9 +214,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Enhancement" means a derivative work, collective work or compilation,
     or a work that contains all or part of My Code. But the following are
-    not Enhancements: (i) Mere Aggregation; (ii) a mere reproduction of My
-    Code, without more; and (iii) if My Code fails to explicitly state an
-    expectation otherwise, a work that merely makes reference to My Code.
+    not Enhancements: 
+    (i) Mere Aggregation; 
+    (ii) a mere reproduction of My Code, without more;
+    (iii) if My Code fails to explicitly state an expectation otherwise, a
+    work that merely makes reference to My Code; or
+    (iv) if My Code provides a Public Interface, other software (alone or
+    in combination with My Code) that merely interacts with My Code by way
+    of the Public Interface.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
     Work under this License. "You"/"Your" refers to the individual or legal
