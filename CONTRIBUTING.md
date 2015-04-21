@@ -22,13 +22,13 @@ Copyleft-Next Project are governed by the [Harvey Birdman Rule][].
 Public Source Locations
 =======================
 
-Gitorious (https://gitorious.org/copyleft-next) is now the centralized
+[github.com/richardfontana/copyleft-next][] is now the centralized
 location of source for this project.
 
 Mailing List
 ============
 
-You can subscribe to the copyleft-next mailing list here:
+You can subscribe to the copyleft-next mailing list at:
 http://lists.fedorahosted.org/mailman/listinfo/copyleft-next/
 
 IRC
@@ -37,3 +37,5 @@ IRC
 There is a totally official #copyleft-next channel on freenode.
 
 [Harvey Birdman Rule]: https://github.com/richardfontana/hbr/blob/master/HBR.md
+
+[github.com/richardfontana/copyleft-next]: https://github.com/richardfontana/copyleft-next
