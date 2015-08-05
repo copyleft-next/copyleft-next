@@ -31,6 +31,13 @@ Mailing List
 You can subscribe to the copyleft-next mailing list at:
 http://lists.fedorahosted.org/mailman/listinfo/copyleft-next/
 
+Issues
+======
+
+You can submit issues at
+[https://github.com/richardfontana/copyleft-next/issues][] or on the
+mailing list.
+
 IRC
 ===
 
