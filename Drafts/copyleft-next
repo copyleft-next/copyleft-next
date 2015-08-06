@@ -43,7 +43,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       Compatible License. You have permission to ignore subsection 2c
       solely to the extent necessary to comply with such other license.
       But the requirement in subsection 2d to provide Corresponding Source
-      is in no case limited by this permission.
+      is in no case limited by this permission. If the Compatible License
+      is a GPL-Family License (as defined in Appendix A), You have
+      permission to ignore any terms in this License that contradict or
+      conflict with the terms in that GPL-Family License.
 
       ii) Narrowly-tailored measures taken by You to comply with applicable
       export control laws.
@@ -205,6 +208,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 12. Definitions
 
+    "Compatible License" means a license listed in Appendix A. The
+    non-inclusion of a license in Appendix A does not necessarily mean
+    that distribution of Covered Code incorporating material governed by
+    that license violates section 2 of this License.
+    
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://github.com/richardfontana/copyleft-next/>
     as of the release date of this License.
@@ -248,13 +256,20 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Source Code" means the preferred form of a work for making
     modifications to it.
 
-Appendix A
-----------
+Appendix A: Compatible Licenses
+-------------------------------
 
-CC0                 https://creativecommons.org/publicdomain/zero/1.0/legalcode
-MIT                 http://opensource.org/licenses/MIT
-3-Clause BSD        http://opensource.org/licenses/BSD-3-Clause
-Apache License 2.0  http://www.apache.org/licenses/LICENSE-2.0.html
-MPL 2.0             http://www.mozilla.org/MPL/2.0/
-EPL                 http://www.eclipse.org/legal/epl-v10.html
-LGPLv3              https://www.gnu.org/licenses/lgpl.html
+CC0                   https://creativecommons.org/publicdomain/zero/1.0/legalcode
+MIT License           http://opensource.org/licenses/MIT
+2-Clause BSD License  http://opensource.org/licenses/BSD-2-Clause
+3-Clause BSD License  http://opensource.org/licenses/BSD-3-Clause
+Apache License 2.0    http://www.apache.org/licenses/LICENSE-2.0.html
+MPL 2.0               http://www.mozilla.org/MPL/2.0/
+EPL 1.0               http://www.eclipse.org/legal/epl-v10.html
+
+GPL-Family Licenses:
+GPLv2		      http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
+LGPLv2.1              http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
+GPLv3                 http://www.gnu.org/licenses/gpl-3.0-standalone.html
+LGPLv3                https://www.gnu.org/licenses/lgpl.html
+
