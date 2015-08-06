@@ -22,7 +22,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) Notice Requirements
 
-      The Covered Code must preserve all pertinent Legal Notices contained
+      The Covered Code must preserve all Legal Notices contained
       in My Code. "Legal Notices" means copyright notices, license notices,
       license texts and URIs pointing to license texts, and author
       attributions, but does not include logos, other graphical images,
@@ -73,9 +73,11 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       If you distribute the Object Code in a physical product or tangible
       storage medium ("Product"), OCS must be available through such URL
       for two years from the date of Your most recent distribution of the
-      Object Code in the Product. However, if the Product itself contains
-      or is accompanied by OCS (readily accessible to the Product user),
-      You need not also comply with the preceding paragraph.
+      Object Code in the Product.
+
+      If the Product itself contains or is accompanied by OCS (readily
+      accessible to the Product user), You need not also comply with the
+      first two paragraphs of this section.
 
       OCS means: (i) the Source Code form of the Covered Code; (ii) all
       scripts, instructions, know-how, and similar information that are
@@ -190,10 +192,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     To the extent permitted by applicable law, in no event will any
     distributor of Covered Code be liable to You for any damages
-    whatsoever, whether direct, indirect, special, incidental, or
-    consequential damages, whether arising under contract, tort
-    (including negligence), or otherwise, even where the distributor knew
-    or should have known about the possibility of such damages.
+    whatsoever, whether direct, indirect, special, incidental, statutory
+    or consequential damages, whether arising under contract, tort
+    (including negligence), or otherwise, even where the distributor
+    knew or should have known about the possibility of such damages.
 
 11. Severability
 
@@ -227,13 +229,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     of the Public Interface.
 
     "I"/"Me"/"My" refers to the individual or legal entity that places My
-    Work under this License. "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Code under this License. A legal entity
-    includes each entity that controls, is controlled by, or is under
-    common control with such legal entity. "Control" means (a) the power to
-    direct the actions of such legal entity, whether by contract or
-    otherwise, or (b) ownership of more than fifty percent of the
-    outstanding shares or beneficial ownership of such legal entity.
+    Work under this License.
 
     "Mere Aggregation" means an aggregation of Covered Code with a
     Separate Work.
@@ -251,6 +247,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
+
+    "You"/"Your" refers to the individual or legal
+    entity exercising rights in My Code under this License.
 
 Appendix A: Compatible Licenses
 -------------------------------
