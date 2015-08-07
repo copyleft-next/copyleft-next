@@ -22,7 +22,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) Notice Requirements
 
-      The Covered Code must preserve all Legal Notices contained
+      The Covered Code must preserve all pertinent Legal Notices contained
       in My Code. "Legal Notices" means copyright notices, license notices,
       license texts and URIs pointing to license texts, and author
       attributions, but does not include logos, other graphical images,
@@ -40,44 +40,43 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       This condition is not violated by:
 
       i) Distribution of Covered Code incorporating material governed by a
-      Compatible License. You have permission to ignore subsection 2c
-      solely to the extent necessary to comply with such other license.
-      But the requirement in subsection 2d to provide Corresponding Source
-      is in no case limited by this permission. If the Compatible License
-      is a GPL-Family License (as defined in Appendix A), You have
+      Compatible License (see Appendix A). You have permission to ignore
+      subsection 2c solely to the extent necessary to comply with such
+      other license. But the requirement in subsection 2d to provide
+      Corresponding Source is in no case limited by this permission. If
+      the Compatible License is a GPL-Family License, You have
       permission to ignore any terms in this License that contradict or
-      conflict with the terms in that GPL-Family License.
+      conflict with the terms in that GPL-Family License, provided that
+      you comply with the terms of the GPL-Family License.
 
       ii) Narrowly-tailored measures taken by You to comply with applicable
       export control laws.
 
       iii) Entering into a contract with a distributee which creates
       temporary disincentives to exercise permissions under this License in
-      return for support, maintenance or similar benefits.
+      return for support, maintenance or similar services.
 
    c) Enhancements
 
       If You distribute an Enhancement, You must license the Enhancement as
       a whole under this License. This condition may not be circumvented
-      through such means as separate distribution of portions of the
-      Enhancement.
+      through separate distribution of portions of the Enhancement.
 
    d) Object Code
 
       If Covered Code is in Object Code form, You must accompany the Object
-      Code with a URL through which the Ordinary Corresponding Source
-      ("OCS") is made available, at no charge, by some standard or customary
-      means of providing network access to source code. "Object Code" means
-      any form of a work that is not Source Code.
+      Code with a network address through which the Ordinary Corresponding
+      Source ("OCS") may be copied, at no charge, by some standard or
+      customary means of providing network access to source code. "Object
+      Code" means any form of a work that is not Source Code.
 
       If you distribute the Object Code in a physical product or tangible
       storage medium ("Product"), OCS must be available through such URL
       for two years from the date of Your most recent distribution of the
       Object Code in the Product.
 
-      If the Product itself contains or is accompanied by OCS (readily
-      accessible to the Product user), You need not also comply with the
-      first two paragraphs of this section.
+      If the Product itself contains or is accompanied by OCS, You need
+      not also comply with the first two paragraphs of this section.
 
       OCS means: (i) the Source Code form of the Covered Code; (ii) all
       scripts, instructions, know-how, and similar information that are
@@ -87,7 +86,10 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       compliance with (ii)) that were specifically used in building and (if
       applicable) installing the Covered Code (for example, a specified
       proprietary compiler including its version number). OCS must be
-      machine-readable.
+      machine-readable and, to the extent that its licensing is not
+      governed by section 2 of this License, must be available under terms
+      satisfying the Free Software Foundation's Free Software Definition
+      (http://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
 
       Each recipient of Covered Code from You is an intended third-party
       beneficiary of this License solely as to this subsection 2d, with the
@@ -267,4 +269,4 @@ GPLv2		      http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
 LGPLv2.1              http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
 GPLv3                 http://www.gnu.org/licenses/gpl-3.0-standalone.html
 LGPLv3                https://www.gnu.org/licenses/lgpl.html
-
+AGPLv3		      https://www.gnu.org/licenses/agpl.html
