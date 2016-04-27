@@ -2,6 +2,25 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
+0. Definitions
+
+   "My Work" means a particular work of authorship that "I" (an individual
+   or legal entity) has placed under this License.
+
+   "Covered Work" means My Work or a derivative work or compilation, or
+   a work that otherwise contains all or part of My Work, but does not
+   include (i) mere aggregation of a Covered Work with a Separate Work,
+   (ii) a mere reproduction of My Work, or (iii) if My Work fails to
+   explicitly state an expectation otherwise, a work that merely interacts
+   with My Work through a published interface or merely makes reference to
+   My Work.
+
+   "Separate Work" means a work that is (i) separate from and independent
+   of a particular Covered Work and is not by its nature an extension or
+   enhancement of the Covered Work, and/or is (ii) a runtime library,
+   standard library, or similar component that is used to generate an
+   Object Code form of a Covered Work.
+
 1. License Grants
 
    Subject to the terms of this License, I grant You:
@@ -9,7 +28,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       copyright license, to reproduce, distribute, prepare derivative works
       of, publicly perform, and publicly display My Work.
-
+      
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       patent license under Licensed Patents, to make, have made, use, sell,
       offer for sale, and import Covered Works. "Licensed Patents" means all
@@ -91,9 +110,9 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       satisfying the Free Software Foundation's Free Software Definition
       (http://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
 
-      Each recipient of the Covered Work downstream from You is an intended third-party
-      beneficiary of this License solely as to this subsection 2d, with the
-      right to enforce its terms.
+      Each recipient of the Covered Work downstream from You is an intended
+      third-party beneficiary of this License solely as to this subsection
+      2d, with the right to enforce its terms.
 
    e) Pass-Through
 
@@ -206,7 +225,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     this License. Such provision is to be reformed to the minimum extent
     necessary to make it valid and enforceable.
 
-12. Definitions
+12. Additional Definitions
 
     "Compatible License" means a license listed in Appendix A. The
     non-inclusion of a license in Appendix A does not necessarily mean
@@ -216,36 +235,6 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     "Copyleft-Next Project" means the project that maintains the source
     code repository at <https://github.com/richardfontana/copyleft-next/>
     as of the release date of this License.
-
-    "Covered Work" means My Work or an Enhancement.
-
-    "Enhancement" means a derivative work, collective work or compilation,
-    or a work that contains all or part of My Work. But the following are
-    not Enhancements:
-    (i) Mere Aggregation;
-    (ii) a mere reproduction of My Work;
-    (iii) if My Work fails to explicitly state an expectation otherwise, a
-    work that merely makes reference to My Work; or
-    (iv) if My Work provides a Public Interface, other software (alone or
-    in combination with My Work) that merely interacts with My Work by way
-    of the Public Interface.
-
-    "I"/"Me"/"My" refers to an individual or legal entity that places My
-    Work under this License.
-
-    "Mere Aggregation" means an aggregation of a Covered Work with a
-    Separate Work.
-
-    "My Work" means a particular work of authorship licensed under this
-    License.
-
-    "Public Interface" means FIXME.
-
-    "Separate Work" means a work that is (i) separate from and independent of
-    a particular Covered Work and is not by its nature an extension or
-    enhancement of the Covered Work, and/or is (ii) a runtime library, standard
-    library, or similar component that is used to generate an Object Code
-    form of a Covered Work.
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
