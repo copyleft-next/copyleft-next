@@ -129,7 +129,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Network Service (for example, a specified web server including its
    version number).
 
-   If I explicitly state in My Work that I opt out of this condition, it
+   If I explicitly state in My Code that I opt out of this condition, it
    shall not apply to You. You are not permitted to opt out unless I have
    opted out.
 
@@ -230,14 +230,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     in combination with My Code) that merely interacts with My Code by way
     of the Public Interface.
 
-    "I"/"Me"/"My" refers to the individual or legal entity that places My
-    Work under this License.
+    "I"/"Me"/"My" refers to an individual or legal entity that places My
+    Code under this License.
 
     "Mere Aggregation" means an aggregation of Covered Code with a
     Separate Work.
 
-    "My Code" means the particular work of authorship I license to You
-    under this License.
+    "My Code" means a particular work of authorship licensed under this
+    License.
 
     "Public Interface" means FIXME.
 
