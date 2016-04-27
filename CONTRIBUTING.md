@@ -22,7 +22,7 @@ Copyleft-Next Project are governed by the [Harvey Birdman Rule][].
 Public Source Locations
 =======================
 
-[github.com/richardfontana/copyleft-next][] is now the centralized
+[github.com/copyleft-next/copyleft-next][] is now the centralized
 location of source for this project.
 
 Mailing List
@@ -35,7 +35,7 @@ Issues
 ======
 
 You can submit issues at
-[https://github.com/richardfontana/copyleft-next/issues][] or on the
+[https://github.com/copyleft-next/copyleft-next/issues][] or on the
 mailing list.
 
 IRC
@@ -45,4 +45,4 @@ There is a totally official #copyleft-next channel on freenode.
 
 [Harvey Birdman Rule]: https://github.com/richardfontana/hbr/blob/master/HBR.md
 
-[github.com/richardfontana/copyleft-next]: https://github.com/richardfontana/copyleft-next
+[github.com/richardfontana/copyleft-next]: https://github.com/copyleft-next/copyleft-next
