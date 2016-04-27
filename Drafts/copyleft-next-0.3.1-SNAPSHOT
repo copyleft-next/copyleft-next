@@ -88,7 +88,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 8. Copyleft Sunset
 
-   The conditions in sections 2 through 5 no longer apply once fifteen
+   The conditions in sections 3 through 5 no longer apply once fifteen
    years have elapsed from the date of My first Distribution of My Work
    under this License.
 
@@ -152,8 +152,8 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 15. Definitions
 
     "Copyleft-Next Project" means the project that maintains the source
-    code repository at <https://gitorious.org/copyleft-next/> as of the
-    release date of this License.
+    code repository at <https://github.com/copyleft-next/copyleft-next.git/>
+    as of the release date of this License.
 
     "Corresponding Source" of a Covered Work in Object Code form means (i)
     the Source Code form of the Covered Work; (ii) all scripts,
