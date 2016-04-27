@@ -8,22 +8,22 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       copyright license, to reproduce, distribute, prepare derivative works
-      of, publicly perform, and publicly display My Code.
+      of, publicly perform, and publicly display My Work.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
       patent license under Licensed Patents, to make, have made, use, sell,
-      offer for sale, and import Covered Code. "Licensed Patents" means all
+      offer for sale, and import Covered Works. "Licensed Patents" means all
       patent claims licensable royalty-free by Me, now or in the future,
-      that are necessarily infringed by making, using, or selling My Code.
+      that are necessarily infringed by making, using, or selling My Work.
 
-2. Distributing Covered Code
+2. Distributing Covered Works
 
-   You may distribute Covered Code, subject to the following terms:
+   You may distribute a Covered Work, subject to the following terms:
 
    a) Notice Requirements
 
-      The Covered Code must preserve all pertinent Legal Notices contained
-      in My Code. "Legal Notices" means copyright notices, license notices,
+      The Covered Work must preserve all pertinent Legal Notices contained
+      in My Work. "Legal Notices" means copyright notices, license notices,
       license texts and URIs pointing to license texts, and author
       attributions, but does not include logos, other graphical images,
       trademarks, or trademark legends.
@@ -39,7 +39,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
       This condition is not violated by:
 
-      i) Distribution of Covered Code incorporating material governed by a
+      i) Distribution of a Covered Work incorporating material governed by a
       Compatible License (see Appendix A). You have permission to ignore
       subsection 2c solely to the extent necessary to comply with such
       other license. But the requirement in subsection 2d to provide
@@ -64,7 +64,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
    d) Object Code
 
-      If Covered Code is in Object Code form, You must accompany the Object
+      If the Covered Work is in Object Code form, You must accompany the Object
       Code with a network address through which the Ordinary Corresponding
       Source ("OCS") may be copied, at no charge, by some standard or
       customary means of providing network access to source code. "Object
@@ -78,27 +78,27 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       If the Product itself contains or is accompanied by OCS, You need
       not also comply with the first two paragraphs of this section.
 
-      OCS means: (i) the Source Code form of the Covered Code; (ii) all
+      OCS means: (i) the Source Code form of the Covered Work; (ii) all
       scripts, instructions, know-how, and similar information that are
       reasonably necessary for a skilled developer to generate such Object
       Code from the Source Code provided under (i); and (iii) a list
       clearly identifying all Separate Works (other than those provided in
       compliance with (ii)) that were specifically used in building and (if
-      applicable) installing the Covered Code (for example, a specified
+      applicable) installing the Covered Work (for example, a specified
       proprietary compiler including its version number). OCS must be
       machine-readable and, to the extent that its licensing is not
       governed by section 2 of this License, must be available under terms
       satisfying the Free Software Foundation's Free Software Definition
       (http://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
 
-      Each recipient of Covered Code from You is an intended third-party
+      Each recipient of the Covered Work downstream from You is an intended third-party
       beneficiary of this License solely as to this subsection 2d, with the
       right to enforce its terms.
 
    e) Pass-Through
 
-      When You distribute Covered Code, the recipient automatically
-      receives a license to My Code from Me, subject to the terms of this
+      When You distribute a Covered Work, the recipient automatically
+      receives a license to My Work from Me, subject to the terms of this
       License.
 
    Subsections 2a through 2d are conditions of this License.
@@ -129,13 +129,13 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
    Network Service (for example, a specified web server including its
    version number).
 
-   If I explicitly state in My Code that I opt out of this condition, it
+   If I explicitly state in My Work that I opt out of this condition, it
    shall not apply to You. You are not permitted to opt out unless I have
    opted out.
 
 4. Nullification of Copyleft/Proprietary Dual Licensing
 
-   If I distribute Covered Code under a Proprietary License, then the
+   If I distribute a Covered Work under a Proprietary License, then the
    licenses I grant You under section 1 are no longer subject to the
    conditions in sections 2 and 3. "Proprietary License" means a license
    which (i) is not royalty-free, (ii) does not permit distribution, (iii)
@@ -146,7 +146,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 5. Copyleft Sunset
 
    The conditions in sections 2 and 3 no longer apply once fifteen years
-   have elapsed from the date of My first distribution of My Code under
+   have elapsed from the date of My first distribution of My Work under
    this License.
 
 6. No Trademark License
@@ -162,16 +162,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       such noncompliance within thirty days after becoming aware of it, or
 
    b) initiate a patent infringement litigation claim (excluding
-      counterclaims and cross-claims) alleging that all or part of My Code
+      counterclaims and cross-claims) alleging that all or part of My Work
       directly or indirectly infringes a patent.
 
-   Termination of Your license grants extends to all copies of Covered Code
+   Termination of Your license grants extends to all copies of Covered Works
    You subsequently obtain.
 
    Termination of Your license grants does not terminate the licenses of
-   those who have received copies of Covered Code from You.
+   those who have received copies of Covered Works from You.
 
-   Licenses needed solely to run a copy of Covered Code shall never be
+   Licenses needed solely to run a copy of a Covered Work shall never be
    terminated.
 
 8. Later License Versions
@@ -184,16 +184,16 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 9. No Warranty
 
-   Covered Code is provided "as-is", without warranty. You bear the
+   Covered Works are provided "as-is", without warranty. You bear the
    risk of using it. To the extent permitted by applicable law, each
-   distributor of Covered Code excludes the implied warranties of
+   distributor of a Covered Work excludes the implied warranties of
    title, merchantability, fitness for a particular purpose, and
    noninfringement.
 
 10. Limitation of Liability
 
     To the extent permitted by applicable law, in no event will any
-    distributor of Covered Code be liable to You for any damages
+    distributor of a Covered Work be liable to You for any damages
     whatsoever, whether direct, indirect, special, incidental, statutory
     or consequential damages, whether arising under contract, tort
     (including negligence), or otherwise, even where the distributor
@@ -217,41 +217,41 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     code repository at <https://github.com/richardfontana/copyleft-next/>
     as of the release date of this License.
 
-    "Covered Code" means My Code or an Enhancement.
+    "Covered Work" means My Work or an Enhancement.
 
     "Enhancement" means a derivative work, collective work or compilation,
-    or a work that contains all or part of My Code. But the following are
+    or a work that contains all or part of My Work. But the following are
     not Enhancements:
     (i) Mere Aggregation;
-    (ii) a mere reproduction of My Code;
-    (iii) if My Code fails to explicitly state an expectation otherwise, a
-    work that merely makes reference to My Code; or
-    (iv) if My Code provides a Public Interface, other software (alone or
-    in combination with My Code) that merely interacts with My Code by way
+    (ii) a mere reproduction of My Work;
+    (iii) if My Work fails to explicitly state an expectation otherwise, a
+    work that merely makes reference to My Work; or
+    (iv) if My Work provides a Public Interface, other software (alone or
+    in combination with My Work) that merely interacts with My Work by way
     of the Public Interface.
 
     "I"/"Me"/"My" refers to an individual or legal entity that places My
-    Code under this License.
+    Work under this License.
 
-    "Mere Aggregation" means an aggregation of Covered Code with a
+    "Mere Aggregation" means an aggregation of a Covered Work with a
     Separate Work.
 
-    "My Code" means a particular work of authorship licensed under this
+    "My Work" means a particular work of authorship licensed under this
     License.
 
     "Public Interface" means FIXME.
 
-    "Separate Work" means a work that is separate from and independent of
-    particular Covered Code and is not by its nature an extension or
-    enhancement of the Covered Code, and/or is a runtime library, standard
+    "Separate Work" means a work that is (i) separate from and independent of
+    a particular Covered Work and is not by its nature an extension or
+    enhancement of the Covered Work, and/or is (ii) a runtime library, standard
     library, or similar component that is used to generate an Object Code
-    form of Covered Code..
+    form of a Covered Work.
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
 
     "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Code under this License.
+    entity exercising rights in My Work under this License.
 
 Appendix A: Compatible Licenses
 -------------------------------
