@@ -29,7 +29,7 @@ Mailing List
 ============
 
 You can subscribe to the copyleft-next mailing list at:
-http://lists.fedorahosted.org/mailman/listinfo/copyleft-next/
+<https://lists.fedorahosted.org/mailman/listinfo/copyleft-next/>
 
 Issues
 ======
