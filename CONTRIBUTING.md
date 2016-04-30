@@ -1,4 +1,3 @@
-
 Contributions of any sort (text suggestions, ideas, feedback,
 criticism) from all interested individuals are welcome and encouraged.
 All copyrightable contributions to copyleft-next are dedicated to the
@@ -17,12 +16,12 @@ are meant to be immutable. (Any suggestion for a better approach than
 this Drafts vs. Releases system would be greatly welcome.)
 
 Development and discussion of copyleft-next by participants in the
-Copyleft-Next Project are governed by the [Harvey Birdman Rule][].
+Copyleft-Next Project are governed by the [Harvey Birdman Rule].
 
 Public Source Locations
 =======================
 
-[github.com/copyleft-next/copyleft-next][] is now the centralized
+<https://github.com/copyleft-next/copyleft-next> is now the centralized
 location of source for this project.
 
 Mailing List
@@ -35,7 +34,7 @@ Issues
 ======
 
 You can submit issues at
-[https://github.com/copyleft-next/copyleft-next/issues][] or on the
+<https://github.com/copyleft-next/copyleft-next/issues> or on the
 mailing list.
 
 IRC
@@ -44,5 +43,3 @@ IRC
 There is a totally official #copyleft-next channel on freenode.
 
 [Harvey Birdman Rule]: https://github.com/richardfontana/hbr/blob/master/HBR.md
-
-[github.com/richardfontana/copyleft-next]: https://github.com/copyleft-next/copyleft-next
