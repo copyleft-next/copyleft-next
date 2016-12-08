@@ -108,7 +108,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       machine-readable and, to the extent that its licensing is not
       governed by section 2 of this License, must be available under terms
       satisfying the Free Software Foundation's Free Software Definition
-      (http://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
+      (https://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
 
       Each recipient of the Covered Work downstream from You is an intended
       third-party beneficiary of this License solely as to this subsection
@@ -246,16 +246,16 @@ Appendix A: Compatible Licenses
 -------------------------------
 
 CC0                   https://creativecommons.org/publicdomain/zero/1.0/legalcode
-MIT License           http://opensource.org/licenses/MIT
-2-Clause BSD License  http://opensource.org/licenses/BSD-2-Clause
-3-Clause BSD License  http://opensource.org/licenses/BSD-3-Clause
-Apache License 2.0    http://www.apache.org/licenses/LICENSE-2.0.html
-MPL 2.0               http://www.mozilla.org/MPL/2.0/
-EPL 1.0               http://www.eclipse.org/legal/epl-v10.html
+MIT License           https://opensource.org/licenses/MIT
+2-Clause BSD License  https://opensource.org/licenses/BSD-2-Clause
+3-Clause BSD License  https://opensource.org/licenses/BSD-3-Clause
+Apache License 2.0    https://www.apache.org/licenses/LICENSE-2.0.html
+MPL 2.0               https://www.mozilla.org/MPL/2.0/
+EPL 1.0               https://www.eclipse.org/legal/epl-v10.html
 
 GPL-Family Licenses:
-GPLv2		      http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
-LGPLv2.1              http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
-GPLv3                 http://www.gnu.org/licenses/gpl-3.0-standalone.html
+GPLv2		      https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
+LGPLv2.1              https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
+GPLv3                 https://www.gnu.org/licenses/gpl-3.0-standalone.html
 LGPLv3                https://www.gnu.org/licenses/lgpl.html
 AGPLv3		      https://www.gnu.org/licenses/agpl.html
