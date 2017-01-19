@@ -1,8 +1,5 @@
 # copyleft-next #
 
-> "Exploring ideas for a modified copyleft license can't hurt."
-    - Richard M. Stallman, July 2012
-
 copyleft-next is a new, post-post-modern, non-weak copyleft license
 inspired by, though different from, the GNU GPL.
 
