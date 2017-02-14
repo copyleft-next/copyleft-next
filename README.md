@@ -19,9 +19,3 @@ Software Foundation or the GNU Project. It is is also *not* an effort
 associated in any way with the past or current employer of any participant.**
 Contributors are expected and assumed to participate in their individual
 capacity.
-
-All communications with journalists shall be handled by the Copyleft-Next
-Marketing Committee, which does not exist yet and probably won't exist for
-at least another year or three. For the avoidance of doubt, Simon Phipps
-and Martin Michlmayr are not considered journalists.
-
