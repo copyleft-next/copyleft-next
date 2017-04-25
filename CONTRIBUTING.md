@@ -12,8 +12,8 @@ successors, are especially welcome and strongly encouraged.
 Patches or merge requests relating to a given license text should be
 made against the relevant file in the Drafts/ directory, **not** a
 numbered version in the Releases/ directory. The files in Releases/
-are meant to be immutable. (More than one person has pointed out to me
-that this Drafts/Releases approach is bad and represents a poor use of
+are meant to be immutable. (More than one person has pointed out that
+this Drafts/Releases approach is bad and represents a poor use of
 git. Any concrete suggestions for an improved system would be greatly
 welcome.)
 
