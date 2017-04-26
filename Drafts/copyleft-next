@@ -2,247 +2,239 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
                       copyleft-next ("this License")
 
-0. Definitions
+1. License Grants, Pass-Through and Non-grants
 
-   "My Work" means a particular work of authorship that "I" (an individual
-   or legal entity) has placed under this License.
+Subject to the terms of this License, I grant You:
 
-   "Covered Work" means My Work or a derivative work or compilation, or
-   a work that otherwise contains all or part of My Work, but does not
-   include (i) mere aggregation of a Covered Work with a Separate Work,
-   (ii) a mere reproduction of My Work, or (iii) if My Work fails to
-   explicitly state an expectation otherwise, a work that merely interacts
-   with My Work through a published interface or merely makes reference to
-   My Work.
+a. A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
+   copyright license, to reproduce, distribute, prepare derivative
+   works of, publicly perform, and publicly display My Work.
 
-   "Enhancement" means a Covered Work other than My Work.
+b. A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
+   patent license under Licensed Patents, to make, have made, use,
+   sell, offer for sale, and import Covered Works.
 
-   "Separate Work" means a work that is (i) separate from and independent
-   of a particular Covered Work and is not by its nature an extension or
-   enhancement of the Covered Work, and/or is (ii) a runtime library,
-   standard library, or similar component that is used to generate an
-   Object Code form of a Covered Work.
+When You distribute a Covered Work, the recipient automatically
+receives these same license grants from Me.
 
-1. License Grants
-
-   Subject to the terms of this License, I grant You:
-
-   a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      copyright license, to reproduce, distribute, prepare derivative works
-      of, publicly perform, and publicly display My Work.
-      
-   b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents, to make, have made, use, sell,
-      offer for sale, and import Covered Works. "Licensed Patents" means all
-      patent claims licensable royalty-free by Me, now or in the future,
-      that are necessarily infringed by making, using, or selling My Work.
+This License does not grant any rights in My name, trademarks, service
+marks, or logos.
 
 2. Distributing Covered Works
 
-   You may distribute a Covered Work, subject to the following terms:
+You may distribute a Covered Work, subject to the terms in sections
+FIXME, which are conditions of this License.
 
-   a) Notice Requirements
+3. Notices
 
-      The Covered Work must preserve all pertinent Legal Notices contained
-      in My Work. "Legal Notices" means copyright notices, license notices,
-      license texts and URIs pointing to license texts, and author
-      attributions, but does not include logos, other graphical images,
-      trademarks, or trademark legends.
+Source Code versions of Covered Works must preserve all pertinent
+Legal Notices contained in My Work, except that You may make limited
+reasonable reorganizations of existing Legal Notices for purposes of
+clarity.
 
-   b) No Further Restrictions
+4. Copyleft
 
-      You may not impose restrictions on the exercise of permissions
-      granted under this License beyond those contained in this License.
-      This condition is not excused merely because such restrictions
-      result from Your compliance with mandates or obligations extrinsic
-      to this License (such as a court order or an agreement with a third
-      party).
+Any copyrightable content You add to the Covered Work must be licensed
+under this License or a Compatible License.
 
-      This condition is not violated by:
+Distribution of such content separate from other parts of the Covered
+Work does not in itself cause such content to not be part of the
+Covered Work.
 
-      i) Distribution of a Covered Work incorporating material governed by a
-      Compatible License (see Appendix A). You have permission to ignore
-      subsection 2c solely to the extent necessary to comply with such
-      other license. But the requirement in subsection 2d to provide
-      Corresponding Source is in no case limited by this permission. If
-      the Compatible License is a GPL-Family License, You have
-      permission to ignore any terms in this License that contradict or
-      conflict with the terms in that GPL-Family License, provided that
-      you comply with the terms of the GPL-Family License.
+5. Object Code
 
-      ii) Narrowly-tailored measures taken by You to comply with applicable
-      export control laws.
+If You distribute a Covered Work in Object Code form, You must include
+with the Object Code a URL through which the Covered Work's CCS may be
+copied by the general public, at no charge, through some standard or
+customary means.
 
-      iii) Entering into a contract with a distributee which creates
-      temporary disincentives to exercise permissions under this License in
-      return for support, maintenance or similar services.
+If you distribute the Object Code in a physical product or tangible
+storage medium ("Product"), the CCS must be available through such URL
+for two years from the date of Your most recent distribution of the
+Object Code in the Product.
 
-   c) Enhancements
+However, if the Product itself contains or is accompanied by its CCS,
+You need not additionally comply with the first two paragraphs of this
+section.
 
-      If You distribute an Enhancement, You must license the Enhancement as
-      a whole under this License. This condition may not be circumvented
-      through separate distribution of portions of the Enhancement.
+Each recipient of the Covered Work downstream from You is an intended
+third-party beneficiary of this License solely as to section 5, with
+the right to enforce its terms.
 
-   d) Object Code
+6. No Further Restrictions
 
-      If the Covered Work is in Object Code form, You must accompany the Object
-      Code with a network address through which the Ordinary Corresponding
-      Source ("OCS") may be copied, at no charge, by some standard or
-      customary means of providing network access to source code. "Object
-      Code" means any form of a work that is not Source Code.
+You may not impose restrictions on the exercise of permissions granted
+under this License beyond those contained in this License.  This
+condition is not excused merely because such restrictions result from
+Your compliance with obligations extrinsic to this License (such as a
+court order or an agreement with a third party).
 
-      If you distribute the Object Code in a physical product or tangible
-      storage medium ("Product"), OCS must be available through such URL
-      for two years from the date of Your most recent distribution of the
-      Object Code in the Product.
+The following activities do not violate this section:
 
-      If the Product itself contains or is accompanied by OCS, You need
-      not also comply with the first two paragraphs of this section.
+a. Distribution of a Covered Work incorporating material governed by a
+   Compatible License, but the requirement in section FIXME to provide
+   Corresponding Source is in no case limited by this permission. If
+   the Compatible License is a GPL-Family License, and a condition in
+   the Compatible License conflicts with any of the terms of this
+   License, You have permission to comply with that Compatible License
+   condition.
 
-      OCS means: (i) the Source Code form of the Covered Work; (ii) all
-      scripts, instructions, know-how, and similar information that are
-      reasonably necessary for a skilled developer to generate such Object
-      Code from the Source Code provided under (i); and (iii) a list
-      clearly identifying all Separate Works (other than those provided in
-      compliance with (ii)) that were specifically used in building and (if
-      applicable) installing the Covered Work (for example, a specified
-      proprietary compiler including its version number). OCS must be
-      machine-readable and, to the extent that its licensing is not
-      governed by section 2 of this License, must be available under terms
-      satisfying the Free Software Foundation's Free Software Definition
-      (https://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
+b. Narrowly-tailored measures taken by You to comply with applicable
+   export control laws.
 
-      Each recipient of the Covered Work downstream from You is an intended
-      third-party beneficiary of this License solely as to this subsection
-      2d, with the right to enforce its terms.
+c. Entering into a contract with a distributee for support,
+   maintenance or similar services, including contracts that have the
+   effect of creating temporary disincentives to exercise permissions
+   under this License.
 
-   e) Pass-Through
+7. Network Services Copyleft
 
-      When You distribute a Covered Work, the recipient automatically
-      receives a license to My Work from Me, subject to the terms of this
-      License.
+If You provide a Network Service by running a Covered Work prepared by
+You, the Network Service must inform Service Users how they may obtain
+the NSS, at no cost, by some standard or customary means of providing
+network access to source code.
 
-   Subsections 2a through 2d are conditions of this License.
+If I explicitly state in My Work that I opt out of this condition, it
+shall not apply to You. You cannot opt out unless I have opted out.
 
-3. Network Services Condition
+8. Nullification of Copyleft/Proprietary Dual Licensing
 
-   You may prepare an Enhancement that is designed primarily to provide
-   a Network Service, provided that that the Enhancement informs
-   Service Users how they may obtain the Network Service Source ("NSS"),
-   at no cost, by some standard or customary means of providing network
-   access to source code.
+If I distribute a Covered Work under a Proprietary License, then the
+licenses I grant You under section 1 are no longer subject to the
+conditions in sections 2 and 3. "Proprietary License" means a license
+which (i) is not royalty-free, (ii) does not permit distribution,
+(iii) does not permit preparation of derivative works, (iv) limits the
+number of licensed users or copies, and/or (iv) contains field-of-use
+restrictions.
 
-   "Network Service" means delivery of software functionality to third-
-   party users in which users primarily access such functionality remotely,
-   through network requests made by a client program, such as a web browser,
-   to a server running the software.
+9. Copyleft Sunset
 
-   "Service Users" means: (i) for an Enhancement that You distribute, all
-   potential users of the Network Service provided by a recipient, and (ii)
-   if You provide the Network Service, all actual users of the Network
-   Service.
+The conditions in sections 4 through 8 no longer apply once fifteen
+years have elapsed from the date of My first distribution of My Work
+under this License.
 
-   NSS means: (i) the Source Code form of the Enhancement; (ii) all
-   scripts, instructions, know-how, and similar information that are
-   reasonably necessary to use the Enhancement to substantially replicate
-   the Network Service, and (iii) a list clearly identifying all Separate
-   Works that are specifically used in or required for providing the
-   Network Service (for example, a specified web server including its
-   version number).
+10. Termination
 
-   If I explicitly state in My Work that I opt out of this condition, it
-   shall not apply to You. You are not permitted to opt out unless I have
-   opted out.
+Your license grants under section 1 are automatically terminated if
+You:
 
-4. Nullification of Copyleft/Proprietary Dual Licensing
+a. Fail to comply with the conditions of this License, unless You cure
+   such noncompliance within thirty days after becoming aware of it,
+   or
 
-   If I distribute a Covered Work under a Proprietary License, then the
-   licenses I grant You under section 1 are no longer subject to the
-   conditions in sections 2 and 3. "Proprietary License" means a license
-   which (i) is not royalty-free, (ii) does not permit distribution, (iii)
-   does not permit preparation of derivative works, (iv) limits the number
-   of licensed users or copies, and/or (iv) contains field-of-use
-   restrictions.
+b. Initiate a patent infringement litigation claim (excluding
+   counterclaims and cross-claims) alleging that all or part of My
+   Work directly or indirectly infringes a patent.
 
-5. Copyleft Sunset
+Termination of Your license grants extends to all copies of Covered
+Works You subsequently obtain, but does not terminate the licenses of
+those who have received copies of Covered Works from You.
 
-   The conditions in sections 2 and 3 no longer apply once fifteen years
-   have elapsed from the date of My first distribution of My Work under
-   this License.
+Licenses needed solely to run a copy of a Covered Work shall never be
+terminated.
 
-6. No Trademark License
+11. Later License Versions
 
-   This License does not grant any rights in My name, trademarks, service
-   marks, or logos.
+The Copyleft-Next Project may release new versions of copyleft-next,
+designated by a distinguishing version number ("Later Versions").
+Unless I explicitly remove the option of distributing Covered Works
+under Later Versions, You may distribute Covered Code under any Later
+Version.
 
-7. Termination
+12. No Warranty
 
-   Your license grants under section 1 are automatically terminated if You
+Covered Works are provided "as-is", without warranty. You bear the
+risk of using it. To the extent permitted by applicable law, each
+distributor of a Covered Work excludes the implied warranties of
+title, merchantability, fitness for a particular purpose, and
+noninfringement.
 
-   a) fail to comply with the conditions of this License, unless You cure
-      such noncompliance within thirty days after becoming aware of it, or
+13. Limitation of Liability
 
-   b) initiate a patent infringement litigation claim (excluding
-      counterclaims and cross-claims) alleging that all or part of My Work
-      directly or indirectly infringes a patent.
+To the extent permitted by applicable law, in no event will any
+distributor of a Covered Work be liable to You for any damages
+whatsoever, whether direct, indirect, special, incidental, statutory
+or consequential damages, whether arising under contract, tort
+(including negligence), or otherwise, even where the distributor knew
+or should have known about the possibility of such damages.
 
-   Termination of Your license grants extends to all copies of Covered Works
-   You subsequently obtain.
+14. Severability
 
-   Termination of Your license grants does not terminate the licenses of
-   those who have received copies of Covered Works from You.
+The invalidity or unenforceability of any provision of this License
+does not affect the validity or enforceability of the remainder of
+this License. Such provision is to be reformed to the minimum extent
+necessary to make it valid and enforceable.
 
-   Licenses needed solely to run a copy of a Covered Work shall never be
-   terminated.
+15. Definitions
 
-8. Later License Versions
+"Licensed Patents" means all patent claims licensable royalty-free by
+ Me, now or in the future, that are necessarily infringed by making,
+ using, or selling My Work.
 
-   The Copyleft-Next Project may release new versions of copyleft-next,
-   designated by a distinguishing version number ("Later Versions").
-   Unless I explicitly remove the option of distributing Covered Works
-   under Later Versions, You may distribute Covered Code under any Later
-   Version.
+"My Work" means a particular work of authorship that "I" (an
+individual or legal entity) have placed under this License.
 
-9. No Warranty
+"Covered Work" means My Work or a derivative work or compilation, or a
+work that otherwise contains all or part of My Work, but does not
+include (i) mere aggregation of a Covered Work with a Separate Work,
+(ii) a mere reproduction of My Work, or (iii) if My Work fails to
+explicitly state an expectation otherwise, a work that merely
+interacts with My Work through a published interface or merely makes
+reference to My Work.
 
-   Covered Works are provided "as-is", without warranty. You bear the
-   risk of using it. To the extent permitted by applicable law, each
-   distributor of a Covered Work excludes the implied warranties of
-   title, merchantability, fitness for a particular purpose, and
-   noninfringement.
+"Separate Work" means a work that is (i) separate from and independent
+of a particular Covered Work and is not by its nature an extension or
+enhancement of the Covered Work, and/or is (ii) a runtime library,
+standard library, or similar component that is used to generate an
+Object Code form of a Covered Work.
 
-10. Limitation of Liability
-
-    To the extent permitted by applicable law, in no event will any
-    distributor of a Covered Work be liable to You for any damages
-    whatsoever, whether direct, indirect, special, incidental, statutory
-    or consequential damages, whether arising under contract, tort
-    (including negligence), or otherwise, even where the distributor
-    knew or should have known about the possibility of such damages.
-
-11. Severability
-
-    The invalidity or unenforceability of any provision of this License
-    does not affect the validity or enforceability of the remainder of
-    this License. Such provision is to be reformed to the minimum extent
-    necessary to make it valid and enforceable.
-
-12. Additional Definitions
-
-    "Compatible License" means a license listed in Appendix A. The
-    non-inclusion of a license in Appendix A does not necessarily mean
-    that distribution of Covered Code incorporating material governed by
-    that license violates section 2 of this License.
+"Compatible License" means a license listed in Appendix A. The
+non-inclusion of a license in Appendix A does not necessarily mean
+that distribution of Covered Code incorporating material governed by
+that license violates section 2 of this License.
     
-    "Copyleft-Next Project" means the project that maintains the source
-    code repository at <https://github.com/richardfontana/copyleft-next/>
-    as of the release date of this License.
+"Copyleft-Next Project" means the project that maintains the source
+code repository at <https://github.com/richardfontana/copyleft-next/>
+as of the release date of this License.
 
-    "Source Code" means the preferred form of a work for making
-    modifications to it.
+"Legal Notices" means copyright notices, license notices, license
+texts and URIs pointing to license texts, and author attributions, but
+does not include logos, other graphical images, trademarks, or
+trademark legends.
 
-    "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Work under this License.
+"Source Code" means the preferred form of a work for making
+modifications to it.
+
+"Object Code" means any form of a work that is not Source Code.
+
+"You"/"Your" refers to the individual or legal entity exercising
+rights in My Work under this License.
+
+CCS means: (i) the Source Code form of the Covered Work; (ii) all
+scripts, instructions, know-how, and similar information that are
+reasonably necessary for a skilled developer to generate such Object
+Code from the Source Code provided under (i); and (iii) a list clearly
+identifying all Separate Works (other than those provided in
+compliance with (ii)) that were specifically used in building and (if
+applicable) installing the Covered Work (for example, a specified
+proprietary compiler including its version number). OCS must be
+machine-readable and, to the extent that its licensing is not governed
+by section 2 of this License, must be available under terms satisfying
+the Free Software Foundation's Free Software Definition
+(https://www.gnu.org/philosophy/free-sw.en.html, version 1.135).
+
+"Network Service" means delivery of software functionality to third-
+party users in which users primarily access such functionality
+remotely, through network requests made by a client program, such as a
+web browser, to a server running the software.
+
+NSS means: (i) the Source Code form of the Covered Work; (ii) all
+scripts, instructions, know-how, and similar information that are
+reasonably necessary to use the Covered Work to substantially
+replicate the Network Service, and (iii) a list clearly identifying
+all Separate Works that are specifically used in or required for
+providing the Network Service (for example, a specified web server
+including its version number).
 
 Appendix A: Compatible Licenses
 -------------------------------
