@@ -1,6 +1,6 @@
 # copyleft-next #
 
-**Update 2025-07-05: This is no longer the canonical public git repository for copyleft-next. That is now at https://git.copyleft.org/copyleft-next/copyleft-next.git** 
+:rotating_light: **Update 2025-07-05: This is no longer the canonical public git repository for copyleft-next. That is now at https://git.copyleft.org/copyleft-next/copyleft-next.git** 
 
 copyleft-next is a new, post-post-modern, non-weak copyleft license
 inspired by, though different from, the GNU GPL.
